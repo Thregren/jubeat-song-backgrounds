@@ -1,10 +1,13 @@
 # jubeat beyond the Ave. 歌曲背景知识
 
+> **阅读口径**：保留的原稿批次说明、旧访问日期及历史来源数量不是本次核验结论；请以随包逐曲状态及各条“核验边界与待补”为准。机器本地路径已隐去，公开引用链接未改。来源数量达标不等于已有创作者故事，也不等于游戏母带或所有参数均已核实。
+
+
 ## 版本说明
 
-- jubeat beyond the Ave. 是 jubeat 系列的第 13 代街机作品，2025 年 2 月 5 日在日本上线。
+- jubeat beyond the Ave. 是 jubeat 系列的第 13 代街机作品，2025-02-05在日本上线。
 - 本稿统计边界为统一曲库中的 `source.version == 13_beyond_the_Ave_2025020500`，正文收录 95 首，按统一曲库 ID 顺序整理。
-- 统一曲库中的 `14_beyond_the_Ave_2026072200_update` 是 2026 年 7 月 22 日之后的更新线，不属于本稿的版本首发范围；另有 1 条 `06_saucer_fulfill_2014111800` 为 saucer fulfill 复活包条目，同样不收录。
+- 统一曲库中的 `14_beyond_the_Ave_2026072200_update` 是 2026-07-22之后的更新线，不属于本稿的版本首发范围；另有 1 条 `06_saucer_fulfill_2014111800` 为 saucer fulfill 复活包条目，同样不收录。
 - 本稿的编号是资料整理编号，不是 Konami 官方曲目编号。
 - RemyWiki 直连在本次整理中未成功读取，因此所有条目均以“RemyWiki 原文未能直接访问”标注；各条目另使用 jubeat@Wiki、BEMANICN、Otoge Station、vgost / Fandom、ZIv、官方活动页、音乐资料库或媒体页交叉核对。
 - 访问日期统一为 2026-11-01。
@@ -20,2584 +23,3263 @@
 - RemyWiki：本次整理未能直接访问，单曲页 URL 仅在条目内作为待核验线索标注。
 - BEMANIwiki 2nd：https://bemaniwiki.com/
 
-## 1. fallen leaves
+<a id="arcade-11000068-shared"></a>
+## fallen leaves
 
-**曲目档案**
+- 统一曲库 ID：`arcade:11000068`
+- 原章节编号与标题：1. fallen leaves
 
-- 曲目名：fallen leaves
-- 艺术家：猫叉Master
-- 统一曲库 ID：`arcade_11000068`
-- BPM：165
-- 难度 / 节点数：本文件未核验到可靠数值，暂不列写
-- 版本与解禁：jubeat beyond the Ave. 于 2026-04-01 列入 BONUS TUNE 追加曲，并采用“游玩三回后解禁”的方式。
+### 曲目档案
 
-**背景知识**
+- 署名：猫叉Master
+- 原作：REFLEC BEAT colette -Autumn-；曲编猫叉Master；非IIDX edition条目。[1]
+- BPM165；HOLD难度5/9.3/10.5；Notes320/657/841。游戏时长社区Remy记1:48，独立录音计时仍待核。[1][2]
 
-这首曲子由猫叉Master创作，RemyWiki 全曲列表把作曲者标作猫叉Master+。资料页显示它与 REFLEC BEAT colette -Autumn- 的秋季解禁体系有关，标题与声响也延续落叶、秋风一类季节意象。曲子进入 jubeat 时保留清冷旋律和电子节拍的混合质感，但本文件没有重新核对其谱面配置。
+### 创作与制作背景
 
-**jubeat beyond the Ave. 位置**
+《fallen leaves》的原始语境是REFLEC BEAT colette的Autumn季节，而不是jubeat Ave.的新作委约。猫叉Master负责曲编；它后来存在不同游戏剪辑及长版：IIDX使用带“-IIDX edition-”副题的编辑版本，2015年个人专辑《follow slowly》则收录4分钟版本。这些名称与长度上的区别，说明不能把一个平台的中段改动或长版结构自动当作jubeat音源。[1][3]
 
-该曲是 2026-04-01 批次中的 BONUS TUNE 追加曲。官方新闻页与 BEMANICN 记录其初期解禁条件为游玩三回，之后是否保持常设、转入其他解禁池或出现移除，应以最新游戏内曲目池为准。
+从可署名的听者分析来看，VGM格納庫的逐曲文章把民族调旋律、电子伴奏和较强舞曲节奏之间的对比，理解为既有推进力又有秋日哀愁的声音形象。[4] 这可供读者理解音乐效果，但属于评论者的听感，不是猫叉亲自宣布的“落叶生命最后燃烧”之类剧情。
 
-**资料来源**
+搜索发现过关于“表现四季时秋天最难”的原声带曲评转述线索，但本轮未取得原内页、可读页面也未完整呈现该段，因此暂不写成作者原话。后续应追《REFLEC BEAT groovin'!!＋colette ORIGINAL SOUNDTRACK》的colette EXTRA内页；创作手段和最初题名缘起仍留缺。
 
-1. RemyWiki：《fallen leaves》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《fallen leaves》及 jubeat beyond the Ave. 新曲总表，访问日期 2026-11-01。
-3. REFLEC BEAT @wiki：《fallen leaves》与 colette -Autumn- 相关记录，访问日期 2026-11-01。
-4. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-5. KONAMI eagate：jubeat beyond the Ave. 官方更新新闻，2026-04-01，访问日期 2026-11-01。
+### jubeat 收录与版本
 
-**核验边界**
+本地仍按总表归Ave.；历史上应用2023-06-21、AC beyond the Ave.的STAR RECORD自2024-01-3120星解锁，不能把本地归档版本当历史AC首发。[2][5] 官方活动图截止为2/27 23:59，社区表为2/27 05:59，时刻冲突保留。
 
-BPM、原曲归属与 2026-04-01 解禁批次来自多个资料页交叉核对，但本文件未能读取官方新闻页全文来逐字确认解禁文案。RemyWiki 列表中的“猫叉Master+”与排序表中的“猫叉Master”写法不一致；本文件保留排序表艺人名，不据此扩大身份考证。难度、节点数和现行可玩状态未取得可靠数据，故不填。
+### 资料来源
 
----
+1. [RemyWiki：Fallen leaves](https://remywiki.com/Fallen_leaves)（已实读；secondary）
+2. [jubeat@Wiki：fallen leaves](https://w.atwiki.jp/jubeat/pages/2392.html)（已实读；secondary）
+3. [TOWER RECORDS：follow slowly](https://tower.jp/item/3783031)（已实读；secondary）
+4. [VGM格納庫：#1595 fallen leaves](https://thytimes.hatenablog.com/entry/2024/11/19/163542)（已实读；independent_music_commentary）
+5. [KONAMI jubeat公式：REFLEC BEAT RECORDS 告知](https://eam.573.jp/app/web/post/detail.php?post_id=21227394)（已实读；primary）
 
-## 2. HAPPY limelight
+### 核验边界与待补
 
-**曲目档案**
+5页保守4根：跨机种社区资料合一、后续专辑目录、独立乐评、2024官方移植公告；原作者原声带曲评只有搜索线索，未取得正文，未当直接证言；asagaolabo5590普通403停止；需继续核作者秋季写作说明和原版/各机种编辑的具体制作过程。
 
-- 曲目名：HAPPY limelight
-- 艺术家：Qrispy Joybox feat.Megumi Tatsumi
-- 统一曲库 ID：`arcade_11000069`
-- BPM：135
-- 难度 / 节点数：本文件未核验到可靠数值，暂不列写
-- 版本与解禁：jubeat beyond the Ave. 于 2026-04-01 列入 BONUS TUNE 追加曲，并采用“游玩三回后解禁”的方式。
+<a id="arcade-11000069-shared"></a>
+## HAPPY limelight
 
-**背景知识**
+- 统一曲库 ID：`arcade:11000069`
+- 原章节编号与标题：2. HAPPY limelight
 
-《HAPPY limelight》由 Qrispy Joybox 制作、Megumi Tatsumi 演唱。资料页把这首曲子与 REFLEC BEAT limelight 的主题歌定位连在一起，音乐带有明亮的舞台感、轻快的电子流行结构与高辨识度的人声钩子。jubeat 收录沿用原作声线，但本次未核对谱面细节。
+### 曲目档案
 
-**jubeat beyond the Ave. 位置**
+- 署名：Qrispy Joybox feat.Megumi Tatsumi
+- Qrispy Joybox署名；達見恵作词、人声及opening title BGM用途由本人确认。[2]
+- BPM135；常规2/5/8；Notes157/301/613（jubeatWiki），Remy EXT记614，差异待独立实测；时长待核。[3][5]
 
-该曲与《fallen leaves》《I LOVE COSMOS》《It's my Miracle》同属 2026-04-01 的 BONUS TUNE 追加批次。初期通过游玩三回解禁；后续是否常设或转入其他解禁方式，应以现行版本界面为准。
+### 创作与制作背景
 
-**资料来源**
+《HAPPY limelight》并非仅借用游戏版本名字的普通歌曲：達見恵在本人履历中明确把它称作2011年REFLEC BEAT limelight的opening title BGM，并确认自己负责作词与歌唱。[2] 社区资料也指出，完整歌曲与标题主题、默认选曲BGM具有编曲上的联系。[5]
 
-1. RemyWiki：《HAPPY limelight》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《HAPPY limelight》及 jubeat beyond the Ave. 新曲总表，访问日期 2026-11-01。
-3. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-4. REFLEC BEAT 相关资料页：limelight 标题曲记录，访问日期 2026-11-01。
-5. KONAMI eagate：jubeat beyond the Ave. 官方更新新闻，2026-04-01，访问日期 2026-11-01。
+目前可读的Qrispy Joybox原声带曲评韩文转录，进一步交代了这种联系是有意识的制作方法：他希望听者马上想到limelight，因而把游戏中的BGM与效果音带入歌曲，并提醒玩家留意模式选择与确定操作等声音。他希望听者因此产生游玩的兴致。[1] 这里的细节来自明确署名的曲评转录，但本轮没有取得日文原内页，仍不标为已直接核验的一手原件。
 
-**核验边界**
+因此它的背景可以理解为“把游戏操作时熟悉的声音变成可独立聆听的歌”，而不是擅自给歌名补写恋爱经历。歌曲多年后经应用先行，再作为REFLEC BEAT RECORDS项目进入jubeat AC；官方2024年配图将它与另外三首REFLEC作品并列。[3][4]
 
-BPM、艺人写法、REFLEC BEAT limelight 主题曲定位与 2026-04-01 追加批次可由 jubeat@Wiki、BEMANICN 与官方新闻摘要互证。歌词、演唱细节和完整谱面数值未重新核验，因此不写具体难度或节点数。
+### jubeat 收录与版本
 
----
+本地归Ave.不改；历史AC为beyond the Ave.，2024-01-31起STAR RECORD，应用已于2023-06-21先行。[3][4]
 
-## 3. I LOVE COSMOS
+### 资料来源
 
-**曲目档案**
+1. [우만위키 / tcatmon：HAPPY limelight — OST曲评韩文转录](https://tcatmon.com/wiki/HAPPY_limelight)（已实读；artist_comment_translated_transcription）
+2. [達見恵公式：プロフィール Works](https://tatsumi-megumi.amebaownd.com/pages/1133016/page_201707171551)（已实读；primary）
+3. [jubeat@Wiki：HAPPY limelight](https://w.atwiki.jp/jubeat/pages/2389.html)（已实读；secondary）
+4. [KONAMI jubeat公式：REFLEC BEAT RECORDS 告知](https://eam.573.jp/app/web/post/detail.php?post_id=21227394)（已实读；primary）
+5. [RemyWiki：HAPPY limelight](https://remywiki.com/HAPPY_limelight)（已实读；secondary）
 
-- 曲目名：I LOVE COSMOS
-- 艺术家：CHERRY BLOSSOMS (ASAKI & wac)
-- 统一曲库 ID：`arcade_11000070`
-- BPM：197
-- 难度 / 节点数：BASIC 3，ADVANCED 6，EXTREME 10.4；节点数未在本文件核验到，暂不列写
-- 版本与解禁：jubeat beyond the Ave. 于 2026-04-01 列入 BONUS TUNE 追加曲，并采用“游玩三回后解禁”的方式。
+### 核验边界与待补
 
-**背景知识**
+5页保守3根：原作制作/信用、社区游戏参数合一、2024官方移植公告；Qrispy制作细节仍为韩文转录，未取得日文原册；namu普通403停止；tcatmon普通200实际读到评论；活动结束时刻官方配图写2/27 23:59，社区2389记2/27 05:59，本轮保留冲突不合成确定时间；EXT Notes613/614冲突直标。
 
-CHERRY BLOSSOMS 是 ASAKI 与 wac 的合作名义，《I LOVE COSMOS》把宇宙意象、明亮旋律和快节奏电子摇滚编排放在一起。曲子在 197 BPM 下保持较为直白的段落推进，EXTREME 谱面虽在资料中标注为 10.4，但本文件没有取得完整节点数，不能确认具体密度分布。
+<a id="arcade-11000070-shared"></a>
+## I LOVE COSMOS
 
-**jubeat beyond the Ave. 位置**
+- 统一曲库 ID：`arcade:11000070`
+- 原章节编号与标题：3. I LOVE COSMOS
 
-该曲是 2026-04-01 批次中的 BONUS TUNE 追加曲。官方新闻页与 BEMANICN 记录其初期解禁条件为游玩三回；后续曲目池与可玩状态应以最新版本界面为准。
+### 曲目档案
 
-**资料来源**
+- 署名：CHERRY BLOSSOMS (ASAKI & wac)
+- 原作署名由KONAMI确认；细分词曲编与演唱职责待原册。[1]
+- BPM197；常规3/6/10.4；Notes219/519/1009；jubeat时长未核，REFLEC社区记录1:48，不自动套用。[2][3]
 
-1. RemyWiki：《I LOVE COSMOS》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《I LOVE COSMOS》及 jubeat beyond the Ave. 新曲总表，访问日期 2026-11-01。
-3. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-4. ZIv：jubeat beyond the Ave. 更新报道，访问日期 2026-11-01。
-5. KONAMI eagate：jubeat beyond the Ave. 官方更新新闻，2026-04-01，访问日期 2026-11-01。
+### 创作与制作背景
 
-**核验边界**
+《I LOVE COSMOS》来自ASAKI与wac共同署名的CHERRY BLOSSOMS，而不是jubeat专门委约的新曲。KONAMI在2014年12月的曲目介绍中已经列出它，REFLEC社区则记录其属于groovin'!! Upper，并保留了2014年11月玩家实际讨论。[1][2]
 
-BPM、BASIC/ADVANCED/EXTREME 等级与 2026-04-01 追加信息可由 jubeat@Wiki、BEMANICN 与官方新闻摘要互证。节点数未可靠取得，故不填。CHERRY BLOSSOMS 的成员构成虽有多处资料一致，但本文件没有读取游戏内职员表或官方艺人页原文，不能核对其更完整的企划背景。
+它与《I LOVE SAKURA》《I LOVE SUNFLOWER》《I LOVE uUu ～Holy Graduation～》有明确的系列关联：后来的GITADORA FUZZ-UP官方曲表，把四首同署名作品一起列在“おはな市民ひろば”中。[5] 同期REFLEC玩家评论谈到其音乐表现与歌词的反差，也有人特别提及wac的演唱；这些是当时听者的接受记录，而非两位作者解释写作目的的采访。[2]
 
----
+至于作者为什么写这一题材、歌词从何而来，以及两人具体如何分工，本轮没有取得原始制作访谈或内页曲评，不能把系列命名、玩家玩笑补写为创作动机。能够确定的是，作品先有REFLEC历史，2023年进入jubeat应用后，再被2024年REFLEC BEAT RECORDS活动带入街机。[3][4]
 
-## 4. It's my Miracle
+### jubeat 收录与版本
 
-**曲目档案**
+本地Ave.归属保留；实际AC为beyond the Ave.、2024-01-31起REFLEC BEAT RECORDS；应用先于2023-06-21收录。[3][4]
 
-- 曲目名：It's my Miracle
-- 艺术家：Another Infinity feat. Mayumi Morinaga
-- 统一曲库 ID：`arcade_11000071`
-- BPM：175
-- 难度 / 节点数：本文件未核验到可靠数值，暂不列写
-- 版本与解禁：jubeat beyond the Ave. 于 2026-04-01 列入 BONUS TUNE 追加曲，并采用“游玩三回后解禁”的方式。
+### 资料来源
 
-**背景知识**
+1. [KONAMI：2014 December 楽曲紹介](https://p.eagate.573.jp/game/bemani/fansite/music/201412.html)（已实读；primary）
+2. [REFLEC BEAT@wiki：I LOVE COSMOS](https://w.atwiki.jp/reflec_beat/pages/1446.html)（已实读；secondary）
+3. [jubeat@Wiki：I LOVE COSMOS](https://w.atwiki.jp/jubeat/pages/2391.html)（已实读；secondary）
+4. [KONAMI：REFLEC BEAT RECORDS 告知](https://eam.573.jp/app/web/post/detail.php?post_id=21227394)（已实读；primary）
+5. [KONAMI：FUZZ-UP 楽曲リスト おはな市民ひろば](https://p.eagate.573.jp/game/gfdm/gitadora_fuzzup/s/music/index.html)（已实读；primary）
 
-《It's my Miracle》由 Another Infinity 制作、Mayumi Morinaga 演唱。资料页显示它原与 REFLEC BEAT colette 的区域解禁体系相关，尤其常被记录为“Mountain 1”一侧的可解锁曲目。音乐走明亮舞曲路线，人声旋律与合成器推进都强调庆祝感和上升情绪；jubeat 收录的谱面细节本文件未重新核对。
+### 核验边界与待补
 
-**jubeat beyond the Ave. 位置**
+5页保守4根：同期官方介绍、社区游戏记录合一、2024移植公告、后续GITADORA系列资料；作者创作动机/细分分工仍缺原始证言；Remy普通403已停止，不采搜索摘录信用；活动结束官方图23:59与社区05:59有冲突，不合成确定时刻。
 
-该曲与同日更新的 REFLEC BEAT 联动出身曲目一起出现在 2026-04-01 的 BONUS TUNE 批次。初期通过游玩三回解禁；后续是否转入常设曲目池或复刻活动，应以现行版本信息为准。
+<a id="arcade-11000071-shared"></a>
+## It's my Miracle
 
-**资料来源**
+- 统一曲库 ID：`arcade:11000071`
+- 原章节编号与标题：4. It's my Miracle
 
-1. RemyWiki：《It's my Miracle》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《It's my Miracle》及 jubeat beyond the Ave. 新曲总表，访问日期 2026-11-01。
-3. REFLEC BEAT @wiki：《It's my Miracle》与 colette 区域解禁记录，访问日期 2026-11-01。
-4. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-5. KONAMI eagate：jubeat beyond the Ave. 官方更新新闻，2026-04-01，访问日期 2026-11-01。
+### 曲目档案
 
-**核验边界**
+- 署名：Another Infinity feat. Mayumi Morinaga
+- Another Infinity feat. Mayumi Morinaga；录音指导来自署名曲评译录。[1]
+- BPM175；常规3/6/9.1；Notes251/458/795；jubeat时长待核。[3]
 
-BPM、艺人写法、colette 解禁出身与 2026-04-01 批次由多个资料页交叉核对，但未读取官方新闻页全文来确认原始解禁语句。难度、节点数、现行可玩状态和歌词细节没有可靠一手证据，不予填写。
+### 创作与制作背景
 
----
+这首由Another Infinity与Mayumi Morinaga合作的作品，最初属于REFLEC BEAT colette的Winter阶段，并非jubeat原创委约。[3] 可读的原声带曲评韩文转录提供了一条具体录音细节：Ryu☆与Starving Trancer表示，给moimoi的人声指示是接近教育节目中“姐姐”的感觉。[1] 这说明其演唱角色有明确的制作设定；但此处只核到了署名曲评的译录，尚未亲见日文内页，不能把译文标成已核验原文。
 
-## 5. Angritte
+它后来还有独立的重混发展。Ryu☆官网列出2013-07-03发行的《Plan8》，第一轨题名明确带有“Ryu☆Mix”。[2] 因而原游戏曲与该专辑混音应当分开：不能因为在唱片目录中读到混音名，就认定jubeat使用的是那个版本，更不应把专辑时长套回游戏剪辑。
 
-**曲目档案**
+jubeat应用于2023年先行收录，2024年的REFLEC BEAT RECORDS则将它与HAPPY limelight、I LOVE COSMOS、fallen leaves一起带入街机。[3][4] 除上述演唱指导之外，具体旋律写作过程与歌词动机仍缺可核的一手说明。
 
-- 曲目名：Angritte
-- 艺术家：Lafale
-- 统一曲库 ID：`arcade_11000072`
-- BPM：本文件未核验到可靠数值，暂不列写
-- 难度 / 节点数：本文件未核验到可靠数值，暂不列写
-- 版本与解禁：jubeat beyond the Ave. 于 2026-03-01 列入 BONUS TUNE 追加曲，并采用“游玩三回后解禁”的方式。
+### jubeat 收录与版本
 
-**背景知识**
+本地Ave.保留；历史AC为beyond the Ave.、2024-01-31起REFLEC BEAT RECORDS；应用2023-06-21先行。[3][4]
 
-《Angritte》由 Lafale 创作，RemyWiki 全曲列表将其列为 jubeat beyond the Ave. 时代可见曲目，jubeat@Wiki 相关记录把它归入 jubeat Ave. 时期的新曲体系。曲名带有较强的幻想感和战斗性，但公开资料中对音乐风格、插画与世界观细节的可靠描述有限，本文件不做过多的推断式描写。
+### 资料来源
 
-**jubeat beyond the Ave. 位置**
+1. [우만위키 / tcatmon：It's my Miracle — colette OST vol.1曲评转录](https://tcatmon.com/wiki/It%27s_my_Miracle)（已实读；artist_comment_translated_transcription）
+2. [Ryu☆公式：Plan8 / Ryu☆ 官方唱片介绍](https://djryu.jp/)（已实读；primary）
+3. [jubeat@Wiki：It's my Miracle](https://w.atwiki.jp/jubeat/pages/2390.html)（已实读；secondary）
+4. [KONAMI：REFLEC BEAT RECORDS 告知](https://eam.573.jp/app/web/post/detail.php?post_id=21227394)（已实读；primary）
 
-该曲与《Capitalism Cannon》《Magical electrica》《Sparkle Justice》一起出现在 2026-03-01 的 BONUS TUNE 追加批次。官方更新信息和 BEMANICN 记录其解禁方式为游玩三回；后续曲目池与复刻状态应以最新版本为准。
+### 核验边界与待补
 
-**资料来源**
+4页4文献根，含译录而非日文一手原件；原声带vol.1实体内页仍待补；Spotify正文不可读、Tower403不计；官方活动结束图23:59与社区05:59冲突保留；不把Ryu☆Mix视作jubeat母带。
 
-1. RemyWiki：《Angritte》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《jubeat beyond the Ave. 新曲・削除曲一览》及隐藏/追加曲记录，访问日期 2026-11-01。
-3. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-4. ZIv：jubeat beyond the Ave. 更新报道，访问日期 2026-11-01。
-5. KONAMI eagate：jubeat beyond the Ave. 官方更新新闻，2026-03-01，访问日期 2026-11-01。
+<a id="arcade-11000072-shared"></a>
+## Angritte
 
-**核验边界**
+- 统一曲库 ID：`arcade:11000072`
+- 原章节编号与标题：5. Angritte
 
-2026-03-01 追加与游玩三回解禁的信息可由官方新闻摘要和 BEMANICN 互证；Lafale 的曲名记录见 RemyWiki 与 jubeat@Wiki。BPM、难度、节点数与作者进一步资料未可靠取得，均不填。该曲在 Ave. 与 beyond the Ave. 的版本归属以曲库 wiki 的记录为准，本文件没有重新读取游戏内版本标识。
+### 曲目档案
 
----
+- 署名：Lafale
+- 作者Lafale；创作方法有本人官方采用评语。[1]
+- BPM155；常规3/8/10.1；Notes302/605/862；jubeat时长待核。[2]
 
-## 6. Capitalism Cannon
+### 创作与制作背景
 
-**曲目档案**
+《Angritte》的制作起点可以直接追到MÚSECA的BEMANI NEW FACE征集：官方说明这次面向以往没有采用实绩的创作者，要求参赛者各自表现“ドラマティック”。[1] Lafale并非写完以后才附会一个故事，而是在动笔前先想好明确的主题与情节，再依此安排自己理解的戏剧性元素。
 
-- 曲目名：Capitalism Cannon
-- 艺术家：O2i3
-- 统一曲库 ID：`arcade_11000073`
-- BPM：本文件未核验到可靠数值，暂不列写
-- 难度 / 节点数：本文件未核验到可靠数值，暂不列写
-- 版本与解禁：jubeat beyond the Ave. 于 2026-03-01 列入 BONUS TUNE 追加曲，并采用“游玩三回后解禁”的方式。
+曲名同样是设计的一部分。作者解释Angritte是由原有词语略作改变而形成的造词，属于文字游戏；但他没有在这段评语中公布原词或完整剧情，反而把含义与主题留给玩家想象。[1] 因此不应擅自把某种外语词源、人物或悲剧剧情写成已经证实的答案。
 
-**背景知识**
+它后来经应用先行后进入jubeat beyond the Ave.的MUSECA RECORDS活动；2026年官方又将其加入BONUS TUNE。[2][3] 这条传播路径表明，jubeat继承的是一首以公募题目为起点的MÚSECA作品，而非在移植时重新创作的叙事。
 
-《Capitalism Cannon》由 O2i3 创作。曲名把“资本主义”和“炮”并置，公开资料普遍将其定位为 jubeat Ave. 时期的新曲之一；其音乐与美术都带有夸张的冲击性意象，但本文件没有重新核对插画、歌词或原活动文案，所以不描写未确认的细节。
+### jubeat 收录与版本
 
-**jubeat beyond the Ave. 位置**
+本地Ave.保留；实际AC为beyond the Ave.，2023-12-13起MUSECA RECORDS，应用先行。[2]
 
-该曲与《Angritte》《Magical electrica》《Sparkle Justice》同属 2026-03-01 的 BONUS TUNE 追加批次。初期解禁条件为游玩三回；其现行可玩性、复刻或移除状态应以最新游戏内曲目池为准。
+### 资料来源
 
-**资料来源**
+1. [KONAMI MÚSECA Compe.：BEMANI NEW FACE 結果／Angritte](https://p.eagate.573.jp/game/museca/compe/competition/04_natnew/music/award.html)（已实读；primary）
+2. [jubeat@Wiki：beyond the Ave 新曲表 MUSECA RECORDS](https://w.atwiki.jp/jubeat/pages/2333.html)（已实读；secondary）
+3. [KONAMI：BONUS TUNE対象楽曲追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2026.03.01&update_no=100)（已实读；primary）
 
-1. RemyWiki：《Capitalism Cannon》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《jubeat beyond the Ave. 新曲・削除曲一览》及 jubeat Ave. 新曲记录，访问日期 2026-11-01。
-3. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-4. ZIv：jubeat beyond the Ave. 更新报道，访问日期 2026-11-01。
-5. KONAMI eagate：jubeat beyond the Ave. 官方更新新闻，2026-03-01，访问日期 2026-11-01。
+### 核验边界与待补
 
-**核验边界**
+3文献根；戏剧性主题及造词方法有日文原始证词；原词及故事具体内容作者此处未公布，不补猜测；应用精确日期另待一手核验。
 
-2026-03-01 追加、解禁方式与 jubeat Ave. 时期新曲定位可由官方新闻摘要、BEMANICN 和 jubeat@Wiki 交叉核对。O2i3 的成员背景、原活动定位、BPM、难度与节点数未取得可靠一手证据，均不填。
+<a id="arcade-11000073-shared"></a>
+## Capitalism Cannon
 
----
+- 统一曲库 ID：`arcade:11000073`
+- 原章节编号与标题：6. Capitalism Cannon
 
-## 7. Magical electrica
+### 曲目档案
 
-**曲目档案**
+- 署名：O2i3
+- O2i3署名由同期官方确认。[1]
+- BPM190；HOLD6/9.4/10.6；Notes476/733/898；时长待核。[3]
 
-- 曲目名：Magical electrica
-- 艺术家：こふ
-- 统一曲库 ID：`arcade_11000074`
-- BPM：本文件未核验到可靠数值，暂不列写
-- 难度 / 节点数：本文件未核验到可靠数值，暂不列写
-- 版本与解禁：jubeat beyond the Ave. 于 2026-03-01 列入 BONUS TUNE 追加曲，并采用“游玩三回后解禁”的方式。
+### 创作与制作背景
 
-**背景知识**
+《Capitalism Cannon》的早期公开语境是MÚSECA的“Noah/O2i3展”：KONAMI在2016年3月曲目介绍中直接把它与该活动相连，说明可在活动期间游玩解放。[1] 因而它并不是在jubeat的MUSECA RECORDS才首次出现。
 
-《Magical electrica》由 こふ 创作。RemyWiki 全曲列表与 jubeat@Wiki 记录都将其归入 jubeat Ave. 时期新曲体系，曲名中的“魔法”与“电气”指向明亮电子舞曲质感。公开资料对这首歌的完整创作说明有限，本文件不把曲名直接推展为具体的歌词或主题描述。
+osu!官方特邀艺术家介绍还点名本曲，说明O2i3的作品经不同模式的玩家制谱者继续传播，《Capitalism Cannon》也是这一接受史的一部分。[2] 同一介绍把Fusion Jazz和UK Hardcore列为作者的一般影响来源；这只能帮助理解他的音乐背景，不能证明本曲具体采用了某个爵士和声方案，更不是曲名“资本主义炮”的政治创作宣言。
 
-**jubeat beyond the Ave. 位置**
+在jubeat中，它先进入2023年的应用曲库，再以带HOLD的谱面进入beyond the Ave.。[3] 本轮检索未找到O2i3本人解释本曲题名、写作触发点或制作器材的可读采访，因此不把字面译名扩写成讽刺资本主义、商业委约要求等未经证实的故事。2026年的官方BONUS TUNE告知仅是后续解锁方式变更，不属于重新制作消息。[4]
 
-该曲是 2026-03-01 BONUS TUNE 追加批次的一部分，与《Angritte》《Capitalism Cannon》《Sparkle Justice》同日出现。初期解禁方式为游玩三回；当前可玩状态应以最新版本界面或官方公告为准。
+### jubeat 收录与版本
 
-**资料来源**
+本地Ave.保留；实际AC为beyond the Ave.，2023-12-13起MUSECA RECORDS；应用2023-06-07先行。[3]
 
-1. RemyWiki：《Magical electrica》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《jubeat beyond the Ave. 新曲・削除曲一览》及隐藏/追加曲记录，访问日期 2026-11-01。
-3. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-4. ZIv：jubeat beyond the Ave. 更新报道，访问日期 2026-11-01。
-5. KONAMI eagate：jubeat beyond the Ave. 官方更新新闻，2026-03-01，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. [KONAMI：2016 March Capitalism Cannon](https://p.eagate.573.jp/game/bemani/fansite/p/music/201603)（已实读；primary）
+2. [osu!：Featured Artists: O2i3](https://osu.ppy.sh/beatmaps/artists/74)（已实读；primary）
+3. [jubeat@Wiki：Capitalism Cannon](https://w.atwiki.jp/jubeat/pages/2369.html)（已实读；secondary）
+4. [KONAMI：BONUS TUNE対象楽曲追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2026.03.01&update_no=100)（已实读；primary）
 
-艺人名、jubeat Ave. 时期归属、2026-03-01 批次和游玩三回解禁可交叉核对。こふ的其他作品经历、原活动文案、BPM、难度与节点数没有可靠一手证据，故不列写。
+### 核验边界与待补
 
----
+4文献根；osu页面实际点名本曲传播，可计逐曲来源，但一般曲风不是本曲动机；未取得作者本曲制作证言；不采用玩家自制谱说明作为作者宣言。
 
-## 8. Sparkle Justice
+<a id="arcade-11000074-shared"></a>
+## Magical electrica
 
-**曲目档案**
+- 统一曲库 ID：`arcade:11000074`
+- 原章节编号与标题：7. Magical electrica
 
-- 曲目名：Sparkle Justice
-- 艺术家：VALLEYSTONE&udouddo
-- 统一曲库 ID：`arcade_11000075`
-- BPM：本文件未核验到可靠数值，暂不列写
-- 难度 / 节点数：本文件未核验到可靠数值，暂不列写
-- 版本与解禁：jubeat beyond the Ave. 于 2026-03-01 列入 BONUS TUNE 追加曲，并采用“游玩三回后解禁”的方式。
+### 曲目档案
 
-**背景知识**
+- 署名：こふ
+- こふ/kohu署名；雷属性构思有本人官方原评。[1][4]
+- BPM156；常规5/8/9.6；Notes320/506/705；jubeat时长待核。[2]
 
-《Sparkle Justice》由 VALLEYSTONE 与 udouddo 共同署名。RemyWiki 全曲列表与 jubeat@Wiki 记录把它放在 jubeat Ave. 时期新曲范围；曲名带有闪光、正义式的昂扬语感，但公开资料没有给出足以支撑细致风格描述的一手说明，本文件不进一步演绎。
+### 创作与制作背景
 
-**jubeat beyond the Ave. 位置**
+《Magical electrica》的想法直接来自MÚSECA的角色与音乐结合方式。こふ在官方采用评语中解释，他先考虑什么样的音乐能方便搭配有魅力的角色，继而想到给作品赋予明确的“属性”，最终以雷属性的音乐参加征集。[1] 这里的雷属性并不是玩家听完后贴上的风格标签，而是作者自己说出的设计起点。
 
-该曲与《Angritte》《Capitalism Cannon》《Magical electrica》同属 2026-03-01 的 BONUS TUNE 追加批次。初期解禁条件为游玩三回；后续是否常设、复刻或转入其他解禁池，应以现行版本信息为准。
+因此本曲的背景更接近面向游戏角色想象的音乐设计，而非已被证实的某部魔法动画改编。作者没有在这段文字中指明一位现成角色，也没有公布完整人物设定或逐段剧情，不能用标题里的Magical补写这些细节。[1] 他的个人作品页确认本曲属于为MÚSECA提供的作品。[4]
 
-**资料来源**
+之后它随MÚSECA曲目进入jubeat应用，并在beyond the Ave.的MUSECA RECORDS出现；2026年的BONUS TUNE公告则记录后续解锁渠道。[2][3] 这些迁移不改变原始雷属性构思的来源，也不能据此推断移植时有重编或重新录制。
 
-1. RemyWiki：《Sparkle Justice》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《jubeat beyond the Ave. 新曲・削除曲一览》及隐藏/追加曲记录，访问日期 2026-11-01。
-3. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-4. ZIv：jubeat beyond the Ave. 更新报道，访问日期 2026-11-01。
-5. KONAMI eagate：jubeat beyond the Ave. 官方更新新闻，2026-03-01，访问日期 2026-11-01。
+### jubeat 收录与版本
 
-**核验边界**
+本地Ave.保留；实际AC为beyond the Ave.，2023-12-13起MUSECA RECORDS；应用2023-06-07先行。[2]
 
-2026-03-01 追加、解禁方式与曲目在 Ave. 时期的新曲记录由官方新闻摘要、BEMANICN 和 jubeat@Wiki 互证。VALLEYSTONE 与 udouddo 的个人履历、原活动背景、BPM、难度和节点数未可靠取得，不填。
+### 资料来源
 
----
+1. [KONAMI MÚSECA Compe.：セツコン採用作品 Magical electrica](https://p.eagate.573.jp/game/museca/compe/competition/01_setsukon/music/award.html?page=5)（已实读；primary）
+2. [jubeat@Wiki：Magical electrica](https://w.atwiki.jp/jubeat/pages/2367.html)（已实读；secondary）
+3. [KONAMI：BONUS TUNE対象楽曲追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2026.03.01&update_no=100)（已实读；primary）
+4. [こふ/kohu：作者作品履历](https://kohureco.wixsite.com/home)（已实读；primary）
 
-## 9. Croissant
+### 核验边界与待补
 
-**曲目档案**
+4页保守3根，作者履历与原作制作信用合并；具体角色原型、合成器与分段制作仍无证据；不把游戏属性当剧情全貌。
 
-- 曲目名：Croissant
-- 艺术家：BEMANI Sound Team "Expander"
-- 统一曲库 ID：`arcade_11000077`
-- BPM：156
-- 难度 / 节点数：BASIC 4 / 252，ADVANCED 8 / 552，EXTREME 10.4 / 863；TONGARI 5
-- 版本与解禁：本文件未核验到可靠的活动或 BONUS TUNE 日期，暂不列写。
+<a id="arcade-11000075-shared"></a>
+## Sparkle Justice
 
-**背景知识**
+- 统一曲库 ID：`arcade:11000075`
+- 原章节编号与标题：8. Sparkle Justice
 
-《Croissant》是 Sota Fujimori 以 BEMANI Sound Team “Expander”名义提供的作品。RemyWiki 的作者页面与曲目列表显示，这是他进入 jubeat beyond the Ave. 曲目体系的作品之一。曲子以 156 BPM 的电子舞曲推进，旋律轮廓与标题的轻盈感相符；jubeat@Wiki 记录其 EXTREME 谱面为 10.4，节点数达到 863。
+### 曲目档案
 
-**jubeat beyond the Ave. 位置**
+- 署名：VALLEYSTONE&udouddo
+- VALLEYSTONE&udouddo合作；发起者由本人评语确认，具体工序未公布。[1]
+- BPM160；HOLD3/7/9.7；Notes187/407/759；时长待核。[2]
 
-该曲出现在 RemyWiki 的 jubeat beyond the Ave. 全曲列表中，并保留 Expander 的作者署名。jubeat@Wiki 总表记录了普通三难度与 TONGARI 谱面数据；本文件没有找到能直接确认其活动解禁、BONUS TUNE 转入或后续常设状态的官方原文，因此不填日期。
+### 创作与制作背景
 
-**资料来源**
+《Sparkle Justice》可以追溯到一次由VALLEYSTONE主动发起的合作。官方“シュクコン”采用页同时刊出两位作者的评语：udouddo说明自己是在收到VALLEYSTONE邀请后参与，而VALLEYSTONE则回忆，搭档带来的声音让他不断感到惊喜，合作的乐趣不同于一个人完成作品。[1]
 
-1. RemyWiki：《Croissant》，访问日期 2026-11-01。原文未能直接访问。
-2. RemyWiki：Sota Fujimori 作者页及 jubeat beyond the Ave. 全曲列表，访问日期 2026-11-01。
-3. jubeat@Wiki：《Croissant》及 jubeat beyond the Ave. 新曲总表，访问日期 2026-11-01。
-4. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+这两段原评支持的是合作缘起与创作体验，并没有明确谁写旋律、谁做鼓组或混音。因此在资料中应保留联合署名，不把声音交流扩写成未经证实的工序分配。两人也未在此解释“Justice”具体指某位英雄、故事冲突或个人经历。[1]
 
-**核验边界**
+这首MÚSECA 1+1/2时期作品，后来进入jubeat应用及beyond the Ave.的MUSECA RECORDS，jubeat使用的是HOLD谱面。[2] 2026年官方进一步开放BONUS TUNE解锁。[3] 从创作史看，值得保留的是两人彼此激发的制作方式，而不是把后来的谱面特征倒推成最初作曲要求。
 
-BPM、三难度节点数、TONGARI 5 和 Expander 的署名可由 jubeat@Wiki 与 RemyWiki 缓存互证。其初出、解禁方式、TONGARI 谱面的现行可玩状态和活动日期没有可靠一手证据，故不列写。RemyWiki 全曲列表把作者署名写作 Sota Fujimori 的链接，本文件按曲目名下的 BEMANI Sound Team “Expander”署名记录。
+### jubeat 收录与版本
 
----
+本地Ave.保留；实际AC为beyond the Ave.，2023-12-13起MUSECA RECORDS；应用2023-06-07先行。[2]
 
-## 10. IGNITE THE IRON HEART
+### 资料来源
 
-**曲目档案**
+1. [KONAMI MÚSECA Compe.：シュクコン Sparkle Justice 作者评语](https://p.eagate.573.jp/game/museca/compe/competition/02_syukucon/music/award.html?page=8)（已实读；primary）
+2. [jubeat@Wiki：Sparkle Justice](https://w.atwiki.jp/jubeat/pages/2368.html)（已实读；secondary）
+3. [KONAMI：BONUS TUNE対象楽曲追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2026.03.01&update_no=100)（已实读；primary）
 
-- 曲目名：IGNITE THE IRON HEART
-- 艺术家：BEMANI Sound Team "L.E.D."
-- 统一曲库 ID：`arcade_11000078`
-- BPM：本文件未核验到可靠数值，暂不列写
-- 难度 / 节点数：本文件未核验到可靠数值，暂不列写
-- 版本与解禁：本文件未核验到可靠的活动或 BONUS TUNE 日期，暂不列写。
+### 核验边界与待补
 
-**背景知识**
+3文献根；双方日文原评已读；合作工序、题名故事与器材未公布，不臆造；HOLD谱面不等同原曲作曲要求。
 
-《IGNITE THE IRON HEART》由 BEMANI Sound Team “L.E.D.”署名。曲名带有点火、钢铁与强意志的意象，RemyWiki 全曲列表把它列为 jubeat beyond the Ave. 时代的曲目之一。公开资料中没有给出充分的风格、歌词或原活动说明，本文件不把标题直接引申为具体世界观描写。
+<a id="arcade-11000077-shared"></a>
+## Croissant
 
-**jubeat beyond the Ave. 位置**
+- 统一曲库 ID：`arcade:11000077`
+- 原章节编号与标题：9. Croissant
 
-该曲出现在 RemyWiki 的 jubeat beyond the Ave. 全曲列表中，并保留 L.E.D. 的 BEMANI Sound Team 署名。本文件没有找到能确认其活动解禁、BONUS TUNE 批次、现行常设或移除状态的官方原文，因此位置段只记录列表归属。
+### 曲目档案
 
-**资料来源**
+- 署名：BEMANI Sound Team "Expander"
+- BEMANI Sound Team "Expander"署名；未以未读原册补细分信用。[1]
+- BPM156；常规4/8/10.4；Notes252/552/863；配信唱片1:59，不自动作为游戏实测时长。[2][4]
 
-1. RemyWiki：《IGNITE THE IRON HEART》，访问日期 2026-11-01。原文未能直接访问。
-2. RemyWiki：jubeat beyond the Ave. 全曲列表，访问日期 2026-11-01。
-3. jubeat@Wiki：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-4. BEMANICN：AC jubeat beyond the Ave. 页面，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+### 创作与制作背景
 
-**核验边界**
+《Croissant》在jubeat beyond the Ave.中归属TONGARI的LIGHT CHAT分支，官方原声带目录署名BEMANI Sound Team "Expander"。[1][2] 游戏给它配套的通关称号使用“パン”的谜语，解锁分支也包含《走れメロンパン》这一可选条件。[2][3] 这些是已经能核实的面包相关游戏设计，但不能据此认定作者是在吃牛角包时得到旋律，或把角色剧情当成作曲者的真实经历。
 
-曲目名与 L.E.D. 署名可由 RemyWiki 全曲列表核对，jubeat@Wiki、BEMANICN 与 Otoge Station 可作为 beyond the Ave. 曲目体系的参考。BPM、难度、节点数、活动日期、解禁方式及 L.E.D. 个人的详细创作背景均未在本文件取得可靠数据，不填。
+作品后来进入正式原声带发行：2026年《Ave. & beyond the Ave. ORIGINAL SOUNDTRACK SELECTION》的第三碟第二轨列出本曲，音源长度为1:59。[4] 这确认它有游戏外聆听版本，尚不证明另作了长版或重录。
 
-## 11. 恋とメロンとキューピット
+在接受史方面，IcarusProject的2026年回顾认为它与《IGNITE THE IRON HEART》在听感上更适合IIDX；这只是该评论者的评价，不能改写成“两曲原为IIDX落选曲”的事实。[5] 本轮尚未找到Expander直接解释命名、编曲过程或题材灵感的可读文字，创作动机仍留待原册或本人访谈补足。
 
-**曲目档案**
+### jubeat 收录与版本
 
-- 曲目名：恋とメロンとキューピット
-- 艺术家：まろん feat. キャサリン
-- 统一曲库 ID：`arcade_11000088`
-- BPM：162
-- 难度 / 节点数：BASIC 4 / 382，ADVANCED 8 / 630，EXTREME 10.2 / 984
-- 版本与解禁：jubeat beyond the Ave. 于 2024-03-20 通过 LIGHT CHAT 活动「POP-KUN FROM pop'n-02」期间限定追加。
+本地Ave.保留；真实为beyond the Ave.，2023-09-20起常设LIGHT CHAT TONGARI。[3]
 
-**背景知识**
+### 资料来源
 
-这首曲子原出自 pop'n music UniLab，后来进入 jubeat beyond the Ave. 的 pop'n music 联动活动。曲名把“恋”“哈密瓜”与“丘比特”并列，画面与歌词也走明快的甜系恋爱情绪路线；进入 jubeat 时保留原声线与流行舞曲质感，EXTREME 谱面以高密度节奏为辨识点。
+1. [KONAMI：jubeat beyond the Ave. ORIGINAL SOUNDTRACK](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=207&game_id=6)（已实读；primary）
+2. [jubeat@Wiki：Croissant](https://w.atwiki.jp/jubeat/pages/2353.html)（已实读；secondary）
+3. [jubeat@Wiki：LIGHT CHAT beyond](https://w.atwiki.jp/jubeat/pages/2337.html)（已实读；secondary）
+4. [OTOTOY / KONAMI：Ave.&beyond OST SELECTION](https://ototoy.jp/_/default/p/4272113)（已实读；secondary）
+5. [IcarusProject / note：ユビレター登録記念の懐かしの話 [Ave.~]](https://note.com/icarusprojectlab/n/n6ff218361e8c)（已实读；independent_listener_review）
 
-**jubeat beyond the Ave. 位置**
+### 核验边界与待补
 
-属于 LIGHT CHAT 追加曲，和同批 pop'n music 联动曲一起出现在 2024 年 3 月的活动更新中。该曲最初为期间限定解禁，后续可玩性应以现行常设曲目池与 BONUS TUNE / LIGHT CHAT 界面为准。
+5页保守3根：官方原作/唱片资料合一、社区游戏资料合一、独立听者评论；最低3源不等于已获得创作动机；面包联想仅游戏文字，IIDX适性仅评论；2026实体原声带内页尚未取得。
 
-**资料来源**
+<a id="arcade-11000078-shared"></a>
+## IGNITE THE IRON HEART
 
-1. RemyWiki：《恋とメロンとキューピット》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT「POP-KUN FROM pop'n-02」追加曲信息，2024-03-20 更新，访问日期 2026-11-01。
-4. Pop'n Music Wiki (Fandom)：《恋とメロンとキューピット》，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+- 统一曲库 ID：`arcade:11000078`
+- 原章节编号与标题：10. IGNITE THE IRON HEART
 
-**核验边界**
+### 曲目档案
 
-难易度、节点数与 2024-03-20 活动追加信息可由 jubeat@Wiki 与官方新闻页核对。pop'n music UniLab 初出为多来源一致信息，但本文件未重新读取游戏内版权页原文，不能确认卡片插画、担当声优或歌词细节。
+- 署名：BEMANI Sound Team "L.E.D."
+- BEMANI Sound Team "L.E.D."署名由同期公告确认。[1]
+- BPM100–155；常规3/6/9.3；Notes253/467/819；唱片2:07，游戏实测时长待核。[2][3]
 
----
+### 创作与制作背景
 
-## 12. 24/7 Popperz
+《IGNITE THE IRON HEART》是beyond the Ave.上线时期的LIGHT CHAT曲目：KONAMI于2023-09-20的新角色公告直接列出它与L.E.D.署名，并邀请玩家同时体验角色对话。[1] 社区记录对应角色为MILITIX；这确定了游戏中的展示语境，却不等于已经取得作曲者对角色的创作说明。[2]
 
-**曲目档案**
+目前能具体描述的音乐结构来自玩家对实际谱面的记录：BPM会从155降至100再回到155，攻略特别提到tom滚奏与变速、静下后突然启动的段落相结合。[2] 这是听觉与谱面观察，并非L.E.D.本人说明“为何这样写”，所以不进一步推成机器人战斗剧情、某部动画致敬或指定军事主题。
 
-- 曲目名：24/7 Popperz
-- 艺术家：Power Of Nature
-- 统一曲库 ID：`arcade_11000089`
-- BPM：202
-- 难度 / 节点数：BASIC 5 / 406，ADVANCED 9.2 / 742，EXTREME 10.6 / 1000
-- 版本与解禁：jubeat beyond the Ave. 于 2024-03-20 通过 LIGHT CHAT 活动「POP-KUN FROM pop'n-02」期间限定追加；2026-06-01 起列为 BONUS TUNE。
+本曲也以2:07的音源列入2026年发行的《Ave. & beyond the Ave. ORIGINAL SOUNDTRACK SELECTION》第三碟第三轨。[3] 目前没有证据表明这一音源是重录或扩展版。题名与热血感可以成为听者理解的入口，但其命名来源、具体合成器及制作动机仍须作者原评或唱片内页补证。
 
-**背景知识**
+### jubeat 收录与版本
 
-Power Of Nature 的《24/7 Popperz》原出自 pop'n music うさぎと猫と少年の夢，并与 The 6th KONAMI Arcade Champions Contest 相关。曲子以极快的 202 BPM 与 pop'n 式高能量电子流行/派对写法著称，进入 jubeat 后 EXTREME 谱面节点数达到 1000，是同期联动曲中特别注重节奏耐力的一首。
+本地Ave.保留；实际为beyond the Ave.、2023-09-20新LIGHT CHAT曲，社区对应MILITIX。[1][2]
 
-**jubeat beyond the Ave. 位置**
+### 资料来源
 
-该曲与《恋とメロンとキューピット》等同属「POP-KUN FROM pop'n-02」活动更新。初期经 LIGHT CHAT 期间限定解禁，2026 年 6 月的更新后转入 BONUS TUNE 列表；现行游玩路径应以后续版本界面为准。
+1. [KONAMI：新しいキャラクターが登場](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2023.09.20&update_no=130)（已实读；primary）
+2. [jubeat@Wiki：IGNITE THE IRON HEART](https://w.atwiki.jp/jubeat/pages/2349.html)（已实读；secondary）
+3. [OTOTOY / KONAMI：Ave.&beyond OST SELECTION](https://ototoy.jp/_/default/p/4272113)（已实读；secondary）
 
-**资料来源**
+### 核验边界与待补
 
-1. RemyWiki：《24/7 Popperz》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT「POP-KUN FROM pop'n-02」追加曲信息，2024-03-20 更新，访问日期 2026-11-01。
-4. Pop'n Music Wiki (Fandom)：《24/7 Popperz》，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+3文献根；创作动机仍缺，结构描述仅玩家观察；2026实体内页尚未取得；不把角色或标题扩为作曲故事。
 
-**核验边界**
+<a id="arcade-11000088-shared"></a>
+## 恋とメロンとキューピット
 
-BPM、难度、节点数与活动转入信息由 jubeat@Wiki、官方新闻页及 BONUS TUNE 更新信息交叉核对。KAC 决赛定位来自 pop'n 侧资料，本文件未重新检索 KAC 官方赛程原文，因此不展开奖项或参赛细节。
+- 统一曲库 ID：`arcade:11000088`
+- 原章节编号与标题：11. 恋とメロンとキューピット
 
----
+### 曲目档案
 
-## 13. 天鈴少女
+- 署名：まろん feat. キャサリン
+- 原作pop’n music UniLab；BPM162。[2]
+- 作者履历确认まろんfeat.キャサリン组合；详细词曲编与吉他的一手完整信用待核。[1][2]
 
-**曲目档案**
+### 创作与制作背景
 
-- 曲目名：天鈴少女
-- 艺术家：駄々子
-- 统一曲库 ID：`arcade_11000090`
-- BPM：160
-- 难度 / 节点数：BASIC 3 / 216，ADVANCED 6 / 426，EXTREME 9.3 / 724
-- 版本与解禁：jubeat beyond the Ave. 于 2024-03-20 通过 LIGHT CHAT 活动「POP-KUN FROM pop'n-02」期间限定追加；2026-06-01 起列为 BONUS TUNE。
+这首歌是まろん与キャサリン再次合作的pop’n作品：IOSYS的作者履历同时列出《Lovely Howdy Cowboy!!》及本曲，保留相同的人声组合，不能因两作搭档相同便认定旋律为改编或续作。[1] 它在UniLab登场，随后经pop’n Lively与jubeat的相互移植企划进入手机端，最后于2024年进入jubeat街机。[2][3]
 
-**背景知识**
+社区的逐曲分析将声音描述为Euro风格、萌系人声与易记的恋爱流行语相结合：中段口白之后出现哨音，尾奏加入吉他；该文将吉他归于石鹸屋／ゼッケン屋的小林ヒロト。[2] 这些目前只能作为明确标注出处的社区音乐分析与署名记录，尚未取得演奏者或唱片内页的独立确认，更不把社区使用的“概念”一词改写成作者亲口说过的创作计划。
 
-《天鈴少女》是駄々子创作的和风电子/幻想系曲目，原经由 pop'n music peace 与 ポップンウォーカー 相关活动进入 pop'n music。标题、美术与音色都强调“铃”“少女”与神社式幻想感；jubeat 侧保留其清晰的旋律线，EXTREME 难度处于中高段。
+从作者的一般工作方向看，IOSYS介绍まろん会把电波歌曲和音乐剧要素结合成自己的娱乐音乐风格。[1] 这有助于理解本曲活泼、带表演感的人声语言，但不能代替其特定委约过程、歌词起点或录音现场的证言；这些细节仍待补。
 
-**jubeat beyond the Ave. 位置**
+### jubeat 收录与版本
 
-该曲属于 2024 年 3 月的「POP-KUN FROM pop'n-02」联动活动。其初解禁方式与同批 pop'n music 曲目相同，后续于 2026 年 6 月转入 BONUS TUNE；现在的常设可玩性应以最新版本曲目池为准。
+本地Ave.分组保留；原作UniLab，社区记2023-04-26进入app；街机由2024-03-20 FROM pop’n-02公告确认。[2][3]
 
-**资料来源**
+### 资料来源
 
-1. RemyWiki：《天鈴少女》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT「POP-KUN FROM pop'n-02」追加曲信息，2024-03-20 更新，访问日期 2026-11-01。
-4. あさぎおラボ《ポップン百科大事典》：《天鈴少女》，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+1. [IOSYS：まろん Profile](https://www.iosysos.com/creator-maron.html)（已实读；primary）
+2. [asagaolabo：恋とメロンとキューピット](https://w.atwiki.jp/asagaolabo/pages/5492.html)（已实读；secondary）
+3. [KONAMI：FROM pop’n -02](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.03.20&update_no=100)（已实读；primary）
 
-**核验边界**
+### 核验边界与待补
 
-pop'n music peace / ポップンウォーカー 的活动出身可由百科类页面确认，但本文件未回溯 pop'n 官方活动公告原文。除 BASIC/ADVANCED/EXTREME 外，未能确认是否存在 HOLD 或其他特别谱面，故不予列出。
+3独立文献根；未找到本曲作者动机原评；尾奏吉他署名目前仅社区记录；一般作者风格不冒充本曲制作证词。
 
----
+<a id="arcade-11000089-shared"></a>
+## 24/7 Popperz
 
-## 14. nalca
+- 统一曲库 ID：`arcade:11000089`
+- 原章节编号与标题：12. 24/7 Popperz
 
-**曲目档案**
+### 曲目档案
 
-- 曲目名：nalca
-- 艺术家：onoken
-- 统一曲库 ID：`arcade_11000091`
-- BPM：136
-- 难度 / 节点数：BASIC 4 / 251，ADVANCED 8 / 516，EXTREME 10.3 / 764
-- 版本与解禁：jubeat beyond the Ave. 于 2024-02-28 通过 LIGHT CHAT 活动「POP-KUN FROM pop'n-01」期间限定追加；2026-05-01 起列为 BONUS TUNE。
+- 署名：Power Of Nature
+- 原作pop’n music うさぎと猫と少年の夢；Power Of Nature署名。[1]
+- 2017-02-11 KAC男女决赛使用。[2]
 
-**背景知识**
+### 创作与制作背景
 
-onoken 的《nalca》原出自 pop'n music うさぎと猫と少年の夢，并曾作为 The 7th KONAMI Arcade Champions Contest 的预选课题曲使用。曲子把空灵合成音色和急促电子节拍混合，主题写法比《24/7 Popperz》更冷峻；在 jubeat 中 EXTREME 为 10.3，节点密度集中在节奏切分与收束段。
+《24/7 Popperz》的起点与游戏机制直接相连。Power Of Nature在原版官方曲评中说，开写时就打算把新出现的Long Pop君用于高难曲；音乐采用明亮的happy hardcore，并注入玩具般的声响，目标是让人忘却杂念、反复沉浸在游戏的快乐里。[1]
 
-**jubeat beyond the Ave. 位置**
+这种想法延伸到了视觉与谱面。ちっひ说明PON希望角色动画也呼应长条，于是让Pop君在动画里伸展，并设计了在彩虹舞台跃动的小独角兽リル；wac则指出，用长条去演奏鼓循环，带有操作采样器的趣味。[1] 因而它不是单纯“音符很多的决赛曲”，而是把当代版本的新操作、角色演出和声音安排结合起来的作品。
 
-该曲是 2024 年 2 月「POP-KUN FROM pop'n-01」联动活动的一部分。初解禁为 LIGHT CHAT 期间限定，2026 年 5 月更新后进入 BONUS TUNE；现行常设状态应按最新游戏内曲目池确认。
+官方成绩表确认它在2017-02-11第六届KAC的男子、女子决赛均被使用。[2] 多年后的jubeat移植发生在2024-03-20 FROM pop’n-02活动。[3] 原始Long Pop君的演奏思想属于pop’n版本，不能直接把这些长条设计视为jubeat谱面的原样保留。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：《nalca》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT「POP-KUN FROM pop'n-01」追加曲信息，2024-02-28 更新，访问日期 2026-11-01。
-4. Pop'n Music Wiki (Fandom)：《nalca》，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+本地Ave.保留；原作うさ猫KAC曲，街机jubeat为beyond the Ave.的2024-03-20 FROM pop’n-02。[1][2][3]
 
-**核验边界**
+### 资料来源
 
-KAC 预选课题曲的定位来自 pop'n 侧资料，本文件未重新核对 KAC 官方规则页。jubeat 数据与解禁方式由官方新闻页和曲库 wiki 交叉确认；插画作者与歌词信息没有列入，因未取得可直接读取的一手页面。
+1. [KONAMI：24/7 Popperz 楽曲・キャラクターコメント](https://p.eagate.573.jp/game/popn/usaneko/p/musicchar/mcdetail/247popperz.html)（已实读；primary）
+2. [KONAMI：The 6th KAC pop’n決勝結果](https://p.eagate.573.jp/game/kac6th/detail.html?id=popn)（已实读；primary）
+3. [KONAMI：FROM pop’n-02](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.03.20&update_no=100)（已实读；primary）
 
----
+### 核验边界与待补
 
-## 15. BILLION MONEY BAZOOKA
+3不同原始文献根，均由KONAMI出版而非3独立机构；原作创作、设计、谱面思路已有直接原评；jubeat具体重制过程仍缺；未将无法读取的atwiki转录与Fandom搜索摘要计来源。
 
-**曲目档案**
+<a id="arcade-11000090-shared"></a>
+## 天鈴少女
 
-- 曲目名：BILLION MONEY BAZOOKA
-- 艺术家：BlackY
-- 统一曲库 ID：`arcade_11000092`
-- BPM：176
-- 难度 / 节点数：BASIC 4 / 321，ADVANCED 8 / 607，EXTREME 10.4 / 934
-- 版本与解禁：jubeat beyond the Ave. 于 2024-02-28 通过 LIGHT CHAT 活动「POP-KUN FROM pop'n-01」期间限定追加。
+- 统一曲库 ID：`arcade:11000090`
+- 原章节编号与标题：13. 天鈴少女
 
-**背景知识**
+### 曲目档案
 
-BlackY 的《BILLION MONEY BAZOOKA》原出自 pop'n music うさぎと猫と少年の夢。曲名与美术充满夸张的金钱、重型武器和商业狂欢意象，音乐也采用高饱和度的狂想式电子舞曲写法。进入 jubeat 后 EXTREME 谱面接近千点，是「POP-KUN FROM pop'n-01」批次里强度较高的一首。
+- 署名：駄々子
+- 演唱：駄々子，本人作品表确认。[1]
+- 词曲编署名及原作精确首发日尚缺已读一手证据。
 
-**jubeat beyond the Ave. 位置**
+### 创作与制作背景
 
-该曲与《nalca》等同属 2024 年 2 月的「POP-KUN FROM pop'n-01」活动。其初解禁方式为 LIGHT CHAT 期间限定；本批次未见可靠证据显示其后续转入 BONUS TUNE 的日期，因此不在档案段列写。
+《天鈴少女》的明确演唱者是駄々子。她自己的活动记录把这首歌分别列在pop’n与jubeat栏，并明确标示jubeat是由pop’n移植的曲目；不能把单独的歌手署名理解为她同时包办词、曲、编曲。[1] 现有听者文章把它放在pop’n music peace语境中，jubeat街机正式收录则由2024-03-20的公告确定。[2][3]
 
-**资料来源**
+在可读的独立逐曲评论中，illness特别注意到和风舞曲的轻盈感与旋律中若隐若现的寂寞，以及駄々子柔和却有支撑力的声音。[2] 这一观察提供了音乐欣赏的切入点，但它属于2026年的听者评价，而不是制作时的风格指令，更不是作者对歌词人物身世的解释。
 
-1. RemyWiki：《BILLION MONEY BAZOOKA》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT「POP-KUN FROM pop'n-01」追加曲信息，2024-02-28 更新，访问日期 2026-11-01。
-4. あさぎおラボ《ポップン百科大事典》：《BILLION MONEY BAZOOKA》，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+目前尚未获得词曲作者或录音担当针对本曲的制作访谈。网络上由音色相似推定作曲者、由歌曲标题补写角色背景的说法，都不足以代替正式信用或创作证词。因此这份条目先保留已能确认的演唱、音乐接受与跨游戏传播背景，而将具体委约、旋律起点、歌词故事和录音安排列为待补。
 
-**核验边界**
+### jubeat 收录与版本
 
-BPM、难度、节点数与 2024-02-28 解禁信息可交叉核对。pop'n 初出与曲名/美术描述来自资料页和检索摘要，未重新验证完整美术素材；后续常设化、BONUS TUNE 转入或活动复刻日期没有可靠一手证据，不予填写。
+本地Ave.保留；本人记录明确pop’n→jubeat移植；听者资料归入peace。jubeat街机beyond的2024-03-20 FROM pop’n-02公告已核。[1][2][3]
 
----
+### 资料来源
 
-## 16. ∞space
+1. [駄々子：駄々子：活動記録](https://dadacomplexxx.tumblr.com/)（已实读；primary）
+2. [illness：15年やってきた音ゲーの推し曲を語るだけ（後編）](https://note.com/illness_none/n/ne5a878462765)（已实读；secondary）
+3. [KONAMI：FROM pop’n-02](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.03.20&update_no=100)（已实读；primary）
 
-**曲目档案**
+### 核验边界与待补
 
-- 曲目名：∞space
-- 艺术家：m@sumi
-- 统一曲库 ID：`arcade_11000093`
-- BPM：160
-- 难度 / 节点数：仅 HOLD 谱面：HOLD BASIC 3 / 186，HOLD ADVANCED 6 / 320，HOLD EXTREME 9.7 / 558
-- 版本与解禁：jubeat beyond the Ave. 于 2024-03-20 通过 LIGHT CHAT 活动「POP-KUN FROM pop'n-02」期间限定追加。
+3独立文献根；无本曲创作动机直接证据；asagaolabo原页普通读取403停止，搜索所见肥塚归属仅推测，不采为署名；本人单篇收录通知普通403，未将摘要当作正文；主页实际可读信用仍可引用。
 
-**背景知识**
+<a id="arcade-11000091-shared"></a>
+## nalca
 
-《∞space》原出自 pop'n music 15 ADVENTURE，是 m@sumi 在 BEMANI 系列中的作品之一。歌曲延续太空感和 2000 年代 pop'n 电子流行的清新氛围；jubeat beyond the Ave. 将其作为 HOLD 专用谱面收录，玩法重心从普通音符转为按住长条。
+- 统一曲库 ID：`arcade:11000091`
+- 原章节编号与标题：14. nalca
 
-**jubeat beyond the Ave. 位置**
+### 曲目档案
 
-该曲属于 2024 年 3 月「POP-KUN FROM pop'n-02」活动追加曲。收录时仅提供 HOLD 谱面，且难度标示在 HOLD 类别下；目前未见可靠的普通 BASIC/ADVANCED/EXTREME 谱面证据。
+- 署名：onoken
+- onoken署名由同期官方确认。[1]
+- BPM136；常规4/8/10.3，Notes251/516/764；游戏时长待核。[3]
 
-**资料来源**
+### 创作与制作背景
 
-1. RemyWiki：《∞space》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT「POP-KUN FROM pop'n-02」追加曲信息，2024-03-20 更新，访问日期 2026-11-01。
-4. Pop'n Music Wiki (Fandom)：《∞space》，访问日期 2026-11-01。
-5. あさぎおラボ《ポップン百科大事典》：《∞space》，访问日期 2026-11-01。
+《nalca》首先是一首以钢琴旋律为鲜明标志的pop’n KAC预选曲。2017年12月的官方音乐介绍直接以onoken署名刊出，鼓励玩家一边享受钢琴线条、一边挑战高分。[1] 2020年它进入Nostalgia的“絢爛なるピアノの調べ”活动，与Osamu Kubota的《Note d’Azur》同时开放；官方宣传用钢琴照亮虚空的意象介绍它，这属于后续游戏展示语言，而不是已经得到作者证实的写作起因。[2]
 
-**核验边界**
+关于常见的酒名说法，可读社区页面保存了一项有界限的旁证：2020-07-15，onoken先公告本曲将移植Nostalgia，另发文以“鳴海（なるか）”庆祝。[5] 这能说明作者在该次移植消息旁公开提过这种酒，却不能仅凭两条动态就断言2017年一定是在饮酒后写作、或者已明确解释了命名。原始X帖本轮未直接读出，故仅以第三方转录记录这一关联，不将社区进一步推演升级为作者故事。
 
-“仅 HOLD 谱面”和 HOLD 难度/节点数由 jubeat@Wiki 总表核对；官方新闻页可确认活动追加，但未必完整展示 HOLD 谱面数据。m@sumi BEMANI 出道说法来自 pop'n 侧资料，未重新读取游戏内职员表。
+jubeat社区记手机端于2023-04-26收录；街机的正式活动公告则是2024-02-28 FROM pop’n-01。[3][4] 社区还记载全连称号强调读作“なるか”，但这只确认游戏中的读音提示，不独立证明标题来源。[3]
 
----
+### jubeat 收录与版本
 
-## 17. Homesick Pt.2&3
+本地Ave.分组保留；原作うさ猫KAC预选曲，手机端2023-04-26社区记录，街机beyond于2024-02-28 FROM pop’n-01正式公布。[1][3][4]
 
-**曲目档案**
+### 资料来源
 
-- 曲目名：Homesick Pt.2&3
-- 艺术家：ORANGENOISE SHORTCUT
-- 统一曲库 ID：`arcade_11000094`
-- BPM：178
-- 难度 / 节点数：BASIC 3 / 195，ADVANCED 6 / 346，EXTREME 8 / 546
-- 版本与解禁：jubeat beyond the Ave. 于 2024-02-28 通过 LIGHT CHAT 活动「POP-KUN FROM pop'n-01」期间限定追加。
+1. [KONAMI：2017 December楽曲紹介](https://p.eagate.573.jp/game/bemani/fansite/s/music/201712)（已实读；primary）
+2. [Gamer / KONAMI厂商消息：ノスタルジア 絢爛なるピアノの調べ](https://www.gamer.ne.jp/news/202007160050/)（已实读；secondary）
+3. [jubeat@Wiki：nalca](https://w.atwiki.jp/jubeat/pages/2396.html)（已实读；secondary）
+4. [KONAMI：FROM pop’n-01](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.02.28&update_no=100)（已实读；primary）
+5. [ノスしるべ：nalca / onoken](https://seesaawiki.jp/nstl/d/nalca)（已实读；secondary）
 
-**背景知识**
+### 核验边界与待补
 
-Homesick 系列原可追溯到 pop'n music 5，而 jubeat beyond the Ave. 收录的《Homesick Pt.2&3》是 pop'n music 7 中由 ORANGENOISE SHORTCUT 制作的 SOFT ROCK LONG 版本。这个版本把原曲拆分重组为更完整的长编摇滚叙事，情绪比单一版本更连续；jubeat 侧难度整体偏低，旋律段和切分段更易辨识。
+5文献根；原作具体写作/标题动机尚缺直接说明；酒名动态仅第三方转录可读，两条原X链接读取失败；不把庆祝酒推成创作原因；未由后续移植推定重录或编曲变化。
 
-**jubeat beyond the Ave. 位置**
+<a id="arcade-11000092-shared"></a>
+## BILLION MONEY BAZOOKA
 
-该曲属于 2024 年 2 月「POP-KUN FROM pop'n-01」活动。其 jubeat 收录沿用了 pop'n 的长版本标题，与同批短曲形成差异；目前没有可靠证据显示其后来转入 BONUS TUNE 或复刻活动，故不填具体日期。
+- 统一曲库 ID：`arcade:11000092`
+- 原章节编号与标题：15. BILLION MONEY BAZOOKA
 
-**资料来源**
+### 曲目档案
 
-1. RemyWiki：《Homesick Pt.2&3》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT「POP-KUN FROM pop'n-01」追加曲信息，2024-02-28 更新，访问日期 2026-11-01。
-4. Pop'n Music Wiki (Fandom)：《Homesick Pt.2&3》，访问日期 2026-11-01。
-5. BEMANICN：《Homesick Pt.2&3》，访问日期 2026-11-01。
+- 艺人／作曲／编曲：BlackY [2]
+- 来源机种：pop’n music うさぎと猫と少年の夢 [1]
+- jubeat收录：beyond the Ave.，2024-02-28，LIGHT CHAT [3]
+- BPM／时长：176／1:58（社区游戏记录；CD为2:03，不互换）[1][2]
+- 等级／物量：4 / 8 / 10.4；321 / 607 / 934 [1]
 
-**核验边界**
+### 创作与制作背景
 
-pop'n music 5 原版与 pop'n music 7 SOFT ROCK LONG 版本的关系可由 Pop'n Music Wiki 与 BEMANICN 检索信息交叉核对，但未直接读取原始说明书或游戏内版权说明。难度与节点数仅覆盖 jubeat beyond the Ave. 收录版。
+本曲原属 pop’n 的 NAVIfes：GOLD STAGE 最后解锁曲，社区年表记录其于2018-03-22开放。BlackY 的作曲、编曲署名可由原声曲目表核实；同曲2018年10月随四碟原声发行，而不是为2024年的 jubeat 移植新作。[1][2]
 
----
+社区乐评把它描述为高张力 RAVE，特别指出声音采样与中段钢琴的反差；该页面进一步把 GOLD、金钱与华丽舞台联系起来，但这属于评论者的联想，本轮没有找到 BlackY 对标题或委托主题的直接说明，不能当作确定创作缘起。[4]
 
-## 18. Music-U
+### jubeat 收录与版本
 
-**曲目档案**
+手机 jubeat 的2023年收录与街机2024年收录分开记载；后者可由官方2月28日公告直接核对。官方列出同批 Music-U、Homesick Pt.2&3、nalca 与本曲，不代表四曲同时创作。[1][3]
 
-- 曲目名：Music-U
-- 艺术家：Qrispy Joybox feat.mao
-- 统一曲库 ID：`arcade_11000095`
-- BPM：152
-- 难度 / 节点数：BASIC 3 / 252，ADVANCED 5 / 370，EXTREME 8 / 675
-- 版本与解禁：jubeat beyond the Ave. 于 2024-02-28 通过 LIGHT CHAT 活动「POP-KUN FROM pop'n-01」期间限定追加；2026-05-01 起列为 BONUS TUNE。
+### 资料来源
 
-**背景知识**
+1. [RemyWiki：BILLION MONEY BAZOOKA](https://remywiki.com/BILLION_MONEY_BAZOOKA)（实读）
+2. [Tower：うさぎと猫と少年の夢 Original Soundtrack](https://tower.jp/item/4768847)（实读）
+3. [KONAMI：FROM pop’n-01](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.02.28&update_no=100)（实读）
+4. [pop’n百科：BILLION MONEY BAZOOKA](https://w.atwiki.jp/asagaolabo/pages/5006.html)（实读）
 
-《Music-U》原出自 pop'n music 19 TUNE STREET，是 Qrispy Joybox 在 pop'n music 中的早期作品之一，人声担当为 mao。曲子以清爽的英伦/流行摇滚音色与“音乐”本身为题，进入 jubeat 后难度设定相对温和，适合作为同批联动曲中的中低强度路线。
+### 核验边界与待补
 
-**jubeat beyond the Ave. 位置**
+- 已实读4页，社区记录合根后为3个资料根；未找到作者原始制作谈。
+- CD时长并非游戏剪辑时长；不凭标题推导钱／资本主题。
 
-该曲与《nalca》《Homesick Pt.2&3》等同属 2024 年 2 月「POP-KUN FROM pop'n-01」活动。初期经 LIGHT CHAT 期间限定解禁，2026 年 5 月更新后进入 BONUS TUNE；现行可玩性仍需按最新版本曲目池确认。
+<a id="arcade-11000093-shared"></a>
+## ∞space
 
-**资料来源**
+- 统一曲库 ID：`arcade:11000093`
+- 原章节编号与标题：16. ∞space
 
-1. RemyWiki：《Music-U》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT「POP-KUN FROM pop'n-01」追加曲信息，2024-02-28 更新，访问日期 2026-11-01。
-4. Pop'n Music Wiki (Fandom)：《Music-U》，访问日期 2026-11-01。
-5. BEMANICN：《Music-U》，访问日期 2026-11-01。
+### 曲目档案
 
-**核验边界**
+- 艺人：m@sumi [2]
+- 来源机种：pop’n music 15 ADVENTURE [1]
+- jubeat收录：beyond the Ave.，2024-03-20，LIGHT CHAT [4]
+- BPM／时长：160／1:35（社区记录）[1]
+- HOLD等级／物量：3 / 6 / 9.7；186 / 320 / 558 [1]
 
-Qrispy Joybox 在 pop'n 的初出与 mao 担当由 pop'n 侧资料确认；本文件未核对游戏内音乐详情页。BONUS TUNE 转入日期来自官方/BEMANI 更新信息，难易度与节点数以 jubeat@Wiki 总表为准。
+### 创作与制作背景
 
----
+作者原评的日文第三方转录保存了很具体的生成过程：m@sumi 最初只是想试写变拍子的作品，先强调空间感、把编配整理得简洁，却觉得不够，于是加入自己喜爱的旋律性电子音效，才逐渐形成宇宙般的声音。换言之，这份证词描述的是从节拍与音色实验发展出的形象，不能倒写成一开始就收到宇宙角色命题。她也感谢 TOMOSUKE 的提携及影像、角色制作者。本轮读到的是转录而非现存官方原页。[3]
 
-## 19. Fate
+2026年10月的本人回忆可独立确认本曲在其生涯中的位置：这是她的 pop’n 出道曲，读作“インフィニティスペース”；她曾在 BEMANI ROCK FES’16 演奏电子琴，所以感情很深。她回听时也坦言有不少想修改之处。这里是多年后的自我评价，不应据此假定 jubeat 使用了重录版。[2]
 
-**曲目档案**
+### jubeat 收录与版本
 
-- 曲目名：Fate
-- 艺术家：BEMANI Sound Team "TATSUYA"
-- 统一曲库 ID：`arcade_11000096`
-- BPM：200
-- 难度 / 节点数：BASIC 4 / 313，ADVANCED 8 / 502，EXTREME 10.4 / 837
-- 版本与解禁：jubeat beyond the Ave. 常设收录，经 LIGHT CHAT 以 ARMO 为解禁对象。
+本曲先有2007年一代的pop’n15身份，随后2023年进入手机jubeat，2024-03-20才经街机LIGHT CHAT移植；街机日期由官方公告确证。HOLD参数来自社区记录，不把字符∞解作无限难度或故事设定。[1][4]
 
-**背景知识**
+### 资料来源
 
-《Fate》是 jubeat 侧的 BEMANI Sound Team 新曲，署名为 "TATSUYA"。曲名与音乐走向偏向疾走感和高张力电子摇滚/舞曲编排，200 BPM 的速度与 EXTREME 10.4 的设定使其在 LIGHT CHAT 解禁曲中属于强度较高的曲目。
+1. [RemyWiki：∞space](https://remywiki.com/Infinity_space)（实读）
+2. [m@sumi：pop’n music exhibition回忆](https://note.com/speedstar02/n/ndc459f0ed21c)（实读）
+3. [Ensemble Forec@st Station：シリウス／作者原评日文转录](https://kosame.tistory.com/334?category=554050)（实读）
+4. [KONAMI：FROM pop’n-02](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.03.20&update_no=100)（实读）
 
-**jubeat beyond the Ave. 位置**
+### 核验边界与待补
 
-该曲为常设 LIGHT CHAT 曲目，通过 ARMO 解禁。相关介绍在 2023 年的追加信息中出现；本文件不把“追加日”与“解禁完成日”混同，也不填写未能一手确认的具体上架日期。
+- 4个资料根实际可读；早期制作动机仅日文原评转录，未直接核验旧官方页。
+- 2026本人回忆与早期转录是不同出版文献，不因同作者合并；不推断移植重混。
 
-**资料来源**
+<a id="arcade-11000094-shared"></a>
+## Homesick Pt.2&3
 
-1. RemyWiki：《Fate》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT 常设追加曲信息，访问日期 2026-11-01。
-4. CDJapan：《jubeat Ave. & beyond the Ave. ORIGINAL SOUNDTRACK》（NEODAI-324670），访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+- 统一曲库 ID：`arcade:11000094`
+- 原章节编号与标题：17. Homesick Pt.2&3
 
-**核验边界**
+### 曲目档案
 
-难易度、节点数、LIGHT CHAT 与 ARMO 解禁可由 jubeat@Wiki 和官方新闻信息核对。网络资料中另有说法认为署名 "TATSUYA" 对应 Qrispy Joybox 相关创作者，但该对应未在官方页面直接确认，因此本文件保留官方署名，不列写个人本名或身份推断。
+- 艺人：ORANGENOISE SHORTCUT（杉本清隆）[1][4]
+- 作曲／演唱：杉本清隆（社区署名）[1]
+- 来源机种：pop’n music 5 [1]
+- jubeat收录：beyond the Ave.，2024-02-28，LIGHT CHAT [3]
+- BPM／等级／物量：178；3 / 6 / 8；195 / 346 / 546 [1]
+- 游戏时长：本轮所读jubeat表未填，不以CD时长代替 [1][2]
 
----
+### 创作与制作背景
 
-## 20. アヤノトリ
+本曲属于杉本清隆以 ORANGENOISE SHORTCUT 名义提供的早期 pop’n 乐曲，并非到 jubeat 才诞生。2000-12-21发行的《pop’n music 5 arcade originals》同时收有第19轨短版与第33轨 long version，目录分别标为1:42、4:38；后来 pop’n7 的 LONG 游戏音源又应与原短版分辨，不能只凭同名把各版本合并。[1][2][5]
 
-**曲目档案**
+能够直接读到的独立演出记录为2016-04-30 POPS Parade Festival：杉本在《Landing on the moon》之后，以去了月球便想回家的串场引入本曲，现场记者注意到观众的反应明显升温。这显示歌曲在脱离原游戏之后依然作为本人现场曲目被听众认出，但串场并不证明2000年写歌时真的以月球旅行为主题。[4]
 
-- 曲目名：アヤノトリ
-- 艺术家：BEMANI Sound Team "PHQUASE" feat.ななひら
-- 统一曲库 ID：`arcade_11000097`
-- BPM：137
-- 难度 / 节点数：BASIC 3 / 283，ADVANCED 7 / 560，EXTREME 10.0 / 867
-- 版本与解禁：jubeat beyond the Ave. 常设收录，经 LIGHT CHAT 以 PRINPY 为解禁对象。
+社区还保存一条关于长版歌词中季节意象对应秋分的说法；由于没有提供可直接核验的作者原访谈，本轮只将它作为后续追查线索，不写成已证实创作动机。详细录音分工、歌词起点与各次重编的作者原述仍需补证。[5]
 
-**背景知识**
+### jubeat 收录与版本
 
-《アヤノトリ》是 jubeat 侧 LIGHT CHAT 曲目，官方署名把 PHQUASE 与歌手ななひら并列。作品在传统和风意象与现代电子编曲之间切换，标题带有“彩女”和“鸟”式的神秘叙事感；EXTREME 10.0 使其成为常设 LIGHT CHAT 曲目中强度醒目的一首。
+街机官方明确本曲于2024-02-28进入FROM pop’n-01解锁活动。社区注明手机版早一年已收录，并沿用HELLO! POP’N MUSIC的角色封面；这些是移植与视觉资料，不代表此版改由别人演唱。[1][3]
 
-**jubeat beyond the Ave. 位置**
+### 资料来源
 
-该曲为常设 LIGHT CHAT 曲目，通过 PRINPY 解禁。相关追加信息可回溯到 2023 年的更新；本文件不填写未能由官方页直接确认的具体追加日期，也不将解禁完成日误写为初出日。
+1. [jubeat Wiki：Homesick Pt.2&3](https://w.atwiki.jp/jubeat/pages/2398.html)（实读）
+2. [Tower：pop’n music 5 arcade originals](https://tower.jp/item/526549)（实读）
+3. [KONAMI：FROM pop’n-01](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.02.28&update_no=100)（实读）
+4. [栗原裕一郎：POPS Parade Festival 2016现场报道](https://realsound.jp/2016/05/post-7703.html)（实读）
+5. [pop’n百科：ソフトロック](https://w.atwiki.jp/asagaolabo/pages/1213.html)（实读）
 
-**资料来源**
+### 核验边界与待补
 
-1. RemyWiki：《アヤノトリ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki 总表页：《jubeat beyond the Ave. 新曲・削除曲一览》，访问日期 2026-11-01。
-3. jubeat 官方新闻页：LIGHT CHAT 常设追加曲信息，访问日期 2026-11-01。
-4. ななひら官方作品页：《works》，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 曲目列表，访问日期 2026-11-01。
+- 5页保守4根；直接作者创作访谈尚缺，现场MC不冒充原始动机。
+- Remy原页普通HTTP403、BEMANICN403已停止，不将摘要曲评算实读。
+- CD长短版与pop’n7 LONG、Nostalgia Edition等不自动视为同母带。
 
-**核验边界**
+<a id="arcade-11000095-shared"></a>
+## Music-U
 
-BPM、难度、节点数、PHQUASE 与ななひら的官方署名可由曲库类页面和官方作品页交叉核对。PHQUASE 的个人本名与身份对应有第三方 wiki 资料，但未在 jubeat 官方页直接确认，因此不列入正文；常设化前后的活动日期也未填写。
+- 统一曲库 ID：`arcade:11000095`
+- 原章节编号与标题：18. Music-U
 
-## 21. Ice Candy Coaster
+### 曲目档案
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000099`
-- 曲名：Ice Candy Coaster
-- 艺人：irucaice / いるかアイス
-- 曲库位置：jubeat beyond the Ave.
+- 艺人：Qrispy Joybox feat.mao [3]
+- 作词／演唱：mao [1][3]
+- 作曲／编曲：Qrispy Joybox [3]
+- 来源机种：pop’n music 19 TUNE STREET [1]
+- jubeat收录：beyond the Ave.，2024-02-28 [4]
+- BPM／时长：152／1:54（社区；CD1:53，口径分列）[1][3]
+- 等级／物量：3 / 5 / 8；252 / 370 / 675 [1]
 
-**背景知识**
-- 本曲是 irucaice 在 jubeat beyond the Ave. 版本内的收录曲。
-- jubeat@Wiki 将本曲记录为 LIGHT CHAT 期间限定角色 ICY 的解禁曲目，并注明其后来转入 BONUS TUNE。
+### 创作与制作背景
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. 新曲列表，2024-08-25 起经由期间限定 LIGHT CHAT 登场，2025-07-01 起进入 BONUS TUNE。
+这首 Qrispy Joybox 与 mao 的合作歌曲原属于 pop’n19。唱片目录把音乐与文字的分工分得很清楚：Qrispy 作曲、编曲，mao 作词；因此不能把 feat.mao 仅理解成不参与创作的配唱。[3]
 
-**资料来源**
-1. RemyWiki：《Ice Candy Coaster》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Ice Candy Coaster》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. jubeat 官方网站：beyond the Ave. 音乐列表，访问日期 2026-11-01。
+本轮读到的作者曲评韩译说明，Qrispy 把作品目标设定为可爱、令人起舞的舞曲，并特别喜欢 mao 歌词里眼线、闪亮化妆等细节，希望玩家连同歌词一同欣赏。这是有关风格目标的作者证词转译，尚未核回旧官方日文原页，故不升格为原文实读。[2]
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+视觉上还有一个有趣的配合：Remy记录测试阶段角色为KIKA，正式版改用MOMOKO★SAN，并转述shio认为后者更适合歌词。此处仅作二级设计资料，不推断是歌曲重写造成了换角。[1]
 
-## 22. チックタック＠ラビリンス
+### jubeat 收录与版本
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000100`
-- 曲名：チックタック＠ラビリンス
-- 艺人：Tanchiky
-- 曲库位置：jubeat beyond the Ave.
+手机jubeat于2023年先行收录，街机则在2024-02-28的pop’n移植组开放；本曲的原始曲风名称ELECTRIC DANCE WAVE也属于pop’n时期，而不是jubeat的另一次编曲标签。[1][4]
 
-**背景知识**
-- 本曲是 Tanchiky 在 jubeat beyond the Ave. 版本内的收录曲。
-- jubeat@Wiki 将本曲记录为 LIGHT CHAT 期间限定角色 TOGY 的解禁曲目，并注明其后来转入 BONUS TUNE。
+### 资料来源
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. 新曲列表，2024-09-11 起经由期间限定 LIGHT CHAT 登场，2025-07-01 起进入 BONUS TUNE。
+1. [RemyWiki：Music-U](https://remywiki.com/Music-U)（实读）
+2. [Namu：Music-U作者曲评韩译](https://www.namu.moe/w/Music-U)（实读）
+3. [Tower：pop’n music 19 TUNE STREET原声](https://tower.jp/item/2881108)（实读）
+4. [KONAMI：FROM pop’n-01](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.02.28&update_no=100)（实读）
 
-**资料来源**
-1. RemyWiki：《チックタック＠ラビリンス》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《チックタック＠ラビリンス》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. jubeat 官方网站：2024-09-11 更新公告，访问日期 2026-11-01。
+### 核验边界与待补
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+- 4页，社区资料保守合为一根后3根；原官方作者曲评未直接核验。
+- 未找到录音日期、器材与歌手本人逐曲回忆。
 
-## 23. 4x4 Parallel Universe
+<a id="arcade-11000096-shared"></a>
+## Fate
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000101`
-- 曲名：4x4 Parallel Universe
-- 艺人：kamome sano
-- 曲库位置：jubeat beyond the Ave.
+- 统一曲库 ID：`arcade:11000096`
+- 原章节编号与标题：19. Fate
 
-**背景知识**
-- 本曲是 kamome sano 在 jubeat beyond the Ave. 版本内的收录曲。
-- jubeat@Wiki 将本曲记录为 LIGHT CHAT 期间限定角色 LAMY 的解禁曲目，并注明其后来转入 BONUS TUNE。
+### 曲目档案
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. 新曲列表，2024-10-02 起经由期间限定 LIGHT CHAT 登场，2025-08-01 起进入 BONUS TUNE。
+- 艺人：BEMANI Sound Team "TATSUYA" [1]
+- jubeat初出：beyond the Ave.，2023-09-20（社区年表）[3]
+- 解锁：常设LIGHT CHAT：ARMO [2]
+- BPM／等级／物量：200；4 / 8 / 10.4；313 / 502 / 837 [1][2]
+- 游戏时长：未直接核定；2026原声配信为1:45，不能自动替代 [2][4]
 
-**资料来源**
-1. RemyWiki：《4x4 Parallel Universe》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《4x4 Parallel Universe》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. jubeat 官方网站：kamome sano 艺人介绍页，访问日期 2026-11-01。
+### 创作与制作背景
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+《Fate》是 beyond the Ave. 初期常设 LIGHT CHAT 的原创曲，而不是从同名动漫或其他游戏配乐移植；现有游戏年表把它列在2023-09-20开放的ARMO线路，官方曲表确认艺人写作 BEMANI Sound Team "TATSUYA"。[1][2][3]
 
-## 24. PON☆PON☆PARADE
+其后官方音乐目录将本曲纳入 beyond 原声，2026-10-07发行的《jubeat Ave. & beyond the Ave. ORIGINAL SOUNDTRACK SELECTION》又在Disc3第4轨提供1:45音源。这些证据可以落实游戏与唱片的传播关系，不能据此证明录音曾重新编排。[4][5]
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000102`
-- 曲名：PON☆PON☆PARADE
-- 艺人：キノシタ
-- 曲库位置：jubeat beyond the Ave.
+本轮围绕曲名、艺人、曲评及原声检索，没有取得作者解释命名、动机或制作过程的逐曲材料。尽管游戏称号围绕“宿命／运气”展开，称号文字仍不等于作曲者的概念说明；因此不把标题扩写为既定剧情，也不把搜索到的其他Tatsuya与Fate作品混入。[2]
 
-**背景知识**
-- 本曲是 キノシタ 在 jubeat beyond the Ave. 版本内的收录曲，2023-10-12 上线。
-- 官方艺人介绍页有 キノシタ 的曲目说明，但本次核对未确认到可信赖的独立解禁机制。
+### jubeat 收录与版本
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. 新曲列表。
+官方等级与社区谱面统计相互补足；曲目位于ARMO解锁节点。精确首日目前以社区年表为证，不声称已核同期官方逐曲公告。[1][2][3]
 
-**资料来源**
-1. RemyWiki：《PON☆PON☆PARADE》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《PON☆PON☆PARADE》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. jubeat 官方网站：キノシタ 艺人介绍页，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+1. [KONAMI：jubeat原创曲表](https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=14)（实读）
+2. [jubeat Wiki：Fate](https://w.atwiki.jp/jubeat/pages/2352.html)（实读）
+3. [jubeat Wiki：beyond新曲年表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+4. [OTOTOY：Ave. & beyond原声SELECTION](https://ototoy.jp/_/default/p/4272113)（实读）
+5. [KONAMI：beyond原声配信目录](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=207&game_id=6)（实读）
 
-## 25. ネハン
+### 核验边界与待补
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000103`
-- 曲名：ネハン
-- 艺人：Somari
-- 曲库位置：jubeat beyond the Ave.
+- 5页保守3根（游戏目录、独立社区参数、原声出版）；没有直接创作故事。
+- 艺人别名关系未在本曲一手材料核定，保留正式名义。
 
-**背景知识**
-- 本曲是 Somari 在 jubeat beyond the Ave. 版本内的收录曲，2023-10-17 上线。
-- 官方艺人介绍页有 Somari 的曲目说明，但本次核对未确认到可信赖的独立解禁机制。
+<a id="arcade-11000097-shared"></a>
+## アヤノトリ
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. 新曲列表。
+- 统一曲库 ID：`arcade:11000097`
+- 原章节编号与标题：20. アヤノトリ
 
-**资料来源**
-1. RemyWiki：《ネハン》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《ネハン》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. jubeat 官方网站：Somari 艺人介绍页，访问日期 2026-11-01。
+### 曲目档案
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+- 艺人：BEMANI Sound Team "PHQUASE" feat.ななひら [5]
+- 演唱：ななひら（本人官网确认）[1]
+- jubeat初出：beyond the Ave.，2023-09-20（社区年表）[3]
+- 解锁：常设LIGHT CHAT：PRINPY [2]
+- BPM／等级／物量：137；3 / 7 / 10.0；283 / 560 / 867 [2][6]
+- 游戏时长：未直接核定；原声配信2:06另记 [2][4]
 
-## 26. 魔法少女とチョコレゐト
+### 创作与制作背景
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000104`
-- 曲名：魔法少女とチョコレゐト
-- 艺人：ピノキオピー
-- 曲库位置：jubeat beyond the Ave.
+本曲是 PHQUASE 与ななひら合作的 jubeat beyond 原创歌曲。歌手自己的工作表明确将《アヤノトリ》列为为KONAMI负责的歌唱项目，官方原声目录则保留PHQUASE feat.ななひら署名，因此人声参与不是由音色猜出的。现有资料并没有同时确认ななひら担任作词，不能由“演唱”自动扩写成“词曲创作”。[1][5]
 
-**背景知识**
-- 本曲是 ピノキオピー 在 jubeat beyond the Ave. 版本内的收录曲，随 2023-09-20 版本上线登场。
-- Konami 官方公告将本曲列为 beyond the Ave. 上线新增曲目之一。
+社区年表将歌曲放在2023-09-20开始的常设LIGHT CHAT，解锁对象PRINPY；2026年原声SELECTION则把它编在Disc3第5轨，配信音轨长2:06。前者说明游戏位置，后者落实后续正式发行，两者不证明制作时间或是否另有长版。[2][3][4]
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. 版本上线时收录的新曲列表。
+本轮没有取得PHQUASE或歌手讲述本曲录音、歌词情境、曲名词源的直接采访。游戏称号有邀请玩耍和道晚安的文字，但不足以据此构造“哄睡”“鸟的故事”等创作说明；这些主题暂不做确定性延伸。[2]
 
-**资料来源**
-1. RemyWiki：《魔法少女とチョコレゐト》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《魔法少女とチョコレゐト》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. Konami 官方网站：2023-09-20 版本上线公告，访问日期 2026-11-01。
+### jubeat 收录与版本
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+官方可玩原创曲目录现直接确认本曲及3/7/10.0等级。[6] PRINPY节点与137 BPM、867个EXT音符仍据社区测量和解锁记录；这些事实不能拿来充作作者设计目的。[2]
 
-## 27. beyond the Ave.
+### 资料来源
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000105`
-- 曲名：beyond the Ave.
-- 艺人：BEMANI Sound Team "SYUNN"
-- 曲库位置：jubeat beyond the Ave.
+1. [ななひら官方：WORKS](https://www.nanahira.jp/works.html)（实读）
+2. [jubeat Wiki：アヤノトリ](https://w.atwiki.jp/jubeat/pages/2350.html)（实读）
+3. [jubeat Wiki：beyond新曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+4. [OTOTOY：Ave. & beyond原声SELECTION](https://ototoy.jp/_/default/p/4272113)（实读）
+5. [KONAMI：beyond原声目录](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=207&game_id=6)（实读）
 
-**背景知识**
-- 本曲是 jubeat beyond the Ave. 的同名主题曲，随 2023-09-20 版本上线登场。
-- jubeat@Wiki 将本曲记录为 LIGHT CHAT 常设角色 SMITH&KOTARO 的解禁曲目。
+6. [KONAMI：beyond官方可玩原创曲目录](https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=1)（实读，第647–654行）
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. 同名主题曲及 LIGHT CHAT 常设解禁列表。
+### 核验边界与待补
 
-**资料来源**
-1. RemyWiki：《beyond the Ave.》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《beyond the Ave.》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. jubeat 官方网站：2023-09-20 LIGHT CHAT 公告，访问日期 2026-11-01。
+- 6页保守3根：原作发行/歌唱信用、社区独立谱面测量与解锁记录、官方可玩曲目目录；不将官方等级再算为社区测量的独立来源。仍未取得逐曲创作动机。
+- 不采用粉丝年表的占位2023-01-01作为发行日；游戏首日据社区表。
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+<a id="arcade-11000099-shared"></a>
+## Ice Candy Coaster
 
-## 28. Prowler
+- 统一曲库 ID：`arcade:11000099`
+- 原章节编号与标题：21. Ice Candy Coaster
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000106`
-- 曲名：Prowler
-- 艺人：BEMANI Sound Team "Yvya"
-- 曲库位置：jubeat beyond the Ave.
+### 曲目档案
 
-**背景知识**
-- 本曲是 BEMANI Sound Team "Yvya" 在 jubeat beyond the Ave. 版本内的收录曲。
-- jubeat@Wiki 将本曲记录为 LIGHT CHAT 常设角色 SAN·DAL Bros. 的解禁曲目。
+- 艺人：irucaice / いるかアイス[1]
+- BPM：226[2]
+- 等级／物量（BSC/ADV/EXT）：5/8/10.3；433/689/988[2]
+- 初出与解锁：beyond the Ave.；2023-10-25、LIGHT CHAT ICY（日期据社区年表）[1][2]
+- 时长：原声发行版2:05；不以唱片时长替代游戏计时[3]
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. LIGHT CHAT 常设解禁列表。
+### 创作与制作背景
 
-**资料来源**
-1. RemyWiki：《Prowler》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Prowler》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. jubeat 官方网站：beyond the Ave. 音乐列表，访问日期 2026-11-01。
+いるかアイス在官方逐曲留言中把出发点说得很明确：她一边回想自己在 jubeat 邂逅许多作品时获得的心动，一边写出属于自己风格的器乐曲。她刻意让旋律超出平时制作人声歌曲的范围，追求闪亮、猛烈到令人喘不过气的奔放感，希望玩家通过 jubeat 体验这种旋律。[1]
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+这不是仅从甜食标题推演出来的故事，也不是将她其他 Vocaloid 歌曲的主题搬用过来。现存第一手文字直接将游戏聆听经验、器乐形式和旋律设计联系起来；但没有说明具体参考了哪一首 jubeat 歌曲、使用了什么合成器或怎样完成混音。[1]
 
-## 29. pray nightly
+2026-10-07发行的《jubeat Ave. & beyond the Ave. ORIGINAL SOUNDTRACK SELECTION》将其编入第三碟第6轨，目录署名简写 irucaice，时长2:05。这是后续原声出版记录，不是2023年的游戏上线日期。[3]
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000107`
-- 曲名：pray nightly
-- 艺人：BEMANI Sound Team "猫叉Master"
-- 曲库位置：jubeat beyond the Ave.
+### jubeat 收录与版本
 
-**背景知识**
-- 本曲是 BEMANI Sound Team "猫叉Master" 在 jubeat beyond the Ave. 版本内的收录曲。
-- jubeat@Wiki 将本曲记录为 LIGHT CHAT 常设角色 PRAYER 的解禁曲目。
+本曲作为 DING DONG HALL 的 ICY 曲目进入游戏，社区表将初次配信记为2023-10-25；表中另列的2024年8月至9月属于后续举办期，不应覆盖初出日期。[2]
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. LIGHT CHAT 常设解禁列表。
+### 资料来源
 
-**资料来源**
-1. RemyWiki：《pray nightly》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《pray nightly》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. jubeat 官方网站：beyond the Ave. 音乐列表，访问日期 2026-11-01。
+1. [KONAMI：いるかアイス本人曲评](https://p.eagate.573.jp/game/jubeat/beyond/artists/detail/03.html)（实读）
+2. [jubeat@Wiki：beyond新曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+3. [OTOTOY：Ave. & beyond原声选集](https://ototoy.jp/_/default/p/4272113)（实读）
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+### 核验边界与待补
 
-## 30. ギザバ怪文書
+- 官方短评已提供创作方向，但尚未取得制作软件、录音分工等详细证言。
+- 找到本人制作谈视频 FR1SZCyAUmc，网页未取得正文/字幕，未假称观看，留作深挖。
+- 官方曲评页面web工具503，普通HTTP200已读正文；视频不计来源。
 
-**曲目档案**
-- 统一曲库 ID：`arcade_11000108`
-- 曲名：ギザバ怪文書
+<a id="arcade-11000100-shared"></a>
+## チックタック＠ラビリンス
+
+- 统一曲库 ID：`arcade:11000100`
+- 原章节编号与标题：22. チックタック＠ラビリンス
+
+### 曲目档案
+
+- 艺人：Tanchiky[1]
+- BPM：185[2]
+- 等级／物量（BSC/ADV/EXT）：5/9.3/10.2；497/728/834[2]
+- 初出与解锁：beyond the Ave.；2023-11-15、LIGHT CHAT TOGY（日期据社区年表）[1][2]
+
+### 创作与制作背景
+
+Tanchiky给出的创作画面是一群小鸡误入不可思议的迷宫，之后究竟会发生什么。他希望音乐呈现出难以预料、波澜曲折的展开。这段官方逐曲留言直接解释了作品的叙事想象，而非由玩家依据封面或谱面自行附会。[1]
+
+本曲后来成为《CHICK TAC FACTORY ～Tanchiky、出荷しました～》第8轨，带有“"大迷宮に迷い込んじゃった!" ver”的版本后缀。官方专辑页将该系列首作定位为兼收新曲、旧曲长版与混音的13曲专辑，并在本轨明确标注 jubeat beyond the Ave. 及 KONAMI 授权。[3]
+
+专辑页列2025-10-26 M3秋会场销售，另将一般唱片零售标为12月24日；这两个渠道时间都晚于街机初出。因曲名明确有新版后缀，应将其视为后续专辑版本记录，不能把专辑内容无条件当作街机短版的同一音源。[2][3]
+
+### jubeat 收录与版本
+
+社区年表记载原版于2023-11-15进入 TOGY 的限时 LIGHT CHAT。官方曲评发布于11月29日，不能将曲评日期当作上线日期。[1][2]
+
+### 资料来源
+
+1. [KONAMI：Tanchiky本人曲评](https://p.eagate.573.jp/game/jubeat/beyond/artists/detail/04.html)（实读）
+2. [jubeat@Wiki：beyond新曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+3. [Tanchiky：CHICK TAC FACTORY官方专辑页](https://ctf.tanchiky.com/)（实读）
+
+### 核验边界与待补
+
+- 仍缺具体配器、段落制作与版本改编过程的一手长访谈。
+- 专辑总信用列出的VOICE等不能自动分配给本轨，未据此追加演唱者。
+
+<a id="arcade-11000101-shared"></a>
+## 4x4 Parallel Universe
+
+- 统一曲库 ID：`arcade:11000101`
+- 原章节编号与标题：23. 4x4 Parallel Universe
+
+### 曲目档案
+
+- 艺人／作曲：kamome sano[1]
+- 谱面制作：kamome sano，全部3个难度（作者官网确认）[1]
+- BPM：140[3]
+- 等级／物量（BSC/ADV/EXT）：6/9.5/10.6；437/768/974[3]
+- 初出与解锁：beyond the Ave.；2024-01-10、LIGHT CHAT LAMY[1][3]
+- 时长：原声发行版2:13；非游戏计时实测[4]
+
+### 创作与制作背景
+
+这首曲子的特别之处不止于作曲委托：kamome sano在个人官网确认，他同时制作了游戏中全部三个难度的谱面，并把这次机会形容为实现了自己最长久的梦想。官网直接说明作曲与谱面责任，内嵌本人公告进一步明确“三个难度”；这些证据比从谱面风格猜测作者更可靠。[1]
+
+随后官方逐曲留言中，他回顾自己通过16块面板遇到了许多音乐，并表示这次作品包含长久想实现的机关，因此终于做出了真正想做的歌曲。这让创作背景呈现出从玩家经验到同时设计音乐和游戏互动的连续性；不过留言没有逐项指认所谓机关，不能自行把某一种排列、采样或节奏指定为作者所说的设计。[2]
+
+2026-10-07发行的原声选集收录本曲于第三碟第15轨，时长2:13。该目录补充后续出版史，不能代替游戏上线记录或证明它与玩家计时完全一致。[4]
+
+### jubeat 收录与版本
+
+作者2024-01-10公告与社区年表共同对应 LAMY 初次登场；官方评论日期1月24日属于介绍文章发布时间。社区表后来的2024年10月举办期同样不是初出日期。[1][2][3]
+
+### 资料来源
+
+1. [kamome sano官网：4x4 Parallel Universe提供公告](https://kamomesano.info/news/2fd8543f-417c-483f-8c21-a43bf6f02ad7)（实读）
+2. [KONAMI：kamome sano本人曲评](https://p.eagate.573.jp/game/jubeat/beyond/artists/detail/05.html)（实读）
+3. [jubeat@Wiki：beyond新曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+4. [OTOTOY：Ave. & beyond原声选集](https://ototoy.jp/_/default/p/4272113)（实读）
+
+### 核验边界与待补
+
+- 已证实作曲兼全部难度谱面，未取得详细制作工程或机关逐项说明。
+- 个人官网内嵌社交公告可读，但未称直接核验X页面。
+- 两篇不同日期作者原始文献分别记录责任/愿望和逐曲回顾；不是按同域名机械拆源。
+
+<a id="arcade-11000102-shared"></a>
+## PON☆PON☆PARADE
+
+- 统一曲库 ID：`arcade:11000102`
+- 原章节编号与标题：24. PON☆PON☆PARADE
+
+### 曲目档案
+
+- 艺人：キノシタ[1]
+- BPM：194[2]
+- 等级／物量（BSC/ADV/EXT）：2/5/9.3；186/349/838[2]
+- 游戏初出：beyond the Ave.；2023-10-12[4]
+- 数字发行：2024-01-06；主曲与Instrumental两轨，各1:44[3]
+
+### 创作与制作背景
+
+キノシタ在官方介绍中说明，自己从小接触 BEMANI 的音乐，因此接受 jubeat 创作时也带着回报这份影响的心情。他希望做出一首在游戏中游玩时一定会觉得开心、热热闹闹的作品，并邀请玩家跟着节奏尽兴游玩。这既是创作缘起，也是具体的游玩情绪目标，而非仅凭曲名“游行”联想出来的设定。[1]
+
+街机曲表将其列为2023-10-12追加，社区曲页同日记录官方MV公开。需要区分“为游戏新写”与游戏版权类别：社区表把它归入 Social Music，但这一分类不否定作者亲自确认的委托创作关系。[1][2][4]
+
+后来的数字单曲目录标2024-01-06，包含主曲与伴奏版，各1:44。由此可把游戏首配信与正式数字发行分别记录，而不能将2024年的商店日期当作歌曲首次出现。[3][4]
+
+### jubeat 收录与版本
+
+在版本叙事上，本曲体现创作者原有BEMANI聆听经验转为新委托作品；现存短评并未指定致敬某一首旧曲，亦不支持把歌词或音色逐项解释成系列彩蛋。[1]
+
+### 资料来源
+
+1. [KONAMI：キノシタ本人曲评](https://p.eagate.573.jp/game/jubeat/beyond/artists/detail/01.html)（实读）
+2. [jubeat@Wiki：PON☆PON☆PARADE](https://w.atwiki.jp/jubeat/pages/2356.html)（实读）
+3. [AWA：PON☆PON☆PARADE发行目录](https://s.awa.fm/album/b20fec979abe0c335652)（实读）
+4. [jubeat@Wiki：beyond新曲年表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+
+### 核验边界与待补
+
+- 尚未取得明确的歌声库/录音及词曲编详细原始署名，未从艺人名推定本人演唱。
+- 缺少长篇制作过程；保留作者已确认的创作动机，不补虚构细节。
+
+<a id="arcade-11000103-shared"></a>
+## ネハン
+
+- 统一曲库 ID：`arcade:11000103`
+- 原章节编号与标题：25. ネハン
+
+### 曲目档案
+
+- 艺人：Somari[1]
+- 词曲编／歌声：Somari／初音ミク（MV信用的社区转录）[2][4]
+- BPM：130–160[2]
+- HOLD等级／物量（BSC/ADV/EXT）：4/6/9.4；299/525/833；非普通谱面[2]
+- 游戏／视频阶段：beyond the Ave.委托曲；MV于2023-10-17公开[1][2]
+- 数字单曲：Apple Music目录2024-03-15[3]
+
+### 创作与制作背景
+
+Somari亲自在官方逐曲介绍中指出，《ネハン》的大主题是沉醉于音乐、只想逃避现实。他不是单纯写一首快乐的舞曲，而是有意让高张力的伴奏与消极的歌唱内容交织，做出不同于普通流行歌曲的动态反差。[1]
+
+同时，他在音轨里散布细小的声音和容易记住的歌唱短句，希望玩家游玩时感到有趣，也会不自觉跟着身体律动并哼出歌词。这是作者明确说明的制作目标；不宜只按曲名的佛教字面意思，扩写成未经证实的宗教经历或思想宣言。[1]
+
+信用方面，社区保存的MV资料将词曲编归Somari、歌声归初音ミク，绘图与视频分别归Osu、くすみ。视觉制作与音乐制作须分栏，不将画师误写成作曲者。2024-03-15的Apple Music单曲记录晚于2023年的委托曲和MV公开，应另列为后续数字出版。[2][3][4]
+
+### jubeat 收录与版本
+
+游戏提供的是HOLD谱面，社区记录130–160的速度变化；这些游戏参数不自动说明歌词叙事或创作心理。其Social Music类别与官方确认的jubeat书き下ろし身份可以同时成立。[1][2]
+
+### 资料来源
+
+1. [KONAMI：Somari本人曲评](https://p.eagate.573.jp/game/jubeat/beyond/artists/detail/02.html)（实读）
+2. [jubeat@Wiki：ネハン](https://w.atwiki.jp/jubeat/pages/2359.html)（实读）
+3. [Apple Music：ネハン单曲](https://music.apple.com/jp/song/1731786841)（实读）
+4. [初音ミクWiki：ネハン信用转录](https://w.atwiki.jp/hmiku/pages/56518.html)（实读）
+
+### 核验边界与待补
+
+- 原始MV信用未直接读到，署名维持社区转录级，不当第一手制作证言。
+- BEMANI公告20990259 webcachemiss、普通HTML只有动态壳，未将搜索摘要当已读正文。
+- 两社区页保守同根；作者短评、独立数字出版、社区记录合3根。
+
+<a id="arcade-11000104-shared"></a>
+## 魔法少女とチョコレゐト
+
+- 统一曲库 ID：`arcade:11000104`
+- 原章节编号与标题：26. 魔法少女とチョコレゐト
+
+### 曲目档案
+
+- 艺人／词曲：ピノキオピー[3]
+- 原曲公开：2022-02-25（作者同期对谈确认）[2]
+- 游戏版本：beyond the Ave.稼动时收录，HOLD谱面[4][5]
+- BPM：来源异文：总表150、单曲页130；本轮未以实测裁定[4][5]
+- HOLD等级／物量（BSC/ADV/EXT）：3/6/9.2；260/412/822[4]
+
+### 创作与制作背景
+
+ピノキオピー在2022年的对谈中将本曲描述为约十年后重新处理旧作主题的续篇：歌词与旋律不是原封不动沿用，但仍面对八卦新闻。他确认2月25日上传作品，这比后来的jubeat收录更早。[2]
+
+2023年逐曲采访进一步说明，随着《神っぽいな》受到关注，不少人重新以《腐れ外道とチョコレゐト》的作者来称呼他，促使他首次尝试用新歌延续旧作。他把原先保存的“魔法少女视点”创意与续篇结合，先确定标题再展开制作。[1]
+
+时代变化也改变了主题：旧作主要面对周刊、电视，本曲转向SNS传播的八卦，以大众期待纯洁无瑕的英雄形象为观察位置。编曲则由旧作较拥挤的风格转为简洁的四拍子，并加入弦乐营造魔法少女作品的感觉。以上是本人阐释，不把虚构角色遭遇当作作者自传。[1]
+
+### jubeat 收录与版本
+
+这是已有Vocaloid作品进入jubeat，不是为该版本另写的新曲。社区记录HOLD配置和稼动时收录；来源间BPM出现130与150差异，先保留异文而非将某个数字假定为旧版本值。[2][4][5]
+
+### 资料来源
+
+1. [Real Sound：ピノキオピー META逐曲访谈](https://realsound.jp/2023/05/post-1333325_2.html)（实读）
+2. [Real Sound：DECO*27与ピノキオピー对谈](https://realsound.jp/2022/03/post-983704_3.html)（实读）
+3. [TuneCore：魔法少女とチョコレゐト信用](https://linkco.re/qHEy91ca?lang=ja)（实读）
+4. [jubeat@Wiki：魔法少女とチョコレゐト](https://w.atwiki.jp/jubeat/pages/2343.html)（实读）
+5. [jubeat@Wiki：beyond新曲总表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+
+### 核验边界与待补
+
+- 两次访谈是不同年份、不同取材文献，分别保留；游戏两页同根。
+- BPM仍待可靠谱面计时或官方参数核验。
+- MV画面/角色细节及游戏剪辑工程本轮未直接核实。
+
+<a id="arcade-11000105-shared"></a>
+## beyond the Ave.
+
+- 统一曲库 ID：`arcade:11000105`
+- 原章节编号与标题：27. beyond the Ave.
+
+### 曲目档案
+
+- 艺人：BEMANI Sound Team "SYUNN"[4]
+- BPM：135[2]
+- HOLD等级／物量（BSC/ADV/EXT）：3/6/9.5；175/372/690[2]
+- 版本与解锁：beyond the Ave.；常设LIGHT CHAT SMITH&KOTARO[1][2]
+- 原声发行：2026-10-07，第三碟第1轨，1:44[3]
+
+### 创作与制作背景
+
+KONAMI在2023-09-20的稼动新闻稿中，明确将同名曲《beyond the Ave.》介绍为纪念新版本而制作的原创新曲，同时说明本次更新收录了谱面比赛的最优秀作品。因此可以确认其版本纪念企划背景，而不只因歌曲与版本同名就推定用途。[1]
+
+社区曲页将其定位为该版主题曲以及系统BGM可玩化的作品，并记录采用ソフィー所作《その路地を越えた先で》谱面。这里必须分开音乐与谱面：官方曲表中的音乐艺人仍是SYUNN，竞赛获选者不是因此成为作曲者。获选者姓名及投稿标题目前依据社区记录，官方新闻稿只确认最优秀谱面获收录。[1][2][4]
+
+2026年的原声选集把可玩曲放在第三碟开头，同时另列Title、Title Loop / Entry、Password Matching等系统音乐轨。这说明发行目录也将可玩歌曲与系统BGM分别编目；不宜据此将整个版本音轨或全部旋律都说成同一录音。[3]
+
+### jubeat 收录与版本
+
+其定位可以确认到版本纪念曲、玩家谱面企划与LIGHT CHAT入门路径，尚未取得SYUNN本人讲解旋律或音色形成的访谈。[1][2]
+
+### 资料来源
+
+1. [KONAMI：2023-09-20新版本稼动新闻稿](https://prtimes.jp/a/?c=53327&f=d53327-256-9b383d8df61bd00c72d3e8dd5aaa1014.pdf&r=256)（实读）
+2. [jubeat@Wiki：beyond the Ave.](https://w.atwiki.jp/jubeat/pages/2345.html)（实读）
+3. [OTOTOY：Ave. & beyond原声选集](https://ototoy.jp/_/default/p/4272113)（实读）
+4. [KONAMI：原创乐曲目录](https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=14)（实读）
+
+### 核验边界与待补
+
+- 官方确认企划用途，不等同已找到作曲者个人动机。
+- 获奖谱面标题/作者暂为社区记录，jubeat Lab链接cachemiss未计来源。
+- 原声目录无法证明逐段取材关系、制作软件或录音日期。
+
+<a id="arcade-11000106-shared"></a>
+## Prowler
+
+- 统一曲库 ID：`arcade:11000106`
+- 原章节编号与标题：28. Prowler
+
+### 曲目档案
+
+- 艺人：BEMANI Sound Team "Yvya"[1]
+- BPM：160[2]
+- HOLD等级／物量（BSC/ADV/EXT）：6/9.6/10.5；347/640/881[1][2]
+- 初出／解锁：beyond the Ave.，2023-09-20常设LIGHT CHAT SAN･DAL Bros.（社区年表）[2][5]
+- 时长：游戏资料1:58[4]；2026原声目录1:59[3]
+
+### 创作与制作背景
+
+官方原创曲表将《Prowler》署名为BEMANI Sound Team "Yvya"。社区记录它从beyond the Ave.稼动阶段起作为常设LIGHT CHAT曲目提供，通过SAN･DAL Bros.的消息解读解锁。已核材料可以支持其游戏内企划位置，但尚没有找到Yvya亲自说明为何取名、如何开始写作的可读逐曲采访。[1][2][4][5]
+
+音乐形态方面，社区攻略作者把它形容为含变拍子的fusion，这是玩家的听感分类，不是厂商正式曲风或作者宣言。RemyWiki记无歌词，因此本条不擅自添加演唱者；其作编真实姓名也仅属社区资料，不把艺人别名与未经原始内页确认的演奏分工混为一谈。[2][4]
+
+《jubeat Ave. & beyond the Ave. ORIGINAL SOUNDTRACK SELECTION》在2026-10-07将本曲收于第三碟第8轨，时长1:59；社区游戏资料为1:58。两种计时分开记录，不凭一秒差异推断存在重编或新母带。[3][4]
+
+### jubeat 收录与版本
+
+三个最低来源根分别为官方游戏目录、社区游戏记录、后续原声出版。它们支持身份及传播/发行背景，不等于三份作者创作证言。曲名与徘徊者的意象尚不能补成作者人生故事。
+
+### 资料来源
+
+1. [KONAMI：Prowler原创曲目录](https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=15)（实读）
+2. [jubeat@Wiki：Prowler](https://w.atwiki.jp/jubeat/pages/2354.html)（实读）
+3. [OTOTOY：Ave. & beyond原声选集](https://ototoy.jp/_/default/p/4272113)（实读）
+4. [RemyWiki：Prowler](https://remywiki.com/Prowler)（实读）
+5. [jubeat@Wiki：beyond新曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+
+### 核验边界与待补
+
+- 核心缺口：Yvya本曲创作动机、配器/录音与标题由来。
+- 未把同曲社区镜像和转载参数拆成额外独立根。
+
+<a id="arcade-11000107-shared"></a>
+## pray nightly
+
+- 统一曲库 ID：`arcade:11000107`
+- 原章节编号与标题：29. pray nightly
+
+### 曲目档案
+
+- 艺人：BEMANI Sound Team "猫叉Master"[1]
+- BPM：170[2]
+- 等级／物量（BSC/ADV/EXT）：5/9.7/10.7；333/625/777[2]
+- 谱面类型：BSC、EXT为HOLD；ADV不是HOLD，不可把整首统一标为全HOLD[2][4]
+- 初出／解锁：beyond the Ave.，2023-09-20常设LIGHT CHAT PRAYER（社区年表）[2][5]
+- 时长：游戏资料1:58[4]；原声发行版2:02[3]
+
+### 创作与制作背景
+
+《pray nightly》由官方曲表署名为BEMANI Sound Team "猫叉Master"，是beyond the Ave.常设LIGHT CHAT的PRAYER解锁曲。解锁角色名与歌曲意象有关联的表面印象，不足以证明作曲者有特定宗教经历或祈祷动机；目前未取得本曲逐曲制作谈，不能用标题字义代替背景事实。[1][2][5]
+
+这首歌的可核版本特点主要在谱面组织：同一曲目中，BSC和EXT含HOLD，而ADV没有HOLD。社区记录的长押数量为32、0、152；RemyWiki还将ADV描述为EXT去掉HOLD的对应谱面。后者保留为社区观察，不据此推定猫叉Master本人负责谱面或为了某个难度而创作旋律。[2][4]
+
+本曲后续收入2026-10-07原声选集第三碟第9轨，目录2:02；早期社区游戏资料为1:58。由于计时差异不能单独证明音源内容变化，二者分别记录。官方曲表还另列ぺのれり的《Prayer》，应避免因相近英文标题把不同作者的作品背景混入本曲。[1][3][4]
+
+### jubeat 收录与版本
+
+已确认其原创游戏曲身份、PRAYER解锁位置和混合HOLD配置；未将游戏流程、玩家谱面体验或标题解释升级为作者创作动机。
+
+### 资料来源
+
+1. [KONAMI：pray nightly原创曲目录](https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=15)（实读）
+2. [jubeat@Wiki：pray nightly](https://w.atwiki.jp/jubeat/pages/2355.html)（实读）
+3. [OTOTOY：Ave. & beyond原声选集](https://ototoy.jp/_/default/p/4272113)（实读）
+4. [RemyWiki：pray nightly](https://remywiki.com/Pray_nightly)（实读）
+5. [jubeat@Wiki：beyond新曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+
+### 核验边界与待补
+
+- 核心缺口：猫叉Master本人关于本曲的命题、配器、录音与标题说明。
+- 游戏时长与原声时长不同，尚缺音源逐项比对。
+- 三根覆盖游戏目录/社区参数/原声出版，创作证言仍缺。
+
+<a id="arcade-11000108-shared"></a>
+## ギザバ怪文書
+
+- 统一曲库 ID：`arcade:11000108`
+- 原章节编号与标题：30. ギザバ怪文書
+
+### 曲目档案
+
+- 标题：ギザバ怪文書
 - 艺人：cosMo@暴走P
 - 曲库位置：jubeat beyond the Ave.
+- BPM：280；等级3/8/9.8，节点248/545/866（社区表）。[2]
 
-**背景知识**
-- 本曲是 cosMo@暴走P 在 jubeat beyond the Ave. 版本内的收录曲，随 2023-09-20 版本上线登场。
-- Konami 官方公告将本曲列为 beyond the Ave. 上线新增曲目之一。
+### 创作与制作背景
 
-**jubeat beyond the Ave. 位置**
-- 本曲位于 beyond the Ave. 版本上线时收录的新曲列表。
+本曲不是为 jubeat 首次创作的原创委托曲。KARENT 将它列为 cosMo＠暴走P 的2023年第一份音源，2023-03-03发行，含音街ウナ演唱版与 Off Vocal；封面美术亦署 cosMo。发行介绍本身突出 BPM 280 的高速特征。[1]
 
-**资料来源**
-1. RemyWiki：《ギザバ怪文書》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《ギザバ怪文書》，访问日期 2026-11-01。
-3. BEMANICN：《jubeat beyond the Ave.》，访问日期 2026-11-01。
-4. Otoge Station：《jubeat beyond the Ave.》曲表，访问日期 2026-11-01。
-5. Konami 官方网站：2023-09-20 版本上线公告，访问日期 2026-11-01。
+社区记载 MV 于前一天3月2日公开，游戏背景脉动按140半拍显示；这解释了显示速度与节拍视觉可能不同，但不是作者选择高速的创作动机。[2] 当前尚没有实际读到作者逐曲访谈，故不从“怪文书”标题推定现实事件或精神状态。
 
-**核验边界**
-- RemyWiki 页面未能直接访问，本条未以 RemyWiki 原文逐字核对。
-- 未列出具体谱面等级与节点数，避免未经验证的数字误差。
+### jubeat 收录与版本
 
-## 31. トウキョウ・シャンディ・ランデヴ
+官方上线新闻稿第2页明确列曲名、艺人及 Licensed by cosMo＠暴走P，确认2023-09-20随版本加入。[3]
 
-**曲目档案**
+### 资料来源
+
+1. KARENT ギザバ怪文書发行页：https://karent.jp/album/3500（已读；2023-03-03发行；音街ウナ版及Off Vocal；作者美术；介绍BPM280）
+2. jubeat Wiki ギザバ怪文書：https://w.atwiki.jp/jubeat/pages/2341.html（已读；MV日期2023-03-02；BPM280背景140；3/8/9.8及248/545/866）
+3. KONAMI 2023-09-20 稼动新闻稿 PDF 第2页：https://prtimes.jp/a/?c=53327&f=d53327-256-9b383d8df61bd00c72d3e8dd5aaa1014.pdf&r=256（已读；第2页逐曲列出新增授权曲；版本2023-09-20上线）
+
+### 核验边界与待补
+
+- 最低3根为原曲发行、游戏参数、厂商上线公告，非3份创作访谈。
+- KARENT网页工具503后普通GET200全文已读；MV原页未成功读取，不把搜索摘要算原页。
+- 创作起因、歌词角色设定与制作工程仍待作者逐曲材料。
+
+<a id="arcade-11000109-shared"></a>
+## トウキョウ・シャンディ・ランデヴ
+
+- 统一曲库 ID：`arcade:11000109`
+- 原章节编号与标题：31. トウキョウ・シャンディ・ランデヴ
+
+### 曲目档案
 
 - 标题：トウキョウ・シャンディ・ランデヴ
-- 统一曲库 ID：`arcade_11000109`
-- 艺术家：MAISONdes feat. 花譜, ツミキ
-- BPM：137
-- 谱面难度与节点数：BASIC 3 / 232；ADVANCED 5 / 413；EXTREME 9.3 / 731
+- 艺人：MAISONdes feat. 花譜, ツミキ
+- 原录音：花譜演唱、ツミキ创作；jubeat社区记载为かなたん翻唱，不能混同。[1][3]
+- BPM：137；BASIC 3/232、ADVANCED 5/413、EXTREME 9.3/731。[3]
 
-**背景知识**
+### 创作与制作背景
 
-这是 MAISONdes 名义下由花譜演唱、ツミキ创作的联动歌曲，也是电视动画《うる星やつら》（2022 年版）第 1 期第 1 クール的片尾曲。歌曲以东京的都市夜景、随机相遇与若即若离的关系为意象，曲题中的“シャンディ・ランデヴ”也呼应了原作中常见的约会场景。在 jubeat 中归入动画与流行歌曲类别，封面由动画联动素材衍生。
+这是2022版动画《うる星やつら》的片尾曲，2022-10-21配信。花譜演唱ツミキ的作品，发行插画由 NAKAKIPANTZ 绘制。ツミキ在同期声明中说，身为平成世代，他把对昭和文化的憧憬与令和重生的动画结合成声音。[1]
 
-**jubeat beyond the Ave. 位置**
+2026年访谈提供了更具体的制作取舍：他把本曲视为提供歌曲生涯的转折，尝试不再过度迁就动画，而将自己的音乐根源带入委托；副歌追求易记，节奏仍保持复杂与技术性。成功后，他才更有把握处理个人表达与流行性的距离。[2] 这些是原曲创作者回顾，不是 jubeat 翻唱录音团队的访谈。
 
-歌曲作为《うる星やつら》动画联动收录，可在通常曲目选择界面中通过动画／流行曲分类找到。jubeat@Wiki 记录其 jubeat 波段归属与三级谱面配置，未记录该曲目在 beyond the Ave. 中具有专属活动入口或限时解禁条件。
+### jubeat 收录与版本
 
-**资料来源**
+2023-09-20上线新闻稿列有本曲。[4] 社区记载游戏采用かなたん翻唱，并于2023-10-11由单一流行分类调整为动画主分类、流行副分类；参数来自该社区，非官方谱面表。[3]
 
-1. RemyWiki：トウキョウ・シャンディ・ランデヴ，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：トウキョウ・シャンディ・ランデヴ，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami PRTimes 新闻稿：jubeat beyond the Ave. 稼働曲目公告，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. Sony 2022-10-20发行声明与ツミキ本人评论：https://prtimes.jp/main/html/rd/p/000003470.000013546.html（已读；10月21配信；花譜演唱；ツミキ昭和憧憬与令和动画意图；NAKAKIPANTZ美术）
+2. Real Sound 2026-08-17 ツミキ访谈：https://realsound.jp/2026/08/post-2487285.html/amp（已读；本曲为转折；保留自身音乐根源；易记副歌与复杂节奏并存）
+3. jubeat Wiki トウキョウ・シャンディ・ランデヴ：https://w.atwiki.jp/jubeat/pages/2339.html（已读；翻唱歌手かなたん；参数137及3/5/9.3；2023-10-11分类修改）
+4. KONAMI 2023-09-20 稼动新闻稿 PDF 第2页：https://prtimes.jp/a/?c=53327&f=d53327-256-9b383d8df61bd00c72d3e8dd5aaa1014.pdf&r=256（已读；第2页逐曲列出新增授权曲；版本2023-09-20上线）
 
-RemyWiki 页面未能直接访问，标题、艺术家、BPM、等级与节点数由 jubeat@Wiki 曲目专页读取，并和 BEMANICN、Otoge Station 的收录信息交叉核对。动画使用集数、首播／MV 日期等作品侧细节主要依据 wiki 与音乐资料站记载；未在本次检索中找到 Konami 官方页面逐项列出所有谱面参数，故不额外推定。
+### 核验边界与待补
 
-## 32. 少女レイ
+- 4根为发行声明、独立采访、游戏参数、上线公告；并非4份采访。
+- jubeat翻唱归属目前仅社区，录音人员完整名单未核。
+- 原稿东京夜景、随机相遇、约会标题解释无直接证据，撤去。
+- Natalie natori04/page/3 403已停止，不采其搜索摘要。
 
-**曲目档案**
+<a id="arcade-11000111-shared"></a>
+## 少女レイ
+
+- 统一曲库 ID：`arcade:11000111`
+- 原章节编号与标题：32. 少女レイ
+
+### 曲目档案
 
 - 标题：少女レイ
-- 统一曲库 ID：`arcade_11000111`
-- 艺术家：みきとP
-- BPM：130
-- 谱面难度与节点数：BASIC 1 / 96；ADVANCED 4 / 228；EXTREME 7 / 416
+- 艺人：みきとP
+- BPM：原稿/jubeat Wiki为130，sonicy版本表为150；公开社区异文未裁定。[2][4]
+- BASIC 1/96、ADVANCED 4/228、EXTREME 7/416；游戏长度社区记1:33。[2]
 
-**背景知识**
+### 创作与制作背景
 
-《少女レイ》是みきとP 于 2018 年 7 月 18 日投稿的 VOCALOID 曲，以透明的少女形象、青涩情感和“灰色”的视觉印象著称，是初音ミク系流行曲中被多次翻唱与跨平台收录的代表作品之一。进入 jubeat beyond the Ave. 后，它属于通常收录的 VOCALOID／流行曲类，谱面结构重视主歌切分与副歌旋律的节奏呼应。
+みきとP在2019年采访中说明，歌曲最初是为夏季 VOCALOID 合辑《EXIT TUNES PRESENTS Vocaloseasons feat.初音ミク～Summer～》写作。灵感来自野岛伸司编剧的电视剧《人間・失格～たとえばぼくが死んだら》，而非仅凭同名联想的小说；剧中持续的蝉声留下强烈夏日印象。[1]
 
-**jubeat beyond the Ave. 位置**
+他记得童年观看该剧的冲击，也受剧中 Simon & Garfunkel 的《A Hazy Shade of Winter》影响，因此本曲不用电吉他而用原声吉他。标题形成前，他想到剧中角色大场诚的亡灵；关系扭曲、失去重要之人后的罪疚，是他对歌曲叙事的说明。这是创作谈，不应解释为作者自身经历。[1]
 
-歌曲为通常收录曲，可在曲库中按 VOCALOID／流行曲分类或标题检索。jubeat@Wiki 未记载其需要通过活动、LIGHT CHAT 或 BONUS TUNE 解禁。
+### jubeat 收录与版本
 
-**资料来源**
+社区记MV2018-07-18公开。[2] KONAMI 2023-09-20上线新闻稿第2页列本曲及 Licensed by mikitoP，足以补齐旧稿“追加时间无可靠来源”的缺口。[3]
 
-1. RemyWiki：少女レイ，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：少女レイ，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Otoge Station：少女レイ 乐曲介绍，访问日期 2026-11-01。
-5. 音ゲーステーション：少女レイ 收录页，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. ぴあ刊载 Real Sound 2019-03-12 みきとP访谈：https://lp.p.pia.jp/article/news/40934/index.html（已读；夏季合辑委托；野岛电视剧启发；蝉声夏日意象；Simon&Garfunkel影响原声吉他选择；亡灵与罪疚叙事）
+2. jubeat Wiki 少女レイ：https://w.atwiki.jp/jubeat/pages/2342.html（已读；MV2018-07-18；130BPM；1/4/7及96/228/416；1:33）
+3. KONAMI 2023-09-20 稼动新闻稿 PDF 第2页：https://prtimes.jp/a/?c=53327&f=d53327-256-9b383d8df61bd00c72d3e8dd5aaa1014.pdf&r=256（已读；第2页逐曲列出新增授权曲；版本2023-09-20上线）
+4. sonicy Ordered by Version 少女レイ行：https://w.atwiki.jp/sonicy_memo/pages/4.html（已读；该行BPM150与jubeatWiki130异文；等级1/4/7）
 
-RemyWiki 页面未能直接访问。谱面参数来自 jubeat@Wiki；投稿日期与原曲属性由音ゲーステーション及音乐资料站核对。VOCALOID 歌词解释与流行度描述属于背景概述，未逐句核对歌词；无可靠来源说明其在 beyond the Ave. 内的追加时间，因此未填写。
+### 核验边界与待补
 
-## 33. Thanatøs
+- 最低3根为原访谈、游戏参数、官方上线公告；两个社区参数页保守同根。
+- 未以不同站点转载同一访谈重复计数；创作故事只作摘要，不照译全文。
+- BPM130/150异文保留，尚无官方参数或本轮实测裁定。
 
-**曲目档案**
+<a id="arcade-11000114-shared"></a>
+## Thanatøs
+
+- 统一曲库 ID：`arcade:11000114`
+- 原章节编号与标题：33. Thanatøs
+
+### 曲目档案
 
 - 标题：Thanatøs
-- 统一曲库 ID：`arcade_11000114`
-- 艺术家：RoughSketch
-- BPM：200
-- 谱面难度与节点数：LIGHT CHAT HOLD 谱面 BASIC 8 / 856；ADVANCED 10.4 / 1049；EXTREME 10.9 / 1219
+- 艺人：RoughSketch
+- BPM200；长度2:01；HOLD等级8/10.4/10.9、节点856/1049/1219。[1]
 
-**背景知识**
+### 创作与制作背景
 
-Thanatøs 为 RoughSketch 创作，曲名来自希腊神话中的死亡之神“タナトス”。该曲作为 KONAMI Arcade Controllers 2023 决赛舞台的告知曲目登场，随后经 LIGHT CHAT「SAM」相关剧情解禁。音乐上采用 RoughSketch 标志性的高速鼓组与电子硬核推进，三级 HOLD 谱面密度极高，是 beyond the Ave. 中需要长时间维持操作的高强度曲目。
+IOSYS作者履历明确将本曲列为 RoughSketch 提供给 jubeat 的商业作品。[2] 官方2023-11-27新闻将它与 LIGHT CHAT 的 SAM 配对，以四人协力完成“完美祈祷”提示解锁。[3] 社区进一步记录11月25日大会公告与11月30日首次实际披露的区别；这不是同一个日期口径。[1]
 
-**jubeat beyond the Ave. 位置**
+2026-10-07发行的《jubeat Ave. & beyond the Ave. ORIGINAL SOUNDTRACK SELECTION》将本曲列于 Disc3 第10轨，音源时长2:02，不能用来覆盖社区的游戏长度2:01。[4] 本轮未取得 RoughSketch 对本曲作曲或音色设计的直接说明；曲名的神话联想也不足以证明作者以某段神话作曲。
 
-该曲归入 LIGHT CHAT 解禁曲目线，通过「SAM」剧情达成后开放，并仅提供 HOLD 谱面。jubeat@Wiki 记录其在 2023 年 11 月 25 日 KAC 决赛舞台作为告知曲登场，未记录其有其他常时入口。
+### jubeat 收录与版本
 
-**资料来源**
+社区记载常设 LIGHT CHAT SAM；最初接收条件为四人同曲同谱游玩 pray nightly EXT 并全员 EXCELLENT，亦可传导。官方只公开谜语提示，具体解法须标社区层级。[1][3]
 
-1. RemyWiki：Thanatøs，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Thanatøs，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. LIGHT CHAT 解禁曲，访问日期 2026-11-01。
-4. Konami 官方 KAC 2023 活动页，访问日期 2026-11-01。
-5. koramusic／OTOTOY：RoughSketch Thanatøs 音源页，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. jubeat Wiki Thanatøs：https://w.atwiki.jp/jubeat/pages/2362.html（已读；参数200/2:01；HOLD8/10.4/10.9；11月25公告与11月30披露；SAM解法）
+2. IOSYS RoughSketch/uno商业作品履历：https://www.iosysos.com/creator-uno.html（已读；jubeat商业作品栏明确列Thanatøs/RoughSketch）
+3. jubeat 2023-11-27 SAM公告：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2023.11.27&update_no=120（已读；SAM对应Thanatøs；四人完美祈祷提示）
+4. OTOTOY jubeat Ave. & beyond OST SELECTION：https://ototoy.jp/_/default/p/4272113（已读；2026-10-07发行；Disc3第10轨Thanatøs/RoughSketch 2:02）
 
-RemyWiki 页面未能直接访问。BPM、HOLD 难度、节点数和解禁角色来自 jubeat@Wiki；KAC 登场性质由官方活动页与 BEMANICN 交叉核对。音源平台链接仅确认作品存在，不代表本曲在所有地区商店同步上架。未找到官方页面完整公开解禁步骤细节，故不推定具体流程。
+### 核验边界与待补
 
-## 34. ちゅ、多様性。
+- 3根为社区参数、游戏公告、原作信用（作者履历与后续唱片保守合根）。
+- 未读到作者作曲动机，不将高难谱面、冥界称号转写成制作指示。
+- FanSite21078876只有正文标题与日期可见，曲目正文未呈现，不另计；采用实际可读游戏新闻窗口。
 
-**曲目档案**
+<a id="arcade-11000115-shared"></a>
+## ちゅ、多様性。
+
+- 统一曲库 ID：`arcade:11000115`
+- 原章节编号与标题：34. ちゅ、多様性。
+
+### 曲目档案
 
 - 标题：ちゅ、多様性。
-- 统一曲库 ID：`arcade_11000115`
-- 艺术家：ano
-- BPM：153
-- 谱面难度与节点数：BASIC 2 / 123；ADVANCED 6 / 287；EXTREME 9.0 / 534
+- 艺人：ano
+- 原曲信用：あの与真部脩一作词、真部作曲、TAKU INOUE编曲。[1]
+- 配信2022-11-23；游戏BPM153，等级2/6/9.0、节点123/287/534。[1][3]
 
-**背景知识**
+### 创作与制作背景
 
-这是 ano 演唱的《电锯人》第 7 话片尾曲，标题把“接吻”与“多様性”并置，以轻快而略带失控的语感表现角色关系的暧昧与冲撞。歌曲随 2022 年 11 月 24 日动画 ED 公开后引发讨论，之后作为动画／流行曲收录至 jubeat beyond the Ave.。
+本曲专为《チェンソーマン》第7话片尾写作。ano在采访中解释，她希望回应这一集特有的混乱场景，以可爱、流行的外观搭配混沌歌词，而不是重复其他人的帅气路线。制作从电视长度开始，她先有歌词想法，真部传来旋律后她重新填词，两人再来回修改三四次；副歌的谐音句也是听到旋律后才形成。中文感词汇并非预先的“中国风”策划，而是从起句的音响与文字游戏逐渐扩展。[1]
 
-**jubeat beyond the Ave. 位置**
+电视东京的MV现场报道还记录：舞蹈由パワーパフボーイズ编排，练习的四天后进入拍摄。被问及标题的“多样性”，ano用自己的多面活动回答，但强调每次都是同一个自己，只是眼前做的事情不同。[2] 这是本人对标题的解释，不宜泛化成未经证实的社会运动宣言。
 
-歌曲为通常收录曲，可在曲库中按动画／流行曲分类检索。jubeat@Wiki 未记录其有专属解禁活动或额外谱面。
+### jubeat 收录与版本
 
-**资料来源**
+KONAMI上线新闻稿第2页列本曲及 TOY’S FACTORY授权，确认2023-09-20加入。[4] 参数与动画/流行分类由社区表支持。[3]
 
-1. RemyWiki：ちゅ、多様性。，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：ちゅ、多様性。，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami PRTimes 新闻稿：2023 年 9 月 20 日追加曲目公告，访问日期 2026-11-01。
-5. J-POP タイムトラベラー：《电锯人》ED 使用记录，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. Billboard JAPAN ano逐曲访谈：https://www.billboard-japan.com/special/detail/3749（已读；第7话委托；词曲编信用；旋律后填词与三四次修改；谐音/中文词自然形成；11月23发行）
+2. 电视东京 2022-12-07 MV拍摄密着：https://www.tv-tokyo.co.jp/plus/entertainment/entry/2022/027093.html（已读；パワーパフボーイズ编舞；练习的四天后拍摄；ano解释多样性标题）
+3. jubeat Wiki ちゅ、多様性。：https://w.atwiki.jp/jubeat/pages/2338.html（已读；BPM153；等级2/6/9.0、节点123/287/534；动画及流行分类）
+4. KONAMI 2023-09-20稼动新闻稿第2页：https://prtimes.jp/a/?c=53327&f=d53327-256-9b383d8df61bd00c72d3e8dd5aaa1014.pdf&r=256（已读；新增曲名单与TOYS FACTORY授权）
 
-RemyWiki 页面未能直接访问。谱面与动画对应集数由 jubeat@Wiki 核对，追加时间由 Konami 新闻稿确认。歌词与角色主题的描述为背景概述，不作为 gameplay 数据。除已列出的三级谱面外，未发现该曲在 beyond the Ave. 内另有 HOLD 或特殊谱面的可靠记载。
+### 核验边界与待补
 
-## 35. 幻想リフレクト
+- 4根：独立音乐采访、电视台现场、社区、官方上线。
+- Natalie ano03访问403已停，不把其搜索摘要中真部的说法采为已读采访。
+- 制作故事不混同同页后半另一曲《普変》。
 
-**曲目档案**
+<a id="arcade-11000116-shared"></a>
+## 幻想リフレクト
+
+- 统一曲库 ID：`arcade:11000116`
+- 原章节编号与标题：35. 幻想リフレクト
+
+### 曲目档案
 
 - 标题：幻想リフレクト
-- 统一曲库 ID：`arcade_11000116`
-- 艺术家：イルカブ
-- BPM：138
-- 谱面难度与节点数：BASIC 3 / 189；ADVANCED 5 / 293；EXTREME 8 / 603
+- 艺人：イルカブ
+- 作曲wac；词与编曲生田真心目前由OST曲评译录支持；歌手身份未核。[1][2]
+- BPM138，等级3/5/8、节点189/293/603。[1]
 
-**背景知识**
+### 创作与制作背景
 
-《幻想リフレクト》原出自 REFLEC BEAT 初代，由 wac 创作，本作以“イルカブ”名义表示该 BEMANI 系列歌曲在 jubeat 侧的移植版本。曲风以明亮旋律、钢琴与电子节奏交织，保留了 REFLEC BEAT 时代对 Top Object 与 Just Reflec 概念的想象，但 jubeat 谱面按本作触板机制重制。
+这是初代 REFLEC BEAT 的移植歌，而非2023年才诞生的 jubeat 委托曲。[1] 目前实际读到的制作故事是第三方韩文译录的 wac 原声带曲评：他本以为相关工作已结束，在时间紧迫时接到追加委托；YOSHITAKA提议让专业人士负责歌词与编曲，最终由仅有旋律和钢琴的草稿发展为成品。[2]
 
-**jubeat beyond the Ave. 位置**
+译录还说，歌词阶段已先定标题，交给合作方扩展。因此可以谨慎描述“旋律草稿与后续填词编曲分工”的制作流程，但日文原册尚未核到，不能写成已亲读wac原文。官方2012-01-25发布稿已明确本曲进入 REFLEC BEAT plus MUSIC PACK 08，提供早于 jubeat 移植十余年的发行节点。[3]
 
-歌曲属于 REFLEC BEAT 移植线，通过 LIGHT CHAT「MIKAGAMI」剧情解禁。jubeat@Wiki 未记录其在 beyond the Ave. 中另有活动限定版本。
+### jubeat 收录与版本
 
-**资料来源**
+社区记载 beyond the Ave. 常设 LIGHT CHAT MIKAGAMI 解锁；游戏背景以276脉动而显示BPM138。两者不要误写成曲速变更。[1]
 
-1. RemyWiki：幻想リフレクト，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：幻想リフレクト，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. LIGHT CHAT 解禁曲，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／e-amusement 投稿，访问日期 2026-11-01。
-5. REFLEC BEAT 相关官方曲目页，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. jubeat Wiki 幻想リフレクト：https://w.atwiki.jp/jubeat/pages/2348.html（已读；初代REFLEC移植；wac；138与背景276；等级3/5/8及189/293/603；MIKAGAMI）
+2. readonly 幻想リフレクト：OST曲评韩译：https://readonly.wiki/w/幻想リフレクト（已读；译录署wac；紧迫追加委托；YOSHITAKA提议专业歌词编曲；旋律钢琴草稿发展；生田真心词编）
+3. 4Gamer刊载KONAMI 2012-01-25 REFLEC plus公告：https://www.4gamer.net/games/104/G010489/20120125021/（已读；2012-01-25 MUSIC PACK08发行并列本曲）
 
-RemyWiki 页面未能直接访问。移植归属、LIGHT CHAT 角色与谱面参数以 jubeat@Wiki 为准，并经 BEMANICN 和官方 BEMANI 页面核对曲名存在。REFLEC BEAT 原版玩法与 jubeat 谱面设计没有一一对应，因此不描述具体判定差异。未取得完整的原版初出日期官方来源时，不在本条目重复填入。
+### 核验边界与待补
 
-## 36. Krack Your Soul
+- 3根为游戏参数、原册评论译录、独立移动版发布公告，不把译录算独立采访。
+- readonly网页工具未取到，普通GET200正文已读并缓存；原日文booklet未见，不升级为直接证词。
+- 未确定イルカブ演唱者身份，不能把署名一概当作wac演唱。
 
-**曲目档案**
+<a id="arcade-11000117-shared"></a>
+## Krack Your Soul
+
+- 统一曲库 ID：`arcade:11000117`
+- 原章节编号与标题：36. Krack Your Soul
+
+### 曲目档案
 
 - 标题：Krack Your Soul
-- 统一曲库 ID：`arcade_11000117`
-- 艺术家：Daisuke Ohnuma
-- BPM：130
-- 谱面难度与节点数：BASIC 3 / 248；ADVANCED 7 / 461；EXTREME 9.7 / 726
+- 艺人：Daisuke Ohnuma
+- 来源：MÚSECA 1+1/2移植；jubeat BPM130、等级3/7/9.7、节点248/461/726。[2]
+- 原游戏美术：H.Tsuchida。[4]
 
-**背景知识**
+### 创作与制作背景
 
-《Krack Your Soul》原出自 MÚSECA 1+1/2，由 Daisuke Ohnuma 创作，后在 jubeat beyond the Ave. 作为系列移植曲收录。曲目保留了 MÚSECA 系曲偏好的紧致鼓组、 glitch 音色与 soul／breaks 气质，EXTREME 谱面通过密集的同步点与局部高速段传达原作的压迫感。
+Daisuke Ohnuma在官方获奖曲评里明确把这首参赛曲称为送给“未来的beatmania”的作品。他初见 MÚSECA 时，将五条轨道、可按也可转的五个spinner，以及脚踏、耳机端子联想到旧beatmania与beatmania III，于是在个人想象中称新机种为“BeatmaniaⅣ”。1997年的革新曾打动作为玩家的自己，参赛正是对DJ模拟游戏的致意。[1]
 
-**jubeat beyond the Ave. 位置**
+“BeatmaniaⅣ”是作者在曲评里的比喻，不是 MÚSECA 的正式名称或官方续作认定。游戏曲表给出H.Tsuchida插画署名；另有《MÚSECA 1+1/2 ORIGINAL SOUNDTRACK》收录目录。[3][4]
 
-歌曲归入 MÚSECA 移植线，通过 LIGHT CHAT「ROLLER-BOY」剧情解禁。jubeat@Wiki 记录其波段归属与三级谱面，未记载另有活动追加版本。
+### jubeat 收录与版本
 
-**资料来源**
+jubeat常设 LIGHT CHAT ROLLER-BOY 解锁；为移植而非 jubeat首次委托。[2]
 
-1. RemyWiki：Krack Your Soul，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Krack Your Soul，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. LIGHT CHAT 解禁曲，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／e-amusement 投稿，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. MÚSECA Compe. シュクコン：Daisuke Ohnuma本人获奖评论：https://p.eagate.573.jp/game/museca/compe/competition/02_syukucon/music/award.html?page=9（已读；1997beatmania玩家记忆；五spinner/踏板/耳机联想；献给未来beatmania的参赛意图）
+2. jubeat Wiki Krack Your Soul：https://w.atwiki.jp/jubeat/pages/2351.html（已读；MUSECA1+1/2移植；130及3/7/9.7、248/461/726；ROLLER-BOY）
+3. 官方MÚSECA 1+1/2 OST目录：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=129&game_id=9（已读；曲表列Krack Your Soul/Daisuke Ohnuma）
+4. MÚSECA 1+1/2官方游戏曲表：https://p.eagate.573.jp/game/museca/msc_1half/music/index.html?filter=2&page=2&sort_type=0（已读；曲名/艺人及H.Tsuchida插画）
 
-RemyWiki 页面未能直接访问。谱面难度、节点数与解禁角色由 jubeat@Wiki读取，并通过 BEMANICN、官方 BEMANI 信息核对。MÚSECA 原作中曲名、谱面与其他平台表现不在此推断；未找到 Krack Your Soul 的官方乐曲解说页，故不填入官方文案。
+### 核验边界与待补
 
-## 37. Stylus
+- 最低3根为获奖评论、jubeat参数、独立OST目录；原游戏信用附证不额外计。
+- 手机音乐目录网页提取漏曲表，普通GET200全文已读。
+- 未凭曲题字面推定灵魂破裂等叙事；保留作者明确的机种与玩家情怀。
 
-**曲目档案**
+<a id="arcade-11000118-shared"></a>
+## Stylus
+
+- 统一曲库 ID：`arcade:11000118`
+- 原章节编号与标题：37. Stylus
+
+### 曲目档案
 
 - 标题：Stylus
-- 统一曲库 ID：`arcade_11000118`
-- 艺术家：BEMANI Sound Team "HuΣeR"
-- BPM：165
-- 谱面难度与节点数：LIGHT CHAT HOLD 谱面 BASIC 5 / 335；ADVANCED 9.0 / 587；EXTREME 10.0 / 754
+- 艺人：BEMANI Sound Team "HuΣeR"
+- BPM165；HOLD等级5/9.0/10.0、节点335/587/754。[1]
 
-**背景知识**
+### 创作与制作背景
 
-Stylus 由 BEMANI Sound Team "HuΣeR" 创作，作为 KONAMI Arcade Controllers 2023 予选ラウンド B 的告知曲登场，随后通过 LIGHT CHAT「SMITH-2」剧情解禁。曲名指向书写用笔尖，音乐上以利落的高频音色与规整鼓点呼应主题；在 jubeat 中只有 HOLD 谱面，强调持续按压而非普通点触。
+本曲与KAC2023赛事关系有官方佐证：pop’n移植公告明确称它此前作为KAC2023预选课题曲登场，并公布2024-02-22加入 UniLab。[3] 社区跨机种史记录其先在IIDX、jubeat与SDVX的预选期间开放，后进入Lively及街机pop’n；这属于发行与赛事背景，并非HuΣeR对创作过程的说明。[2]
 
-**jubeat beyond the Ave. 位置**
+asagaolabo的独立曲评把它描述为华丽电子风格，指出中段合成器琶音和女性声音采样。这是评论者的听感，不是作者证实的采样来源，也不能从标题臆造触控笔或唱针创作故事。[2]
 
-本曲在 LIGHT CHAT 解禁线中出现，完成「SMITH-2」相关剧情后开放，且仅提供 HOLD 谱面。KAC 2023 予选ラウンド B 的告知身份由官方活动信息与 wiki 记载一致。
+后来的官方《NOIXIA》曲评中，HuΣeR本人回顾了“STYLISH ○○”这一系列，明确把《Rejection Girl》《Onyx》《Stylus》列为其逐步精炼的作品。他解释这一命名框架会把参考曲风、自己偏好的声音处理、适合IIDX游玩的音符数量，以及自己听来有吸引力的效果结合起来；曲风标签也兼具世界观副标题的作用。[4] 这是作者后来明确点名本曲的系列创作回顾，而非《Stylus》的逐轨工程记录；不能把他举例的剪切、钢琴、吉他逐项断言为本曲实际使用的制作手段，也不据此推定jubeat谱面由他制作。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：Stylus，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Stylus，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. LIGHT CHAT 解禁曲，访问日期 2026-11-01。
-4. Konami 官方 KAC 2023 活动页，访问日期 2026-11-01。
-5. Konami BEMANI Fan Site／e-amusement 投稿，访问日期 2026-11-01。
+社区记载KAC2023预选B、限时 LIGHT CHAT SMITH-2。HOLD参数据专页；后续BONUS TUNE开放由跨机种史记2024年9月，未用它冒充最初公开日期。[1][2]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、HOLD 难度、节点数与解禁角色来自 jubeat@Wiki；KAC 告知身份由官方活动页与 BEMANICN 交叉确认。未查得官方对曲目主题或创作意图的说明，故音乐意象仅作为概述，不引用未确认的官方文案。
+1. jubeat Wiki Stylus：https://w.atwiki.jp/jubeat/pages/2346.html（已读；预选B、SMITH-2、165及HOLD5/9/10、335/587/754）
+2. asagaolabo Stylus曲评与跨机种史：https://w.atwiki.jp/asagaolabo/pages/5681.html（已读；合成器琶音/女性采样的评论者描述；IIDX/jubeat/SDVX及后续popn发行区别）
+3. pop’n UniLab 2024-02-21公告：https://p.eagate.573.jp/game/popn/unilab/custom/index.html（已读；2月22日追加Stylus；明确KAC2023预选课题曲）
 
-## 38. QQ
+4. KONAMI：NOIXIA／HuΣeR本人曲评：https://p.eagate.573.jp/game/2dx/32/newsong/song66.html（实际读取264–293行；后来系列回顾，非本曲工程清单）
 
-**曲目档案**
+### 核验边界与待补
+
+- 3根为游戏参数、独立曲评、popn移植公告。
+- 已补本人点名Stylus的系列创作回顾；本曲逐轨工程、采样来源与具体委托过程仍缺直接证词。
+- 其他机种难度不混入jubeat参数。
+
+<a id="arcade-11000119-shared"></a>
+## QQ
+
+- 统一曲库 ID：`arcade:11000119`
+- 原章节编号与标题：38. QQ
+
+### 曲目档案
 
 - 标题：QQ
-- 统一曲库 ID：`arcade_11000119`
-- 艺术家：BEMANI Sound Team "PHQUASE & ZAQUVA"
-- BPM：199
-- 谱面难度与节点数：BASIC 5 / 399；ADVANCED 9.9 / 699；EXTREME 10.7 / 999
+- 艺人：BEMANI Sound Team "PHQUASE & ZAQUVA"
+- 合作署名：BEMANI Sound Team "PHQUASE & ZAQUVA"。[2]
+- BPM199；等级5/9.9/10.7，节点399/699/999。[1]
 
-**背景知识**
+### 创作与制作背景
 
-QQ 由 BEMANI Sound Team "PHQUASE & ZAQUVA" 共同创作，属于 KONAMI Arcade Controllers 2023 予选ラウンド B 告知曲，之后经 LIGHT CHAT「SMITH-3」剧情解禁。曲目以急促的高频重复、电子节奏与接近 200 BPM 的推进为特征，谱面节点数也刻意形成 399／699／999 的递进。
+本曲是PHQUASE与ZAQUVA合作署名的KAC2023相关解禁曲。官方2023-09-21公告将它列为限时 LIGHT CHAT SMITH-3奖励，并说明这一入口也可解禁预选B课题曲。[2] 这些证据能证明合作与赛事发行语境，却不能说明两人如何分工，也未证实两个Q分别取自艺名的流行解释。
 
-**jubeat beyond the Ave. 位置**
+之后官方在2024-10-01另发公告，将本曲与ROCK THE PARTY加入 BONUS TUNE，可游玩三次解禁。[3] 这是后续获取路径变更，不能误作本曲初发日期。
 
-本曲在 LIGHT CHAT 解禁线中出现，完成「SMITH-3」相关剧情后开放。jubeat@Wiki 未记录其提供 HOLD 或其他额外谱面。
+### jubeat 收录与版本
 
-**资料来源**
+社区参数为199、5/9.9/10.7与399/699/999；限时初发和后续常设获取方式分开记录。[1–3]
 
-1. RemyWiki：QQ，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：QQ，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. LIGHT CHAT 解禁曲，访问日期 2026-11-01。
-4. Konami 官方 KAC 2023 活动页，访问日期 2026-11-01。
-5. Konami BEMANI Fan Site／e-amusement 投稿，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. jubeat Wiki QQ：https://w.atwiki.jp/jubeat/pages/2347.html（已读；BPM199；等级5/9.9/10.7与399/699/999）
+2. jubeat 2023-09-21 SMITH-3公告：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2023.09.21&update_no=120（已读；合作署名PHQUASE&ZAQUVA；9月21限时SMITH-3及KAC预选B）
+3. jubeat 2024-10-01 BONUS TUNE公告：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.10.01&update_no=100（已读；QQ与ROCK THE PARTY加入；三次游玩解禁）
 
-RemyWiki 页面未能直接访问。谱面参数与解禁角色来自 jubeat@Wiki，KAC 活动归属由官方活动页确认。节点数 399／699／999 虽有 wiki 记载，但官方页面未逐项说明设计意图，因此不作“刻意呼应”以外的推定。未找到该曲的完整歌词或官方解说，背景描述不涉及超出曲风的内容。
+### 核验边界与待补
 
-## 39. [ ]DENTITY
+- 3份独立文献为社区、初发公告、后续开放公告；不声称3个独立机构。
+- 未获双方直接制作评论；不采中文同人谱面介绍为作者证词。
+- ZAQUVA身份与一般生涯文章不充当本曲第三创作源。
 
-**曲目档案**
+<a id="arcade-11000120-shared"></a>
+## [ ]DENTITY
+
+- 统一曲库 ID：`arcade:11000120`
+- 原章节编号与标题：39. [ ]DENTITY
+
+### 曲目档案
 
 - 标题：[ ]DENTITY
-- 统一曲库 ID：`arcade_11000120`
-- 艺术家：BEMANI Sound Team "HuΣeR"
-- BPM：200
-- 谱面难度与节点数：LIGHT CHAT HOLD 谱面 BASIC 5 / 427；ADVANCED 9.3 / 757；EXTREME 10.7 / 1040
+- 艺人：BEMANI Sound Team "HuΣeR"
+- BPM：200。[1]
+- 谱面难度 BSC / ADV / EXT：5 / 9.3 / 10.7；节点数：427 / 757 / 1040。[1]
+- 版本性质：2022 年跨机种 Mix 曲，后移植 beyond the Ave.。[1–3]
 
-**背景知识**
+### 创作与制作背景
 
-[ ]DENTITY 是 BEMANI Sound Team "HuΣeR" 创作的“いちかのごちゃまぜMix UP！”Mix 曲，将其他 BEMANI 平台的乐曲素材与新的节奏层组合，名称以“identity”的视觉变体暗示“身份被括号填补”的混音概念。jubeat@Wiki 记录其混合素材包括 beatmania IIDX 的 perditus†paradisus 与 SOUND VOLTEX 的 I，并在 jubeat 中以 HOLD 谱面呈现。
+《[ ]DENTITY》不是为 beyond the Ave. 首次写成的独立新作，而是 2022 年“いちかのごちゃまぜMix UP！”的混合改编曲。社区逐曲记录明确其两份素材为IIDX 的《perditus†paradisus》与 SOUND VOLTEX 的《I》；官方移动音乐目录也把本曲列入这一企划的专辑。[1][3]
 
-**jubeat beyond the Ave. 位置**
+该活动官方说明中，“Mix 楽曲”指互相移植的两首曲目进一步混合形成的新曲，而非简单将一首原曲原样移入另一游戏。这能解释本曲的委托框架，但不能代替作者对具体配器、采样、选曲或标题寓意的说明；本轮尚未取得对应作者的逐曲创作访谈。[4]
 
-本曲属于“いちかのごちゃまぜMix UP！”线，按 BONUS TUNE 游玩 3 次后解禁。该 Mix 曲线与通常 LIGHT CHAT 剧情解禁不同，jubeat@Wiki 未记录其需要额外活动票或活动期限。
+该曲只有 HOLD 谱面；标题读作“アイデンティティ”，并非サカナクション的同名歌曲。[1]
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：[ ]DENTITY，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：[ ]DENTITY，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. BONUS TUNE 解禁曲，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／e-amusement 投稿，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+官方公告确定 2024-04-01 进入 BONUS TUNE，游玩 3 次解禁。[2] 2022 年 Mix 企划的起源、2024 年本作的追加、移动音乐目录的发行收录是不同事件，不把追加日期说成作曲日期。
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。Mix 原曲、BONUS TUNE 条件、HOLD 谱面与节点数来自 jubeat@Wiki；收录存在性由 BEMANICN 与 Otoge Station 核对。Konami 官方页面未能确认逐项谱面数据，因此不把 wiki 参数视为官方独立确认。曲名读音“アイデンティティ”依据 wiki 记载，未在本次找到官方注音来源。
+1. jubeat@Wiki：[ ]DENTITY：https://w.atwiki.jp/jubeat/pages/2404.html（已读；混合素材：IIDX 的《perditus†paradisus》与 SOUND VOLTEX 的《I》；BPM200，等级5 / 9.3 / 10.7，节点427 / 757 / 1040；该曲只有 HOLD 谱面；标题读作“アイデンティティ”，并非サカナクション的同名歌曲。）
+2. KONAMI：2024.04.01 BONUS TUNE 追加：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.04.01&update_no=100（已读；[ ]DENTITY当日追加，3次游玩解禁）
+3. KONAMI ULTIMATE MOBILE：いちかのごちゃまぜMix UP！：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=198&game_id=10（已读；[ ]DENTITY及艺人列于企划专辑）
+4. KONAMI：いちかのごちゃまぜMix UP！玩法说明：https://p.eagate.573.jp/game/bemani/gmz2022/（已读；水色槽交换曲目；粉色槽解锁两曲混合的新曲，仅作企划定义）
 
-## 40. White Stream
+### 核验边界与待补
 
-**曲目档案**
+- 尚无作者亲述本曲具体制作过程；不将曲名意象、玩家听感或称号解释升级成作曲动机。
+- 最低三文献为社区逐曲记录、2024追加公告、音乐出版目录；一般企划规则只作上下文不计最低三源。
+- BEMANICN访问403未读取、不计；未能打开的IIDX曲评猜测入口也不计。
+
+<a id="arcade-11000121-shared"></a>
+## White Stream
+
+- 统一曲库 ID：`arcade:11000121`
+- 原章节编号与标题：40. White Stream
+
+### 曲目档案
 
 - 标题：White Stream
-- 统一曲库 ID：`arcade_11000121`
-- 艺术家：BEMANI Sound Team "ZAQUVA"
-- BPM：222
-- 谱面难度与节点数：BASIC 4 / 332；ADVANCED 8 / 622；EXTREME 10.4 / 966
+- 艺人：BEMANI Sound Team "ZAQUVA"
+- BPM：222。[1]
+- 谱面难度 BSC / ADV / EXT：4 / 8 / 10.4；节点数：332 / 622 / 966。[1]
+- 版本性质：2022 年跨机种 Mix 曲，后移植 beyond the Ave.。[1–3]
 
-**背景知识**
+### 创作与制作背景
 
-White Stream 由 BEMANI Sound Team "ZAQUVA" 创作，属于“いちかのごちゃまぜMix UP！”Mix 曲，混合素材包括 SOUND VOLTEX 的 Four Leaves 与 GITADORA 的 Snowmelt。曲名与素材共同构成白色、流动、雪融的意象，音乐则把两首原曲的旋律与 ZAQUVA 的电子编排重新压入 222 BPM 的节奏框架。
+《White Stream》不是为 beyond the Ave. 首次写成的独立新作，而是 2022 年“いちかのごちゃまぜMix UP！”的混合改编曲。社区逐曲记录明确其两份素材为SOUND VOLTEX 的《Four Leaves》与 GITADORA 的《Snowmelt》；官方移动音乐目录也把本曲列入这一企划的专辑。[1][3]
 
-**jubeat beyond the Ave. 位置**
+该活动官方说明中，“Mix 楽曲”指互相移植的两首曲目进一步混合形成的新曲，而非简单将一首原曲原样移入另一游戏。这能解释本曲的委托框架，但不能代替作者对具体配器、采样、选曲或标题寓意的说明；本轮尚未取得对应作者的逐曲创作访谈。[4]
 
-本曲属于“いちかのごちゃまぜMix UP！”线，按 BONUS TUNE 游玩 3 次后解禁。jubeat@Wiki 未记录其提供 HOLD 或其他额外谱面。
+本条是常规谱面，不能因为同批有 HOLD 曲就套用 HOLD 标记。[1]
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：White Stream，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：White Stream，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. BONUS TUNE 解禁曲，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／e-amusement 投稿，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+官方公告确定 2024-03-01 进入 BONUS TUNE，游玩 3 次解禁。[2] 2022 年 Mix 企划的起源、2024 年本作的追加、移动音乐目录的发行收录是不同事件，不把追加日期说成作曲日期。
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。Mix 原曲、BONUS TUNE 条件与谱面参数来自 jubeat@Wiki；收录存在性由 BEMANICN 与 Otoge Station 核对。官方页面未逐项公开谱面数据和解禁文案，因此不补充推定。歌词／原曲意象描述只基于曲目结构与素材名称，不代表官方设定。
+1. jubeat@Wiki：White Stream：https://w.atwiki.jp/jubeat/pages/2399.html（已读；混合素材：SOUND VOLTEX 的《Four Leaves》与 GITADORA 的《Snowmelt》；BPM222，等级4 / 8 / 10.4，节点332 / 622 / 966；本条是常规谱面，不能因为同批有 HOLD 曲就套用 HOLD 标记。）
+2. KONAMI：2024.03.01 BONUS TUNE 追加：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.03.01&update_no=100（已读；White Stream当日追加，3次游玩解禁）
+3. KONAMI ULTIMATE MOBILE：いちかのごちゃまぜMix UP！：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=198&game_id=10（已读；White Stream及艺人列于企划专辑）
+4. KONAMI：いちかのごちゃまぜMix UP！玩法说明：https://p.eagate.573.jp/game/bemani/gmz2022/（已读；水色槽交换曲目；粉色槽解锁两曲混合的新曲，仅作企划定义）
 
-## 41. Kilonova
+### 核验边界与待补
 
-**曲目档案**
+- 尚无作者亲述本曲具体制作过程；不将曲名意象、玩家听感或称号解释升级成作曲动机。
+- 最低三文献为社区逐曲记录、2024追加公告、音乐出版目录；一般企划规则只作上下文不计最低三源。
+- BEMANICN访问403未读取、不计；未能打开的IIDX曲评猜测入口也不计。
+
+<a id="arcade-11000122-shared"></a>
+## Kilonova
+
+- 统一曲库 ID：`arcade:11000122`
+- 原章节编号与标题：41. Kilonova
+
+### 曲目档案
 
 - 标题：Kilonova
-- 统一曲库 ID：`arcade_11000122`
-- 艺术家：BEMANI Sound Team "Yvya"
-- BPM：150
-- 谱面难度与节点数：BASIC 4 / 306；ADVANCED 7 / 594；EXTREME 9.7 / 824
+- 艺人：BEMANI Sound Team "Yvya"
+- BPM：150。[1]
+- 谱面难度 BSC / ADV / EXT：4 / 7 / 9.7；节点数：306 / 594 / 824。[1]
+- 版本性质：2022 年跨机种 Mix 曲，后移植 beyond the Ave.。[1–3]
 
-**背景知识**
+### 创作与制作背景
 
-《Kilonova》是 BEMANI Sound Team "Yvya" 在 jubeat beyond the Ave. 中收录的曲目，属于跨作品混合企划的一环。曲名“Kilonova”借用了千新星这一天文现象，寓意爆裂与余韵并存。该曲在音乐结构上糅合了多首 BEMANI 系列曲目的元素，整体保持较高的能量输出，谱面也相应以节奏密集的点触为主。
+《Kilonova》不是为 beyond the Ave. 首次写成的独立新作，而是 2022 年“いちかのごちゃまぜMix UP！”的混合改编曲。社区逐曲记录明确其两份素材为GITADORA 的《キヤロラ衛星の軌跡》与 DDR 的《Pursuer》；官方移动音乐目录也把本曲列入这一企划的专辑。[1][3]
 
-**jubeat beyond the Ave. 位置**
+该活动官方说明中，“Mix 楽曲”指互相移植的两首曲目进一步混合形成的新曲，而非简单将一首原曲原样移入另一游戏。这能解释本曲的委托框架，但不能代替作者对具体配器、采样、选曲或标题寓意的说明；本轮尚未取得对应作者的逐曲创作访谈。[4]
 
-本曲在 beyond the Ave. 中作为跨作品混合曲收录，玩家可以在曲目选择界面通过相应活动或解禁线找到。jubeat@Wiki 记录其三级谱面与节点数，BEMANICN 与官方公告也确认了它在 beyond the Ave. 中的登场时间。
+社区游戏时长记录为 2:05。[1]
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：Kilonova，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Kilonova 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 jubeat beyond the Ave. BONUS TUNE 更新公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+官方公告确定 2024-01-01 进入 BONUS TUNE，游玩 3 次解禁。[2] 2022 年 Mix 企划的起源、2024 年本作的追加、移动音乐目录的发行收录是不同事件，不把追加日期说成作曲日期。
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、谱面难度与节点数来自 jubeat@Wiki 曲目专页，并经 BEMANICN 与官方公告交叉核对。混合原曲及解禁方式基于公开记录整理，但不代表各地区服务器或后续版本完全一致。曲目主题与音乐意象仅为背景概述，未逐段核对官方解说或歌词文本。
+1. jubeat@Wiki：Kilonova：https://w.atwiki.jp/jubeat/pages/2387.html（已读；混合素材：GITADORA 的《キヤロラ衛星の軌跡》与 DDR 的《Pursuer》；BPM150，等级4 / 7 / 9.7，节点306 / 594 / 824；社区游戏时长记录为 2:05。）
+2. KONAMI：2024.01.01 BONUS TUNE 追加：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.01.01&update_no=110（已读；Kilonova当日追加，3次游玩解禁）
+3. KONAMI ULTIMATE MOBILE：いちかのごちゃまぜMix UP！：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=198&game_id=10（已读；Kilonova及艺人列于企划专辑）
+4. KONAMI：いちかのごちゃまぜMix UP！玩法说明：https://p.eagate.573.jp/game/bemani/gmz2022/（已读；水色槽交换曲目；粉色槽解锁两曲混合的新曲，仅作企划定义）
 
-## 42. 新蛇姫
+### 核验边界与待补
 
-**曲目档案**
+- 尚无作者亲述本曲具体制作过程；不将曲名意象、玩家听感或称号解释升级成作曲动机。
+- 最低三文献为社区逐曲记录、2024追加公告、音乐出版目录；一般企划规则只作上下文不计最低三源。
+- BEMANICN访问403未读取、不计；未能打开的IIDX曲评猜测入口也不计。
+
+<a id="arcade-11000123-shared"></a>
+## 新蛇姫
+
+- 统一曲库 ID：`arcade:11000123`
+- 原章节编号与标题：42. 新蛇姫
+
+### 曲目档案
 
 - 标题：新蛇姫
-- 统一曲库 ID：`arcade_11000123`
-- 艺术家：BEMANI Sound Team "U1-ASAMi"
-- BPM：115
-- 谱面难度与节点数：HOLD 谱面 BASIC 3 / 261；ADVANCED 8 / 662；EXTREME 9.8 / 964
+- 艺人：BEMANI Sound Team "U1-ASAMi"
+- BPM：115。[1]
+- 谱面难度 BSC / ADV / EXT：3 / 8 / 9.8；节点数：261 / 662 / 964。[1]
+- 本作追加：2023-12-01。[2]
 
-**背景知识**
+### 创作与制作背景
 
-《新蛇姫》由 BEMANI Sound Team "U1-ASAMi" 创作，是 jubeat beyond the Ave. 中一条以 HOLD 操作为主的跨作品混合曲。曲名带有和风与妖异意象，整体音乐氛围偏向徐缓但厚重的推进，副歌后的节奏变化对 HOLD 判定的把控要求较高。该曲在 MIX 企划中结合了 DDR 与其他 BEMANI 作品的既有素材，形成一条专门为本作重制的曲目线。
+《新蛇姫》的制作背景首先是 2022 年跨机种企划“いちかのごちゃまぜMix UP！”，而非本作刚推出时的单独委托。社区逐曲记录把混合素材具体列为DDR 的《New Decade》与 DANCERUSH 的《BREDLI》；官方企划音乐目录确认本曲以当前艺人名义收入其中。[1][3]
 
-**jubeat beyond the Ave. 位置**
+仅有 HOLD 谱面，未见通常谱面。[1] 原稿所谓专为 jubeat 重制并无证据：这是已有跨机种 Mix 曲的移植，不是因 HOLD 而另写的音乐。
 
-本曲在 beyond the Ave. 中归入 BONUS TUNE 解禁线，玩家完成指定条件后开放。jubeat@Wiki 明确记录该曲仅提供 HOLD 谱面，并给出三级难度与节点数；BEMANICN 与官方公告进一步确认其在本作中的收录状态。
+本轮没有获得作者本人对具体改编步骤、配器选择或标题含义的逐曲说明。现可核的是既存素材的组合关系与后续移植，不将原稿笼统的神秘感、夜色、能量或主副歌听感充作创作故事。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：新蛇姫，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：新蛇姫 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 jubeat beyond the Ave. BONUS TUNE 更新公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+2023-12-01 官方公告明确本曲进入 BONUS TUNE，游玩 3 次即可解禁。[2] 首次 Mix 企划与 beyond the Ave. 的追加须分开记录，不能把后者日期当作音乐诞生日期。
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。HOLD 谱面参数与节点数由 jubeat@Wiki 曲目专页读取，并通过 BEMANICN、官方公告页交叉核对。混合素材的来源与解禁时间基于公开 wiki 与官方记录整理，未逐条追溯原作各版本中的历史变化。和风意象描述基于曲名与整体听感归纳，不引用未确认的官方文案。
+1. jubeat@Wiki：新蛇姫：https://w.atwiki.jp/jubeat/pages/2364.html（已读；两份混合素材：DDR 的《New Decade》与 DANCERUSH 的《BREDLI》；BPM115，等级3 / 8 / 9.8，节点261 / 662 / 964）
+2. KONAMI：2023.12.01 BONUS TUNE：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2023.12.01&update_no=100（已读；新蛇姫当日追加，3次游玩解禁）
+3. KONAMI ULTIMATE MOBILE：いちかのごちゃまぜMix UP！：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=198&game_id=10（已读；新蛇姫与作者名义列于企划专辑）
 
-## 43. Indigo Nocturne
+### 核验边界与待补
 
-**曲目档案**
+- 暂无作者逐曲制作自述；评论者的听感分析与音乐作者意图分开。
+- 最低三文献为社区记录、后续官方追加公告、独立音乐出版目录，不是三份采访。
+
+<a id="arcade-11000124-shared"></a>
+## Indigo Nocturne
+
+- 统一曲库 ID：`arcade:11000124`
+- 原章节编号与标题：43. Indigo Nocturne
+
+### 曲目档案
 
 - 标题：Indigo Nocturne
-- 统一曲库 ID：`arcade_11000124`
-- 艺术家：BEMANI Sound Team "Power Of Nature"
-- BPM：150
-- 谱面难度与节点数：BASIC 4 / 330；ADVANCED 9.4 / 750；EXTREME 10.5 / 990
+- 艺人：BEMANI Sound Team "Power Of Nature"
+- BPM：150。[1]
+- 谱面难度 BSC / ADV / EXT：4 / 9.4 / 10.5；节点数：330 / 750 / 990。[1]
+- 本作追加：2024-02-01。[2]
 
-**背景知识**
+### 创作与制作背景
 
-《Indigo Nocturne》是 BEMANI Sound Team "Power Of Nature" 的跨作品混合曲，曲名可以理解为“靛蓝夜曲”。音乐上带有清晰的夜色质感，鼓点与旋律在主副歌之间形成较明显对比。该曲在 jubeat beyond the Ave. 中以 MIX 曲形式登场，素材来自不同 BEMANI 作品，EXTREME 谱面在速度变化与复合节奏处理上较为吃紧。
+《Indigo Nocturne》的制作背景首先是 2022 年跨机种企划“いちかのごちゃまぜMix UP！”，而非本作刚推出时的单独委托。社区逐曲记录把混合素材具体列为ノスタルジア 的《蒼氷のフラグメント》与 pop’n 的《REcorrection》；官方企划音乐目录确认本曲以当前艺人名义收入其中。[1][3]
 
-**jubeat beyond the Ave. 位置**
+本曲的社区音乐介绍把连续的钢琴旋律与清澈音色作为听感特点，也把两个原曲的睡眠、蓝色意象联系起来。这是评论者的解读，不是 Power Of Nature 已核实的命名自述。[4]
 
-本曲作为跨作品混合曲收录，玩家可以通过 beyond the Ave. 内对应解禁线进入。jubeat@Wiki 记录其三级谱面与节点数，BEMANICN 与官方公告确认其在本作中的收录与解锁背景。
+本轮没有获得作者本人对具体改编步骤、配器选择或标题含义的逐曲说明。现可核的是既存素材的组合关系与后续移植，不将原稿笼统的神秘感、夜色、能量或主副歌听感充作创作故事。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：Indigo Nocturne，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Indigo Nocturne 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 jubeat beyond the Ave. BONUS TUNE 更新公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+2024-02-01 官方公告明确本曲进入 BONUS TUNE，游玩 3 次即可解禁。[2] 首次 Mix 企划与 beyond the Ave. 的追加须分开记录，不能把后者日期当作音乐诞生日期。
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、难度与节点数由 jubeat@Wiki 曲目专页核对，混合素材及解禁背景由 BEMANICN 与官方公告补充确认。曲目情感解读属于背景概述，不代表官方设定或歌词原意。未发现本曲在 beyond the Ave. 内另有 HOLD 谱面的可靠记录。
+1. jubeat@Wiki：Indigo Nocturne：https://w.atwiki.jp/jubeat/pages/2393.html（已读；两份混合素材：ノスタルジア 的《蒼氷のフラグメント》与 pop’n 的《REcorrection》；BPM150，等级4 / 9.4 / 10.5，节点330 / 750 / 990）
+2. KONAMI：2024.02.01 BONUS TUNE：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.02.01&update_no=100（已读；Indigo Nocturne当日追加，3次游玩解禁）
+3. KONAMI ULTIMATE MOBILE：いちかのごちゃまぜMix UP！：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=198&game_id=10（已读；Indigo Nocturne与作者名义列于企划专辑）
+4. ノスしるべ：Indigo Nocturne：https://seesaawiki.jp/nstl/d/Indigo%20Nocturne（已读；钢琴旋律与清澈空气感的听感评论；睡眠与蓝色联系属评论解释，不是作者自述）
 
-## 44. 輪廻の鴉
+### 核验边界与待补
 
-**曲目档案**
+- 暂无作者逐曲制作自述；评论者的听感分析与音乐作者意图分开。
+- 最低三文献为社区记录、后续官方追加公告、独立音乐出版目录，不是三份采访。
+
+<a id="arcade-11000125-shared"></a>
+## 輪廻の鴉
+
+- 统一曲库 ID：`arcade:11000125`
+- 原章节编号与标题：44. 輪廻の鴉
+
+### 曲目档案
 
 - 标题：輪廻の鴉
-- 统一曲库 ID：`arcade_11000125`
-- 艺术家：BEMANI Sound Team "dj TAKA"
-- BPM：198
-- 谱面难度与节点数：BASIC 3 / 251；ADVANCED 6 / 521；EXTREME 9.7 / 906
+- 艺人：BEMANI Sound Team "dj TAKA"
+- BPM：198。[1]
+- 谱面难度 BSC / ADV / EXT：3 / 6 / 9.7；节点数：251 / 521 / 906。[1]
+- 本作追加：2024-04-01。[2]
 
-**背景知识**
+### 创作与制作背景
 
-《輪廻の鴉》是 BEMANI Sound Team "dj TAKA" 在 jubeat beyond the Ave. 中的跨作品混合曲，曲名意为“轮回之鸦”。整体风格带有较强的和风神秘感，速度也相对偏高，在高密度段落中要求玩家快速处理连续点触。该曲的 MIX 素材来自 BEMANI 系列既有作品，使本曲在 beyond the Ave. 中既保留 dj TAKA 的创作印记，也承担跨作品联动的功能。
+《輪廻の鴉》的制作背景首先是 2022 年跨机种企划“いちかのごちゃまぜMix UP！”，而非本作刚推出时的单独委托。社区逐曲记录把混合素材具体列为pop’n 的《RINИE》与 IIDX 的《鴉》；官方企划音乐目录确认本曲以当前艺人名义收入其中。[1][3]
 
-**jubeat beyond the Ave. 位置**
+社区资料指出人声主要承接《RINИE》的 GeMiNioИ（PON、Akhuta）部分，不能把 dj TAKA 的改编署名误写成他演唱。[1] 独立 pop’n 乐评也认为原曲面貌尤其人声十分鲜明，评价混合感相对较弱；这是有立场的听后评论，不能反推出作者满意与否。[4]
 
-本曲通过 beyond the Ave. 的 BONUS TUNE 解禁线开放。jubeat@Wiki 给出了三级谱面与节点数，BEMANICN 与官方公告确认其在本作中的收录与解锁时间。
+本轮没有获得作者本人对具体改编步骤、配器选择或标题含义的逐曲说明。现可核的是既存素材的组合关系与后续移植，不将原稿笼统的神秘感、夜色、能量或主副歌听感充作创作故事。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：輪廻の鴉，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：輪廻の鴉 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 jubeat beyond the Ave. BONUS TUNE 更新公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+2024-04-01 官方公告明确本曲进入 BONUS TUNE，游玩 3 次即可解禁。[2] 首次 Mix 企划与 beyond the Ave. 的追加须分开记录，不能把后者日期当作音乐诞生日期。
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。谱面参数与 BPM 来自 jubeat@Wiki 曲目专页，并与 BEMANICN、官方公告页交叉核对。混合素材的来源与解锁机制基于公开记录整理，未追溯所有原作版本差异。和风意象描述基于曲名与整体听感，不作为官方设定判断。
+1. jubeat@Wiki：輪廻の鴉：https://w.atwiki.jp/jubeat/pages/2405.html（已读；两份混合素材：pop’n 的《RINИE》与 IIDX 的《鴉》；BPM198，等级3 / 6 / 9.7，节点251 / 521 / 906）
+2. KONAMI：2024.04.01 BONUS TUNE：https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.04.01&update_no=100（已读；輪廻の鴉当日追加，3次游玩解禁）
+3. KONAMI ULTIMATE MOBILE：いちかのごちゃまぜMix UP！：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=198&game_id=10（已读；輪廻の鴉与作者名义列于企划专辑）
+4. asagaolabo：輪廻の鴉：https://w.atwiki.jp/asagaolabo/pages/5510.html（已读；RINИE人声的鲜明存在感；对混合效果的评论；IIDX曲风SPIRITUAL CORE）
 
-## 45. VOLAQUAS -GITADO ROCK ver.-
+### 核验边界与待补
 
-**曲目档案**
+- 暂无作者逐曲制作自述；评论者的听感分析与音乐作者意图分开。
+- 最低三文献为社区记录、后续官方追加公告、独立音乐出版目录，不是三份采访。
+- 社区表省略dj写TAKA；艺人名义采用官方公告与专辑目录dj TAKA。
 
-- 标题：VOLAQUAS -GITADO ROCK ver.-
-- 统一曲库 ID：`arcade_11000126`
+<a id="arcade-11000126-shared"></a>
+## VOLAQUAS -GITADO ROCK ver.-
+
+- 统一曲库 ID：`arcade:11000126`
+- 原章节编号与标题：45. VOLAQUAS -GITADO ROCK ver.-
+
+### 曲目档案
+
 - 艺术家：BEMANI Sound Team "DJ TOTTO VS 兎々"
-- BPM：212
-- 谱面难度与节点数：BASIC 6 / 464；ADVANCED 9.6 / 782；EXTREME 10.6 / 1098
+- BPM212；普通等级6 / 9.6 / 10.6；Notes464 / 782 / 1098
+- 本条为GITADORA摇滚版；不可沿用原版HOLD属性
+- 具体编曲与演奏人员尚未由原始信用核验
 
-**背景知识**
+### 创作与制作背景
 
-《VOLAQUAS -GITADO ROCK ver.-》是原曲《VOLAQUAS》在 GITADORA 风格下的摇滚改编版本，由 DJ TOTTO 与兎々共同署名。与原版相比，这个版本更突出摇滚编曲的力量感，整体速度与密集度也更接近 GITADORA 系列的舞台感。在 jubeat beyond the Ave. 中，它是一条偏高难度的跨作品改编曲，EXTREME 谱面在复合点触与高速段处理上都有明显压力。
+本条不是《VOLAQUAS》原版换一张谱面，而是为GITADORA形成的独立摇滚改编版本。KONAMI的《GITADORA HIGH-VOLTAGE》数字音乐目录用带有“-GITADO ROCK ver.-”的完整标题收录它；jubeat社区也明确将它与联动活动的原版分开。[1][2]
 
-**jubeat beyond the Ave. 位置**
+到jubeat beyond the Ave.，它与原版在同一套BONUS TUNE解禁链中出现：取得八首Mix作品后，两个版本共同开放，再各自按游玩条件常驻。关键区别是原版使用HOLD，本条为普通谱；即使标题核心、艺术家名义、封面相同，也不能将两条合并。[2] 独立成绩工具在2024-04-01记录了这个完整版本名的新曲支持，提供同期旁证。[3]
 
-本曲在 beyond the Ave. 中作为改编曲收录，玩家通过对应解禁线开放。jubeat@Wiki 记录其三级谱面与节点数，BEMANICN 与官方公告确认其在本作中的收录与解锁条件。
+目前取得的是官方版本身份和实际游戏流通记录，没有可读的原始编曲采访。故不猜测吉他、贝斯、鼓由哪一位BEMANI成员演奏，也不把“DJ TOTTO VS 兎々”的两名义直接当成两位互不相干的真人合写证据。摇滚改编的具体过程仍需制作信用或作者说明。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：VOLAQUAS -GITADO ROCK ver.-，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：VOLAQUAS -GITADO ROCK ver.- 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 jubeat beyond the Ave. BONUS TUNE 更新公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+本地总表归属 beyond the Ave.；2024-04-01独立成绩工具记录新曲支持，社区确认普通谱及BONUS TUNE条件。[2][3]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、难度与节点数由 jubeat@Wiki 曲目专页读取，并经 BEMANICN、官方公告页交叉确认。原曲与摇滚改编版之间的关系按公开记录整理，不推断两版在所有平台上的收录顺序或谱面对应关系。未查得官方对改编细节的完整说明，故不额外填入创作背景文案。
+1. [KONAMI：GITADORA HIGH-VOLTAGE数字音乐曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=189&game_id=4)：完整摇滚版本名及DJ TOTTO VS兎々名义。
+2. [jubeat Wiki：VOLAQUAS -GITADO ROCK ver.-](https://w.atwiki.jp/jubeat/pages/2406.html)：GITADORA改编关系、普通与原HOLD区分、参数及八首Mix后解禁条件。
+3. [jubesta：beyond新曲支持日志](https://jubesta.net/beyond/)：4月1日明确记录本摇滚版新曲支持。
 
-## 46. ポラリスノウタ
+### 核验边界与待补
 
-**曲目档案**
+3根。摇滚版具体编曲者/乐手与动机未得；官方音频目录不是原始曲评。
 
-- 标题：ポラリスノウタ
-- 统一曲库 ID：`arcade_11000127`
+---
+
+<a id="arcade-11000127-shared"></a>
+## ポラリスノウタ
+
+- 统一曲库 ID：`arcade:11000127`
+- 原章节编号与标题：46. ポラリスノウタ
+
+### 曲目档案
+
 - 艺术家：ここなつ2.0
-- BPM：170
-- 谱面难度与节点数：HOLD 谱面 BASIC 4 / 284；ADVANCED 6 / 451；EXTREME 8 / 735
+- 词曲：Nor(Aice room)；编曲：Nor（本人公告转录）
+- 歌唱：東雲夏陽（日南結里）/東雲心菜（小澤亜李）
+- HOLD专用4 / 6 / 8；Notes284 / 451 / 735；BPM170
 
-**背景知识**
+### 创作与制作背景
 
-《ポラリスノウタ》是 ここなつ2.0 的作品，曲名可以理解为“北极星之歌”。歌曲带有明亮而略带梦幻的电子流行气质，与“北极星”的夜空意象相呼应。该曲出现在 BEMANI 跨作品联动企划中，在 jubeat beyond the Ave. 里以 HOLD 谱面形式收录，突出长按节奏与旋律线的配合。
+本曲配合ひなビタ十周年的BEMANIちくわまつり2023推出，以ここなつ2.0的两位角色为歌唱主体。社区记录2023-12-15在线节目先公开试听，随后进入多款BEMANI；这不是名称相似的游戏《ポラリスコード》自行委约的角色主题曲。[1]
 
-**jubeat beyond the Ave. 位置**
+Nor的同期公告被玩家月记完整转录，他亲自确认包办作词、作曲与编曲。[2] 原帖本轮未直接核验，因此按署名清楚的二手转录使用；独立版权歌库JOYSOUND可直接核对词、曲署名为Nor(Aice room)，但该页未列编曲，不能说三职全部都由这一页证实。[3]
 
-本曲作为 ここなつ2.0 相关联动曲目收录，可在 beyond the Ave. 曲库中通过相应分类或解禁线找到。jubeat@Wiki 明确记录其仅提供 HOLD 谱面，并给出三级难度与节点数；BEMANICN 与官方页面确认其在本作中的存在。
+社区将IIDX分类记为FUTUREBASS、封面署为SHIROTSUKI；这些是音游分类和视觉信用，并不是作者对北极星题名的解释。[1] 本轮未找到Nor或歌手的逐曲写作/录唱访谈，故不把“星指路、双人成长”等听众理解写成已经证实的创作目标。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：ポラリスノウタ，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：ポラリスノウタ 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 BEMANI ちくわまつり 2023 相关公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+本地总表归属 beyond the Ave.；独立成绩工具于2023-12-22登记支持，精确首日尚待原始公告，不将工具更新日误作首发。[1][4] HOLD专用。
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。HOLD 谱面参数由 jubeat@Wiki 曲目专页读取，收录状态由 BEMANICN 与官方页面交叉确认。歌曲主题与情感描述基于曲名与整体风格归纳，未逐句核对歌词或官方解说。未查得本曲在 beyond the Ave. 内另有普通谱面的可靠记录。
+1. [jubeat Wiki：ポラリスノウタ](https://w.atwiki.jp/jubeat/pages/2370.html)：十周年新作、试听/多机种背景、歌手、视觉与HOLD参数。
+2. [月記2023年12月：Nor原帖转录](https://note.com/slivers_note/n/n5da02c3e85e3)：转录Nor2023-12-15确认词曲编公告。
+3. [JOYSOUND：ポラリスノウタ信用](https://www.joysound.com/web/search/song/1051470)：词曲署名Nor(Aice room)。
+4. [jubesta：ポラリスノウタ新曲支持日志](https://jubesta.net/beyond/)：12月22日登记本曲支持。
 
-## 47. ちくわパフェだよ☆ＣＫＰ (Yvya Remix)
+### 核验边界与待补
 
-**曲目档案**
+3根；作者公告转录和版权信用保守同根。原曲写作动机/录音证词未得，编曲仅转录。
 
-- 标题：ちくわパフェだよ☆ＣＫＰ (Yvya Remix)
-- 统一曲库 ID：`arcade_11000128`
+---
+
+<a id="arcade-11000128-shared"></a>
+## ちくわパフェだよ☆ＣＫＰ (Yvya Remix)
+
+- 统一曲库 ID：`arcade:11000128`
+- 原章节编号与标题：47. ちくわパフェだよ☆ＣＫＰ (Yvya Remix)
+
+### 曲目档案
+
 - 艺术家：Remixed by BEMANI Sound Team "Yvya"
-- BPM：205
-- 谱面难度与节点数：BASIC 5 / 397；ADVANCED 8 / 621；EXTREME 10.4 / 986
+- 歌唱角色：山形まり花（日高里菜）/芽兎めう（五十嵐裕美）
+- 普通等级5 / 8 / 10.4；Notes397 / 621 / 986；BPM205
+- 封面5to3（社区信用），不是音乐编曲署名
 
-**背景知识**
+### 创作与制作背景
 
-本曲是《ちくわパフェだよ☆ＣＫＰ》的 Yvya Remix 版本，与原曲相比速度更快、节奏密度更高，保留原曲明亮可爱的旋律轮廓，同时加入更具冲击力的电子编曲。作为 BEMANI 联动企划中的改编作品，它既延续了原曲的流行属性，也在 jubeat 谱面中体现更强的速度与复合节奏压力。
+这是ひなビタ十周年企划中的Yvya重混音，不是2013年《ちくわパフェだよ☆CKP》原唱重新填写艺术家名。官方2023-12-21公告明确将它与ZAQUVA另一重混音称为BEMANI特别REMIX音源，并一起加入BONUS TUNE。[1]
 
-**jubeat beyond the Ave. 位置**
+社区保留两位歌唱角色及5to3封面署名，同时指出本版标题采用全角ＣＫＰ。[2] 因此音乐改编者、角色/声优与封面画师应各自独立记录。并未找到重新录唱的原始证言，不能因声优信用仍在就断言此次让两位歌手进棚重录。
 
-本曲在 beyond the Ave. 中作为 Remix 曲收录，玩家通过对应解禁线开放。jubeat@Wiki 给出三级谱面与节点数，BEMANICN 与官方公告确认其在本作中的收录与解锁背景。
+后续官方实物赠品曲表把这一Remix与其Full Size ver.分为两轨，证实另有长版存在。[3] 长版是独立载体版本，不应把它的总长度或新增段落无条件算入jubeat剪辑。本轮没有取得Yvya谈具体改编方案、吉他录音或混音链的采访，保留这部分缺口，不把社区的金属风格描述包装为作者说明。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：ちくわパフェだよ☆ＣＫＰ (Yvya Remix)，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：ちくわパフェだよ☆ＣＫＰ (Yvya Remix) 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 BEMANI ちくわまつり 2023 相关公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+本地总表归属 beyond the Ave.；2023-12-21进入BONUS TUNE，游玩3次解禁；普通谱。[1][2]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、谱面难度与节点数来自 jubeat@Wiki 曲目专页，并经 BEMANICN、官方公告页交叉核对。Remix 的音乐特征基于公开记录与曲风描述整理，不代表对所有编曲细节的逐段分析。原曲在不同平台的历史表现未在本条目重复展开。
+1. [jubeat：两首特别REMIX追加公告](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2023.12.21&update_no=110)：12月21日两Remix追加及3次游玩常驻。
+2. [jubeat Wiki：ちくわパフェだよ☆ＣＫＰ (Yvya Remix)](https://w.atwiki.jp/jubeat/pages/2371.html)：版本/声优/封面/全角标题与普通参数。
+3. [ちくわまつり：独立Remix CD曲表](https://p.eagate.573.jp/game/bemani/hinabita2023/present2/index.html)：side CKP中短版与Full Size ver.分列及Yvya署名。
 
-## 48. めうめうぺったんたん！！ (ZAQUVA Remix)
+### 核验边界与待补
 
-**曲目档案**
+3出版根：游戏公告、社区参数、实物CD曲表；同一企划但后者为独立载体信用，不把两CD拆来源。逐曲改编证词未得。
 
-- 标题：めうめうぺったんたん！！ (ZAQUVA Remix)
-- 统一曲库 ID：`arcade_11000129`
+---
+
+<a id="arcade-11000129-shared"></a>
+## めうめうぺったんたん！！ (ZAQUVA Remix)
+
+- 统一曲库 ID：`arcade:11000129`
+- 原章节编号与标题：48. めうめうぺったんたん！！ (ZAQUVA Remix)
+
+### 曲目档案
+
 - 艺术家：Remixed by BEMANI Sound Team "ZAQUVA"
-- BPM：200
-- 谱面难度与节点数：BASIC 5 / 457；ADVANCED 8 / 727；EXTREME 10.5 / 1010
+- 歌唱角色：芽兎めう（五十嵐裕美）；封面MIRAI（社区）
+- 普通等级5 / 8 / 10.5；Notes457 / 727 / 1010；BPM200
 
-**背景知识**
+### 创作与制作背景
 
-《めうめうぺったんたん！！ (ZAQUVA Remix)》是同名原曲的 ZAQUVA Remix 版本，保留原曲的欢快气质与高辨识度旋律，同时以更快的节奏和更强的电子质感推进。该曲作为 BEMANI 联动企划中的 Remix 作品进入 jubeat beyond the Ave.，在谱面上以密集点触与速度变化体现 Remix 后的冲击力。
+本曲属于ひなビタ十周年的两首特别Remix之一，ZAQUVA承担改编名义，歌唱主体仍是芽兎めう。jubeat官方公告把它与Yvya的CKP重混音一起安排在2023-12-21追加，说明这是一组周年再创作企划，而非原版首次发表。[1][2]
 
-**jubeat beyond the Ave. 位置**
+社区记载IIDX为它采用HYPERACTIVE HELLCORE分类、封面由MIRAI制作。[2] 分类、画师和游戏谱面各自说明不同层次，不足以判断真实录音软件、采样方法或原人声是否重新录制。尤其不能把其他作曲者的旧Remix混成本条ZAQUVA版。
 
-本曲作为 Remix 曲收录，玩家可通过 beyond the Ave. 内对应解禁线开放。jubeat@Wiki 给出三级谱面与节点数，BEMANICN 与官方公告确认其在本作中的收录与解锁背景。
+官方后续发行物列出本Remix的普通长度与Full Size ver.两轨。[3] 这证实作品还有长版形态，却没有交代长版增加什么素材。本轮未得到ZAQUVA对节奏重构、重低音设计或采用声片的可读制作评论；保留改编用途与版本沿革，不把玩家所说难度、疯狂程度当成作者的制作目标。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：めうめうぺったんたん！！ (ZAQUVA Remix)，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：めうめうぺったんたん！！ (ZAQUVA Remix) 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 BEMANI ちくわまつり 2023 相关公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+本地总表归属 beyond the Ave.；2023-12-21 BONUS TUNE追加，3次游玩解禁，普通谱。[1][2]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、谱面难度与节点数由 jubeat@Wiki 曲目专页读取，并经 BEMANICN、官方公告页交叉确认。Remix 与原曲的风格对比基于公开记录整理，未逐段分析编曲结构。未查得本曲在 beyond the Ave. 内另有 HOLD 或特殊谱面的可靠记录。
+1. [jubeat：两首特别REMIX追加公告](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2023.12.21&update_no=110)：本Remix追加日期与BONUS TUNE条件。
+2. [jubeat Wiki：めうめうぺったんたん！！ (ZAQUVA Remix)](https://w.atwiki.jp/jubeat/pages/2372.html)：版本、歌手/视觉信用、IIDX分类与普通参数。
+3. [ちくわまつり：独立Remix CD曲表](https://p.eagate.573.jp/game/bemani/hinabita2023/present2/index.html)：sideめう包含本Remix和Full Size ver.两轨。
 
-## 49. Finally Dive
+### 核验边界与待补
 
-**曲目档案**
+3出版根；未取得ZAQUVA本曲原始曲评。音乐改编与视觉/谱面分层，长版与游戏版不混。
 
-- 标题：Finally Dive
-- 统一曲库 ID：`arcade_11000130`
+---
+
+<a id="arcade-11000130-shared"></a>
+## Finally Dive
+
+- 统一曲库 ID：`arcade:11000130`
+- 原章节编号与标题：49. Finally Dive
+
+### 曲目档案
+
 - 艺术家：ここなつ Produced by lapix
-- BPM：146
-- 谱面难度与节点数：HOLD 谱面 BASIC 3 / 177；ADVANCED 5 / 330；EXTREME 8 / 567
+- 歌唱：東雲夏陽（日南結里）/東雲心菜（小澤亜李）
+- HOLD专用3 / 5 / 8；Notes177 / 330 / 567；BPM146；社区长度1:57
 
-**背景知识**
+### 创作与制作背景
 
-《Finally Dive》由 ここなつ 演唱、lapix 制作，带有较为明快的电子流行质感。lapix 的参与使歌曲在节奏结构上保持了清晰的跃动感，与“潜入”或“起跳”这一类曲名意象形成呼应。该曲在 jubeat beyond the Ave. 中以 HOLD 谱面收录，强调玩家在旋律推进过程中对持续按压时机的掌握。
+《Finally Dive》是SOUND VOLTEX的“みんなでここなつをプロデュース！”原创歌曲征集入选作，并非专为jubeat beyond the Ave.首次写作。官方结果页把lapix作品列在第二批配信；社区记录其历史初出为SOUND VOLTEX III。[1][2]
 
-**jubeat beyond the Ave. 位置**
+lapix在原始曲评中直接说明：写作时以魔法少女为想象，希望可爱的双人组合同时传达力量，编曲也要表现奔跃的世界感。[1] 这是真实作者的创作构想，而不是从游戏谱面或标题推测的剧情；也没有据此虚构一部实际存在的动画原作。
 
-本曲作为 ここなつ 相关联动曲目收录，可通过 beyond the Ave. 内相应分类或解禁线找到。jubeat@Wiki 明确记录其仅提供 HOLD 谱面，并给出三级难度与节点数；BEMANICN 与官方页面确认其在本作中的存在。
+移植jubeat后采用HOLD专用谱面，画面插画由琥夢承担，音乐与视觉制作人不可混记。[2] 独立成绩工具于2023-12-22登记该曲，旁证这一阶段的街机流通。[3] 未找到歌手录音细节或lapix使用的具体合成器、音色工程，保留这些未核部分。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：Finally Dive，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Finally Dive 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 BEMANI ちくわまつり 2023 相关公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+本地归属 beyond the Ave.；2023-12-21起STAR RECORDちくわまつり2023累计9星解禁，活动至2024-02-04。工具12月22日更新不是首发日。[2][3]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。HOLD 谱面参数与节点数来自 jubeat@Wiki 曲目专页，收录状态由 BEMANICN 与官方页面交叉确认。歌曲情感与主题解读基于曲名与整体风格归纳，未逐句核对歌词或官方文案。未发现本曲在 beyond the Ave. 内另有普通谱面的可靠记录。
+1. [SDVX FLOOR：lapix入选曲评](https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/17/index.html)：魔法少女意象、可爱与力量并存的编曲方向；第二批入选。
+2. [jubeat Wiki：Finally Dive](https://w.atwiki.jp/jubeat/pages/2378.html)：历史SDVX初出、HOLD参数、声优、视觉与9星条件。
+3. [jubesta：Finally Dive支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-## 50. ムラサキグルマ
+### 核验边界与待补
 
-**曲目档案**
+3根；已得作者原始动机，未得录音与音色工程。
 
-- 标题：ムラサキグルマ
-- 统一曲库 ID：`arcade_11000131`
+---
+
+<a id="arcade-11000131-shared"></a>
+## ムラサキグルマ
+
+- 统一曲库 ID：`arcade:11000131`
+- 原章节编号与标题：50. ムラサキグルマ
+
+### 曲目档案
+
 - 艺术家：ここなつ Produced by はるなば
-- BPM：144-180
-- 谱面难度与节点数：BASIC 5 / 351；ADVANCED 8 / 491；EXTREME 10.3 / 788
+- 歌唱：東雲夏陽（日南結里）/東雲心菜（小澤亜李）
+- 普通5 / 8 / 10.3；Notes351 / 491 / 788
+- jubeat社区参数BPM144–180；不等同其他机种或实测音频速度
 
-**背景知识**
+### 创作与制作背景
 
-《ムラサキグルマ》由 ここなつ 演唱、はるなば 制作，曲名带有“紫色”与“车轮”的意象，整体氛围偏和风与电子乐的交织。歌曲在节奏与情绪起伏上比较有层次，能同时体现 ここなつ 的演唱属性与制作人的编曲风格。该曲进入 jubeat beyond the Ave. 后，EXTREME 谱面在节奏切换与复合点触处理上相对紧张。
+本曲出自SOUND VOLTEX的ここなつ原创歌曲征集，官方列在第一批配信，社区将其归为和风入选作品。进入jubeat前已经存在于SOUND VOLTEX III，不能把2023年的周年活动当成作品诞生之年。[1][2]
 
-**jubeat beyond the Ave. 位置**
+はるなば的原始曲评回忆，自己从2014-05-02夏陽亮相开始被组合吸引，欣赏角色设定中的专业精神与表演者姿态；本曲想用自己的方式呈现两人的美。[1] 这里谈的是作者与虚构偶像企划的相遇，不是他与现实双胞胎歌手私下相识的经历。
 
-本曲作为 ここなつ 相关联动曲目收录，可在 beyond the Ave. 曲库中通过相应分类或解禁线找到。jubeat@Wiki 给出三级谱面与节点数，BEMANICN 与官方页面确认其在本作中的收录状态。
+jubeat社区列插画者为有里ユイ，不能把这项视觉署名当成作词或编曲信用。其评论区还讨论过开头谱面BPM设定与听到的速度是否一致，故本档只注明该机种社区表值，不以之断言音频所有段落的实际速度。[2] 同期成绩工具独立记下本曲支持，补足游戏流通旁证。[3]
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：ムラサキグルマ，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：ムラサキグルマ 曲目页，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 BEMANI ちくわまつり 2023 相关公告页，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+本地归属 beyond the Ave.；STAR RECORDちくわまつり2023自2023-12-21开放，20星解禁；工具于22日登记。[2][3]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、谱面难度与节点数由 jubeat@Wiki 曲目专页读取，收录状态由 BEMANICN 与官方页面交叉核对。曲名意象与歌曲氛围的描述基于公开记录与整体听感归纳，未逐句核对歌词或官方解说。未查得本曲在 beyond the Ave. 内另有 HOLD 或特殊谱面的可靠记录。
+1. [SDVX FLOOR：はるなば入选曲评](https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/17/index.html)：第一批入选、接触角色的回忆与表达双人美感的创作目标。
+2. [jubeat Wiki：ムラサキグルマ](https://w.atwiki.jp/jubeat/pages/2386.html)：和风征集/SDVX初出、普通参数、画师与20星条件及玩家速度讨论。
+3. [jubesta：ムラサキグルマ支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-## 51. ハートシェイプ・スピカ
+### 核验边界与待补
 
-**曲目档案**
+3根；作者动机已得。谱面BPM仅社区机种值，未独立测音频；不混其他机种。
 
-- 标题：ハートシェイプ・スピカ
-- 统一曲库 ID：`arcade_11000132`
+---
+
+<a id="arcade-11000132-shared"></a>
+## ハートシェイプ・スピカ
+
+- 统一曲库 ID：`arcade:11000132`
+- 原章节编号与标题：51. ハートシェイプ・スピカ
+
+### 曲目档案
+
+- 艺术家：ここなつ2.0；词曲colate（社区信用）
+- 歌唱：東雲夏陽（日南結里）/東雲心菜（小澤亜李）
+- 普通3 / 5 / 8；Notes198 / 358 / 696；BPM170
+
+### 创作与制作背景
+
+本曲源自《ホシノメモリー》，不是2023年为jubeat单独制作的新曲。KONAMI的2022-06-09公告已经把它列入从这张专辑追加到SOUND VOLTEX的七首曲目。[1] 社区记录词曲作者colate，jubeat与《メモリーズ》《ステラレギア》共享专辑封面。[2]
+
+演唱心菜的小澤亜李留下了具体录唱证言：夏陽的句尾采用上扬处理，因此她让心菜反过来不抬高句尾，以保持两人之间的平衡。这比笼统说“双人声音可爱”更能解释实际表演设计。[3]
+
+TOMOSUKE的2021-03-17原帖在后来的现场观众博客中完整转录，说明本曲对应乙女座、属于专辑的星座巡游构想。[4] 本轮未直接核验原X，故该概念仅列署名二手证据；不把同一博客进一步配对角色生日的推测也冒充制作人原话。独立工具在12月22日登记jubeat本曲支持。[5]
+
+### jubeat 收录与版本
+
+本地归属 beyond the Ave.；旧专辑曲移植，与2022年SDVX收录分开；独立jubeat成绩工具2023-12-22登记。[1][2][5]
+
+### 资料来源
+
+1. [KONAMI/4Gamer：ホシノメモリー七曲追加SDVX](https://www.4gamer.net/games/527/G052758/20220609061/)：点名ハートシェイプ・スピカ来自专辑并于6月9日追加SDVX。
+2. [jubeat Wiki：ハートシェイプ・スピカ](https://w.atwiki.jp/jubeat/pages/2374.html)：专辑来源、词曲信用、歌手与普通参数。
+3. [小澤亜李：ホシノメモリー逐曲感想](https://ameblo.jp/ari-step/entry-12662912507.html)：以夏陽句尾上扬为对照，心菜选择不抬尾音。
+4. [ぼうかんしゃこうか：TOMOSUKE星座设定原帖转录](https://suta-13.blog.jp/archives/1083892980.html)：星座巡游概念中本曲对应乙女座。
+5. [jubesta：ハートシェイプ・スピカ支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
+
+### 核验边界与待补
+
+5根；歌手本人逐曲证言已得；星座主题原X未核只转录；colate写作访谈未得。
+
+---
+
+<a id="arcade-11000133-shared"></a>
+## メモリーズ
+
+- 统一曲库 ID：`arcade:11000133`
+- 原章节编号与标题：52. メモリーズ
+
+### 曲目档案
+
 - 艺术家：ここなつ2.0
-- BPM：170
-- 谱面难度与节点数：BASIC 3；ADVANCED 5；EXTREME 8
+- 词曲：パソコン音楽クラブ（社区信用；本人网站确认供曲）
+- 普通2 / 5 / 8；Notes195 / 335 / 595；BPM136
 
-**背景知识**
+### 创作与制作背景
 
-这是ここなつ2.0 名义下的收录曲，出自专辑《ホシノメモリー》。ここなつ2.0 由東雲夏陽（CV：日南結里）与東雲心菜（CV：小澤亜李）组成，本曲作曲者为 colate。曲名中的“スピカ”指向处女座主星 Spica，音乐以清亮的偶像电子流行路线展开，与专辑整体的星空意象一致。同专辑曲目也已在 SOUND VOLTEX EXCEED GEAR 中登场。
+パソコン音楽クラブ在自己的工作履历中明确列出为ここなつ《ホシノメモリー》提供《メモリーズ》；这是可直接读取的作者记录，而不只是社区根据风格猜测署名。[1] 社区补充词曲信用与日南結里、小澤亜李的双人歌唱信息。[2]
 
-**jubeat beyond the Ave. 位置**
+小澤亜李在专辑推出时特别称赞本曲的复古音色与怀旧气氛，也说聆听伴奏本身很有趣。[3] 这是参与演唱者的听后感受，没有说明具体合成器型号、采样来源或录音流程，因此不能据此编造“为重现某年代使用某设备”的故事。
 
-该曲属于 jubeat beyond the Ave. 版本内首次收录的新曲，归入ここなつ2.0 相关联动线。谱面配置为三级常规谱面，可通过通常曲目选择界面进入。
+制作人TOMOSUKE谈专辑主题的原帖被现场观众博客转录，列本曲的星象母题为昴宿星团（プレアデス星団）。[4] 原X本轮未直核，保留二手等级；不将观众对角色关系的延伸解读当成原意。KONAMI公告可确认它在2022-06-09进入SDVX，晚于专辑、早于此处jubeat版本。[5]
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：《ハートシェイプ・スピカ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：ハートシェイプ・スピカ，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site：ホシノメモリー 相关新闻，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+本地归属 beyond the Ave.；专辑曲跨机种移植，不是同名流行歌曲；jubeat社区参数见[2]，独立成绩工具2023-12-22登记。[6]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM 与谱面等级来自 jubeat@Wiki 曲目专页，并与 BEMANICN、Otoge Station 的收录信息交叉核对。作曲者 colate 与声优信息以 BEMANI Fan Site 及专辑资料记载为准；本文件未重新读取 KONAMI STYLE 商品页原文，不进一步展开专辑商品规格。
+1. [パソコン音楽クラブ：WORKS](https://pasoconongaku.web.fc2.com/works.html)：作者确认向ホシノメモリー提供本曲。
+2. [jubeat Wiki：メモリーズ](https://w.atwiki.jp/jubeat/pages/2376.html)：词曲信用、角色歌手与普通参数。
+3. [小澤亜李：ホシノメモリー逐曲感想](https://ameblo.jp/ari-step/entry-12662912507.html)：本人感受到复古声音、怀旧气氛且喜欢听伴奏。
+4. [ぼうかんしゃこうか：TOMOSUKE星座设定原帖转录](https://suta-13.blog.jp/archives/1083892980.html)：本曲星象母题为昴宿星团。
+5. [KONAMI/4Gamer：ホシノメモリー七曲追加SDVX](https://www.4gamer.net/games/527/G052758/20220609061/)：点名メモリーズ来自专辑并于6月9日追加SDVX。
+6. [jubesta：メモリーズ支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-## 52. メモリーズ
+### 核验边界与待补
 
-**曲目档案**
+6根；本人供曲已核，歌手仅听后感而非作曲流程；主题仅原帖转录，未得音色工程细节。
 
-- 标题：メモリーズ
-- 统一曲库 ID：`arcade_11000133`
+---
+
+<a id="arcade-11000134-shared"></a>
+## ステラレギア
+
+- 统一曲库 ID：`arcade:11000134`
+- 原章节编号与标题：53. ステラレギア
+
+### 曲目档案
+
 - 艺术家：ここなつ2.0
-- BPM：136
-- 谱面难度与节点数：BASIC 2；ADVANCED 5；EXTREME 8
+- 词曲KBSNK(TEMPLIME)，编曲TOMOSUKE（社区；编曲亦见歌手博客）
+- 普通2 / 5 / 9.1；Notes186 / 385 / 685；BPM130
 
-**背景知识**
+### 创作与制作背景
 
-该曲同样出自ここなつ2.0 专辑《ホシノメモリー》，作曲者为パソコン音楽クラブ。曲名直接以“回忆”为题，音乐走中速、旋律感较强的电子流行路线；两位成员的声线与合成器段落形成温和的偶像曲气质。与同专辑其他曲目一样，本曲也已在 SOUND VOLTEX EXCEED GEAR 中收录。
+《ステラレギア》属于《ホシノメモリー》的星空主题作品群，KONAMI在2022-06-09公告中明确列出它从专辑进入SDVX的路径；本地beyond the Ave.归属指其jubeat版本，不是原曲出版时间。[1][2]
 
-**jubeat beyond the Ave. 位置**
+小澤亜李亲自解释，她将心菜唱得可爱而利落，特别喜欢“レギア”末尾带气息的收音；歌曲在这张专辑的录制中完成得较早。[3] 这些是本曲的具体演唱与录制回忆，不应混入同篇博客谈其他歌曲的变声效果、吉他编配或耳语混音细节。
 
-本曲为 jubeat beyond the Ave. 版本内首次收录的新曲，与《ハートシェイプ・スピカ》《ステラレギア》共享同一联动线。谱面为三级常规配置，可在通常曲目池中检索。
+社区将词曲列为KBSNK(TEMPLIME)、编曲为TOMOSUKE，后者也获歌手博客点名。[2][3] 制作人星座构想的原帖转录将本曲对应狮子座，原X本轮未直接核验。[4] 这能支持有出处的主题线索，但不足以从星座进一步推导角色私密经历或某一段歌词的唯一意义。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：《メモリーズ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：メモリーズ，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site：ホシノメモリー 相关新闻，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+本地归属 beyond the Ave.；STAR RECORDちくわまつり2023从2023-12-21起12星解禁，至2024-02-04。独立工具22日记录支持。[2][5]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、谱面等级与同专辑归属由 jubeat@Wiki 读取，并经 BEMANICN、Otoge Station 交叉核对。作曲者パソコン音楽クラブ的信息依据专辑相关资料记载，本文件未重新打开专辑官网页面逐项确认职员表。
+1. [KONAMI/4Gamer：ホシノメモリー七曲追加SDVX](https://www.4gamer.net/games/527/G052758/20220609061/)：点名ステラレギア来自专辑并于6月9日追加SDVX。
+2. [jubeat Wiki：ステラレギア](https://w.atwiki.jp/jubeat/pages/2380.html)：词曲编曲署名、歌手/普通参数与12星解禁。
+3. [小澤亜李：ホシノメモリー逐曲感想](https://ameblo.jp/ari-step/entry-12662912507.html)：可爱而利落的演唱、结尾气息、较早录制及TOMOSUKE编曲。
+4. [ぼうかんしゃこうか：TOMOSUKE星座设定原帖转录](https://suta-13.blog.jp/archives/1083892980.html)：本曲对应狮子座。
+5. [jubesta：ステラレギア支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-## 53. ステラレギア
+### 核验边界与待补
 
-**曲目档案**
+5根；歌手具体录唱回忆为原文已读；KBSNK写作过程未得；星座概念为原帖转录。
 
-- 标题：ステラレギア
-- 统一曲库 ID：`arcade_11000134`
-- 艺术家：ここなつ2.0
-- BPM：130
-- 谱面难度与节点数：BASIC 2；ADVANCED 5；EXTREME 9.1
+---
 
-**背景知识**
+<a id="arcade-11000135-shared"></a>
+## クラゲファンタジーソーダ
 
-该曲出自ここなつ2.0 专辑《ホシノメモリー》，作曲者为 KBSNK（TEMPLIME），编曲为 TOMOSUKE。曲名与星空、王权式幻想意象相关，音乐在中速框架下加入较重的电子层次，与同专辑前两首的明亮路线形成对比。该曲已在 SOUND VOLTEX EXCEED GEAR 中登场。
+- 统一曲库 ID：`arcade:11000135`
+- 原章节编号与标题：54. クラゲファンタジーソーダ
 
-**jubeat beyond the Ave. 位置**
+### 曲目档案
 
-本曲为 jubeat beyond the Ave. 版本内首次收录的新曲，初期通过 STAR RECORD 活动「ちくわまつり2023」解禁，活动时间为 2023-12-21 至 2024-02-04，需收集 12 颗星星。后续常设可玩性应以现行版本曲目池与官方公告为准。
+- 艺术家：日向美ビタースイーツ♪；山形まり花（日高里菜）
+- 词曲编曲：ササキトモコ
+- 普通1 / 4 / 6；Notes112 / 296 / 394；BPM94
 
-**资料来源**
+### 创作与制作背景
 
-1. RemyWiki：《ステラレギア》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：ステラレギア，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site：ホシノメモリー 相关新闻，访问日期 2026-11-01。
-5. SOUND VOLTEX @ Wiki：ステラレギア，访问日期 2026-11-01。
+本曲不是先为高速音游关卡写好再收入唱片。ササキトモコ在2015-12-23本人博客中说，委约方让她放松地为专辑作曲；摆脱通常考虑音游速度与花样的限制后，她从慢速、自由、放松的方向想到了水母。[1]
 
-**核验边界**
+她设想平时开朗的まり花也会低落，于是独自看水母、喝苏打水，以这种秘密方式调整心情。歌词想象随后从深海飘向太空；末尾故意截断的声响，留下究竟是海浪还是宇宙通信噪声的悬念。这是作曲者亲自说明的虚构角色构想和声音设计，不是歌手本人的生活经历。[1]
 
-RemyWiki 页面未能直接访问。BPM、谱面等级、STAR RECORD 活动名称、时间与星星数量由 jubeat@Wiki 读取。作曲与编曲信息依据专辑及 SOUND VOLTEX 侧资料记载；本文件未重新打开 Konami STAR RECORD 活动页原文，不能核对活动复刻或现行常设化状态。
+《Five Drops 01 -sunny orange- 山形まり花》在同日出版，目录明确将本曲列为第4轨，ササキトモコ包办词曲编曲；唱片4:56不能填作jubeat游戏长度。[2] 社区记录其先在plus的Five Drops pack 1出现，后来进入beyond the Ave.。[3]
 
-## 54. クラゲファンタジーソーダ
+### jubeat 收录与版本
 
-**曲目档案**
+本地归属 beyond the Ave.；普通谱；独立成绩工具2023-12-22记录支持，不将该日当原曲首次发表。[3][4]
 
-- 标题：クラゲファンタジーソーダ
-- 统一曲库 ID：`arcade_11000135`
-- 艺术家：日向美ビタースイーツ♪
-- 谱面难度与节点数：BASIC / ADVANCED / EXTREME 三级常规谱面
+### 资料来源
 
-**背景知识**
+1. [ササキトモコ：クラゲファンタジーソーダ](https://sasakitomoko.jp/2015/12/クラゲファンタジーソーダ/)：宽松专辑委约、慢速水母构想、角色解忧与末尾声音悬念。
+2. [Tower：Five Drops 01逐轨信用](https://tower.jp/item/4112365)：第4轨署名、CD时长与发行日。
+3. [jubeat Wiki：クラゲファンタジーソーダ](https://w.atwiki.jp/jubeat/pages/2373.html)：plus来源、歌手、普通参数及共享封面。
+4. [jubesta：クラゲファンタジーソーダ支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-《クラゲファンタジーソーダ》是日向美ビタースイーツ♪ 的收录曲，出自ひなビタ♪ 的 Five Drops 角色 CD 系列（GFCA-409 至 GFCA-413）。曲名把“水母”“幻想”“苏打”组合在一起，音乐延续该系列明快甜美的少女偶像风格，以清澈合成音色与跳跃节奏营造汽水般的轻盈感。
+### 核验边界与待补
 
-**jubeat beyond the Ave. 位置**
+4根；原作者逐曲动机已读；游戏剪辑具体声响保留情况未逐段试听，不能把整曲尾声直接视为游戏结尾。
 
-该曲先在 jubeat plus 的 Five Drops 相关包中登场，后在 jubeat beyond the Ave. 中作为街机移植曲收录。谱面为三级常规配置，可通过通常曲目池检索。
+---
 
-**资料来源**
+<a id="arcade-11000136-shared"></a>
+## jet coaster☆girl～まり花edition～
 
-1. RemyWiki：《クラゲファンタジーソーダ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：クラゲファンタジーソーダ，访问日期 2026-11-01。
-3. CDJapan：GFCA-429《Home Sweet Home》商品页，访问日期 2026-11-01。
-4. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+- 统一曲库 ID：`arcade:11000136`
+- 原章节编号与标题：55. jet coaster☆girl～まり花edition～
 
-**核验边界**
+### 曲目档案
 
-RemyWiki 页面未能直接访问。三级谱面参数已由 jubeat@Wiki 交叉核对，但本文件未将具体数值录入，避免转录误差。Five Drops 系列归属以 CD 商品页与曲库资料记载为准；具体收录哪一张 CD 未在本文件中逐张核对，不作推定。
+- 艺术家：日向美ビタースイーツ♪；山形まり花（日高里菜）
+- 作词Mayumi Ikemizu；作编曲TOMOSUKE（本版唱片信用）
+- 普通3 / 5 / 8；Notes206 / 299 / 521；BPM180
 
-## 55. jet coaster☆girl～まり花edition～
+### 创作与制作背景
 
-**曲目档案**
+本条是まり花（日高里菜）演唱的角色翻唱版，不是GUITARFREAKS 7thMIX、drummania 6thMIX首出的原唱录音。社区指出原唱兼作词者为池水真由美（Three Berry Icecream），作曲TOMOSUKE；本版唱片仍列Mayumi Ikemizu作词、TOMOSUKE作曲与编曲。[1][2]
 
-- 标题：jet coaster☆girl～まり花edition～
-- 统一曲库 ID：`arcade_11000136`
-- 艺术家：日向美ビタースイーツ♪
-- 谱面难度与节点数：BASIC / ADVANCED / EXTREME 三级常规谱面
+2015-12-23《Five Drops 01》把这首翻唱作为第5轨，长度1:38是唱片目录值。[2] 这让角色个人唱片与早期BEMANI曲目发生直接联系，但不能由信用相同就断言完整沿用原伴奏、没有任何重录或剪辑。
 
-**背景知识**
+同期听众评论把这次翻唱视作老GUITARFREAKS玩家熟悉歌曲的重现，并特别留意到收尾听感的差别。[3] 这是独立听众的比较，不是制作团队说明。本轮未取得日高里菜的逐曲录唱采访；原曲制作评论的检索线索未能实际读到全文，不作为背景事实采用。
 
-本曲出自ひなビタ♪ Five Drops 角色 CD 系列（GFCA-409 至 GFCA-413），是《jet coaster☆girl》的まり花 edition 版本。曲名中的“过山车少女”对应快节奏、起伏明显的旋律推进，まり花 edition 则强调该角色版本的声线与编曲差异。
+### jubeat 收录与版本
 
-**jubeat beyond the Ave. 位置**
+本地归属 beyond the Ave.；plus Five Drops pack 1版本在AC收录时增加标题空格，本地原题保留；2023-12-21起STAR RECORD 15星解禁，独立工具22日登记。[1][4]
 
-该曲在 jubeat beyond the Ave. 中作为街机移植曲收录，可在通常曲目池中检索。Konami 官方音乐列表第 7 页已列出该曲。
+### 资料来源
 
-**资料来源**
+1. [jubeat Wiki：jet coaster☆girl ～まり花 edition～](https://w.atwiki.jp/jubeat/pages/2382.html)：原曲机种/歌手、版本标题区别、普通参数及15星条件。
+2. [Tower：Five Drops 01逐轨信用](https://tower.jp/item/4112365)：第5轨词曲编署名、歌唱主体与CD1:38。
+3. [思いのままにペンでスラスラ：Five Drops01听后记](https://leather770.hatenablog.com/entry/2016/01/14/012133)：老吉他玩家对本翻唱及收尾差别的感想。
+4. [jubesta：jet coaster☆girl ～まり花 edition～支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-1. RemyWiki：《jet coaster☆girl～まり花edition～》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：jet coaster☆girl～まり花edition～，访问日期 2026-11-01。
-3. Konami 官方 jubeat beyond the Ave. 音乐列表（第 7 页），访问日期 2026-11-01。
-4. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+### 核验边界与待补
 
-**核验边界**
+4根；翻唱录制过程未得；不把原曲未读制作线索写成已证。
 
-RemyWiki 页面未能直接访问。三级谱面参数已由 jubeat@Wiki 交叉核对，但本文件未录入具体数值。标题空格与版本后缀写法在街机移植时曾做过校正，本文件沿用 `/tmp/beyond-order.tsv` 中的写法；如需与官方页面逐字比对，应以现行游戏内显示为准。
+---
 
-## 56. 双星ルミネセンス
+<a id="arcade-11000137-shared"></a>
+## 双星ルミネセンス
 
-**曲目档案**
+- 统一曲库 ID：`arcade:11000137`
+- 原章节编号与标题：56. 双星ルミネセンス
 
-- 标题：双星ルミネセンス
-- 统一曲库 ID：`arcade_11000137`
-- 艺术家：一舞 ＆ 夏陽
-- 谱面难度与节点数：BASIC / ADVANCED / EXTREME 三级常规谱面
+### 曲目档案
 
-**背景知识**
+- 歌唱：和泉一舞（津田美波）＆東雲夏陽（日南結里）
+- 作词虎ヶ咲まなみ；作编曲ぴずや(Pizuya’s Cell)（社区信用）
+- 普通3 / 5 / 9.0；Notes216 / 383 / 680；BPM210
 
-《双星ルミネセンス》是一舞与夏陽的合作曲，不使用日向美ビタースイーツ♪ 的团体名义。曲名中的“双星”与“发光”对应两位角色共同演出的关系，音乐延续ひなビタ♪ 系列的明亮偶像电子风格，但封面采用 SOUND VOLTEX 版本素材而非原始 CD 封面。
+### 创作与制作背景
 
-**jubeat beyond the Ave. 位置**
+这首跨组合二重唱把和泉一舞与東雲夏陽放在同一首歌中。《Five Drops 02 -honey lemon- 和泉一舞》于2016-01-06出版，目录将第3轨的表演者特意列为两人，第7轨另收伴奏。[1] 社区记录现实创作者为虎ヶ咲まなみ与ぴずや，并说明游戏封面采用SDVX绘图而非这张个人唱片封面。[2]
 
-该曲在 jubeat beyond the Ave. 中作为街机移植曲收录，可在通常曲目池中检索。谱面为三级常规配置。
+TOMOSUKE在2016-01-08的发言由同期读者博客转录：故事设定中，心菜在平板DAW上编配，因而呈现偏ここなつ的声音，并开心地看着两人录唱。[3] 这里的心菜是虚构角色；不能据此写成现实作曲者ぴずや用平板完成制作，也不能把叙事场景当作真实录音室纪实。原帖本轮未直接核验，保持署名二手转录等级。
 
-**资料来源**
+同篇读者文章把二重唱读作角色从竞争走向伙伴关系的体现；这属于剧情解读，不是词作者已解释每一句歌词。[3] 现实世界的选曲委约、编配工程与两位声优录音过程仍缺原始采访。
 
-1. RemyWiki：《双星ルミネセンス》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：双星ルミネセンス，访问日期 2026-11-01。
-3. Billboard JAPAN：GFCA-412 商品页，访问日期 2026-11-01。
-4. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+### jubeat 收录与版本
 
-**核验边界**
+本地归属 beyond the Ave.；此前已有plus Five Drops pack 2及其他音游收录；独立jubeat工具2023-12-22登记。[2][4]
 
-RemyWiki 页面未能直接访问。三级谱面参数已由 jubeat@Wiki 交叉核对，但本文件未录入具体数值。艺人写法中的空格与“＆”符号以 `/tmp/beyond-order.tsv` 为准；封面素材差异依据 SOUND VOLTEX 侧资料记载，本文件未逐项比对官方封面文件。
+### 资料来源
 
-## 57. cosmic agenda ～一舞 edition～
+1. [Neowing：Five Drops 02曲表](https://www.neowing.co.jp/product/GFCA-412)：第3轨双人署名、第7轨伴奏、发行信息。
+2. [jubeat Wiki：双星ルミネセンス](https://w.atwiki.jp/jubeat/pages/2383.html)：词曲信用、跨组合歌手、SDVX封面来源及普通参数。
+3. [思いのままにペンでスラスラ：Five Drops02与制作人原帖转录](https://leather770.hatenablog.com/entry/2016/01/16/223702)：TOMOSUKE2016-01-08虚构平板编配设定；读者对伙伴关系的解读。
+4. [jubesta：双星ルミネセンス支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-**曲目档案**
+### 核验边界与待补
 
-- 标题：cosmic agenda ～一舞 edition～
-- 统一曲库 ID：`arcade_11000138`
-- 艺术家：日向美ビタースイーツ♪
-- 谱面难度与节点数：仅 HOLD 谱面
+4根；虚构创作场景仅二手，不是真实制作过程；两位歌手逐曲录音采访未得。
 
-**背景知识**
+---
 
-该曲出自ひなビタ♪ Five Drops 角色 CD 系列（GFCA-409 至 GFCA-413），是《cosmic agenda》的一舞 edition 版本。曲名中的“宇宙议程”与该系列的星空主题呼应，音乐保持中速电子流行框架，一舞 edition 则突出该角色的演唱版本。
+<a id="arcade-11000138-shared"></a>
+## cosmic agenda ～一舞 edition～
 
-**jubeat beyond the Ave. 位置**
+- 统一曲库 ID：`arcade:11000138`
+- 原章节编号与标题：57. cosmic agenda ～一舞 edition～
 
-该曲在 jubeat beyond the Ave. 中作为街机移植曲收录，谱面仅提供 HOLD 类型，不提供常规 BASIC / ADVANCED / EXTREME 三级谱面。可在通常曲目池中检索。
+### 曲目档案
 
-**资料来源**
+- 艺术家：日向美ビタースイーツ♪；和泉一舞（津田美波）
+- 本条为一舞翻唱版，不沿用原唱歌手栏
+- HOLD专用2 / 5 / 8；Notes140 / 257 / 547；BPM113
 
-1. RemyWiki：《cosmic agenda ～一舞 edition～》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：cosmic agenda ～一舞 edition～，访问日期 2026-11-01。
-3. Billboard JAPAN：GFCA-412 商品页，访问日期 2026-11-01。
-4. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+### 创作与制作背景
 
-**核验边界**
+《cosmic agenda》原曲来自GITADORA XG2；本条则是和泉一舞（津田美波）演唱的角色版本。2016-01-06《Five Drops 02》将它收在第5轨，社区进一步确认其jubeat plus Five Drops pack 2与本次街机版的对应关系。[1][2]
 
-RemyWiki 页面未能直接访问。HOLD-only 谱面属性已由 jubeat@Wiki 交叉核对，但本文件未录入具体等级与节点数。艺人栏保留团体名义与版本后缀写法，与 `/tmp/beyond-order.tsv` 一致；是否另有常规谱面未在本文件中验证。
+原曲的XG2原声第15轨列TOMOSUKE作曲、Frances Maya作词、Jazzin’park编曲；Frances Maya的经纪资料也将本曲列为她的作词与歌唱作品。[3][4] 这些证据说明被翻唱作品的创作分工，不能把Frances Maya误填成本条的演唱者，也不能在没有本版完整内页的情况下断定翻唱编曲或全部乐器母带完全未变。
 
-## 58. 遠く遠く離れていても…
+从2011年原曲载体到2016年角色个人唱片，再到beyond the Ave.的HOLD谱，几个阶段应分开记录。当前资料足以建立原作与翻唱谱系，却没有取得津田美波谈本次具体录唱方式的原始采访；角色成熟声音的听众评价不等于制作动机。
 
-**曲目档案**
+### jubeat 收录与版本
 
-- 标题：遠く遠く離れていても…
-- 统一曲库 ID：`arcade_11000139`
-- 艺术家：日向美ビタースイーツ♪
-- 谱面难度与节点数：仅 HOLD 谱面
+本地归属 beyond the Ave.；HOLD专用，与原曲机种/录音分开；独立成绩工具2023-12-22登记本角色版本。[2][5]
 
-**背景知识**
+### 资料来源
 
-该曲出自ひなビタ♪ Five Drops 角色 CD 系列（GFCA-409 至 GFCA-413）。曲名以“即使相隔很远很远”为核心意象，音乐风格偏向抒情，但 jubeat 侧将其设计为 HOLD 谱面，以长按操作延续旋律线条。
+1. [Neowing：Five Drops 02曲表](https://www.neowing.co.jp/product/GFCA-412)：角色个人唱片第5轨收本翻唱。
+2. [jubeat Wiki：cosmic agenda ～一舞 edition～](https://w.atwiki.jp/jubeat/pages/2375.html)：原作机种、角色声优、plus来源及HOLD参数。
+3. [Tower：GITADORA XG2 OST first season原曲信用](https://tower.jp/item/2871538)：第15轨TOMOSUKE作曲、Frances Maya作词、Jazzinpark编曲；原唱片2:04非本游戏长度。
+4. [i-pairs：Frances Maya本人业务履历](https://i-pairs.co.jp/narrator/frances_maya/)：原曲作词与歌唱归Frances Maya。
+5. [jubesta：cosmic agenda ～一舞 edition～支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-**jubeat beyond the Ave. 位置**
+### 核验边界与待补
 
-该曲在 jubeat beyond the Ave. 中作为街机移植曲收录，谱面仅提供 HOLD 类型，不提供常规 BASIC / ADVANCED / EXTREME 三级谱面。可在通常曲目池中检索。
+4根；原作唱片和经纪信用保守同根。本版完整编曲/重录过程未得，不能把原版信用无条件套在本版。
 
-**资料来源**
+---
 
-1. RemyWiki：《遠く遠く離れていても…》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：遠く遠く離れていても…，访问日期 2026-11-01。
-3. Neowing：GFCA-413 商品页，访问日期 2026-11-01。
-4. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+<a id="arcade-11000139-shared"></a>
+## 遠く遠く離れていても…
 
-**核验边界**
+- 统一曲库 ID：`arcade:11000139`
+- 原章节编号与标题：58. 遠く遠く離れていても…
 
-RemyWiki 页面未能直接访问。HOLD-only 谱面属性已由 jubeat@Wiki 交叉核对，但本文件未录入具体等级与节点数。歌曲具体收录在哪一张 Five Drops CD 未在本文件中逐张核对，仅确认其属于该系列范围。
+### 曲目档案
 
-## 59. 恋はどう？モロ◎波動OK☆方程式!! ～めう edition～
+- 艺术家：日向美ビタースイーツ♪；芽兎めう（五十嵐裕美）
+- 作曲编曲ARM（本人履历）；作词狐夢想(COOL&CREATE)（社区信用）
+- HOLD专用2 / 5 / 7；Notes159 / 326 / 469；BPM80
 
-**曲目档案**
+### 创作与制作背景
 
-- 标题：恋はどう？モロ◎波動OK☆方程式!! ～めう edition～
-- 统一曲库 ID：`arcade_11000140`
-- 艺术家：日向美ビタースイーツ♪
-- 谱面难度与节点数：BASIC / ADVANCED / EXTREME 三级常规谱面
+本曲收在2016-01-13《Five Drops 03 -strawberry milk- 芽兎めう》第4轨，另有第8轨伴奏。这是角色个人唱片中的作品，不应因标题相近就混成其他歌手的《遠く遠く》。[1] ARM本人在IOSYS的创作履历明确将本曲列为作曲、编曲作品；社区另列狐夢想为词作者。[2][3]
 
-**背景知识**
+发行当周的独立听众文章把它视作めう少见的抒情面：相较惯常活泼的电波歌曲，这里突出思念与寂寞，并将歌词对象解释为角色童年熟悉的星見日向。[4] 这是有出处的听众与剧情解读，不等于已取得词作者确认，更不是五十嵐裕美本人的离别经历。该文章进一步推测角色独处时期的生活，未作为确定剧情或创作动机采用。
 
-《恋はどう？モロ◎波動OK☆方程式!!》原出自 pop'n music 20 fantasia，后被日向美ビタースイーツ♪ 以めう edition 形式翻唱。曲名用疑问、肯定与方程式组合出轻快的恋爱语句，音乐延续原曲的高能量偶像舞曲风格。该曲初期通过 STAR RECORD 活动解禁，需收集 18 颗星星。
+本轮能确认真实创作分工及作品在角色唱片中的位置，但尚缺ARM、狐夢想或歌手解释为何采用这次抒情写法的直接证言。jubeat中BPM80与HOLD谱只描述游戏版本，不足以逆推出录音过程。[3]
 
-**jubeat beyond the Ave. 位置**
+### jubeat 收录与版本
 
-该曲在 jubeat beyond the Ave. 中作为街机移植曲收录，初期通过 STAR RECORD 活动解禁。Konami 官方音乐列表第 6 页已列出该曲；现行常设可玩性应以最新版本曲目池与官方公告为准。
+本地归属 beyond the Ave.；plus Five Drops pack 3来源，HOLD专用；独立工具2023-12-22登记支持。[3][5]
 
-**资料来源**
+### 资料来源
 
-1. RemyWiki：《恋はどう？モロ◎波動OK☆方程式!! ～めう edition～》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：恋はどう？モロ◎波動OK☆方程式!! ～めう edition～，访问日期 2026-11-01。
-3. Konami 官方 jubeat beyond the Ave. 音乐列表（第 6 页），访问日期 2026-11-01。
-4. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+1. [Neowing：Five Drops 03曲表](https://www.neowing.co.jp/product/GFCA-413)：第4轨原唱与第8轨伴奏、发行和角色歌手。
+2. [IOSYS：ARM制作履历](https://www.iosysos.com/creator-arm.html)：ARM明确本曲作编曲。
+3. [jubeat Wiki：遠く遠く離れていても…](https://w.atwiki.jp/jubeat/pages/2377.html)：狐夢想作词、角色/plus来源、HOLD参数。
+4. [デビルアクマ：Five Drops03听后与剧情解读](https://a9m.hatenablog.com/entry/2016/01/20/002232)：读者将本曲解释为向星見日向表达思念的抒情作品。
+5. [jubesta：遠く遠く離れていても…支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-**核验边界**
+### 核验边界与待补
 
-RemyWiki 页面未能直接访问。三级谱面参数与 STAR RECORD 星星数量已由 jubeat@Wiki 交叉核对，但本文件未录入具体谱面数值。pop'n music 20 fantasia 初出信息依据曲库资料记载，本文件未重新打开 pop'n 官方页面核对原版职员表。
+4根；ARM履历与发行信用保守同根；剧情对象仅读者解读，词作者与歌手逐曲证词未得。
 
-## 60. 空の飛び方
+---
 
-**曲目档案**
+<a id="arcade-11000140-shared"></a>
+## 恋はどう？モロ◎波動OK☆方程式!! ～めう edition～
 
-- 标题：空の飛び方
-- 统一曲库 ID：`arcade_11000141`
-- 艺术家：日向美ビタースイーツ♪
-- 谱面难度与节点数：BASIC / ADVANCED / EXTREME 三级常规谱面
+- 统一曲库 ID：`arcade:11000140`
+- 原章节编号与标题：59. 恋はどう？モロ◎波動OK☆方程式!! ～めう edition～
 
-**背景知识**
+### 曲目档案
 
-《空の飛び方》出自ひなビタ♪ Five Drops 角色 CD 系列（GFCA-409 至 GFCA-413），由春日咲子（CV：山口愛）演唱，作曲者为 YeYe。曲名意为“在天空飞翔的方法”，音乐保持该系列明亮清新的偶像曲质感，旋律与和声突出上升感。
+- 艺术家：日向美ビタースイーツ♪；芽兎めう（五十嵐裕美）
+- 本条为めう翻唱改编版，非佐倉紗織原唱
+- 普通4 / 8 / 9.4；Notes277 / 580 / 721；BPM256
+- 本版完整编曲/演奏信用仍待内页核验
 
-**jubeat beyond the Ave. 位置**
+### 创作与制作背景
 
-该曲在 jubeat beyond the Ave. 中作为街机移植曲收录，可在通常曲目池中检索。Konami 官方音乐列表第 10 页已列出该曲。
+本条收在2016-01-13《Five Drops 03》第5轨，由芽兎めう（五十嵐裕美）演唱；被翻唱的原曲来自pop’n music 20 fantasia，原唱佐倉紗織，原作词しらたまぷりん、作曲理系男子、编曲どれちゅ。[1][2][3]
 
-**资料来源**
+原作的官方逐曲评论通过网页存档仍可读取。TOMOSUKE以理系男子名义说，他先设想冷静理科少女与可爱歌声的反差，独自制作觉得可爱要素不足，遂从网站主动联系あべにゅうぷろじぇくと合作。词作者为“理科女生恋歌”购买物理、化学参考书，兼顾术语、旋律与可爱语感；佐倉紗織则以角色ルート的反差为录唱依据。[3] 这些是真实原作制作证言，不能改写成五十嵐裕美此次翻唱时的经历。
 
-1. RemyWiki：《空の飛び方》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：空の飛び方，访问日期 2026-11-01。
-3. CDJapan：GFCA-414《Five Drops 04》商品页，访问日期 2026-11-01。
-4. Konami 官方 jubeat beyond the Ave. 音乐列表（第 10 页），访问日期 2026-11-01。
-5. BEMANICN：jubeat beyond the Ave. 曲目表，访问日期 2026-11-01。
+本版的独立听众评论注意到它不是单纯替换歌手，而有明显改编听感；这仍属听众比较，不能据此猜定现实乐手或制作设备。[4] 社区将此版BPM记为256、原曲jubeat版为128，但数值差别不能单独证明音频整体加速一倍。[2][5]
 
-**核验边界**
+### jubeat 收录与版本
 
-RemyWiki 页面未能直接访问。三级谱面参数已由 jubeat@Wiki 交叉核对，但本文件未录入具体数值。演唱者与作曲者信息依据 CD 商品页及曲库资料记载；本文件未重新核对 CV 与作曲者以外的职员表细节。
+本地归属 beyond the Ave.；plus Five Drops pack 3版移植；2023-12-21起STAR RECORD 18星解禁至2024-02-04。独立工具22日登记。[2][6]
 
-## 61. 空言の海 ～咲子 edition～
+### 资料来源
 
-**曲目档案**
+1. [Neowing：Five Drops03曲表](https://www.neowing.co.jp/product/GFCA-413)：第5轨为めうedition及角色歌手/发行日。
+2. [jubeat Wiki：恋はどう？モロ◎波動OK☆方程式!! ～めう edition～](https://w.atwiki.jp/jubeat/pages/2384.html)：本翻唱身份、普通参数及18星解禁。
+3. [KONAMI：pop’n20理系ポップ官方逐曲评论（网页存档）](https://web.archive.org/web/20180102220744/http%3A//www.konami.jp/bemani/popn/music20/mc/04/04_03.html)：原作合作起点、写词研究、原唱表演目标；非めう版制作。
+4. [デビルアクマ：Five Drops03听后记](https://a9m.hatenablog.com/entry/2016/01/20/002232)：读者比较本翻唱的明显改编听感。
+5. [jubeat Wiki：恋はどう？モロ◎波動OK☆方程式！！原曲](https://w.atwiki.jp/jubeat/pages/1179.html)：原曲首出与信用、原jubeat BPM128，必须区别翻唱。
+6. [jubesta：恋はどう？モロ◎波動OK☆方程式!! ～めう edition～支持日志](https://jubesta.net/beyond/)：12月22日明确登记本曲的新曲支持。
 
-- 标题：空言の海 ～咲子 edition～
-- 艺人：日向美ビタースイーツ♪
-- 统一曲库 ID：`arcade_11000142`
+### 核验边界与待补
 
-**背景知识**
+5根；两社区同根；原作直接创作证言已核但本翻唱编配/录唱过程未得，不越版本套用。
 
-本曲属于「日向美ビタースイーツ♪」相关曲目群，是《空言の海》的咲子演唱版本。咲子的角色配音由山口爱担任。相关资料将原曲追溯到 ee'MALL 2nd avenue 曲目《空言の海》，而此版本在 jubeat plus 先以「Five Drops pack 4」配信形式出现。公开资料中记录其 BPM 为 92，但本次整理未另行复核官方谱面表。
+---
 
-**jubeat beyond the Ave. 位置**
+<a id="arcade-11000141-shared"></a>
+## 空の飛び方
 
-街机版收录名调整为《空言の海 ～咲子 edition～》，并采用 HOLD 专用谱面。jubeat@Wiki 记录 HOLD 谱面难度与note数分别为 2 / 5 / 7 与 154 / 227 / 396。解禁路径先经「ちくわまつり2023 STAR RECORD」，之后可通过 LIGHT CHAT 或传导方式获得；本整理稿未确认当前活动周期结束后是否另有常驻获取方式。
+- 统一曲库 ID：`arcade:11000141`
+- 原章节编号与标题：60. 空の飛び方
 
-**资料来源**
+### 曲目档案
 
-1. RemyWiki：《空言の海 ～咲子 edition～》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目资料页 2379，访问日期 2026-11-01。
-3. jubeat 官方 original 页第 17 页，访问日期 2026-11-01。
-4. jubeat statistics（jubesta）：曲目统计与收录信息，访问日期 2026-11-01。
-5. CDJapan：GFCA-414 商品页，访问日期 2026-11-01。
+- 署名：日向美ビタースイーツ♪
+- 春日咲子（CV：山口愛）个人唱片第四轨；2016-02-03发行。[1]
+- YeYe词曲编由社区记录；BPM110，常规2/5/8，Notes149/356/551。[3]
 
-**核验边界**
+### 创作与制作背景
 
-角色配音、原曲关系与配信出处以公开 Wiki 和商品页交叉印证为准；BPM 与谱面数值未直接核验官方谱面表。解禁方式随活动更新，当前常驻获取状态应以后续官方公告或实测为准。
+《空の飛び方》收在春日咲子的个人角色唱片《Five Drops 04 -pure grape-》第四轨，并另列纯伴奏版本；唱片于2016-02-03发行。[1] 社区记录将词曲编列为YeYe，演唱为饰演咲子的山口愛，因此游戏上的团体署名不代表五名角色共同主唱。[3]
 
-## 62. 寂寞たる世界の終末は
+本曲的角色设计渊源有一段重要的制作方说明留存在同期博客的推文转录中：TOMOSUKE于2015-12-28表示，咲子最初就是以“会写YeYe那样的歌、弹木吉他的女孩”为构想塑造的，因此由YeYe写出的这首歌在他看来尤其贴近咲子。2016-02-02，他又把歌曲解释为对那位让内向、封闭的自己学会飞翔之人的感谢。[2] 这里区分真实制作与虚构故事：YeYe参与创作是真实分工，“咲子向谁表达感谢”是角色内的主题说明。
 
-**曲目档案**
+现可直接阅读的是第三方保存的上述制作人发言，并非两条X原帖。博客作者进一步推测童年情节与具体歌词的对应，属于其个人解读，本条不将这些推测接到TOMOSUKE名下。[2] 游戏收录方面，曲目先存在于plus的Five Drops pack 4，后于beyond the Ave.的竹轮祭2023活动进入街机。[3]
 
-- 标题：寂寞たる世界の終末は
-- 艺人：日向美ビタースイーツ♪
-- 统一曲库 ID：`arcade_11000143`
+### jubeat 收录与版本
 
-**背景知识**
+保留本地Ave.归属；实际街机为beyond the Ave.，社区记2023-12-21起STAR RECORD竹轮祭2023解锁；此前plus Five Drops pack4已有。[3]
 
-本曲为「日向美ビタースイーツ♪」《Five Drops》系列第 5 弹《霜月凛》相关曲目，主题围绕霜月凛的世界观。CD 发售信息显示该曲收录于 GFCA-415。jubeat plus 的「Five Drops pack 5」曾收录对应配信内容；街机化时保留了原曲标题与艺人名。
+### 资料来源
 
-**jubeat beyond the Ave. 位置**
+1. [Neowing / KONAMI：Five Drops 04 -pure grape- 春日咲子](https://www.neowing.co.jp/product/GFCA-414)（已实读；secondary）
+2. [デビルアクマ / TOMOSUKE推文转录：Five Drops04を喋り散らかす](https://a9m.hatenablog.com/entry/2016/04/10/040648)（已实读；secondary）
+3. [jubeat@Wiki：空の飛び方](https://w.atwiki.jp/jubeat/pages/2385.html)（已实读；secondary）
 
-jubeat@Wiki 记录本曲 BPM 为 144，基本谱面难度与note数为 3 / 6 / 8，对应 202 / 465 / 622。街机版先经「ちくわまつり2023」活动相关路径解禁，随后在《jubeat beyond the Ave.》第 14 星（14 星解锁相关系统）中可作为可获取曲目；该表述应以官方当期解锁界面为准。
+### 核验边界与待补
 
-**资料来源**
+3文献根；制作人主题与角色渊源仅可读同期转录，原帖未直接核验；YeYe本人制作过程、乐器录音分工和唱片内页待补。
 
-1. RemyWiki：《寂寞たる世界の終末は》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目列表及相关曲目页，访问日期 2026-11-01。
-3. jubeat 官方 original 页第 9 页，访问日期 2026-11-01。
-4. Billboard Japan：GFCA-415 商品信息，访问日期 2026-11-01。
-5. BEMANICN：日向美ビタースイーツ♪相关资料，访问日期 2026-11-01。
+<a id="arcade-11000142-shared"></a>
+## 空言の海 ～咲子 edition～
 
-**核验边界**
+- 统一曲库 ID：`arcade:11000142`
+- 原章节编号与标题：61. 空言の海 ～咲子 edition～
 
-专辑归属、jubeat plus 配信出处与街机谱面信息来自多个公开来源交叉核对；当前是否仍可通过同一系统直接获得，受活动周期影响，本稿不做绝对断言。
+### 曲目档案
 
-## 63. Caribbean Coast
+- 署名：日向美ビタースイーツ♪
+- 本版春日咲子（CV：山口愛）；原曲作词音々、作曲TOMOSUKE。[2]
+- BPM92；仅HOLD2/5/7，Notes154/227/396。[2]
 
-**曲目档案**
+### 创作与制作背景
 
-- 标题：Caribbean Coast
-- 艺人：BEMANI Sound Team “劇団レコード”
-- 统一曲库 ID：`arcade_11000144`
+这里的“咲子 edition”是山口愛以春日咲子身份演唱的版本，不是音々演唱的ee’MALL原录音。社区资料记原作由TOMOSUKE作曲、音々作词，咲子的翻唱曾出现在《Bitter Sweet Girls!》的成员介绍串烧中，后来单独列入《Five Drops 04》第五轨；该唱片发行于2016-02-03。[1][2][3]
 
-**背景知识**
+追溯原作品，RemyWiki保存的TOMOSUKE曲评英译将其意象指向“内心的废墟”：遗迹既曾有光辉，也积存阴暗，作者希望黑暗歌词之下仍可感到独特的美。[3] 这是原曲的创作解释，不代表已取得咲子翻唱时的重新选曲理由或声优录音指示。
 
-本曲由 BEMANI Sound Team 名义下的「劇団レコード」提供。相关专辑与配信资料将《Caribbean Coast》列入 NEODAI-324670 相关内容；公开页面显示其风格以热带海边氛围为背景，但作曲者未在原文之外提供更详细的创作说明。
+本版的后续使用还留下明确的音乐观察。DJかりを在2019年活动说明中写到，他把山口愛的短版接在以吉他为主的曲目之后，听取其中木吉他riff与钢琴的起始、再向shoegaze质感发展的变化；因为尾奏较短，另做了把开头riff放回末尾的现场用edit。[4] 这项剪辑是该DJ自己的演出处理，不是官方发行版本的新增结构。原始翻唱的详细编曲与录音过程仍待唱片内页或作者资料。
 
-**jubeat beyond the Ave. 位置**
+### jubeat 收录与版本
 
-jubeat@Wiki 记录 BPM 为 132，谱面难度与note数为 4 / 7 / 9.6，对应 233 / 508 / 740。曲目的街机先行时间为 2024 年 4 月 9 日，隔日即 2024 年 4 月 10 日通过 LIGHT CHAT LANDY 解禁；2025 年 8 月 1 日转入手 BONUS TUNE 类别。活动路径更新后，获取方式应以游戏内列表与官方 eAM 页面为准。
+本地Ave.保留；plus Five Drops pack4已收录，2023-12-21 beyond竹轮祭2023以HOLD谱面追加。原作ee’MALL历史不当作本翻唱初出。[2]
 
-**资料来源**
+### 资料来源
 
-1. RemyWiki：《Caribbean Coast》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目资料页 2407，访问日期 2026-11-01。
-3. jubeat 官方 original 页第 4 页，访问日期 2026-11-01。
-4. KONAMI eAM：2025-08-01 BONUS TUNE 更新公告，访问日期 2026-11-01。
-5. CDJapan：NEODAI-324670 商品页，访问日期 2026-11-01。
+1. [Neowing / KONAMI：Five Drops04](https://www.neowing.co.jp/product/GFCA-414)（已实读；secondary）
+2. [jubeat@Wiki：空言の海 ～咲子 edition～](https://w.atwiki.jp/jubeat/pages/2379.html)（已实读；secondary）
+3. [RemyWiki：Munagoto no umi / TOMOSUKE comment](https://remywiki.com/Munagoto_no_umi)（已实读；secondary）
+4. [かりを：Voice Link MIX解説](https://note.com/ru_kario/n/nd9f3ab0cb78c)（已实读；primary）
 
-**核验边界**
+### 核验边界与待补
 
-谱面数值与活动时间来自 Wiki、官方页与 eAM 公告的交叉记录；专辑收录范围和配信平台可能随版本调整，本稿未核验音频内容本身。
+4文献根；原曲创作说明目前仅英译转录，非直接日文原评；咲子版录音与选择该曲的直接动机未核；DJ现场edit不等同官方改编。
 
-## 64. EX-MASSIVE FIGHTER
+<a id="arcade-11000143-shared"></a>
+## 寂寞たる世界の終末は
 
-**曲目档案**
+- 统一曲库 ID：`arcade:11000143`
+- 原章节编号与标题：62. 寂寞たる世界の終末は
 
-- 标题：EX-MASSIVE FIGHTER
-- 艺人：BEMANI Sound Team "L.E.D.-G"
-- 统一曲库 ID：`arcade_11000145`
+### 曲目档案
 
-**背景知识**
+- 署名：日向美ビタースイーツ♪
+- 原唱：霜月凛（CV：水原薫）；词：黒田椋子；曲、编曲：コバヤシユウヤ；贝斯：john=hive。[1–4]
+- 原唱片：2016-02-17《Five Drops 05》。[1]
 
-本曲署名为 BEMANI Sound Team "L.E.D.-G"，属于 L.E.D. 相关创作名义的新曲。曲名中的「EX」和「MASSIVE FIGHTER」提示其战斗风格；公开 Wiki 未展开曲目主题的具体设定，本稿不额外推测。
+### 创作与制作背景
 
-**jubeat beyond the Ave. 位置**
+本曲是霜月凛的角色歌曲，由水原薫演唱，收在2016-02-17发行的《Five Drops 05 -bergamot mint-》第四轨，同盘另有伴奏版。[1] 现实制作分工可核到黒田椋子作词、コバヤシユウヤ作曲及编曲，john=hive演奏贝斯。[2][3][4] 角色在作品世界中的诗作身份，与这些现实创作者的工作署名需要分开；也不能因为它在后来的街机版本登场，就认定是为该版本新作的歌曲。
 
-jubeat@Wiki 记录本曲 BPM 为 165，谱面难度与note数为 4 / 8 / 10.4。街机版自 2024 年 5 月 22 日起经 LIGHT CHAT DOLY 解禁，2025 年 9 月 1 日转入 BONUS TUNE。此路径说明其在《jubeat beyond the Ave.》更新周期中属于新规获取曲目之一。
+围绕本曲的文学阐释有公开记录，但还不是作者说明。2018年的评论《霜月凛の詩作について.下》讨论了把标题理解为前作之后的尾声，或理解为世界终末意识的两种可能，同时明确承认无法确定创作缘起与主旨。[5] 因而这里不把评论进一步联想到的哲学思想、まり花或另一种人生结局写成既定创作故事。能够确定的是其唱片企划位置和IOSYS制作团队；为何选择这些诗意表达、声优录音如何指导，仍缺直接访谈或制作笔记。
 
-**资料来源**
+官方后续利用记录则清楚：在BEMANIちくわまつり2023的曲目表中，它被列为jubeat侧STAR RECORD解锁曲。[6] 这属于原有角色歌曲进入街机的传播经历，不替代2016年原作的创作动机。
 
-1. RemyWiki：《EX-MASSIVE FIGHTER》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目列表，访问日期 2026-11-01。
-3. jubeat 官方 original 页第 2 页，访问日期 2026-11-01。
-4. jubeat statistics（jubesta）：收录与获取记录，访问日期 2026-11-01。
-5. BEMANICN：BEMANI Sound Team 相关曲目录，访问日期 2026-11-01。
+### jubeat 收录与版本
 
-**核验边界**
+本地Ave.分组保留；官方可核beyond时期STAR RECORD「ちくわまつり2023」的追加，2016年角色唱片先于该街机活动。[1][6]
 
-BPM、难度与note数为公开 Wiki 数值，官方谱面表未另行复核。LIGHT CHAT 至 BONUS TUNE 的时间线可由官方公告与 Wiki 相互印证，但当前活动内是否仍需特定条件，需以游戏内显示为准。
+### 资料来源
 
-## 65. さらさ
+1. [ORICON：Five Drops 05 -bergamot mint-](https://www.oricon.co.jp/prof/382352/products/1157258/1/)（已实读；secondary）
+2. [IOSYS：void/コバヤシユウヤ提供作品](https://www.iosysos.com/creator-void.html)（已实读；primary）
+3. [IOSYS：john=hive提供作品](https://www.iosysos.com/creator-john.html)（已实读；primary）
+4. [J-Lyric：寂寞たる世界の終末は](https://j-lyric.net/artist/a05aff4/l03989d.html)（已实读；secondary）
+5. [天神河畔の亭庵：霜月凛の詩作について.下](https://sengei-hinabitter.blog.jp/archives/8734386.html)（已实读；secondary）
+6. [KONAMI：BEMANIちくわまつり2023追加曲](https://p.eagate.573.jp/game/bemani/hinabita2023/music/index.html)（已实读；primary）
 
-**曲目档案**
+### 核验边界与待补
 
-- 标题：さらさ
-- 艺人：BEMANI Sound Team "PON"
-- 统一曲库 ID：`arcade_11000146`
+6页面按录音信用、独立评论、游戏公告保守计3根；未取得作者逐曲动机或录音访谈；评论假说不是官方剧情；BPM、Notes、准确手游配信日与本次街机首日仍待独立逐项核验。
 
-**背景知识**
+<a id="arcade-11000144-shared"></a>
+## Caribbean Coast
 
-本曲由 BEMANI Sound Team "PON" 提供。标题「さらさ」为日语短标题，公开资料未见统一解释；相关音乐平台与专辑页面将其列为 PON 名义曲目，并在《jubeat》相关 OST selection 中出现。
+- 统一曲库 ID：`arcade:11000144`
+- 原章节编号与标题：63. Caribbean Coast
 
-**jubeat beyond the Ave. 位置**
+### 曲目档案
 
-jubeat@Wiki 记录 BPM 为 168，谱面难度与note数为 3 / 6 / 9.6，对应 237 / 413 / 809。街机版于 2024 年 7 月 3 日通过 LIGHT CHAT CONY 解禁，2025 年 9 月 1 日转入 BONUS TUNE。官方 original 页与 OST selection 收录记录显示其已进入常规可收录曲目体系。
+- 署名：BEMANI Sound Team "劇団レコード"
+- BPM132；等级4/7/9.6；Notes233/508/740。[1]
+- 原声选集音轨2:02（非已核街机计时时长）。[3]
 
-**资料来源**
+### 创作与制作背景
 
-1. RemyWiki：《さらさ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目列表，访问日期 2026-11-01。
-3. jubeat 官方 original 页第 7 页，访问日期 2026-11-01。
-4. OTOTOY：相关配信页，访问日期 2026-11-01。
-5. CDJapan：相关专辑商品页，访问日期 2026-11-01。
+这首以“加勒比海岸”为题的作品由BEMANI Sound Team "劇団レコード"署名，是beyond the Ave.时期的原创曲。游戏通过LIGHT CHAT角色LANDY的消息解读引出它，通关及全连称号也分别围绕海风、海盗休息展开。[1] 这些能够说明其在游戏中的海洋主题包装，但尚不能证明作者去过加勒比海取材，也不能仅凭标题替它指定某种拉丁音乐风格。
 
-**核验边界**
+社区谱表记录132BPM，EXTREME为9.6级；相较于一句泛称“热情的夏日乐曲”，保留这些可复核信息更能避免将想象冒充制作事实。[1] 目前尚未找到劇団レコード对此曲的独立创作访谈，旋律、打击乐素材、配器选择及LANDY与音乐的制作先后仍待补证。
 
-公开来源确认了解禁时间、谱面数值与 OST selection 收录线索；曲名含义和歌词背景未获可靠解释，本稿不作演绎。
+作品后续经历可以明确追踪：2025-08-01起改以BONUS TUNE三次游玩解锁；2026-10-07发行的《jubeat Ave. & beyond the Ave. ORIGINAL SOUNDTRACK SELECTION》又将它收入第三碟第11轨，平台标时2:02。[2][3] 这是解锁渠道与唱片传播的变化，不能等同于重新创作或重录。
 
-## 66. 6次の隔たり
+### jubeat 收录与版本
 
-**曲目档案**
+保留本地Ave.分组；实际社区归属beyond，统计站在2024-04-10记录本曲对应，最初为LANDY限定解锁，2025-08-01起BONUS TUNE。[1][2][4]
 
-- 标题：6次の隔たり
-- 艺人：BEMANI Sound Team "Sota F. Remixed by Coyaan"
-- 统一曲库 ID：`arcade_11000147`
+### 资料来源
 
-**背景知识**
+1. [jubeat@Wiki：Caribbean Coast](https://w.atwiki.jp/jubeat/pages/2407.html)（已实读；secondary）
+2. [KONAMI：BONUS TUNE対象楽曲追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2025.08.01&update_no=100)（已实读；primary）
+3. [OTOTOY / KONAMI：Ave. & beyond OST SELECTION](https://ototoy.jp/_/default/p/4272113)（已实读；secondary）
+4. [jubeat statistics：beyond更新履歴](https://jubesta.net/beyond/)（已实读；secondary）
 
-本曲为 Sota Fujimori 曲目《6次の隔たり》的 Coyaan 编曲版本。公开资料将其与 QuizKnock STADIUM 对战画面 BGM 联系起来，说明该版本用于对战场景。Coyaan 在公开介绍中通常以 KONAMI 所属的神秘名义出现，具体成员身份未在本次整理中确认。
+### 核验边界与待补
 
-**jubeat beyond the Ave. 位置**
+4文献根；统计站更新日是旁证，不冒充官方初出公告；作者创作动机、素材及录音过程未核；海洋包装不等同实地旅行；未直接取得2024年初登场官方公告原文。
 
-jubeat@Wiki 记录 BPM 为 134，谱面难度与note数为 1 / 6 / 9.1，对应 123 / 444 / 765。曲目于 2024 年 11 月 27 日从 original 分类改为 game 分类，并通过 STAR RECORD「BEMANIイントロ」解禁。该分类变化与其来源由原创界面曲转为游戏联动曲的时间点相符。
+<a id="arcade-11000145-shared"></a>
+## EX-MASSIVE FIGHTER
 
-**资料来源**
+- 统一曲库 ID：`arcade:11000145`
+- 原章节编号与标题：64. EX-MASSIVE FIGHTER
 
-1. RemyWiki：《6次の隔たり》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目资料页 2412，访问日期 2026-11-01。
-3. QuizKnock 官方页：QuizKnock STADIUM 相关公告，访问日期 2026-11-01。
-4. jubeat 官方 original 页第 19 页，访问日期 2026-11-01。
-5. jubeat statistics（jubesta）：曲目分类与解禁记录，访问日期 2026-11-01。
+### 曲目档案
 
-**核验边界**
+- 署名：BEMANI Sound Team "L.E.D.-G"
+- BPM165；4/8/10.4；Notes296/561/973。[1]
+- IIDX侧曲风记录：HYBRID HARDSTYLE。[3]
+- 原声选集音轨2:06，非已核游戏计时时长。[5]
 
-QuizKnock STADIUM 的 BGM 使用场景、编曲署名与分类调整可交叉印证；Coyaan 的具体身份与原始版和编曲版之间的所有差异未获官方完整说明。
+### 创作与制作背景
 
-## 67. 累乗のカルマ
+本曲以L.E.D.-G署名，于beyond the Ave.的DOLY限定LIGHT CHAT活动中登场。[1] 音乐类型至少有另一机种的公开记录可辅助定位：IIDX攻略社区记录其曲风为HYBRID HARDSTYLE，而不是仅根据名字中的“FIGHTER”推测它的风格。[3] 但这个标签不能代替作者对具体合成器、节奏或声音层次的制作解释。
 
-**曲目档案**
+同期玩家hin4留下了一条较具体的接受史：她因期待L.E.D.-G新曲而重新投入jubeat，并用三个游戏日完成DOLY解锁；文章结束时还明确说尚未游玩本曲，只听过预览。[2] 因而此文能够说明作品如何吸引既有作者听众跨机种游玩，却不能被改写为完整实玩评测，更不是作曲者的创作动机。
 
-- 标题：累乗のカルマ
-- 艺人：めと（Metomate）
-- 统一曲库 ID：`arcade_11000148`
+2025-09-01，官方把本曲改列为BONUS TUNE三次游玩解锁；之后的原声选集在第三碟第12轨收录2:06音轨。[4][5] 尚未取得L.E.D.-G对这首曲子的直接创作说明，因此不能把他其他硬派作品的制作谈或DOLY的虚构设定套作本曲的幕后故事。
 
-**背景知识**
+### jubeat 收录与版本
 
-本曲由めと（Metomate）创作，出自 KAC2023 SDVX / GITADORA 部门预选 A 曲目。标题中的「累乗」与「カルマ」构成指数式增长与业报的意象，公开资料未给出更细的主题说明。
+本地Ave.归属保留；社区首日2024-05-22，DOLY活动至6月11日，属于beyond；2025-09-01 BONUS TUNE。[1][4]
 
-**jubeat beyond the Ave. 位置**
+### 资料来源
 
-jubeat@Wiki 记录 BPM 为 178，谱面难度与note数为 3 / 7 / 9.3，对应 209 / 429 / 840。街机版自 2024 年 7 月 1 日起进入 BONUS TUNE，连续游玩 3 次可解禁。此获取条件基于当时公告，后续 BONUS TUNE 机制调整时应以游戏内描述为准。
+1. [jubeat@Wiki：beyond新曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（已实读；secondary）
+2. [hin4：久しぶりにjubeatやったぞ！！！](https://hinauta.com/久しぶりにjubeatやったぞ！！！/)（已实读；primary）
+3. [IIDX SP攻略Wiki：EX-MASSIVE FIGHTER(A)](https://w.atwiki.jp/bemani2sp/pages/5122.html)（已实读；secondary）
+4. [KONAMI：BONUS TUNE追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2025.09.01&update_no=100)（已实读；primary）
+5. [OTOTOY / KONAMI：Ave. & beyond OST SELECTION](https://ototoy.jp/_/default/p/4272113)（已实读；secondary）
 
-**资料来源**
+### 核验边界与待补
 
-1. RemyWiki：《累乗のカルマ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目资料页 2410，访问日期 2026-11-01。
-3. BEMANI Fan Site：post 21539238，访问日期 2026-11-01。
-4. jubeat 官方 original 页第 18 页，访问日期 2026-11-01。
-5. KAC 后夜祭官方页：KAC2023 预选曲说明，访问日期 2026-11-01。
-6. jubeat statistics（jubesta）：收录记录，访问日期 2026-11-01。
+两机种社区资料保守合根，共4文献根；无作者逐曲制作证词；玩家仅听预览不当完整乐评；IIDX参数与jubeat参数严格分开。
 
-**核验边界**
+<a id="arcade-11000146-shared"></a>
+## さらさ
 
-KAC2023 部门归属、BONUS TUNE 解禁次数和谱面数值由 Wiki、BEMANI Fan Site 与官方页交叉记录；KAC 后续是否会重新开放同曲获取方式未纳入本稿断言。
+- 统一曲库 ID：`arcade:11000146`
+- 原章节编号与标题：65. さらさ
 
-## 68. Caldwell 99
+### 曲目档案
 
-**曲目档案**
+- 署名：BEMANI Sound Team "PON"
+- BPM168；等级3/6/9.6；Notes237/413/809。[1]
+- 原声选集1:54；街机计时时长另待核。[3]
 
-- 标题：Caldwell 99
-- 艺人：BlackY
-- 统一曲库 ID：`arcade_11000149`
+### 创作与制作背景
 
-**背景知识**
+《さらさ》是PON署名的jubeat原创曲，最初与LIGHT CHAT角色CONY相连。社区记录其2024-07-03登场，解读到第五阶段可获得歌曲；它的游戏称号围绕曾经存在的证据、以后仍能相见展开。[1][5] 这为作品提供了可核实的游戏语境，但称号不能证明PON具体为谁写歌，也不宜擅自写成悼念某人的创作故事。
 
-本曲由 BlackY 创作，为 KAC2023 预选 A 曲目之一，并曾与《beatmania IIDX》《DanceRush Stardom》《pop'n music》同时登场。曲名可对应天文学中的 Caldwell 99 / Coalsack Nebula（煤袋星云），但公开曲目页未明确说明该天文含义是否为创作设定。
+后续移植还带来一个容易混淆的名称关系：2025年7月的媒体测试报道已在新pop’n筐体曲目中列出Sarasa；pop’n社区条目则以ジャンル名“トワ”收录，担当角色也叫さらさ。[4][5] 曲名、类型栏名称和角色名是三个不同层次；角色同名并不足以证明这首jubeat初出曲原本就是为该角色制作。
 
-**jubeat beyond the Ave. 位置**
+jubeat的解锁渠道在2025-09-01转为BONUS TUNE，后来原声选集收入1:54音轨。[2][3] 本轮尚未找到PON的逐曲制作谈、歌词信用或录音笔记；因此保留传播史与角色呈现，不把常见的“七夕”“再会”联想提升为作者亲述。
 
-jubeat@Wiki 记录 BPM 为 142，谱面难度与note数为 5 / 9.1 / 10.4，对应 371 / 639 / 925。街机版自 2024 年 8 月 1 日起进入 BONUS TUNE。其在 KAC2023 多机种预选曲体系中的位置，说明这是官方跨 BEMANI 作品企划的新规曲之一。
+### jubeat 收录与版本
 
-**资料来源**
+本地Ave.分组保留；实际为beyond 2024-07-03 CONY初出，之后才有pop’n新作移植记录。[4][5]
 
-1. RemyWiki：《Caldwell 99》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目列表，访问日期 2026-11-01。
-3. BEMANICN：KAC2023 预选曲资料，访问日期 2026-11-01。
-4. asagaolabo：post 5640，访问日期 2026-11-01。
-5. jubeat statistics（jubesta）：收录记录，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
+1. [jubeat@Wiki：さらさ](https://w.atwiki.jp/jubeat/pages/2411.html)（已实读；secondary）
+2. [KONAMI：BONUS TUNE対象追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2025.09.01&update_no=100)（已实读；primary）
+3. [OTOTOY / KONAMI：Ave. & beyond OST SELECTION](https://ototoy.jp/_/default/p/4272113)（已实读；secondary）
+4. [scrmbl：NEW!! pop’n music location test report](https://scrmbl.com/post/new-popn-music-location-test-report)（已实读；secondary）
+5. [asagaolabo：トワ / TOWA](https://w.atwiki.jp/asagaolabo/pages/6046.html)（已实读；secondary）
 
-多机种同时登场与 KAC2023 预选归属可由多个来源印证；曲名的天文指向属于名称层面的对应关系，未作为官方创作说明处理。
+### 核验边界与待补
 
-## 69. Touch Me
+两社区合根，共4文献根；无PON直接动机或录音说明；不由标题与同名角色推断委约；原声时长不等于谱面计时时长；具体人声信用待核。
 
-**曲目档案**
+<a id="arcade-11000147-shared"></a>
+## 6次の隔たり
 
-- 标题：Touch Me
-- 艺人：BEMANI Sound Team "GekiReco & Sota F."
-- 统一曲库 ID：`arcade_11000150`
+- 统一曲库 ID：`arcade:11000147`
+- 原章节编号与标题：66. 6次の隔たり
 
-**背景知识**
+### 曲目档案
 
-本曲署名结合「GekiReco」与「Sota F.」，源自 KAC2023 DanceRush Stardom / GITADORA 部门预选 B 曲目。曲名为简短的英文短语，公开资料未提供歌词或主题细节，本稿不补写。
+- 署名：BEMANI Sound Team "Sota F. Remixed by Coyaan"
+- 原素材署名Sota F.；Remix：Coyaan。[2]
+- BPM134；1/6/9.1；Notes123/444/765。[1]
 
-**jubeat beyond the Ave. 位置**
+### 创作与制作背景
 
-jubeat@Wiki 记录 BPM 为 136，谱面难度与note数为 3 / 7 / 9.5，对应 167 / 378 / 716。街机版自 2024 年 9 月 1 日起进入 BONUS TUNE。该时间点与 KAC2023 后续向各 BEMANI 作品铺开的节奏一致。
+这首歌并非仅仅把Sota F.和Coyaan列为两位不分工的合作者：官方完整署名是“Sota F. Remixed by Coyaan”，明确指出后者负责remix。[2] jubeat社区进一步将其原材料识别为《QuizKnock STADIUM》联赛模式匹配画面的BGM。[1] 因此它的背景应从问答游戏的界面音乐改编谈起，而不能写成两人为jubeat从零共同作曲；原BGM具体制作谈和remix工程仍待作者资料确认。
 
-**资料来源**
+“六度分隔”的概念也被直接做成了游戏称号：通关称号以问答形式描述沿熟人关系连接世界的假说。[1] 这是游戏确实采用的知识梗，不等于已经证明作者用六个音符、六种音色或六段结构实现该概念；这些编曲层面的解释本轮没有证据。
 
-1. RemyWiki：《Touch Me》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目资料页 2414，访问日期 2026-11-01。
-3. jubeat 官方 original 页第 10 页，访问日期 2026-11-01。
-4. BEMANI Fan Site：post 21708204，访问日期 2026-11-01。
-5. jubeat statistics（jubesta）：收录记录，访问日期 2026-11-01。
+作品发行依附于一次跨玩法活动。2024-07-19官方预告，从7月23日开始以jubeat歌曲的开头、预览或结尾片段进行抢答，玩家可经问答模式联动解锁本曲，也可在jubeat内完成十次游玩。[2] 统计站在7月23日记录了该曲对应。[3] 由此可见它同时承担了两款游戏之间的音乐联系和联动奖励作用；但不能把活动规则当作Coyaan本人陈述的创作动机。
 
-**核验边界**
+### jubeat 收录与版本
 
-KAC2023 部门归属、BONUS TUNE 时间和谱面数值由 Wiki、官方页与 BEMANI Fan Site 相互印证；原始 DRS / GITADORA 版本与 jubeat 版本之间的 UI 或音源差异未逐项核对。
+本地Ave.保留；实际beyond 2024-07-23 BEMANIイントロ活动追加，官方第二阶段结束为9月4日23:59。[2][3]
 
-## 70. ROCK THE PARTY
+### 资料来源
 
-**曲目档案**
+1. [jubeat@Wiki：6次の隔たり](https://w.atwiki.jp/jubeat/pages/2412.html)（已实读；secondary）
+2. [KONAMI：BEMANIイントロSTADIUM ver.jubeat](https://p.eagate.573.jp/game/qk_stadium/1/news/news.html)（已实读；primary）
+3. [jubeat statistics：beyond更新履歴](https://jubesta.net/beyond/)（已实读；secondary）
 
-- 标题：ROCK THE PARTY
-- 艺人：BEMANI Sound Team "KE!JU"
-- 统一曲库 ID：`arcade_11000151`
+### 核验边界与待补
 
-**背景知识**
+3文献根；来源3为同期维护日志，仅证明该日已有曲目对应；原BGM身份由社区识别，尚无作者直接音乐制作谈；不由六度分隔概念臆造六音、六段等创作技法；街机时长待核。
 
-本曲由 BEMANI Sound Team "KE!JU" 提供，源自 KAC2023 DanceDanceRevolution / DanceRush Stardom 部门预选 B 曲目。KE!JU 名义此前已在《DanceDanceRevolution A3》登场；本曲延续该组合的派对向曲名风格。
+<a id="arcade-11000148-shared"></a>
+## 累乗のカルマ
 
-**jubeat beyond the Ave. 位置**
+- 统一曲库 ID：`arcade:11000148`
+- 原章节编号与标题：67. 累乗のカルマ
 
-jubeat@Wiki 记录 BPM 为 128，谱面难度与note数为 3 / 6 / 9.6，对应 250 / 532 / 880。街机版自 2024 年 10 月 1 日起进入 BONUS TUNE。该曲在《jubeat beyond the Ave.》的定位属于 KAC2023 跨作品新规曲进入 jubeat 平台后的常规获取曲。
+### 曲目档案
 
-**资料来源**
+- 署名：めと（Metomate）
+- BPM178；3/7/9.3；Notes209/429/840。[1]
+- 数字目录长度2:00；街机时长尚未核实。[4]
 
-1. RemyWiki：《ROCK THE PARTY》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲目资料页 2421，访问日期 2026-11-01。
-3. DDR Fandom：KE!JU 及 DDR A3 相关资料，访问日期 2026-11-01。
-4. BEMANI Fan Site：post 21708204，访问日期 2026-11-01。
-5. jubeat statistics（jubesta）：收录记录，访问日期 2026-11-01。
+### 创作与制作背景
 
-**核验边界**
+本曲的公开发行脉络首先指向KAC 2023，而不是jubeat专属委约：社区将其原来用途记录为GITADORA与SOUND VOLTEX部门预选轮A的解禁乐曲。[1] “解禁乐曲”与比赛计分课题不是同一概念，在缺乏具体赛制文件时不将二者混写。MusicBrainz的KAC数字音乐目录把本曲列为第三轨、长度2:00；这一目录时长也不直接等同jubeat游戏内时长。[4]
 
-KAC2023 部门归属、BONUS TUNE 日期和谱面数值可交叉印证；KE!JU 成员构成、原始版本与 jubeat 版本的细节差异未在本次来源中逐项确认。
+已有独立玩家文章提供了它在另一种玩法中的接受史。春日于2024年3月评论SOUND VOLTEX的MXM谱面，特别注意第32至35小节的BT长键以及不施加FX的段落对比，认为这些安排既有风格又有操作趣味。[3] 这是针对谱面与效果器的个人评论，不是めと本人解释作曲，也不能转写为jubeat谱师的设计说明。现有来源尚未揭示题名中“累乘”和“业”的个人寓意、歌词写作缘起或录音过程。
 
-## 71. Hexer
+2024-07-01，官方将本曲与《パーフェクトイーター》一起加入jubeat的BONUS TUNE，三次游玩后解禁。[2] 由KAC跨机种奖励进入jubeat常规解禁路径，是当前能够确证的传播背景。
 
-**曲目档案**
+### jubeat 收录与版本
 
-- 标题：Hexer
-- 统一曲库 ID：`arcade_11000152`
-- 艺术家：BEMANI Sound Team "Yvya"
-- BPM：165
-- 谱面难度与节点数：HOLD 谱面 BASIC 6 / 490；ADVANCED 9.6 / 894；EXTREME 10.7 / 1099
+本地Ave.归属保留；实际beyond the Ave.于2024-07-01追加。[1][2]
 
-**背景知识**
+### 资料来源
 
-《Hexer》由 BEMANI Sound Team "Yvya" 创作，是 KONAMI Arcade Controllers 2023 中 GITADORA 部门与 pop'n music 部门予选ラウンド B 的解禁曲，之后移植到 jubeat beyond the Ave.。曲名可解作施行妖术或诅咒者，乐曲以紧凑的低音推进、尖锐合成器与 165 BPM 的中高速段落构成压迫感。本曲在 jubeat 侧没有普通谱面，三级均为 HOLD 谱面，点触与长按节点持续交错，是本批次中操作密度最高的曲目之一。
+1. [jubeat@Wiki：累乗のカルマ](https://w.atwiki.jp/jubeat/pages/2410.html)（已实读；secondary）
+2. [KONAMI：BONUS TUNE対象楽曲追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.07.01&update_no=100)（已实读；primary）
+3. [春日／note：ロングの魔術師、ダークダークダーク](https://note.com/kasuga_t/n/n5c6efa3a0fed)（已实读；secondary）
+4. [MusicBrainz：KONAMI Arcade Championship(2023)](https://musicbrainz.org/release/7ad79be0-ecf5-4d1a-8bb0-9b5fda6a84c3)（已实读；secondary）
 
-**jubeat beyond the Ave. 位置**
+### 核验边界与待补
 
-歌曲属于 BONUS TUNE 解禁线，于 2025 年 1 月 1 日配信，需在 BONUS TUNE 中累计游玩 3 次后开放。jubeat@Wiki 记录其为 KAC 2023 关联解禁曲，并标注全难度 HOLD 谱面；本次未发现其在 beyond the Ave. 内另有常时入口或追加谱面。
+4文献根；来源3仅SDVX谱面评论不是音乐创作证词；未找到作者直接创作谈、歌词动机或配器分工；数字目录的发行日期及后续增补时间未独立核实，不用于断定本曲首次配信日。
 
-**资料来源**
+<a id="arcade-11000149-shared"></a>
+## Caldwell 99
 
-1. RemyWiki：Hexer，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Hexer，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. BONUS TUNE 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／KAC 2023 活动信息，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+- 统一曲库 ID：`arcade:11000149`
+- 原章节编号与标题：68. Caldwell 99
 
-**核验边界**
+### 曲目档案
 
-RemyWiki 页面未能直接访问。BPM、三级 HOLD 难度、节点数、配信日期与 BONUS TUNE 解禁规则以 jubeat@Wiki 为主，并和 BEMANICN、Otoge Station 的收录信息交叉核对。KAC 2023 中的部门归属由官方活动信息与 wiki 记载相互印证；具体的原作谱面与解禁流程不在本稿推定。
+- 署名：BlackY
+- 仅HOLD：5/9.1/10.4；142BPM；Notes371/639/925。[1]
+- 数字目录2:04，不代替街机时长。[3]
 
-## 72. mathematical good-bye
+### 创作与制作背景
 
-**曲目档案**
+《Caldwell 99》以KAC 2023跨机种解禁曲的身份出现，而非从jubeat首发。2023-08-09的同期IIDX记录列出KAC TOURISM 1路线与本曲，并记载STARRY BASS HOUSE这一曲风名。[2] jubeat社区把它与IIDX、DANCERUSH和pop’n music预选A解禁体系对应起来。[1]
 
-- 标题：mathematical good-bye
-- 统一曲库 ID：`arcade_11000153`
-- 艺术家：三代目 ADULTIC TEACHERS feat. BEMANI Sound Team "スコーピオン志村"
-- BPM：182
-- 谱面难度与节点数：BASIC 4 / 267；ADVANCED 8 / 614；EXTREME 10.4 / 862
+作品的天文意象有游戏内证据：jubeat通关称号直接点出Coalsack，另一称号提到Southern Cross旁的暗淡光辉。[1] 社区导赏将题名解释为煤袋星云，并将音乐描述为钢琴占主导、带爵士感及wobble bass的house。[5] 这里前者是题名与称号的呼应，后者是评论者的听感分析；不能据此断言BlackY曾观测该星云，或认定本曲为早作《Southern Cross》的续篇。作者为什么选择这一对象，仍需其本人证词。
 
-**背景知识**
+KAC数字音乐目录列有本曲2:04的录音。[3] 到2024年8月，歌曲又以HOLD谱面进入jubeat，统计站8月1日已有对应记录；社区记载BONUS TUNE三次解禁。[1][4][5] HOLD是此次移植的谱面形式，并不证明音乐另做了长音版或重录。
 
-《mathematical good-bye》是 KONAMI Arcade Controllers 2023 中 DDR 部门与 pop'n music 部门予选ラウンド B 的解禁曲，随后同步进入 beatmania IIDX 30 RESIDENT、DanceDanceRevolution A3 与 jubeat beyond the Ave.。名义上由三代目 ADULTIC TEACHERS 演出，该组合可理解为 dj TAKA 与 ぁゅ 的合作，参与创作的 BEMANI Sound Team "スコーピオン志村" 则对应 L.E.D.。乐曲以 182 BPM 的明亮电子舞曲推进，副歌人声与和弦转换带有明显的告别意象，EXTREME 谱面也围绕这种起伏重排触点。
+### jubeat 收录与版本
 
-**jubeat beyond the Ave. 位置**
+本地Ave.归属保留；历史KAC2023跨机种，jubeat beyond为2024-08-01。[1][2][4][5]
 
-歌曲属于 BONUS TUNE 解禁线，于 2024 年 12 月 1 日配信，需在 BONUS TUNE 中累计游玩 3 次后开放。jubeat@Wiki 记录其 KAC 2023 关联身份与三级普通谱面，未见 beyond the Ave. 内另有 HOLD 版本或专属剧情。
+### 资料来源
 
-**资料来源**
+1. [jubeat@Wiki：Caldwell 99](https://w.atwiki.jp/jubeat/pages/2413.html)（已实读；secondary）
+2. [ぷろとらどっとこむ：2023-08-09 IIDX记录](https://purotora.com/log/20230801.html)（已实读；secondary）
+3. [MusicBrainz：KONAMI Arcade Championship(2023)](https://musicbrainz.org/release/7ad79be0-ecf5-4d1a-8bb0-9b5fda6a84c3)（已实读；secondary）
+4. [jubeat statistics：beyond更新履歴](https://jubesta.net/beyond/)（已实读；secondary）
+5. [ポップン百科大事典：Caldwell99](https://w.atwiki.jp/asagaolabo/pages/5640.html)（已实读；secondary）
 
-1. RemyWiki：mathematical good-bye，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：mathematical good-bye，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. BONUS TUNE 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／KAC 2023 活动信息，访问日期 2026-11-01。
-5. beatmania IIDX 与 DanceDanceRevolution 官方收录信息页，访问日期 2026-11-01。
+### 核验边界与待补
 
-**核验边界**
+5页面保守4文献根，两社区同根；未找到BlackY本人本曲制作访谈或曲评；社区5参数BPM145与同期IIDX及jubeat142冲突，采用后两者142；曲风采用同期资料BASS而非社区BASE拼写；街机时长待核；常规谱面不存在的记录以本轮社区版本为限。
 
-RemyWiki 页面未能直接访问。谱面参数、配信日期与解禁方式来自 jubeat@Wiki，并经 BEMANICN 与收录站信息核对。组合成员对应关系与各平台同步收录情况主要依据 BEMANI 社群与官方页面记载；本次未逐项验证 IIDX、DDR 原版谱面，相关表现不在本稿展开。
+<a id="arcade-11000150-shared"></a>
+## Touch Me
 
-## 73. Yelling
+- 统一曲库 ID：`arcade:11000150`
+- 原章节编号与标题：69. Touch Me
 
-**曲目档案**
+### 曲目档案
 
-- 标题：Yelling
-- 统一曲库 ID：`arcade_11000154`
-- 艺术家：Blacklolita
-- BPM：150
-- 谱面难度与节点数：HOLD 谱面 BASIC 3 / 256；ADVANCED 7 / 445；EXTREME 10.3 / 798
+- 署名：BEMANI Sound Team "GekiReco & Sota F."
+- BPM136；3/7/9.5；Notes167/378/716。[1]
+- 数字目录1:52，街机时长待核。[4]
 
-**背景知识**
+### 创作与制作背景
 
-《Yelling》由 Blacklolita 创作，是其首次参加 jubeat 的作品。Blacklolita 是活跃于 AlphaVersion Records、wavforme、MEGAREX 等厂牌的 trackmaker 与 DJ，此前已在 DANCERUSH STARDOM、DanceDanceRevolution 与 beatmania IIDX 提供曲目。本曲保留其偏好的明亮声底与具有喊唱感的音色处理，150 BPM 的节奏适合中高速触板操作。jubeat 侧三级均为 HOLD 谱面，长按段落与点触夹击构成主要的读谱挑战。
+这首《Touch Me》须以完整的GekiReco ＆ Sota F.合作署名识别。[2] 它来自KAC 2023的DANCERUSH与GITADORA预选B解禁乐曲群，而不是jubeat起源的独占曲。[1] 目前已读资料只确认合作身份，没有拆分哪位负责旋律、和声、合成器或混音，因此不把两人的一般风格印象当成实际工程分工。
 
-**jubeat beyond the Ave. 位置**
+2023-10-18的独立游玩日记已经记录GITADORA版，作者将其听感概括为funky、容易随之律动，并提及封面镜球和迪斯科姿态。[3] 这是有日期的接受史材料，证明其舞池气氛并非后来因jubeat移植才被赋予；但不等于主创承认向某部电影或特定七十年代录音致敬。jubeat的全连称号也直接提到镜球，与这一视觉主题相呼应。[1]
 
-歌曲属于 SMITH STREET 第 1 弾的 INDIGO STREET-NIGHT 解禁线，于 2024 年 12 月 4 日配信，达成该 STREET 100% 后开放。jubeat@Wiki 记录其 Blacklolita 首参加身份与全难度 HOLD 谱面，未记载该曲另有常时入口。
+KAC数字音乐目录记录本曲1:52。[4] 2024-09-01它与《Stylus》一同进入jubeat BONUS TUNE，三次游玩后解禁。[2] 从脚步与乐器操作转到十六格触摸，改变的是游戏呈现方式；本轮没有证据表明为此重新编曲或录音。
 
-**资料来源**
+### jubeat 收录与版本
 
-1. RemyWiki：Yelling，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Yelling，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. SMITH STREET 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／beyond the Ave. 追加曲信息，访问日期 2026-11-01。
-5. AlphaVersion Records／wavforme／MEGAREX 艺术家页，访问日期 2026-11-01。
+本地Ave.保留；实际jubeat beyond于2024-09-01移植。[1][2]
 
-**核验边界**
+### 资料来源
 
-RemyWiki 页面未能直接访问。BPM、HOLD 难度、节点数与解禁线来自 jubeat@Wiki，配信日期由 BEMANICN 和官方信息核对。Blacklolita 的厂牌归属与既往参战作品依据公开厂牌页与社群资料；具体作品发行细节未逐项验证，不写入精确年表。
+1. [jubeat@Wiki：Touch Me](https://w.atwiki.jp/jubeat/pages/2414.html)（已实读；secondary）
+2. [KONAMI：BONUS TUNE追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.09.01&update_no=100)（已实读；primary）
+3. [FMIC7743.log.exe/D：1018](https://fm7743.hatenadiary.com/entry/20231018/1697634664)（已实读；secondary）
+4. [MusicBrainz：KONAMI Arcade Championship(2023)](https://musicbrainz.org/release/7ad79be0-ecf5-4d1a-8bb0-9b5fda6a84c3)（已实读；secondary）
 
-## 74. voxel star arise
+### 核验边界与待补
 
-**曲目档案**
+4文献根；游玩日记是听感和传播证据而非创作动机；两位具体作编分工、录音与采样来源未找到直接证词；不与其他作者的同名作品混同。
 
-- 标题：voxel star arise
-- 统一曲库 ID：`arcade_11000155`
-- 艺术家：ああああ
-- BPM：200
-- 谱面难度与节点数：BASIC 5 / 360；ADVANCED 8 / 705；EXTREME 10.4 / 997
+<a id="arcade-11000151-shared"></a>
+## ROCK THE PARTY
 
-**背景知识**
+- 统一曲库 ID：`arcade:11000151`
+- 原章节编号与标题：70. ROCK THE PARTY
 
-《voxel star arise》由ああああ创作，是其在 jubeat 的首次参加曲。ああああ为主要活跃于 BMS 场景的自由游戏音乐作曲家，此前曾在 SOUND VOLTEX 公募曲中出现，也以合作名义参与 pop'n music éclale、以よああああ名义参与 MÚSECA 1+1/2。本曲为其首个非公募初出、以单一名义提供的 BEMANI 曲。官方艺术家介绍把曲子形容为“チップチューンの銀河”，音乐上以芯片音色、明亮琶音和 200 BPM 的推进呼应星与方块的意象。
+### 曲目档案
 
-**jubeat beyond the Ave. 位置**
+- 署名：BEMANI Sound Team "KE!JU"
+- BPM128；3/6/9.6；Notes250/532/880。[1]
+- 数字目录2:07，街机时长待核。[3]
 
-歌曲属于 SMITH STREET 第 1 弾的 SAFFRON STREET-NIGHT 解禁线，于 2024 年 12 月 4 日配信，达成该 STREET 100% 后开放。jubeat@Wiki 记录其三级普通谱面与首次参加信息，未发现另有活动限定谱面。
+### 创作与制作背景
 
-**资料来源**
+本曲属于KAC 2023为DDR与DANCERUSH准备的预选B解禁曲。[1] 两款原有游戏都以身体步伐为主要操作媒介，因此它首先是一首跨跳舞游戏流通的作品；但目前不能把这种使用场景进一步写成KE!JU本人确认的委约要求或作曲动机。音乐目录将它以KE!JU署名收进KAC合集，长度2:07。[3]
 
-1. RemyWiki：voxel star arise，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：voxel star arise，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. SMITH STREET 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／beyond the Ave. 追加曲信息，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲一览，访问日期 2026-11-01。
+jubeat的全连称号采用“不断跳舞”的意思，与曲名的派对语境相互呼应。[1] 音乐怎样转成触摸操作，则可从社区玩家对EXT谱面的记录看到：其评论特意区分贝斯段落中的十六分节奏和局部带跳跃感的二十四分节奏。[1] 这只是听谱与操作观察，不是正式总谱分析，更不应把题名中的ROCK直接当成“摇滚乐”的官方流派标签。
 
-**核验边界**
+2024-10-01，官方把它与《QQ》同时放入BONUS TUNE，三次游玩解禁。[2] 这一步是跨机种移植而非首次公开；是否沿用相同母带、用何种音源和采样、标题如何构思，尚未找到作者自己的说明。
 
-RemyWiki 页面未能直接访问。谱面参数、解禁线与配信日期以 jubeat@Wiki 为准，并与 BEMANICN、Otoge Station 交叉核对。ああああ的既往名义与作品线依据 BEMANI 社群资料及官方介绍整理；“首个非公募初出、单一名义 BEMANI 曲”的表述按现有检索结果归纳，不代表已穷尽全部历史作品。
+### jubeat 收录与版本
 
-## 75. Snow Falcon
+本地Ave.归属保留；jubeat beyond实际追加为2024-10-01。[1][2]
 
-**曲目档案**
+### 资料来源
 
-- 标题：Snow Falcon
-- 统一曲库 ID：`arcade_11000157`
-- 艺术家：Ryu☆（TSV 记载）／Mutsuhiko Izumi（jubeat@Wiki 等实署名）
-- BPM：200
-- 谱面难度与节点数：BASIC 5 / 325；ADVANCED 8 / 549；EXTREME 10.4 / 868
+1. [jubeat@Wiki：ROCK THE PARTY](https://w.atwiki.jp/jubeat/pages/2421.html)（已实读；secondary）
+2. [KONAMI：BONUS TUNE対象楽曲追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.10.01&update_no=100)（已实读；primary）
+3. [MusicBrainz：KONAMI Arcade Championship(2023)](https://musicbrainz.org/release/7ad79be0-ecf5-4d1a-8bb0-9b5fda6a84c3)（已实读；secondary）
 
-**背景知识**
+### 核验边界与待补
 
-《Snow Falcon》延续以水鸟命名的泉陆奥彦系列意象：初代《Snow Goose》、copious 的《Red Goose》、saucer fulfill 的《Blue Goose》、groovin'!! 的《Snow Eagle》之后，本曲以隼的形象登场，全系列 BPM 均为 200。泉陆奥彦从 KONAMI 定年退社后为 jubeat 提供新作，因属外部提供而不冠 BEMANI Sound Team 名义，这也是继 prop《Diargosの森》以来再次为 jubeat 书写新曲。乐曲保留明快吉他、清亮合成器与高速但轻盈的节奏；据社群记载，该曲随后约一个月移植到 GITADORA。
+3文献根；比赛解禁用途不等于计分课题；尚缺KE!JU本曲直接制作证词；谱面评论不提升为作者动机；不依据标题ROCK判定流派。
 
-**jubeat beyond the Ave. 位置**
+<a id="arcade-11000152-shared"></a>
+## Hexer
 
-歌曲属于 SMITH STREET 第 1 弾的 MINT STREET-DAY 解禁线，于 2024 年 12 月 4 日配信，达成该 STREET 100% 后开放。jubeat@Wiki 记录其三级普通谱面与系列关联，未见 beyond the Ave. 内另有 HOLD 谱面或专属剧情。
+- 统一曲库 ID：`arcade:11000152`
+- 原章节编号与标题：71. Hexer
 
-**资料来源**
+### 曲目档案
 
-1. RemyWiki：Snow Falcon，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Snow Falcon，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. SMITH STREET 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／beyond the Ave. 追加曲信息，访问日期 2026-11-01。
-5. jubeat@Wiki：Snow Goose 等水鸟系列相关条目，访问日期 2026-11-01。
+- 署名：BEMANI Sound Team "Yvya"
+- 仅HOLD：6/9.6/10.7；165BPM；Notes490/894/1099。[1]
+- 数字目录2:02；街机时长待核。[3]
 
-**核验边界**
+### 创作与制作背景
 
-RemyWiki 页面未能直接访问。谱面参数、解禁线与配信日期来自 jubeat@Wiki，并由 BEMANICN 与官方信息核对。艺人署名存在差异：TSV 记为 Ryu☆，jubeat@Wiki 与官方页记载实际署名为 Mutsuhiko Izumi，本稿保留两者并以下者为实署名依据。水鸟系列的先后关系与“退社后外部提供”的背景依据 wiki 记载整理，未另行核对人事公告原件；GITADORA 移植的具体日期不写入。
+《Hexer》的跨机种履历有同期官方公告可核：pop’n UniLab的KAC Lab在2023-09-20至10月24日期间开放本曲及《mathematical good-bye》。[2] jubeat社区另明确它来自GITADORA与pop’n的KAC预选B解禁曲群。[1] 因此其制作首先处在KAC原创奖励乐曲体系，而不是为2025年jubeat新年更新才创作。
 
-## 76. Beyond The Earth
+社区导赏关注其金属化器乐写法，具体提到中段双吉他琶音、双底鼓伴奏以及钢琴段带来的情绪对比。[4] 这些可作为评论者的音乐观察，但不能当作Yvya亲口说明的配器方案。该文从封面的魔法阵和人物形象推测题名与“魔术师”有关，原文本身使用推测口吻；本稿不将这升级为作者命名证词。jubeat全连称号确实采用“拍子的魔术师”，只能证明游戏文本亦沿用这一意象。[1]
 
-**曲目档案**
+KAC数字目录列有2:02录音。[3] 2025-01-01官方再将其加入jubeat BONUS TUNE；这次移植采用HOLD谱面。[1][5] 吉他是否实际双轨演奏、由谁录制、使用何种调弦与插件，仍无已核主创材料。
 
-- 标题：Beyond The Earth
-- 统一曲库 ID：`arcade_11000159`
-- 艺术家：猫叉Master
-- BPM：140
-- 谱面难度与节点数：BASIC 2 / 145；ADVANCED 5 / 393；EXTREME 8 / 645
+### jubeat 收录与版本
 
-**背景知识**
+本地Ave.保留；2023年KAC跨机种曲，jubeat beyond为2025-01-01移植。[2][5]
 
-《Beyond The Earth》原出自 PS2 版 pop'n music 10，是猫叉Master 的 BEMANI 出道曲，也是 CONTEMPORARY NATION 系列的第 1 作。pop'n 侧标题记为全大写 BEYOND THE EARTH，jubeat 采用小写混排形式。曲子以钢琴、弦乐色彩与 140 BPM 的稳健节奏营造辽阔的旅途感，标题也呼应超越地平线的意象。jubeat 侧封面沿用 REFLEC BEAT 移植版的视觉，但谱面难度明显低于 pop'n 原作上位难度，便于更广泛玩家接触这首系列起点。
+### 资料来源
 
-**jubeat beyond the Ave. 位置**
+1. [jubeat@Wiki：Hexer](https://w.atwiki.jp/jubeat/pages/2430.html)（已实读；secondary）
+2. [KONAMI：2023年9月KAC Lab](https://p.eagate.573.jp/game/popn/unilab/p_friend/index.html)（已实读；primary）
+3. [MusicBrainz：KONAMI Arcade Championship(2023)](https://musicbrainz.org/release/7ad79be0-ecf5-4d1a-8bb0-9b5fda6a84c3)（已实读；secondary）
+4. [ポップン百科大事典：Hexer](https://w.atwiki.jp/asagaolabo/pages/5650.html)（已实读；secondary）
+5. [KONAMI：BONUS TUNE追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2025.01.01&update_no=110)（已实读；primary）
 
-歌曲属于 SMITH STREET 第 1 弾的 SAFFRON STREET-DAY 解禁线，于 2024 年 12 月 4 日配信，达成该 STREET 100% 后开放。jubeat@Wiki 记录其 pop'n 移植身份、CONTEMPORARY NATION 关联与三级普通谱面，未发现另有追加版本。
+### 核验边界与待补
 
-**资料来源**
+5页面4文献根，两社区合根；音乐分析与标题解释均非作者直接证词；没有购买或读取第三方付费吉他谱，不采其谱面细节。
 
-1. RemyWiki：Beyond The Earth，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Beyond The Earth，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. SMITH STREET 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／beyond the Ave. 追加曲信息，访问日期 2026-11-01。
-5. pop'n music 与 REFLEC BEAT 官方收录信息页，访问日期 2026-11-01。
+<a id="arcade-11000153-shared"></a>
+## mathematical good-bye
 
-**核验边界**
+- 统一曲库 ID：`arcade:11000153`
+- 原章节编号与标题：72. mathematical good-bye
 
-RemyWiki 页面未能直接访问。jubeat 谱面参数、解禁线与配信日期以 jubeat@Wiki 为主，并经 BEMANICN 与官方信息核对。pop'n 原作初出与系列起点依据官方收录页和社群资料整理；原版谱面难度、封面差异与系列后续作品不逐项展开。标题大小写差异按 jubeat@Wiki 与官方页记载说明。
+### 曲目档案
 
-## 77. CUTIE
+- 署名：三代目 ADULTIC TEACHERS feat. BEMANI Sound Team "スコーピオン志村"
+- BPM182；4/8/10.4；Notes267/614/862。[1]
+- EPOLIS原声2:03，街机时长待核。[3]
 
-**曲目档案**
+### 创作与制作背景
 
-- 标题：CUTIE
-- 统一曲库 ID：`arcade_11000160`
-- 艺术家：KO3
-- BPM：126
-- 谱面难度与节点数：BASIC 3 / 244；ADVANCED 7 / 515；EXTREME 9.7 / 767
+本曲把教学式艺名和告别主题放在一起。社区信用记录作词MC instinct-G、作曲池ポチャティーチャー坂本、编曲三代目ADULTIC TEACHERS与スコーピオン志村；商业唱片目录则只统一列Konami Amusement为词曲编权利署名。[3][4] 两种层级不能互相替代，具体别名与自然人身份本轮仍未以原唱片内页确认。
 
-**背景知识**
+社区导赏把它放在《Mathematical love》的后续脉络中，指出偏哀愁的hardcore与rap形成对比。[5] 歌词文本确实同时包含离别与梦想的失落、地点及食物的游戏化列举，可以将它理解为感伤和滑稽语言并置；这是根据文本所作的描述，不是任何作者的自传性解释。[4] 没有证据说明其中经历发生在现实人物身上，也不宜仅由数学字样杜撰特殊数学作曲法。
 
-《CUTIE》由 KO3 创作，原出 DANCERUSH STARDOM，之后作为 jubeat 初收录曲进入 beyond the Ave.。KO3（こみ）为 Attack The Music 及 Kirara Records 所属创作者，此前已在 DANCERUSH STARDOM、DanceDanceRevolution 与 SOUND VOLTEX 提供作品。本曲以 126 BPM 的明亮 house／future bass 气质、轻盈的合成器与灵活的鼓点呈现俏皮氛围；jubeat 谱面把原曲的舞步感转译为触板上的连续点触与局部快切。
+2023-09-20的pop’n官方公告已将它列入KAC Lab。[6] 2024年3月发行的EPOLIS原声将其标为hardcore、长2:03，属于后续唱片收录。[3] jubeat则到2024-12-01才与《manticore》一同追加，因此本地版本归属与历史首发必须分开。[2]
 
-**jubeat beyond the Ave. 位置**
+### jubeat 收录与版本
 
-歌曲属于 SMITH STREET 第 1 弾的 INDIGO STREET-DAY 解禁线，于 2024 年 12 月 4 日配信，达成该 STREET 100% 后开放。jubeat@Wiki 记录其为 DRS 移植曲与三级普通谱面；本人曾在 X 告知这是 jubeat 初收录，未见 beyond the Ave. 内另有活动版本。
+本地Ave.保留；KAC2023原有曲，jubeat beyond于2024-12-01移植。[1][2][6]
 
-**资料来源**
+### 资料来源
 
-1. RemyWiki：CUTIE，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：CUTIE，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. SMITH STREET 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／beyond the Ave. 追加曲信息，访问日期 2026-11-01。
-5. Attack The Music／Kirara Records 艺术家页，访问日期 2026-11-01。
+1. [jubeat@Wiki：mathematical good-bye](https://w.atwiki.jp/jubeat/pages/2422.html)（已实读；secondary）
+2. [KONAMI：BONUS TUNE対象楽曲追加](https://p.eagate.573.jp/game/jubeat/beyond/news/news_window.html?update_day=2024.12.01&update_no=100)（已实读；primary）
+3. [Tower Records：IIDX31 EPOLIS ORIGINAL SOUNDTRACK](https://mdb.tower.jp/release/14289052/beatmania-IIDX-31-EPOLIS-ORIGINAL-SOUNDTRACK)（已实读；secondary）
+4. [BEMANI歌词Wiki：mathematical good-bye](https://w.atwiki.jp/bemanilyrics/pages/2831.html)（已实读；secondary）
+5. [ポップン百科大事典：mathematical good-bye](https://w.atwiki.jp/asagaolabo/pages/5651.html)（已实读；secondary）
+6. [KONAMI：2023-09-20 KAC Lab](https://p.eagate.573.jp/game/popn/unilab/p_friend/index.html)（已实读；primary）
 
-**核验边界**
+### 核验边界与待补
 
-RemyWiki 页面未能直接访问。谱面参数、解禁线与配信日期来自 jubeat@Wiki，并与 BEMANICN、官方信息交叉核对。KO3 的所属与既往作品依据公开厂牌页与社群资料；“本人 X 告知初收录”为社交平台记载，本稿不作链接级验证。原作 DRS 谱面与 jubeat 谱面没有对应关系，不推定逐段设计。
+6页面保守4文献根，三个社区来源合根；未直接核对自然人别名与原唱片内页；创作缘起仍缺作者证言；只简述歌词主题，不转载歌词或将叙述者等同作者。
 
-## 78. Eternal Dream
+<a id="arcade-11000154-shared"></a>
+## Yelling
 
-**曲目档案**
+- 统一曲库 ID：`arcade:11000154`
+- 原章节编号与标题：73. Yelling
 
-- 标题：Eternal Dream
-- 统一曲库 ID：`arcade_11000161`
-- 艺术家：BEMANI Sound Team "Coyaan"
-- BPM：144
-- 谱面难度与节点数：BASIC 2 / 145；ADVANCED 5 / 341；EXTREME 8 / 562
+### 曲目档案
 
-**背景知识**
+- 署名：Blacklolita
+- HOLD：3/7/10.3；150BPM；Notes256/445/798。[2]
 
-《Eternal Dream》由 BEMANI Sound Team "Coyaan" 创作，原为《クイズマジックアカデミー 黄金の道標》的检定 quiz BGM，之后移植到 jubeat beyond the Ave.。曲子在 jubeat 侧归入游戏类别而非オリジナル，封面也带有该作标题 logo，说明其 Quiz Magic Academy 素材身份。音乐以 144 BPM 的梦幻电子氛围、柔和旋律与轻盈鼓点呼应“永恒之梦”的标题；jubeat 版时长记为 1:37，谱面结构相对温和，EXTREME 也没有进入高难段位。
+### 创作与制作背景
 
-**jubeat beyond the Ave. 位置**
+《Yelling》有明确的一手个人经历背景。Blacklolita在官方曲目介绍中回忆，他约在2010年高中时期，由前辈带着和朋友放学后乘当地单轨列车前往游戏厅，一起玩并排的四台jubeat knit。大家在巨大音量中一边笑一边摸索节奏，他记得当时选过《GIGA BREAK》《SigSig》和《only my railgun》。[1]
 
-歌曲属于 SMITH STREET 第 1 弾的 CHERRY STREET-DAY 解禁线，于 2024 年 12 月 4 日配信，达成该 STREET 100% 后开放。jubeat@Wiki 记录其 QMA 素材来源、类别与三级普通谱面，未见另有活动限定版本。
+约十四年后，他终于以作者身份为当年玩的游戏提供音乐，并在介绍中表达感慨，打算再次约旧友同玩。[1] 这使本曲具有从玩家到供曲者的具体生涯节点，而不是泛泛的“热爱音游”。但这份自述并未说旋律引用了上述三曲，亦未将某种配器、音色或每一段结构解释为对旧友的纪念，不能替作者补上这些细节。
 
-**资料来源**
+游戏将本曲放在SMITH STREET的INDIGO STREET夜间区域，社区记录100%解禁及HOLD形式；称号围绕应援展开。[1][2] 统计站在2024-12-04已经登记对应，所以官方作者页的2025-02-07是介绍刊登日期，不是歌曲首发日。[3]
 
-1. RemyWiki：Eternal Dream，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Eternal Dream，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. SMITH STREET 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／beyond the Ave. 追加曲信息，访问日期 2026-11-01。
-5. クイズマジックアカデミー 黄金の道標 相关官方信息，访问日期 2026-11-01。
+### jubeat 收录与版本
 
-**核验边界**
+本地Ave.保留；实际beyond SMITH STREET，2024-12-04已有同期数据记录；作者评论刊于2025-02-07。[1][3]
 
-RemyWiki 页面未能直接访问。谱面参数、类别、封面归属、时长与解禁线以 jubeat@Wiki 为主，并经 BEMANICN 和官方信息核对。QMA 原作中该 BGM 的出现场景与检定条件未逐项验证；本稿只说明其素材来源，不推定原作播放规则。
+### 资料来源
 
-## 79. Link up
+1. [KONAMI／Blacklolita：Yelling／Blacklolita作者介绍](https://p.eagate.573.jp/game/jubeat/beyond/artists/detail/07.html)（已实读；primary）
+2. [jubeat@Wiki：Yelling](https://w.atwiki.jp/jubeat/pages/2425.html)（已实读；secondary）
+3. [jubeat statistics：beyond更新履歴](https://jubesta.net/beyond/)（已实读；secondary）
 
-**曲目档案**
+### 核验边界与待补
 
-- 标题：Link up
-- 统一曲库 ID：`arcade_11000162`
-- 艺术家：chocochips
-- BPM：170
-- 谱面难度与节点数：BASIC 3 / 265；ADVANCED 6 / 458；EXTREME 9.0 / 761
+3文献根；作者经历为直接证词，但尚无工程配器详解；不把回忆中选曲写成音乐采样或引用来源；街机时长待核；应援称号并不能独立证明写给某一对象。
 
-**背景知识**
+<a id="arcade-11000155-shared"></a>
+## voxel star arise
 
-《Link up》由 chocochips 创作，原出 GITADORA，之后作为 LIGHT CHAT 期间限定曲进入 jubeat beyond the Ave.。曲名把“连接”作为主题，音乐以 170 BPM 的明快电子摇滚／EDM 节奏推进，人声与合成器在副歌处形成直接的上升感。jubeat 三级谱面难度配置友好，但 EXTREME 的 761 节点在中高速段落中仍保留了足够的连击密度，适合熟悉曲目后反复挑战。
+- 统一曲库 ID：`arcade:11000155`
+- 原章节编号与标题：74. voxel star arise
 
-**jubeat beyond the Ave. 位置**
+### 曲目档案
 
-歌曲属于 LIGHT CHAT 期间限定 FROM GITADORA-01 解禁线，于 2024 年 9 月 25 日配信，通过 OTOBEAR 解禁。2026 年 7 月 1 日起转入 BONUS TUNE 对象，需在 BONUS TUNE 中累计游玩 3 次后开放。jubeat@Wiki 记录其 GITADORA 移植身份与三级普通谱面。
+- 署名：ああああ
+- 普通谱面：5/8/10.4；200BPM；Notes360/705/997。[2]
 
-**资料来源**
+### 创作与制作背景
 
-1. RemyWiki：Link up，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Link up，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. LIGHT CHAT 与 BONUS TUNE 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／beyond the Ave. 解禁信息，访问日期 2026-11-01。
-5. GITADORA 官方收录信息页，访问日期 2026-11-01。
+ああああ在官方介绍中直接解释了这次创作的出发点：距他第一次在游戏厅接触jubeat已有十余年，得到供曲机会使他非常开心；制作时尽量把自己一直想在“jubeat的曲子”中尝试的事情放进作品，希望玩家能够享受。[1] 这是一份以特定游戏体验为中心的作者证词，但没有公开逐项列出这些想法究竟对应哪些技法，因而不能进一步编造合成器型号、音色层数或作曲流程。
 
-**核验边界**
+其本人作品表也将本曲明确列为jubeat beyond原创供曲；此前pop’n与MÚSECA作品则另标为合作。[4] 因此“首次为jubeat供曲”不应夸大成第一次参与整个BEMANI系列。游戏内的星空与像素画称号、SAFFRON STREET夜间区域构成了可核的作品呈现语境。[1][2] 它们不是某段隐藏剧情或作者天文经历的证据。
 
-RemyWiki 页面未能直接访问。配信日期、OTOBEAR 解禁、2026 年 7 月 1 日转入 BONUS TUNE 与三级参数来自 jubeat@Wiki，并经 BEMANICN 和官方信息核对。chocochips 的详细活动经历在现有来源中未完全展开，本稿不作额外列举；原作 GITADORA 谱面不与 jubeat 谱面对应比较。
+本曲在2024-12-04已有统计站数据对应，而作者介绍到2025-01-31才刊出。[1][3] 时间关系说明不能把评论日期误当上线日期。社区记录的200BPM及普通谱面，提供了快节奏游戏呈现的客观基础；它与具体创作动机仍需分层表述。[2]
 
-## 80. Devil’s Rule
+### jubeat 收录与版本
 
-**曲目档案**
+本地Ave.保留；实际beyond SMITH STREET的SAFFRON NIGHT，2024-12-04已有对应。作者介绍日期2025-01-31不作为首发。[1][3]
 
-- 标题：Devil’s Rule
-- 统一曲库 ID：`arcade_11000163`
-- 艺术家：BEMANI Sound Team "Yvya"
-- BPM：220
-- 谱面难度与节点数：BASIC 4 / 282；ADVANCED 8 / 523；EXTREME 10.4 / 909
+### 资料来源
 
-**背景知识**
+1. [KONAMI／ああああ：voxel star arise／ああああ作者介绍](https://p.eagate.573.jp/game/jubeat/beyond/artists/detail/06.html)（已实读；primary）
+2. [jubeat@Wiki：voxel star arise](https://w.atwiki.jp/jubeat/pages/2428.html)（已实读；secondary）
+3. [jubeat statistics：beyond更新履歴](https://jubesta.net/beyond/)（已实读；secondary）
+4. [ああああ：本人作品履历](https://aiueoeiua.wixsite.com/aaaaofficial)（已实读；primary）
 
-《Devil’s Rule》由 BEMANI Sound Team "Yvya" 创作，原出 GITADORA HIGH-VOLTAGE，之后与《Link up》同批作为 LIGHT CHAT 期间限定曲进入 beyond the Ave.。Yvya 是 2018 年 4 月入社的 KONAMI 所属艺人，相关介绍可参照 jubeat@Wiki《Duality》条目。本曲以 220 BPM 的高速推进、硬质贝斯与竞争性强的乐句呈现“恶魔支配”的紧张意象；相比同批的《Link up》，EXTREME 达到 10.4，速度与连击压力明显更高。
+### 核验边界与待补
 
-**jubeat beyond the Ave. 位置**
+4页面保守3文献根，本人作品信用与此次供曲作者页合根；作者明确表达jubeat导向创作愿望，但没有逐项说明工程和音色；街机时长待核；没有将仅搜索可见的X转录当实读证据。
 
-歌曲属于 LIGHT CHAT 期间限定 FROM GITADORA-01 解禁线，于 2024 年 9 月 25 日配信，通过 OTOBEAR 解禁。2026 年 7 月 1 日起转入 BONUS TUNE 对象，需在 BONUS TUNE 中累计游玩 3 次后开放。jubeat@Wiki 记录其 GITADORA HIGH-VOLTAGE 移植身份与三级普通谱面。
+<a id="arcade-11000157-shared"></a>
+## Snow Falcon
 
-**资料来源**
+- 统一曲库 ID：`arcade:11000157`
+- 原章节编号与标题：75. Snow Falcon
 
-1. RemyWiki：Devil's Rule，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Devil’s Rule，访问日期 2026-11-01。
-3. BEMANICN：jubeat beyond the Ave. LIGHT CHAT 与 BONUS TUNE 解禁曲一览，访问日期 2026-11-01。
-4. Konami 官方 BEMANI Fan Site／beyond the Ave. 解禁信息，访问日期 2026-11-01。
-5. GITADORA HIGH-VOLTAGE 官方收录信息页，访问日期 2026-11-01。
+### 曲目档案
 
-**核验边界**
+- 艺人：Mutsuhiko Izumi；原总库Ryu☆为错误记录，按官方署名纠正[1][3]
+- BPM：200[2]
+- 等级／物量（BSC/ADV/EXT）：5/8/10.4；325/549/868[1][2]
+- 初出／解锁：beyond the Ave.；2024-12-04 SMITH STREET首弹，MINT STREET-DAY100%（社区年表）[2][4]
+- 原声发行：2026-10-07；第三碟第18轨，1:51[3]
 
-RemyWiki 页面未能直接访问。谱面参数、配信日期、LIGHT CHAT 转入 BONUS TUNE 的时间与解禁方式来自 jubeat@Wiki，并经 BEMANICN、GITADORA 收录信息核对。标题在 jubeat@Wiki 与本稿中保留全角撇号 Devil’s Rule，RemyWiki 页面 URL 使用半角撇号 Devil's Rule，两者指向同一作品。原作 GITADORA HIGH-VOLTAGE 谱面与解禁条件未逐项核对，不在本稿推定。
+### 创作与制作背景
 
-## 81. ◎holic◎
+本曲最需要先纠正的是作者身份：KONAMI原创曲目录与后续原声发行均署名Mutsuhiko Izumi，而非总库原记的Ryu☆。因此本条应属于泉陆奥彦作品，不能沿用Ryu☆的创作生涯、音色习惯或故事。[1][3]
 
-**曲目档案**
-标题：◎holic◎  
-艺人：山本真央樹 feat. くりむ  
-统一曲库 ID：`arcade_11000164`  
-BPM：160。jubeat@Wiki 的曲列表页另记作 170，成稿时以曲页 160 为主要参照，并保留该冲突待核。  
-谱面：jubeat 版设有 HOLD 谱面专用曲。
+社区把它与《Snow Goose》《Red Goose》《Blue Goose》《Snow Eagle》等鸟名作品放在一起讨论，理由包括命名与共同的200 BPM；然而原文使用“似乎延续其脉络”的保留措辞，不是作者亲自宣布的正式续篇。此前把这些鸟统一称为水鸟也不妥，本条不沿用该分类。可以保留其接受史中的关联，但尚不能写成泉本人确认的创作企划。[2]
 
-**背景知识**
-◎holic◎ 是山本真央樹（Maoki Yamamoto）的吉他系作品，人声部分标注为 feat. くりむ。曲名中的两个“◎”与曲题的循环感、音游图标以及山本真央樹个人网站的视觉标识互相呼应，但公开介绍页没有直接解释这个命名的完整含义。该曲先出现于 GITADORA FUZZ-UP，后进入 jubeat beyond the Ave. 的联动曲目群。  
-山本真央樹既是吉他手，也长期参与 BEMANI 关联作品的吉他演奏和企划。此曲的歌词与信息在网上页面没有完整公开，因此不宜过度推演其故事主题。
+版本内它通过SMITH STREET首弹的MINT STREET-DAY开放。2026-10-07原声选集收录于第三碟第18轨，1:51，提供独立于社区年表的作者与出版记录。[2][3][4]
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将 ◎holic◎ 归入 LIGHT CHAT（期間限定）FROM GITADORA-01，与 THE LAST OF FIREFACE 同批开放。2026 年 7 月 1 日起，二曲被移入 BONUS TUNE 位置。该曲的追加日期记录为 2024 年 9 月 25 日，符合 GITADORA 联动曲目进入 jubeat 的时间线。  
-在整理稿中，建议将本曲定位为“GITADORA FUZZ-UP 移植、HOLD 谱面专用、期间限定解锁后转为 BONUS TUNE”的联动曲。
+### jubeat 收录与版本
 
-**资料来源**
-1. RemyWiki：《◎holic◎》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：◎holic◎ 曲页及曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/2417.html，访问日期 2026-11-01。
-3. jubeat@Wiki：曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/2333.html，访问日期 2026-11-01。
-4. 山本真央樹官方网站作品页：https://maoki-yamamoto.com/works/，访问日期 2026-11-01。原文未能直接访问，仅确认作者及作品署名线索。
-5. jubesta.net：jubeat beyond the Ave. 新曲一览，https://jubesta.net/beyond/，访问日期 2026-11-01。
+本轮确认作者、解锁路径与发行史；未找到泉本人讲述本曲旋律起点或制作过程的可读原文。社区所谓退休后外部供曲的解释保留为待原始人事/委托资料验证，不用缺少BST前缀反推合同关系。
 
-**核验边界**
-BPM 160 与 170 的差异来自 jubeat@Wiki 曲页和列表页，未能通过官方页面直接仲裁。 feat. くりむ 的具体演唱者全名、歌词内容与官方说明未取得可引用来源。LIGHT CHAT 转 BONUS TUNE 的日期以 wiki 记录为准，官方规则页面未直接读取。
+### 资料来源
 
-## 82. THE LAST OF FIREFACE
+1. [KONAMI：Snow Falcon官方曲表](https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=9)（实读）
+2. [jubeat@Wiki：Snow Falcon](https://w.atwiki.jp/jubeat/pages/2423.html)（实读）
+3. [OTOTOY：Ave. & beyond原声选集](https://ototoy.jp/_/default/p/4272113)（实读）
+4. [jubeat@Wiki：SMITH STREET年表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
 
-**曲目档案**
-标题：THE LAST OF FIREFACE  
-艺人：大和  
-统一曲库 ID：`arcade_11000165`  
-BPM：224  
-谱面：jubeat@Wiki 曲页记录常规谱面与 HOLD 谱面；具体等级在列表页与曲页需按难度分类核对。
+### 核验边界与待补
 
-**背景知识**
-THE LAST OF FIREFACE 是大和在 BEMANI 界的第 1 首原创曲，后由 GITADORA HIGH-VOLTAGE 侧推出并移植到 jubeat beyond the Ave.。曲名强调“最后的 FIREFACE”，带有连续摇滚或金属曲风的命名气质，但公开简介没有给出明确的世界观设定。大和的名字在日本摇滚与乐团语境中常见，这里可确认的是 BEMANI 署名下的独立创作者身份。  
-BEMANICN 的曲目页提到这是大和的首支 BEMANI 原创曲，并列出 LIGHT CHAT 解锁日期区间。该信息可作为创作首度与联动关系的补充，但直接访问页面时返回 403。
+- 核心缺口：本人曲评、录音及谱系的明确说明。
+- 不把同名鸟类关联升级为已证续篇，也不把论坛退休说法当原始证明。
+- RemyWiki本轮超时，未计可读来源。
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将本曲列为 LIGHT CHAT（期間限定）FROM GITADORA-01，与 ◎holic◎ 一起于 2024 年 9 月 25 日进入 jubeat beyond the Ave.，并在 2026 年 7 月 1 日转至 BONUS TUNE。其 HOLD 谱面也随联动活动提供。  
-整理稿中可将本曲定位为“GITADORA HIGH-VOLTAGE 移植、期间限定解锁后转 BONUS TUNE”的联动摇滚曲。
+<a id="arcade-11000159-shared"></a>
+## Beyond The Earth
 
-**资料来源**
-1. RemyWiki：《THE LAST OF FIREFACE》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：THE LAST OF FIREFACE 曲页及曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/2418.html，访问日期 2026-11-01。
-3. BEMANICN：THE LAST OF FIREFACE 曲目页，访问日期 2026-11-01。直接访问返回 403，使用搜索摘要确认作者与首发信息。
-4. jubesta.net：jubeat beyond the Ave. 新曲一览，https://jubesta.net/beyond/，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲列表，访问日期 2026-11-01。
+- 统一曲库 ID：`arcade:11000159`
+- 原章节编号与标题：76. Beyond The Earth
 
-**核验边界**
-大和的首支 BEMANI 原创曲信息目前依赖 BEMANICN 搜索摘要，无法直接核对原文。BPM 224、解锁与难度数据主要来自 jubeat@Wiki。官方 GITADORA 或 jubeat 页面未直接读取，因此曲种的先行平台与移植时间线仍保留第三方记录属性。
+### 曲目档案
 
-## 83. Amazing Bomberman
+- 艺人：猫叉Master[1][2]
+- BPM：140[1][4]
+- 等级／物量（BSC/ADV/EXT）：2/5/8；145/393/645[1][4]
+- 原初出：pop’n music 10家用版；不是为jubeat首创[1]
+- jubeat收录：2024-12-04，SMITH STREET首弹SAFFRON STREET-DAY[4]
+- 版本长度：游戏记录2:13；Raindrops长版3:49，勿混写[1][2]
 
-**曲目档案**
-标题：Amazing Bomberman  
-艺人：TESSEI TOJO  
-统一曲库 ID：`arcade_11000166`  
-BPM：175。jubeat@Wiki 记录 2025 年 2 月 5 日将旧值 170 修正为 175。  
-谱面：jubeat@Wiki 曲列表提供基础难度与 HOLD 谱面等级。
+### 创作与制作背景
 
-**背景知识**
-Amazing Bomberman 与 KONAMI 的《スーパーボンバーマン 2》对戦曲《BATTLE》直接相关，是 Bomberman 系列在 BEMANI 机台中的联动企划产物。2025 年 1 月，jubeat beyond the Ave. 连续追加三首 Bomberman 系列关联曲，Amazing Bomberman 为第 1 週，はらぺこヒーロー为第 2 週。  
-艺人名 TESSEI TOJO 即东条哲哉，KONAMI 官方页面确认其参与 Amazing Bomberman 项目。此曲在 jubeat 中以“Amazing Bomberman”作为独立标题，而非直接改写原曲名，提示它是基于系列音乐素材的再创作或主题性改编，但具体改编程度官方页面没有完整说明。
+本曲是猫叉Master进入BEMANI与pop’n系列初期的重要作品，而非为beyond the Ave.全新创作。RemyWiki保存的作者旧曲评英译中，他回忆看到身后的ota2敲打pop’n控制器后意外接到供曲请求，并把民族音乐作为主题，将不同地域色彩融合为带感伤气息的流行作品。[1]
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将本曲归入 2025 年 1 月 9 日追加的新曲，并与同期 Bomberman 系列曲形成连续三週活动。MGIF 的报道也确认了“3 週連続ボンバーマン系列曲追加”的表述。  
-整理稿中可将本曲定位为“Bomberman 系列联动、三週连续企划第 1 週、LIGHT CHAT 解锁”的曲目。
+另一段IIDX曲评译文把旋律起点联系到散步：副歌在脑中循环，他便赶回去输入音乐数据，完成速度较快。作者对地点的回忆带保留语气，不能把它改写成精确发生时间或确定的旅行采风。上述细节目前依据二级英译，旧官方日文原页尚未直接复核。[1]
 
-**资料来源**
-1. RemyWiki：《Amazing Bomberman》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Amazing Bomberman 曲页及曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/2431.html，访问日期 2026-11-01。
-3. KONAMI 官方：Amazing Bomberman 官网，https://www.konami.com/games/bomberman/amg/，访问日期 2026-11-01。
-4. MGIF：jubeat beyond the Ave. 三週连续 Bomberman 系列曲追加报道，https://mgif.jp/，访问日期 2026-11-01。
-5. jubesta.net：jubeat beyond the Ave. 新曲一览，https://jubesta.net/beyond/，访问日期 2026-11-01。
+作者还明确把音乐与谱面责任分开：原pop’n谱面由ota2制作，他自己也难以通过，尤其提到中段打击乐独奏。这不是他声称刻意写歌刁难玩家，而是作者对成品谱面的玩笑式反应。[1]
 
-**核验边界**
-原曲对应关系来自 jubeat@Wiki 与 Bomberman 关联页，KONAMI 官方页未直接给出 jubeat 侧原曲说明。BPM 修正的先后值来自 wiki 编辑记录，官方资料未列明。三週企划的完整列表依赖 MGIF 与 wiki，未能直接读取官方公告全文。
+《Raindrops》第三轨收录3:49的长版。独立乐评作者Christopher Huynh强调本曲的部族风格编排与吟唱采样；这是评论者的听感分析，不是采样语种、录音地点或作曲动机的原始证据。专辑目录与乐评分别列9月16日和2月27日发行口径，尚未核定不同流通渠道，因此不以单一日期覆盖所有发行阶段。[2][3]
 
-## 84. はらぺこヒーロー
+2024年12月，它经SMITH STREET进入jubeat，属于既有作品的跨机种传播；本次新增的是游戏收录及其谱面，而非上述早期创作过程重新发生。[4]
 
-**曲目档案**
-标题：はらぺこヒーロー  
-艺人：回せ！グルーヴ開発部  
-统一曲库 ID：`arcade_11000167`  
-BPM：以 jubeat@Wiki 曲列表记录为准  
-谱面：jubeat@Wiki 曲列表提供基础难度与 HOLD 谱面等级。
+### jubeat 收录与版本
 
-**背景知识**
-はらぺこヒーロー 是 Bomberman 系列三週连续联动企划的第 2 週作品。曲名直译为“饥饿英雄”，与 Bomberman 形象中常见的进食、成长和关卡元素相呼应，但公开介绍没有明确说明其具体关联角色或场景。艺人名“回せ！グルーヴ開発部”带有项目式署名特征，强调节奏开发或企划组的概念。  
-MGIF 报道确认了该曲为第 2 週追加曲。由于 KONAMI 与 jubeat 官方页面未完整公开创作者与歌词说明，曲风和企划背景仍需依赖第三方资料。
+区分早期家用pop’n音乐、后来专辑长版和2024年jubeat移植。故事证据以作者旧曲评的可读英译为主，原始日文页仍待补。
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将本曲列为 2025 年 1 月 16 日追加的新曲，与 Amazing Bomberman、CRAZY ARTS 一起构成 2025 年 1 月的连续曲目群。  
-整理稿中可将本曲定位为“Bomberman 系列联动三週企划第 2 週、LIGHT CHAT 解锁”的曲目。若需要引用具体难度或 BPM，应使用 jubeat@Wiki 曲列表页中的数值，并注明数据来源。
+### 资料来源
 
-**资料来源**
-1. RemyWiki：《はらぺこヒーロー》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/2333.html，访问日期 2026-11-01。
-3. MGIF：jubeat beyond the Ave. 三週连续 Bomberman 系列曲追加报道，https://mgif.jp/，访问日期 2026-11-01。
-4. jubesta.net：jubeat beyond the Ave. 新曲一览，https://jubesta.net/beyond/，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲列表，访问日期 2026-11-01。
+1. [RemyWiki：Beyond The Earth及作者曲评英译](https://remywiki.com/BEYOND_THE_EARTH)（实读）
+2. [TOWER：Raindrops GFCA-182](https://tower.jp/item/2588095)（实读）
+3. [VGMO：Christopher Huynh的Raindrops乐评](https://vgmonline.net/raindrops/)（实读）
+4. [jubeat@Wiki：SMITH STREET曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
 
-**核验边界**
-BPM 与谱面数值应逐项对照 jubeat@Wiki 曲列表页，未能获得官方完整数据页。艺人与企划背景说明多为第三方表述，官方曲目介绍未直接读取。第 2 週的关系由 MGIF 与 wiki 共同确认，但原作素材的具体出处未在可访问来源中明示。
+### 核验边界与待补
 
-## 85. CRAZY ARTS
+- 旧官方曲评原页未直接核验，所有作者回忆明确标二级转录。
+- 专辑2009-02-27与09-16日期口径待查发行渠道，不能直接定一方错误。
+- 吟唱采样具体来源与语言未核，不以角色设定代替音乐制作故事。
 
-**曲目档案**
-标题：CRAZY ARTS  
-艺人：FAKE TYPE.  
-统一曲库 ID：`arcade_11000168`  
-BPM：以 jubeat@Wiki 曲列表记录为准  
-谱面：jubeat@Wiki 曲列表提供基础难度与 HOLD 谱面等级。
+<a id="arcade-11000160-shared"></a>
+## CUTIE
 
-**背景知识**
-CRAZY ARTS 是 FAKE TYPE. 在 jubeat beyond the Ave. 中的新曲，加入其标志性的爵士、说唱和复古节奏语言。FAKE TYPE. 是以 TOPHAMHAT-KYO 与 DYES IWASAKI 为核心的创作团体，作品常见爵士钢琴、Swing 节奏、说唱与插画式视觉。曲名“疯狂的技艺/艺术”带有强烈表演性，但其官方说明或歌词没有完整公开。  
-jubeat@Wiki 曲页提到 DYES IWASAKI 曾为ぼくのりりっくのぼうよみ提供《パッチワーク》，并进入 jubeat plus。该信息可作为团体成员与 BEMANI 关联历史的旁证，不能直接说明 CRAZY ARTS 本身的创作细节。
+- 统一曲库 ID：`arcade:11000160`
+- 原章节编号与标题：77. CUTIE
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将本曲列为 2025 年 1 月 23 日追加的新曲，与 Amazing Bomberman、はらぺこヒーロー共同出现在 beyond the Ave. 的早期新曲段。  
-整理稿中可将本曲定位为“2025 年 1 月 23 日追加、LIGHT CHAT 解锁”的 FAKE TYPE. 新曲。若需要引用具体难度或 BPM，应使用 jubeat@Wiki 曲列表页中的数值，并注明数据来源。
+### 曲目档案
 
-**资料来源**
-1. RemyWiki：《CRAZY ARTS》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：CRAZY ARTS 曲页及曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/2333.html，访问日期 2026-11-01。
-3. FAKE TYPE. 官方网站：https://faketype.jp/，访问日期 2026-11-01。原文未能直接访问，仅确认团体署名线索。
-4. ポップン百科大事典：CRAZY ARTS 相关条目，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲列表，访问日期 2026-11-01。
+- 艺人：KO3[1]
+- BPM：126[2]
+- 等级／物量（BSC/ADV/EXT）：3/7/9.7；244/515/767[1][2]
+- 原初出：DANCERUSH STARDOM，SPARK FESTIVAL 2023；2023-08-23追加[3][4]
+- jubeat收录：2024-12-04；INDIGO STREET-DAY100%[2][4]
 
-**核验边界**
-FAKE TYPE. 官方页面未能直接访问，成员构成与创作分工以广为流传的团体介绍为准。BPM 与谱面数值应逐项核对 jubeat@Wiki 曲列表页，不能在成稿中写入未经核验的数值。官方曲目说明未取得，因此歌词主题与美术概念不宜推断。
+### 创作与制作背景
 
-## 86. イマココ！この瞬間
+《CUTIE》先为DANCERUSH STARDOM作品，之后移植到jubeat，不应因为作者首次在本系列出现就称为jubeat委托新曲。它在2023年SPARK FESTIVAL的SUNSET DAY环节开放，后来进入常设星解锁；2024年12月再加入jubeat的SMITH STREET。[2][4]
 
-**曲目档案**
-标题：イマココ！この瞬間  
-艺人：日向美ビタースイーツ♪  
-统一曲库 ID：`arcade_11000169`  
-BPM：以 jubeat@Wiki 曲列表记录为准  
-谱面：jubeat@Wiki 曲列表提供基础难度与 HOLD 谱面等级。
+一份当时玩家はたぼぅ。的亲自游玩记录提供了独立的接受史材料：文章附有其CUTIE舞蹈影片，记录8月23日追加，并把作品可爱的气氛与不轻松的谱面作对照。此处可见的是玩家如何把音乐、动作和难度联系起来，不能倒推KO3故意用标题误导玩家，亦不能当作作者的制作访谈。[3]
 
-**背景知识**
-イマココ！この瞬間 是日向美ビタースイーツ♪ 的作品。仓吉ひなビタ非公式 wiki 记录该曲于 2024 年 3 月 31 日在「ひなビタ♪LIVE2024 Encore」初次披露，属于融合既有 solo 曲要素的 medley 形式。这里需要区分：medley 是初披露时的演出形态，未必完全等同于曲作本身的结构。  
-曲名“此刻，就在这里”与日向美ビタースイーツ♪ 的青春、地域和团体叙事一致，但歌词和官方说明未完整公开。BEMANI 与 ちくわまつり 2025 官方页确认该曲与其他作品共同进入联动，为曲群关系提供依据。
+移植后的jubeat官方目录仍署KO3，社区参数为126 BPM、244/515/767物量。这些记录确认曲目身份与跨机种传播，但尚不足说明旋律的起点、音色选择、工程插件或具体采样。标题的“可爱”印象可在接受史中说明，不能自行补成未公开的创作任务书。[1][2]
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将本曲列为 2025 年 2 月 14 日追加的新曲，与 ロマンシングエスケープ 一起进入 beyond the Ave.。官方 ちくわまつり 2025 页面记录两曲与该联动企划的关系。  
-整理稿中可将本曲定位为“2025 年 2 月 14 日追加、ちくわまつり 2025 关联、LIGHT CHAT 解锁”的曲目。
+### jubeat 收录与版本
 
-**资料来源**
-1. RemyWiki：《イマココ！この瞬間》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/2333.html，访问日期 2026-11-01。
-3. ちくわまつり 2025 官方页：https://p.eagate.573.jp/game/bemani/hinabita2025/，访问日期 2026-11-01。
-4. 仓吉ひなビタ非公式 wiki：イマココ！この瞬間 页面，https://scrapbox.io/kuranogawa/，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲列表，访问日期 2026-11-01。
+三链为厂商目录、社区游戏测量／年表、独立玩家亲历。满足逐曲可追溯来源，但其中并无作者直接创作证言，不用玩家感受替代创作动机。
 
-**核验边界**
-初披露日期与 medley 形态来自非公式 wiki，官方演出资料未直接读取。曲作的正式发卖日期、词曲分工与官方简介未取得。jubeat 侧 BPM、谱面与解锁方式应逐项对照 jubeat@Wiki 曲列表页。
+### 资料来源
 
-## 87. ロマンシングエスケープ
+1. [KONAMI：CUTIE官方曲表](https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=5)（实读）
+2. [jubeat@Wiki：CUTIE](https://w.atwiki.jp/jubeat/pages/2424.html)（实读）
+3. [はたぼぅ。：灼熱を超えたフェスが来る！？⑤](https://ameblo.jp/hatabou-oretuku/entry-12820146219.html)（实读）
+4. [RemyWiki：CUTIE](https://remywiki.com/CUTIE)（实读）
 
-**曲目档案**
-标题：ロマンシングエスケープ  
-艺人：ここなつ2.0  
-统一曲库 ID：`arcade_11000174`  
-BPM：以 jubeat@Wiki 曲列表记录为准  
-谱面：jubeat@Wiki 曲列表提供基础难度与 HOLD 谱面等级。
+### 核验边界与待补
 
-**背景知识**
-ロマンシングエスケープ 是ここなつ2.0 的作品。仓吉ひなビタ非公式 wiki 记录该曲为 2024 年 12 月 18 日发行的ここなつ 10 周年纪念专辑表題曲，并提到 pixel art 封面由ななみ雪制作。曲名可译为“浪漫逃脱”，与ここなつ 的都市、夜行、偶像与电子流行叙事相合，但具体歌词概念未完整公开。  
-ちくわまつり 2025 官方页确认该曲与イマココ！この瞬間 共同进入联动，为 jubeat beyond the Ave. 的收录关系提供依据。
+- 仍缺KO3本人对本曲制作过程的原文。
+- 本人X链接读取为空，未计入三源；MGIF503未计。
+- 独立玩家记录只支撑传播及听玩感受，不证明官方创作要求。
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将本曲列为 2025 年 2 月 14 日追加的新曲，与イマココ！この瞬間 同批开放。  
-整理稿中可将本曲定位为“2025 年 2 月 14 日追加、ちくわまつり 2025 关联、LIGHT CHAT 解锁”的ここなつ2.0 曲目。
+<a id="arcade-11000161-shared"></a>
+## Eternal Dream
 
-**资料来源**
-1. RemyWiki：《ロマンシングエスケープ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/2333.html，访问日期 2026-11-01。
-3. ちくわまつり 2025 官方页：https://p.eagate.573.jp/game/bemani/hinabita2025/，访问日期 2026-11-01。
-4. 仓吉ひなビタ非公式 wiki：ロマンシングエスケープ 页面，https://scrapbox.io/kuranogawa/，访问日期 2026-11-01。
-5. Otoge Station：jubeat beyond the Ave. 收录曲列表，访问日期 2026-11-01。
+- 统一曲库 ID：`arcade:11000161`
+- 原章节编号与标题：78. Eternal Dream
 
-**核验边界**
-专辑发行日期、封面作者与表題曲定位来自非公式 wiki，官方专辑页与发售说明未直接读取。jubeat 侧 BPM、谱面与解锁方式应逐项对照 jubeat@Wiki 曲列表页。ここなつ2.0 的成员构成与曲目演唱分工未在本批次资料中展开。
+### 曲目档案
+
+- 艺人：BEMANI Sound Team "Coyaan"[2]
+- 作曲／编曲：Konami Amusement (Coyaan)[1]
+- BPM／时长：144／1:37（游戏记录）[3]
+- 等级／物量（BSC/ADV/EXT）：2/5/8；145/341/562[2][3]
+- 原作场景：クイズマジックアカデミー 黄金の道標：检定クイズ[1]
+- jubeat收录：2024-12-04；CHERRY STREET-DAY100%[3][4]
+
+### 创作与制作背景
+
+本曲原来服务于《クイズマジックアカデミー 黄金の道標》的检定问答场景，属于从问答游戏进入节奏游戏的BGM移植。QMA官方原声CD目录直接把它列为第二轨，并明确作曲、编曲由Coyaan负责；这比仅凭封面上的作品标志推定来源更可靠。[1]
+
+官方曲表将同一版本的开场曲《GOLDEN JOURNEY》另列为第一轨、署广野智章，因此不能把本曲写成黄金の道標的开场主题，也不能把该作全部音乐归于Coyaan。本条能够确认的是具体用途与制作署名，而非作者个人对于“永恒之梦”的解释。[1]
+
+进入jubeat后，标题简化为《Eternal Dream》，官方列2/5/8，社区记录144 BPM与1:37。社区页面将其记为“游戏”类别，而现行官方网站的原创曲目录也能检索到它：这属于两个页面分类呈现的差别，不应把一方界面栏目当作另一方游戏内分类的必然否定。[2][3]
+
+它于2024年12月的SMITH STREET首弹通过CHERRY STREET-DAY开放。当前未找到Coyaan针对这首BGM的制作访谈；因此原档将梦幻氛围与标题直接连接为创作意图的说法不予延续。[3][4]
+
+### jubeat 收录与版本
+
+保留QMA原用途、官方作编署名、jubeat新谱面三个层次；游戏场景已由官方曲表核实，具体循环剪辑与录音版本未定。
+
+### 资料来源
+
+1. [KONAMI：QMA原声CD曲表](https://p.eagate.573.jp/game/qma/18/campaign/1/music.html)（实读）
+2. [KONAMI：jubeat曲目目录](https://p.eagate.573.jp/game/jubeat/beyond/music/original.html?page=3)（实读）
+3. [jubeat@Wiki：Eternal Dream](https://w.atwiki.jp/jubeat/pages/2426.html)（实读）
+4. [RemyWiki：Eternal Dream](https://remywiki.com/Eternal_Dream)（实读）
+
+### 核验边界与待补
+
+- 未找到作者旋律起点、配器或音色制作的逐曲证言。
+- 不依据网传马甲推定Coyaan本名。
+- 游戏内分类与官方网站目录栏目分开描述。
+
+<a id="arcade-11000162-shared"></a>
+## Link up
+
+- 统一曲库 ID：`arcade:11000162`
+- 原章节编号与标题：79. Link up
+
+### 曲目档案
+
+- 艺人／词曲编：chocochips[1]
+- BPM：170[3]
+- 等级／物量（BSC/ADV/EXT）：3/6/9.0；265/458/761[3]
+- 原声版本：短版1:58；Long ver.4:10，不等同jubeat剪辑长度[1][2]
+- jubeat收录：2024-09-25 FROM GITADORA-01／OTOBEAR[3][6]
+- 后续解锁：2026-07-01起BONUS TUNE游玩3次[5]
+
+### 创作与制作背景
+
+《Link up》是由GITADORA进入jubeat的既有作品。原声出版记录将作词、作曲和编曲均署chocochips，并且同时存在短版与长版：前者1:58，后者4:10。KONAMI的原声曲表也分别列出两个版本，因此不能把长版时长直接填进jubeat的游戏档案。[1][2][3]
+
+独立玩家渋井在2018年的回顾中，特别喜欢本曲副歌，并说封面让他原以为曲风更安静，实际却是自己喜爱的明快节奏。他也把繁忙谱面与能够跟随律动的乐趣联系起来。这份材料说明作品在原机种的实际接受情况；它不是作者访谈，不能据此替chocochips编造“为了连接玩家而创作”的命题，曲名本身也不足以证明该动机。[4]
+
+2024年9月，作品以OTOBEAR为引导加入jubeat的FROM GITADORA-01。2026年7月官方再宣布它与《Devil’s Rule》《◎holic◎》《THE LAST OF FIREFACE》一起进入BONUS TUNE，游玩三次可解锁。此后续公告直接支持解锁路径变化，不应与原作发行时间混为一谈。[3][5][6]
+
+### jubeat 收录与版本
+
+已核词曲编署名、短长版区分、原机种接受史及jubeat移植；作者逐曲创作证言仍缺。
+
+### 资料来源
+
+1. [TOWER：GITADORA原声2nd season](https://tower.jp/item/3311272)（实读）
+2. [KONAMI：GITADORA原声2nd season曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=85&game_id=4)（实读）
+3. [jubeat@Wiki：Link up](https://w.atwiki.jp/jubeat/pages/2415.html)（实读）
+4. [渋井：GITADORA乐曲嗜好16](https://shibui.hatenadiary.jp/entry/2018/11/07/000453)（实读）
+5. [jubeat官方：2026-07-01 BONUS TUNE追加](https://eam.573.jp/app/web/post/detail.php?post_id=22852290)（实读）
+6. [jubeat@Wiki：LIGHT CHAT年表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+
+### 核验边界与待补
+
+- chocochips内部人员分工与歌手实名未核，不凭艺人栏扩写。
+- 原声录音长度不自动等于jubeat版长度。
+- RemyWiki普通读取403，停止该路径，未计来源。
+
+<a id="arcade-11000163-shared"></a>
+## Devil’s Rule
+
+- 统一曲库 ID：`arcade:11000163`
+- 原章节编号与标题：80. Devil’s Rule
+
+### 曲目档案
+
+- 艺人：BEMANI Sound Team "Yvya"[1][2]
+- BPM：220[3]
+- 等级／物量（BSC/ADV/EXT）：4/8/10.4；282/523/909[3]
+- 原作定位：GITADORA HIGH-VOLTAGE；MUSICIAN’S ROAD第1弹[1][2]
+- jubeat收录：2024-09-25 FROM GITADORA-01／OTOBEAR[3][6]
+- 后续解锁：2026-07-01起BONUS TUNE游玩3次[5]
+
+### 创作与制作背景
+
+《Devil’s Rule》并非为jubeat新写的恶魔主题曲。KONAMI的2021年春季乐曲专题将其明确列作MUSICIAN’S ROAD第一弹解禁新曲，官方HIGH-VOLTAGE音乐目录则确认Yvya署名，提供了原作企划位置。[1][2]
+
+可读的独立玩家回顾把它描述为带跳跃感的节奏作品，作者在击鼓时容易随之摇摆，也提及封面带来的怖感。这可以作为作品在GITADORA环境中的接受史：音乐律动、演奏动作与视觉印象在玩家经验中结合。它并不证明Yvya有意描写某个恶魔人物或剧情，也不支持原档把英文标题直译后扩展为既定创作故事。[4]
+
+2024年9月移植jubeat时，作品和《Link up》等一起进入FROM GITADORA-01；2026年7月的官方公告又把它纳入三次游玩解锁的BONUS TUNE。原机种演奏谱与jubeat的282/523/909物量是不同设计，不能把玩家对GITADORA鼓谱的体验直接移植成jubeat谱面制作解释。[3][5][6]
+
+### jubeat 收录与版本
+
+有原作官方企划、独立游玩记录和jubeat传播资料，但未找到Yvya针对此曲的创作访谈；不以一般艺人生涯凑逐曲故事。
+
+### 资料来源
+
+1. [KONAMI：2021春季乐曲专题](https://p.eagate.573.jp/game/bemani/fansite/p/music/2021sp/index.html)（实读）
+2. [KONAMI：HIGH-VOLTAGE音乐目录](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=189&game_id=4)（实读）
+3. [jubeat@Wiki：Devil’s Rule](https://w.atwiki.jp/jubeat/pages/2416.html)（实读）
+4. [Undergroun℃：HIGH-VOLTAGE逐曲游玩回顾](https://note.com/80ivyu910l/n/n5edc2878d10a)（实读）
+5. [jubeat官方：2026-07-01 BONUS TUNE追加](https://eam.573.jp/app/web/post/detail.php?post_id=22852290)（实读）
+6. [jubeat@Wiki：LIGHT CHAT年表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+
+### 核验边界与待补
+
+- 缺旋律起点、具体吉他／贝斯录音分工及作者曲评。
+- RemyWiki普通读取403已停止，未计来源。
+- 同一原作宣传与目录保守并根；独立玩家意见不是作者动机。
+
+<a id="arcade-11000164-shared"></a>
+## ◎holic◎
+
+- 统一曲库 ID：`arcade:11000164`
+- 原章节编号与标题：81. ◎holic◎
+
+### 曲目档案
+
+- 艺人：山本真央樹 feat.くりむ[2]
+- 作曲／编曲：山本真央樹（本人履历确认）[1]
+- 词／唱／吉他：社区记くりむ词唱、Haruka Sakamoto吉他；未获原始内页复核[3]
+- BPM：存在异文：总表与Remy为170，单曲页160；待原始游戏核定[3][4][6]
+- HOLD等级／物量：3/6/9.4；237/456/737；不是普通谱面[4]
+- jubeat收录：2024-09-25，FROM GITADORA-01；2026-07-01起BONUS TUNE三次解锁[5][6]
+
+### 创作与制作背景
+
+《◎holic◎》是山本真央树与くりむ合作的GITADORA作品，不能与TaQ的《Holic》混淆。山本本人的创作履历明确确认他负责本曲作曲、编曲，作品页也保留组合署名；该页刊载于2024年9月，但刊载时间并不等于歌曲首发时间。[1][2]
+
+社区记录其原属GITADORA FUZZ-UP的全明星GIG活动，2023-12-06起开放，并列くりむ负责词与歌唱、Haruka Sakamoto负责吉他。此分工中，山本作编已经一手确认，词唱和吉他目前仍是二级资料，不把它们伪装成已读原盘内页。[1][3]
+
+jubeat移植发生于2024年9月，且目前只有HOLD谱面；原档若把三组数值称为普通谱面应纠正。还有一处需要保留的数据冲突：单曲页写160 BPM，总表与Remy写170，尚未核定成因，不能擅自解释为变速或版本改编。[3][4][6]
+
+本轮未找到两位创作者解释标题、歌词人物或旋律构思的可读原文。因此不会从くりむ其他作品的童话风格出发替这首歌编一个故事；当前可以可靠补充的是合作身份、原企划及跨机种版本边界。[1][2][3]
+
+### jubeat 收录与版本
+
+最低三链为作者制作信用、社区参数／活动史、后续厂商解锁公告；并不等于有三份创作访谈。
+
+### 资料来源
+
+1. [山本真央树本人：作编曲履历](https://maoki-yamamoto.com/compose/)（实读）
+2. [山本真央树本人：◎holic◎作品页](https://maoki-yamamoto.com/works/%E2%97%8Eholic%E2%97%8E/)（实读）
+3. [RemyWiki：◎holic◎](https://remywiki.com/Holic_(Maoki_Yamamoto_feat.crimm))（实读）
+4. [jubeat@Wiki：◎holic◎](https://w.atwiki.jp/jubeat/pages/2417.html)（实读）
+5. [jubeat官方：2026-07-01 BONUS TUNE追加](https://eam.573.jp/app/web/post/detail.php?post_id=22852290)（实读）
+6. [jubeat@Wiki：新曲总表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+
+### 核验边界与待补
+
+- 缺逐曲作者故事、合作过程、词唱吉他原始署名。
+- BPM160／170异文待核。
+- HOLD版身份已修正；2024-09-01仅作品页日期。
+
+<a id="arcade-11000165-shared"></a>
+## THE LAST OF FIREFACE
+
+- 统一曲库 ID：`arcade:11000165`
+- 原章节编号与标题：82. THE LAST OF FIREFACE
+
+### 曲目档案
+
+- 艺人：大和[1][4]
+- BPM：224[1][2]
+- 等级／物量（BSC/ADV/EXT）：6/9.2/10.7；367/669/1018[2]
+- 原作定位：GITADORA HIGH-VOLTAGE，第6代PREMIUM ENCORE[1]
+- jubeat收录：2024-09-25，OTOBEAR／FROM GITADORA-01；2026-07-01起BONUS TUNE三次解锁[1][4]
+
+### 创作与制作背景
+
+本曲原是GITADORA HIGH-VOLTAGE的末期PREMIUM ENCORE作品，由大和提供，后来转入FUZZ-UP的ENCORE位置。这里的最终关卡背景能够解释玩家讨论中为何常把它称为“压轴曲”，但不等同于作者宣布某种末日故事或个人退隐之作。[1]
+
+独立玩家在2022年逐曲回顾中，强调沉重吉他音色与副歌突然向外冲开的感觉，并将开头和鼓的进入方式与其压轴定位联系起来。这是具体的听玩经验，可以补充接受史，却不是作者对配器设计的自述。[3]
+
+本曲标题另有一个值得继续追查的线索：一篇同期游戏日记脚注说，大和制作时音频接口似乎曾突然没有声音，并把FIREFACE与设备联系起来。但该页没有给出作者原帖，措辞也是转述；本轮未找到可核原始证言，所以不把设备故障写成已证实命名缘由。jubeat全谱面FC称号确实带有“标题为虚构”的玩笑文字，这只能确认游戏文本，不能反向证明传闻。[2][5]
+
+2024年9月作品进入jubeat的GITADORA移植批次，2026年7月又被官方列入BONUS TUNE三次解锁名单。游戏版本史与音乐命名故事分别保留证据等级。[1][4]
+
+### jubeat 收录与版本
+
+三链已核；设备故事仅列调查线索且不计最低来源，深挖应优先寻找大和本人原帖。
+
+### 资料来源
+
+1. [RemyWiki：THE LAST OF FIREFACE](https://remywiki.com/THE_LAST_OF_FIREFACE)（实读）
+2. [jubeat@Wiki：THE LAST OF FIREFACE](https://w.atwiki.jp/jubeat/pages/2418.html)（实读）
+3. [Undergroun℃：HIGH-VOLTAGE逐曲回顾](https://note.com/80ivyu910l/n/n5edc2878d10a)（实读）
+4. [jubeat官方：2026-07-01 BONUS TUNE追加](https://eam.573.jp/app/web/post/detail.php?post_id=22852290)（实读）
+5. [FMIC7743：2022-12-14游戏日记](https://fm7743.hatenadiary.com/entry/20221214/1671025485)（实读）
+
+### 核验边界与待补
+
+- 缺作者命名与录音过程的原文。
+- 接口失声传闻未能追到一手，不能断言故障型号、时间或更换设备。
+- 原机种与jubeat谱面、压轴定位勿混用。
+
+<a id="arcade-11000166-shared"></a>
+## Amazing Bomberman
+
+- 统一曲库 ID：`arcade:11000166`
+- 原章节编号与标题：83. Amazing Bomberman
+
+### 曲目档案
+
+- 艺人：TESSEI TOJO[1][2]
+- BPM：175；社区记2025-02-05由误标170更正[3]
+- 等级／物量：2/6/9.4；156/426/695[3]
+- jubeat追加：2025-01-09 10:00，Super Amazing Music联动[2][4]
+
+### 创作与制作背景
+
+《Amazing Bomberman》不是为jubeat首写的同名新曲，而是TESSEI TOJO为《AMAZING BOMBERMAN》提供的作品。原游戏把音乐进程与爆炸音、舞台变化和战斗时长结合；这是歌曲最初的应用场景。[1] 社区资料记原游戏于2022年推出。[4]
+
+社区资料将旋律来源追溯到《超级炸弹人2》的对战曲《BATTLE》，列原作者福田裕彦、改编者TESSEI TOJO。这一脉络宜表述为旧作旋律的新编，而不是凭标题推定为系列首次主题曲；本轮尚未取得改编者解释选曲、音色或节奏设计的原文。[3][4]
+
+2024年12月，歌曲进入《Super Amazing Music》合集；随后作为该原声的BEMANI联动曲于2025年1月进入jubeat。社区还记载2月5日更新修正BPM显示，因此旧页所留170不能直接当现值；现单曲页是175。原声与游戏剪辑长度也不可无条件视为相同。[2][3][4]
+
+### jubeat 收录与版本
+
+三条出版／资料链：2022原作、2024原声及联动、社区曲目考据；没有冒充三份作者访谈。
+
+### 资料来源
+
+1. [KONAMI：AMAZING BOMBERMAN原作官网](https://www.konami.com/games/bomberman/amg/jp/ja/)（实读）
+2. [KONAMI：Super Amazing Music原声及BEMANI联动](https://www.konami.com/games/bomberman/r2/jp/ja/news/soundtrack/)（实读）
+3. [jubeat@Wiki：Amazing Bomberman](https://w.atwiki.jp/jubeat/pages/2431.html)（实读）
+4. [RemyWiki：Amazing Bomberman](https://remywiki.com/Amazing_Bomberman)（实读）
+
+### 核验边界与待补
+
+- 缺TESSEI本人改编构思；福田原曲署名目前据社区。
+- 原声与游戏具体剪辑差别待音源核验。
+
+<a id="arcade-11000167-shared"></a>
+## はらぺこヒーロー
+
+- 统一曲库 ID：`arcade:11000167`
+- 原章节编号与标题：84. はらぺこヒーロー
+
+### 曲目档案
+
+- 艺人：回せ！グルーヴ開発部[1][2]
+- 词／曲编：怠田ユニ／Alkome[3][4]
+- BPM／等级／物量：170；3/7/9.2；191/493/784[5]
+- jubeat追加：2025-01-16 10:00，原声联动第二弹[2][5]
+
+### 创作与制作背景
+
+本曲是《AMAZING BOMBERMAN》提供曲，词作者为团体成员怠田ユニ，Alkome负责作曲与编曲；Alkome本人履历把它列在2022年工作中。[1][3][4]
+
+怠田ユニ在2026年复活演出前写下明确的创作回忆：收到KONAMI游戏歌曲的作词机会令她荣幸，也让她反复考虑方向。她希望同时保留炸弹人元素、回せ！グルーヴ開発部的个性，并让玩游戏的人产生共鸣；可以正式使用无敌服、火力提升等游戏术语，也使写作过程格外愉快。这是本人说明的设计目标，不是读者从歌词反推的动机。[3]
+
+她特别说明作品是在团体解散后公布的，截至该文发表时还没有在现场唱过。因此应区分实际写作、解散、歌曲公开与复活演出几个时间点，不能把它描述为2025年为jubeat临时重组录制的歌曲。文章后半另谈《RGB》的成员自我介绍和生活经历，那些故事不属于本曲。[3]
+
+歌曲于2024年12月收入合集，并在次年1月16日以原声联动第二弹进入jubeat；这一移植晚于原作提供。[2][5]
+
+### jubeat 收录与版本
+
+已取得词作者逐曲动机与作编者署名。四条保守来源链，原作信用与作编履历合组。
+
+### 资料来源
+
+1. [KONAMI：AMAZING BOMBERMAN原作官网](https://www.konami.com/games/bomberman/amg/jp/ja/)（实读）
+2. [KONAMI：Super Amazing Music原声及BEMANI联动](https://www.konami.com/games/bomberman/r2/jp/ja/news/soundtrack/)（实读）
+3. [怠田ユニ：はらぺこヒーロー／RGB歌词与幕后⑤](https://note.com/okotayuni/n/n4e091570e120)（实读）
+4. [Alkome本人制作履历](https://alkome.jp/works/)（实读）
+5. [jubeat@Wiki：はらぺこヒーロー](https://w.atwiki.jp/jubeat/pages/2432.html)（实读）
+
+### 核验边界与待补
+
+- 尚缺Alkome对音色、和声、录音过程的逐曲解释。
+- 不由复活演出前预告推定已完成现场演出；不移用RGB故事。
+
+<a id="arcade-11000168-shared"></a>
+## CRAZY ARTS
+
+- 统一曲库 ID：`arcade:11000168`
+- 原章节编号与标题：85. CRAZY ARTS
+
+### 曲目档案
+
+- 艺人：FAKE TYPE.[1][2]
+- 词／唱：TOPHAMHAT-KYO[3]
+- Track／吉他：DYES IWASAKI／Johngarabushi[3]
+- BPM／等级／物量：132；3/6/9.6；205/396/647[4]
+- jubeat追加：2025-01-23 10:00，原声联动第三弹[2]
+
+### 创作与制作背景
+
+《CRAZY ARTS》是FAKE TYPE.向《AMAZING BOMBERMAN》提供的歌曲，后来通过原声联动进入jubeat，而不是把该组合其他专辑曲误标为游戏委托作品。[1][2]
+
+官方MV说明留下了具体制作分工：TOPHAMHAT-KYO负责歌词与歌唱，DYES IWASAKI制作track，Johngarabushi演奏吉他；混音由Mixer’s Lab的Yoshinori Adachi负责，母带由Saidera Mastering的Tomomi Nemoto负责。这证明作品不只是二人名义下的抽象“电子乐”，还包含明确的吉他与后期合作人员。[3]
+
+同一说明把中山敦支列为插画作者、利波雷列为影像作者。视觉制作与音乐署名分开记录，不将MV画面情节当作词作者本人讲述的创作起因。[3]
+
+2023年专访提到本曲，同时解释二人通常由DYES积累track、再共同选取并由TOPHAM写词的工作方式；但没有逐项说明本曲是否完全按此流程完成。因此只把它作为组合方法背景，不作为本曲的直接制作回忆，也不计最低来源数。[5]
+
+2024年12月的合集收录与2025-01-23 jubeat追加，属于后续出版和移植史。[2]
+
+### jubeat 收录与版本
+
+最低三链为原作／制作信用、后续原声出版、社区实测；一般专访不凑数。
+
+### 资料来源
+
+1. [KONAMI：AMAZING BOMBERMAN原作官网](https://www.konami.com/games/bomberman/amg/jp/ja/)（实读）
+2. [KONAMI：Super Amazing Music原声及BEMANI联动](https://www.konami.com/games/bomberman/r2/jp/ja/news/soundtrack/)（实读）
+3. [FAKE TYPE.官方：CRAZY ARTS MV说明](https://www.youtube.com/watch?v=S_JHjYdUHqI)（实读）
+4. [jubeat@Wiki：CRAZY ARTS](https://w.atwiki.jp/jubeat/pages/2433.html)（实读）
+5. [rockin’on：FAKE TYPE. FAKE SWING 2访谈](https://rockinon.com/interview/detail/207996)（实读）
+
+### 核验边界与待补
+
+- 缺本曲标题、歌词构思及具体录音经过的作者自述。
+- 不把组合一般工作法直接套为本曲实际流程。
+
+<a id="arcade-11000169-shared"></a>
+## イマココ！この瞬間
+
+- 统一曲库 ID：`arcade:11000169`
+- 原章节编号与标题：86. イマココ！この瞬間
+
+### 曲目档案
+
+- 艺人：日向美ビタースイーツ♪[1][5]
+- 词曲：ササキトモコ[2]
+- 编曲：辻林美穂（社区信用；未直接核原帖）[3]
+- BPM／HOLD等级／物量：152；2/6/8；181/393/616；没有普通谱面[3]
+- 公开／游戏追加：2024年周年演出披露；6月12日数字发行；2025-02-14 10:00加入jubeat[1][3][4][5]
+
+### 创作与制作背景
+
+本曲在2024年《ひなビタ♪LIVE2024 ～Sweet Smile Memories～》末段首次披露，随后于6月12日数字发行。授权音源明确词曲作者是ササキトモコ，不能因资料把企划统一记在TOMOSUKE名下，就把本曲作曲也归给TOMOSUKE。[1][2][3][4]
+
+作品的重要结构是与旧作对话：全长版本穿插五名角色既有歌曲的片段，社区列有《滅びに至るエランプシス》《恋とキングコング》等；现场听众也记录了突然听到旧旋律、感觉回顾角色一路变化的惊喜。这一段在游戏剪辑中并不完整保留，因此不可要求jubeat短版听见所有回顾段落。[3][4]
+
+一篇同期现场博客嵌有东京ハイジ账号由“トモコ”署名的3月31日提示，建议把《花のやくそく》的歌词一起阅读。这提供作者主动连接两作的线索，但本轮原X链接不可读，只核到嵌文；不能将听众关于“最终回”“毕业之后”的解读全部冒充作者设定。[6]
+
+数字发行同时包含4分40秒原版和5分03秒retro edition，二者不可混作同一编曲。2025年jubeat版又是HOLD专用谱面，属于谱面版本而非新的作者创作故事。[1][3][5]
+
+### jubeat 收录与版本
+
+发行、社区实测、独立现场体验、2025官方活动与作者帖转录五链；作者提示为二级转录，未直接核X。
+
+### 资料来源
+
+1. [OTOTOY：イマココ！この瞬間发行目录](https://ototoy.jp/_/default/p/2131024)（实读）
+2. [KONAMI授权音源：イマココ！この瞬間说明](https://www.youtube.com/watch?v=5kkjc4nED58)（实读）
+3. [jubeat@Wiki：イマココ！この瞬間](https://w.atwiki.jp/jubeat/pages/2435.html)（实读）
+4. [ふぇにお：2024周年演出现场感想](https://note.com/ahora_to/n/n62d98d681134)（实读）
+5. [KONAMI：ひなビタ♪ちくわまつり2025](https://p.eagate.573.jp/game/bemani/hinabita2025/index.html)（实读）
+6. [ぼうかんしゃこうか：周年演出记录及作者帖嵌文](https://suta-13.blog.jp/archives/1083034843.html)（实读）
+
+### 核验边界与待补
+
+- 缺逐曲完整作者访谈、编曲者制作说明。
+- 作者关联花のやくそく提示仅嵌文；不把听众的剧情解释升为原作事实。
+- 游戏剪辑不含全部全长回顾段；retro edition另版。
+
+<a id="arcade-11000174-shared"></a>
+## ロマンシングエスケープ
+
+- 统一曲库 ID：`arcade:11000174`
+- 原章节编号与标题：87. ロマンシングエスケープ
+
+### 曲目档案
+
+- 艺人：ここなつ2.0[1][3]
+- 词／曲：Rose Blueming／前田佑、Rose Blueming[2]
+- BPM／HOLD等级／物量：132；2/5/7；152/295/427；非普通谱面[5]
+- 发行／jubeat追加：2024-12-18同名专辑；2025-02-14十周年联动全民开放[1][3][4]
+
+### 创作与制作背景
+
+《ロマンシングエスケープ》是ここなつ十周年时期推出的同名专辑首轨。授权音源明确它由前田佑与Rose Blueming共同作曲，Rose Blueming作词；不能将整张专辑里Nor、KARUT或EmoCosine的参与直接套为本曲作者。[1][2]
+
+这张唱片把本曲与《ポラリスノウタ》、三首旧作的重混放在同一发行中，同时另收本曲instrumental。因而纪念企划既包含新作也包含回顾旧作的重编，但本曲本身不是《ミライプリズム》等重混曲的改名。目录中的4分47秒是唱片轨长，不能当作jubeat剪辑时长。[1]
+
+社区资料说明角色歌唱为东云夏阳（日南结里）与东云心菜（小泽亚李），游戏封面沿用ななみ雪绘制的像素风专辑视觉。这里只记录二级信用与视觉沿用，不从像素艺术推断音乐必然按某台复古主机音源制作。[5]
+
+官方于2025年2月把歌曲纳入十周年跨机种庆典，jubeat玩家可直接游玩；本曲目前为HOLD谱面。找到的资料足以确认周年发行和合作署名，但尚未找到两名作者解释“逃离”的具体意象、合作分工或合成器制作过程，故不杜撰剧情或音乐动机。[3][4][5]
+
+### jubeat 收录与版本
+
+三链：2024唱片信用、2025官方游戏企划、社区独立谱面记录。
+
+### 资料来源
+
+1. [OTOTOY：ロマンシングエスケープ LC2608](https://ototoy.jp/_/default/p/2482597)（实读）
+2. [KONAMI授权：ロマンシングエスケープ音源说明](https://www.youtube.com/watch?v=L3ZHkseKB-k)（实读）
+3. [KONAMI：ひなビタ♪ちくわまつり2025](https://p.eagate.573.jp/game/bemani/hinabita2025/index.html)（实读）
+4. [KONAMI：ここなつ十周年及2025联动公告](https://www.konami.com/amusement/corporate/ja/topics/20250214/)（实读）
+5. [jubeat@Wiki：ロマンシングエスケープ](https://w.atwiki.jp/jubeat/pages/2436.html)（实读）
+
+### 核验边界与待补
+
+- 缺前田佑／Rose Blueming逐曲创作自述与录音分工。
+- 角色歌唱与封面信用目前二级；HOLD非重录证据。
+
+> **总库外原稿保留附录条目**：以下原节逐字保留，不计入本轮 2438 首研究及统一格式验收；原有未核标记仍有效。
 
 ## 88. カラフルミニッツ [ 2 ]
 
@@ -2626,209 +3308,252 @@ jubeat@Wiki 将カラフルミニッツ [ 2 ] 列为 LIGHT CHAT（常設）曲�
 **核验边界**
 原曲初出信息、词曲分工与演唱者全名未在本次来源中直接确认。[ 2 ] 版本与原曲的谱面关系以 jubeat@Wiki 曲列表为准。BPM、具体等级和解锁条件应逐项对照 wiki 数据页。
 
-## 89. New Decade [ 2 ]
+<a id="arcade-11001003-shared"></a>
+## New Decade [ 2 ]
 
-**曲目档案**
-标题：New Decade [ 2 ]  
-艺人：Sota F.  
-统一曲库 ID：`arcade_11001003`  
-BPM：以 jubeat@Wiki 曲列表记录为准  
-谱面：jubeat@Wiki 将该 [ 2 ] 版本列为 LIGHT CHAT（常設）曲，并记录 HOLD 谱面等级。
+- 统一曲库 ID：`arcade:11001003`
+- 原章节编号与标题：89. New Decade [ 2 ]
 
-**背景知识**
-New Decade 是 Sota F. 的作品，原曲可追溯到 DanceDanceRevolution X2。Sota F. 是 Sota Fujimori 的简称，长期以电子、合成器与高速舞曲风格著称。曲名中的“十年”指向新世纪初的时间叙事，但歌词几乎无词或叙事非常抽象，公开说明没有给出明确故事。  
-[ 2 ] 版本在 jubeat beyond the Ave. 中以 HOLD 谱面形式重新提供，属于对既有作品的结构性强化，而非音乐本体新作。
+### 曲目档案
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将 New Decade [ 2 ] 列为 LIGHT CHAT（常設）曲，并在曲页中记录其为 DDR X2 移植以及 HOLD [ 2 ] 与 LIGHT CHAT JUMPING JACK 的解锁关系。  
-整理稿中可将本曲定位为“原曲 DDR X2 移植的 [ 2 ] HOLD 谱面版，常设 LIGHT CHAT 解锁”。不应将 [ 2 ] 版本写成 New Decade 的初出。
+- 艺人：Sota F.（藤森崇多）[1][4]
+- 版本：New Decade的追加HOLD谱面，不是IIDX Edition[1][2]
+- BPM／HOLD等级／物量：200；4/8/10.4；335/522/854[2]
+- 追加／解锁：2023-09-20，LIGHT CHAT常驻JUMPING JACK[2][3]
 
-**资料来源**
-1. RemyWiki：《New Decade [ 2 ]》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：New Decade 曲页及曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/1212.html，访问日期 2026-11-01。
-3. Otoge Station：jubeat beyond the Ave. 收录曲列表，访问日期 2026-11-01。
-4. BEMANICN：jubeat beyond the Ave. 总页，访问日期 2026-11-01。直接访问返回 403，使用搜索摘要确认曲群关系。
-5. jubesta.net：jubeat beyond the Ave. 新曲一览，https://jubesta.net/beyond/，访问日期 2026-11-01。
+### 创作与制作背景
 
-**核验边界**
-DDR X2 初出、Sota F. 的姓名全称与原曲形态来自 jubeat@Wiki 与既有曲系资料，官方对应页面未直接读取。[ 2 ] 谱面的解锁条件、难度与 BPM 应逐项核对 jubeat@Wiki 数据。歌词与创作说明未取得。
+原曲的创作背景统一见[New Decade原曲说明](05_jubeat_saucer歌曲背景.md#arcade-50000114-shared)，本条专门记录追加HOLD版本。藤森在官方曲评中说明的DDR关卡用途与“新的十年”命名，属于原曲，不是2023年为HOLD另写的理由。[1]
 
-## 90. 千年ノ理 [ 2 ]
+[2]的实质差别在jubeat谱面：普通版物量281／503／714，HOLD版则为335／522／854，后者以200 BPM配置于beyond的JUMPING JACK解锁节点。这里不能把IIDX Edition另加前奏与乐句的音乐改编，错误套到相同编号含义完全不同的jubeat[2]上。[1][2][3]
 
-**曲目档案**
-标题：千年ノ理 [ 2 ]  
-艺人：猫叉Master  
-统一曲库 ID：`arcade_11001004`  
-BPM：153。此值来自 jubeat@Wiki 曲页，成稿时以曲页数据为主。  
-谱面：jubeat@Wiki 将该 [ 2 ] 版本列为 LIGHT CHAT（常設）曲，HOLD 谱面记录为 10.5 / 332 / 481 / 882。
+《Cathy & Marron》原声目录可确认原曲以藤森崇多作编曲署名收录，轨长1分31秒。这是唱片记录，不是HOLD谱面出现时间，更不能凭同名推断2023年重新录音。[4]
 
-**背景知识**
-千年ノ理 是猫叉Master 的作品，与《BEMANI×東方Project》企划相关。原曲以《東方永夜抄》的《千年幻想郷 ～ History of the Moon》为基础，在 BEMANI 语境中重新编成。jubeat@Wiki 记录该曲于 2015 年 5 月 14 日以五机种同时配信的形式推出，因此原版属于 BEMANI 与东方 Project 联动的历史曲。  
-“千年”与《千年幻想郷》直接对应，“ノ理”则以古语式写法强调逻辑、道理与长期叙事。由于歌词或官方叙事说明未完整公开，不宜将曲目主题与东方 Project 原作角色设定做过细推断。
+### jubeat 收录与版本
 
-**jubeat beyond the Ave. 位置**
-jubeat@Wiki 将千年ノ理 [ 2 ] 列为 LIGHT CHAT（常設）曲，并记录其 HOLD [ 2 ] 的谱面等级为 10.5 / 332 / 481 / 882。  
-整理稿中可将本曲定位为“原曲来自 BEMANI×東方Project、jubeat 版以 [ 2 ] HOLD 谱面提供，常设 LIGHT CHAT 解锁”。不应把 [ 2 ] 版本写成 2015 年原版首发。
+三链为原作者曲评、社区谱面史、原声出版；共享故事只链接一次，不充作新的创作证言。
 
-**资料来源**
-1. RemyWiki：《千年ノ理 [ 2 ]》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：千年ノ理曲页及曲リスト（beyond the Ave. 新曲），https://w.atwiki.jp/jubeat/pages/1530.html，访问日期 2026-11-01。
-3. Otoge Station：jubeat beyond the Ave. 收录曲列表，访问日期 2026-11-01。
-4. BEMANICN：jubeat beyond the Ave. 总页，访问日期 2026-11-01。直接访问返回 403，使用搜索摘要确认曲群关系。
-5. jubesta.net：jubeat beyond the Ave. 新曲一览，https://jubesta.net/beyond/，访问日期 2026-11-01。
+### 资料来源
 
-**核验边界**
-BPM 153 与 HOLD 谱面数值来自 jubeat@Wiki，官方页面未直接读取。东方 Project 原曲对应关系与五机种同时配信日期依赖既有 BEMANI 联动资料。歌词主题、改编者分工与具体 [ 2 ] 版本谱面结构未在本批次来源中展开。
+1. [Sota Fujimori：New Decade IIDX Edition官方曲评](https://p.eagate.573.jp/game/2dx/20/p/newsong/new_decade_iidx_edition.html)（实读）
+2. [jubeat@Wiki：New Decade两套谱面](https://w.atwiki.jp/jubeat/pages/1212.html)（实读）
+3. [jubeat@Wiki：beyond新曲表](https://w.atwiki.jp/jubeat/pages/2333.html)（实读）
+4. [Tower：Cathy & Marron原声第9轨](https://tower.jp/item/3311274)（实读）
 
-## 91. 蒼空に舞え、墨染の桜 [ 2 ]
+### 核验边界与待补
 
-**曲目档案**
+- 未取得HOLD谱面设计师的逐曲说明，也没有重录证据。
+- 共享链接目标 ID 已核；本格式稿已生成对应锚点并通过结构校验。
 
-统一曲库 ID：`arcade_11001005`
+<a id="arcade-11001004-shared"></a>
+## 千年ノ理 [ 2 ]
 
-曲名：蒼空に舞え、墨染の桜 [ 2 ]  
-艺人：Silver Forest feat. さゆり  
-整理范围：jubeat beyond the Ave. 批次 091
+- 统一曲库 ID：`arcade:11001004`
+- 原章节编号与标题：90. 千年ノ理 [ 2 ]
 
-**背景知识**
+### 曲目档案
 
-Silver Forest 是以东方 Project 同人音乐活动闻名的名义，常在编曲中结合摇滚、电子与叙事性人声。此曲的「墨染の桜」意象与深色花瓣、飞舞与悼念氛围相连，但具体歌词解释应与官方或原作语境分开看待。标题中的二次登场标记通常用于区分同名乐曲在不同音乐游戏条目中的收录关系，不应直接改写成其他正式曲名。
+- 艺人／原曲：猫叉Master／ZUN《千年幻想郷 ～ History of the Moon》[1][3]
+- 版本：追加HOLD谱面；原改编2015已存在[1][2]
+- BPM／HOLD等级／物量：153；4/8/10.5；332/481/882[2]
+- HOLD初期解锁：2024-06-12 10:00至07-02 23:59，東方アレンジ RECORDS累计20星[2]
 
-**jubeat beyond the Ave. 位置**
+### 创作与制作背景
 
-在本次整理稿中，该曲作为第 091 首登场，属于批次 091 的音乐资料项。本稿以统一曲库 ID 作为稳定主键，不推断其具体解锁流程、谱面难度或版本层级。
+原曲与2015改编的背景统一见[千年ノ理原版说明](07_jubeat_prop歌曲背景.md#arcade-60000052-shared)。官方2015配信表已确认猫叉Master改编的是《千年幻想郷 ～ History of the Moon》，所以beyond追加[2]并不代表2024年才首次创作这段音乐。[1]
 
-**资料来源**
+本版本新增的是HOLD玩法与相应解锁位置：2024年6月的東方アレンジ RECORDS活动以20星解锁，物量332／481／882，不可与prop普通版315／527／828混列。社区还注明HOLD没有独立的全难度通关、全连称号，因此也不把普通版角色梗称号不加说明地复制为本版本专属内容。[2]
 
-1. RemyWiki：蒼空に舞え、墨染の桜 [ 2 ]，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：蒼空に舞え、墨染の桜相关条目，访问日期 2026-11-01。用于核对曲名、艺人标注与 jubeat 收录线索；原文未能直接访问，具体数值未引用。
-3. BEMANICN：Silver Forest 与 BEMANI 乐曲资料页，访问日期 2026-11-01。用于核对中文资料中的名义保留方式；原文未能直接访问。
-4. jubeat Fandom：Silver Forest 与 jubeat 收录曲页面，访问日期 2026-11-01。用于确认跨平台署名与条目索引；原文未能直接访问。
-5. 官方页：jubeat beyond the Ave. 官方收录资料，访问日期 2026-11-01。用于确认统一曲库 ID 与本批位次；原文未能直接访问。
+原曲对应《东方永夜抄》的八意永琳，ZUN音乐室文字在资料库中有转录；这些原作构想只作为共享背景，并不证明猫叉Master的改编过程，更不是HOLD谱面设计说明。本轮尚无可读的新增谱面作者讲解或音乐重录声明。[3]
 
-**核验边界**
+### jubeat 收录与版本
 
-未能直接读取各来源页面，因此不引用 BPM、时长、难度数值、作编曲细项或解锁条件。二次登场标记仅按给定数据保留，本稿不将其视为与原同名曲完全相同的版本关系。
+三条文献根：2015官方改编项目、社区HOLD实测／活动史、原游戏作者说明转录。原作转录不误升一手。
 
-## 92. WARNING×WARNING×WARNING [ 2 ]
+### 资料来源
 
-**曲目档案**
+1. [KONAMI：2015东方合作曲配信表](https://p.eagate.573.jp/game/bemani/reitaisai2015/p/music.html)（实读）
+2. [jubeat@Wiki：千年ノ理普通与HOLD](https://w.atwiki.jp/jubeat/pages/1530.html)（实读）
+3. [ZUN音乐DB：原曲作者说明转录](https://w.atwiki.jp/tohomusicdb/pages/137.html)（实读）
 
-统一曲库 ID：`arcade_11001006`
+### 核验边界与待补
 
-曲名：WARNING×WARNING×WARNING [ 2 ]  
-艺人：暁Records  
-整理范围：jubeat beyond the Ave. 批次 092
+- 缺猫叉Master逐曲改编说明与HOLD设计者证言。
+- 原游戏作者文字仅二级转录；新增谱面不等于新增录音。
+- 本格式稿共享锚点已通过结构校验。
 
-**背景知识**
+<a id="arcade-11001005-shared"></a>
+## 蒼空に舞え、墨染の桜 [ 2 ]
 
-暁Records 是 BEMANI 场景中较常以乐团式、叙事式演唱曲形象出现的名义。其作品常结合摇滚、电子与高能量人声，并在官方曲目说明或跨作品活动中强调歌词与演出氛围。此条目中的曲名带有二次登场标记，但公开整理页面多会以原始曲名或同名页面对应不同登场版本，因此在核对歌词、MV 与乐师说明时，应优先分辨其所属版本与收录平台。
+- 统一曲库 ID：`arcade:11001005`
+- 原章节编号与标题：91. 蒼空に舞え、墨染の桜 [ 2 ]
 
-**jubeat beyond the Ave. 位置**
+### 曲目档案
 
-在本次整理稿中，该曲作为第 092 首登场，属于批次 092 的音乐资料项。整理稿仅对应统一曲库 ID，不推断其具体解锁流程、谱面难度或版本层级。
+- 标题：蒼空に舞え、墨染の桜 [ 2 ]
+- 艺人：Silver Forest feat. さゆり
+- BPM：150；HOLD BSC / ADV / EXT：3 / 6 / 9.4；节点：234 / 448 / 775。[1]
 
-**资料来源**
+### 创作与制作背景
 
-1. RemyWiki：WARNING×WARNING×WARNING [ 2 ]，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：WARNING×WARNING×WARNING 相关条目，访问日期 2026-11-01。用于核对曲名、艺人标注与 jubeat 系列收录线索；原文未能直接访问，具体数值未引用。
-3. BEMANICN：暁Records 及 BEMANI 乐曲资料页，访问日期 2026-11-01。用于核对创作者名义与中文社区常用译名背景；原文未能直接访问。
-4. jubeat Fandom：jubeat 收录曲与暁Records 相关页面，访问日期 2026-11-01。用于确认跨平台资料整理方式；原文未能直接访问。
-5. 官方页：jubeat beyond the Ave. 官方收录资料，访问日期 2026-11-01。用于确认本批曲库 ID 与曲名对应关系；原文未能直接访问。
+本条的 [ 2 ] 仅确认追加 HOLD 谱面，未获重新编曲或重录证据。原作故事参见[通常谱面条目](08_jubeat_Qubell歌曲背景.md#arcade-70000049-shared)。本轮重新读取 Silver Forest 原始《GRAZE》特设页，明确该曲是从妖梦视角写成的《幽雅に咲かせ、墨染の桜》人声 trance 改编，さゆり演唱、NYO作词；作品于 2007-02-11 首次颁布。这是社团自己写明的设定，不是从“墨染”字面推导悼亡寓意。[2]
 
-**核验边界**
+2015年TAITO（太东）移动版 GROOVE COASTER 2 的 Silver Forest 曲包已经列入本曲，说明本曲有早于本次 HOLD 谱面的跨游戏传播史；该平台发行不能替代 jubeat 追加日期。[3]
 
-未能直接读取 RemyWiki、jubeat@Wiki、BEMANICN、Fandom 与官方页的当次网页内容，故不引用 BPM、时长、难度数值、作编曲细项或解锁条件。若同曲在多个 BEMANI 平台存在二次登场条目，本稿仅按统一曲库 ID 对应 jubeat beyond the Ave. 整理位次。
+### jubeat 收录与版本
 
-## 93. 幻想系世界修復少女 [ 2 ]
+社区记录 [2] 在 2024-06-12 10:00 至 07-02 23:59 的“東方アレンジ RECORDS”中集齐 5 星解锁，每日无获星限制。[1] 原稿“批次091/第091首登场”仅文档编号，已删除其游戏时间含义。
 
-**曲目档案**
+### 资料来源
 
-统一曲库 ID：`arcade_11001008`
+1. jubeat Wiki：蒼空に舞え、墨染の桜：https://w.atwiki.jp/jubeat/pages/1738.html（已读；HOLD参数及5星、2024活动窗口）
+2. Silver Forest：《GRAZE》原始特设：https://graze.tonosama.jp/（已读；2007-02-11首颁布；妖梦视角；Trance+Vocal；さゆり歌NYO词）
+3. gamebiz：2015-09-15 GC2曲包：https://gamebiz.jp/news/149649（已读；本曲列入Silver Forest特集包）
 
-曲名：幻想系世界修復少女 [ 2 ]  
-艺人：Last Note.  
-整理范围：jubeat beyond the Ave. 批次 093
+### 核验边界与待补
 
-**背景知识**
+- 未查得HOLD谱面设计者访谈；不要把音符设计当作原曲重写。
+- 本格式稿已生成原曲故事共享锚点，并通过目标文件与锚点结构校验。
 
-Last Note. 是以叙事歌词和 VOCALOID／合作歌手企划闻名的创作者名义，作品常具有强烈的故事性和角色意象。该曲名中的「修復少女」意象与 Last Note. 常见的青春、拯救与成长题材相呼应。公开资料若区分子弹记号或二次登场标记，往往反映其在音乐游戏中的再登场关系，而非单纯的歌词或专辑版本差异。
+<a id="arcade-11001006-shared"></a>
+## WARNING×WARNING×WARNING [ 2 ]
 
-**jubeat beyond the Ave. 位置**
+- 统一曲库 ID：`arcade:11001006`
+- 原章节编号与标题：92. WARNING×WARNING×WARNING [ 2 ]
 
-在本次整理稿中，该曲作为第 093 首登场，属于批次 093 的音乐资料项。曲库 ID 用于稳定定位当前整理对象；本稿不复制公开页面中的难度表或解锁文本。
+### 曲目档案
 
-**资料来源**
+- 标题：WARNING×WARNING×WARNING [ 2 ]
+- 艺人：暁Records
+- BPM：172；HOLD BSC / ADV / EXT：3 / 7 / 9.6；节点：246 / 536 / 782。[1]
 
-1. RemyWiki：幻想系世界修復少女 [ 2 ]，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：幻想系世界修復少女相关条目，访问日期 2026-11-01。用于核对曲名、艺人名义与 jubeat 收录脉络；原文未能直接访问，具体数值未引用。
-3. BEMANICN：Last Note. 与相关 BEMANI 乐曲页面，访问日期 2026-11-01。用于核对中文资料中的常用表述；原文未能直接访问。
-4. jubeat Fandom：Last Note. 与 jubeat 系列收录曲页面，访问日期 2026-11-01。用于确认作品署名与跨条目索引；原文未能直接访问。
-5. Otoge Station：Last Note. 相关音乐游戏资料报道页，访问日期 2026-11-01。用于核对创作者活动与宣传背景；原文未能直接访问。
-6. 官方页：jubeat beyond the Ave. 官方收录资料，访问日期 2026-11-01。用于确认统一曲库 ID 与本批位次；原文未能直接访问。
+### 创作与制作背景
 
-**核验边界**
+本条仅确认既有歌曲追加 HOLD 谱面，未获重新编曲或重录证据。原曲细节共享[通常谱面条目](10_jubeat_festo歌曲背景.md#arcade-90000075-shared)。重新核对社团信用文件可确定两首东方原曲为《星条旗のピエロ》《遥か38万キロのボヤージュ》，ACTRock编曲及作词、Stack演唱；2015-12-30 C89颁布页是原发行，而非 [2] 的推出时间。[2][3]
 
-由于各来源页面在本次整理中未能直接访问，不保证 Last Note. 的完整团队分工、歌词解释、Vocaloid 与真人歌手版本的先后关系。曲名中的二次登场标记仅按给定数据保留，未将其改写为其他版本的正式标题。
+TAITO 的参与艺人页另将本曲列在 GROOVE COASTER 收录作品中，是后续游戏传播的独立记录，不是第二份作者访谈。[4] 尚无针对 jubeat 新谱面的音乐重录或重新编曲声明。
 
-## 94. ケッペキショウ [ 2 ]
+### jubeat 收录与版本
 
-**曲目档案**
+社区记载 [2] 于“東方アレンジ RECORDS”2024-06-12 至 07-02 活动集齐11星解禁；当时每日没有获星限制。[1] 与同活动蒼空的5星条件不可混用。
 
-统一曲库 ID：`arcade_11001009`
+### 资料来源
 
-曲名：ケッペキショウ [ 2 ]  
-艺人：すこっぷ feat.GUMI  
-整理范围：jubeat beyond the Ave. 批次 094
+1. jubeat Wiki：WARNING×WARNING×WARNING：https://w.atwiki.jp/jubeat/pages/2051.html（已读；HOLD参数；11星活动条件）
+2. 暁Records：C89信用文件：https://akatsuki-records.com/c89_credit.txt（已读；两原曲；ACTRock词编；Stack演唱）
+3. 暁Records：C89颁布专题：https://akatsuki-records.com/drcd0011_12.html（已读；2015-12-30颁布）
+4. TAITO：暁Records参与艺人／曲目页：https://groovecoaster.jp/smt/artist/akatuki-records.html（已读；本曲列入GROOVE COASTER曲目）
 
-**背景知识**
+### 核验边界与待补
 
-すこっぷ 是以 VOCALOID 作品和歌手合作为人知的写手，其曲目常带有偏速感强、情绪外放的人声演绎。GUMI 作为该曲标注中的歌唱合成音源，与すこっぷ的写作风格形成了清晰的音乐识别度。曲名使用片假名与感叹式拼写，属于公开资料中需要保留原样拼写的一类标题。
+- 原发行两页同根，仅计一来源；与社区、后续游戏目录共三文献根。
+- 暂无原曲完整创作访谈或HOLD设计者证词。
 
-**jubeat beyond the Ave. 位置**
+<a id="arcade-11001008-shared"></a>
+## 幻想系世界修復少女 [ 2 ]
 
-在本次整理稿中，该曲作为第 094 首登场，属于批次 094 的音乐资料项。整理稿以统一曲库 ID 作为主键，不因其他平台的同名收录而改变其在本批次中的定位。
+- 统一曲库 ID：`arcade:11001008`
+- 原章节编号与标题：93. 幻想系世界修復少女 [ 2 ]
 
-**资料来源**
+### 曲目档案
 
-1. RemyWiki：ケッペキショウ [ 2 ]，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：ケッペキショウ相关条目，访问日期 2026-11-01。用于核对曲名、GUMI 标注与 jubeat 收录线索；原文未能直接访问，具体数值未引用。
-3. BEMANICN：すこっぷ与 GUMI 相关 BEMANI 乐曲资料，访问日期 2026-11-01。用于核对中文社区的曲名保留方式；原文未能直接访问。
-4. jubeat Fandom：すこっぷ、GUMI 与 jubeat 收录曲索引，访问日期 2026-11-01。用于确认跨页面署名；原文未能直接访问。
-5. Otoge Station：VOCALOID 与音乐游戏收录曲报道资料，访问日期 2026-11-01。用于核对宣传脉络；原文未能直接访问。
-6. 官方页：jubeat beyond the Ave. 官方收录资料，访问日期 2026-11-01。用于确认统一曲库 ID；原文未能直接访问。
+- 标题：幻想系世界修復少女 [ 2 ]
+- 艺人：Last Note.
+- BPM：193；HOLD BSC / ADV / EXT：4 / 7 / 9.4；节点：287 / 444 / 782。[1]
 
-**核验边界**
+### 创作与制作背景
 
-本次没有逐句核对歌词或音源版权说明，也未直接读取各站点页面。对于曲名、艺人标注中的空格、点号与片假名，本稿按给定曲库数据保留；公开页面若有大小写或空白差异，仍以曲库 ID 的稳定对应为核验基础。
+本条属于 2025 年新增的 HOLD 谱面；音乐则是 2014 年 GUMI 五周年企划的 Last Note. 作品，不是2025ボカコレ受奖新曲。[1–3]
 
-## 95. AIR RAID FROM THA UNDAGROUND [ 2 ]
+KONAMI CHANNEL 同期官方专访的公开存档保存了 Last Note. 的直接说明：知道歌曲会进入多种 BEMANI 游戏，因此特别考虑敲打、演奏起来有趣的乐句。他本人也经常玩这些游戏，感受到喜欢的曲子会让双手自然跟着动的吸引力。这提供了实际的音乐创作取向，但不说明11年后的HOLD谱面由他设计。[2]
 
-**曲目档案**
+歌词／视频中的修复世界少女是虚构叙事，与作者个人经历应分开[4]；本轮不按曲名推造真实生活事件。
 
-统一曲库 ID：`arcade_11001010`
+### jubeat 收录与版本
 
-曲名：AIR RAID FROM THA UNDAGROUND [ 2 ]  
-艺人：GUHROOVY  
-整理范围：jubeat beyond the Ave. 批次 095
+官方2025年6月新闻明确：6月12日起本曲[2]进入 BONUS TUNE，游玩1次解禁，不是通常的3次。[3] 社区将通常谱面归saucer fulfill、新谱面归beyond the Ave.。[1]
 
-**背景知识**
+### 资料来源
 
-GUHROOVY 是 BEMANI 系列中经常与 hardcore、breakcore 及地下舞曲气质关联的名义。此曲名的「AIR RAID」与「UNDAGROUND」提示了空袭警报式的音效结构和街头地下风格，但实际编曲元素需以音频与官方说明为准。公开游戏资料通常将这类标题完整保留，避免把俚语式拼写规范成现代标准英语拼写。
+1. jubeat Wiki：幻想系世界修復少女：https://w.atwiki.jp/jubeat/pages/1375.html（已读；通常与HOLD版本分开；HOLD参数；1次）
+2. KONAMI CHANNEL：GUMI五周年作者独占评论（Wayback公开原文存档）：https://web.archive.org/web/20160414145959/http://www.konami.jp/573ch/content.php?serial=161（已读；Last Note.因跨机种制作好敲好弹乐句；本人玩BEMANI；2014五周年新曲企划）
+3. KONAMI：2025年6月新闻档案：https://p.eagate.573.jp/game/jubeat/beyond/news/get_news.html?date=2025.06（已读；6月12日幻想系[2]追加；BONUS TUNE1次解禁）
 
-**jubeat beyond the Ave. 位置**
+4. 初音ミクWiki：幻想系世界修復少女歌词及信用转录：https://w.atwiki.jp/hmiku/pages/29624.html（已读；只支撑虚构角色内容，不额外计最低三源）
 
-在本次整理稿中，该曲作为第 095 首登场，属于批次 095 的音乐资料项。曲库 ID 中的 arcade 编号用于区分其他平台的同名或相似条目；本稿不推断其在游戏内活动中的分类。
+### 核验边界与待补
 
-**资料来源**
+- 原访谈以完整原文公开存档读取，不是把社区转述当原文。
+- 无HOLD编谱者访谈；2025谱面追加不是重新作曲。
 
-1. RemyWiki：AIR RAID FROM THA UNDAGROUND [ 2 ]，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：AIR RAID FROM THA UNDAGROUND相关条目，访问日期 2026-11-01。用于核对曲名与 GUHROOVY 署名；原文未能直接访问，具体数值未引用。
-3. BEMANICN：GUHROOVY 与 hardcore 系 BEMANI 乐曲资料，访问日期 2026-11-01。用于核对中文社区的风格描述边界；原文未能直接访问。
-4. jubeat Fandom：GUHROOVY 与 jubeat 收录曲页面，访问日期 2026-11-01。用于确认跨条目的艺人拼写；原文未能直接访问。
-5. 官方页：jubeat beyond the Ave. 官方收录资料，访问日期 2026-11-01。用于确认本曲在本批曲库中的 ID；原文未能直接访问。
-6. ZIv：BEMANI 乐曲与艺人条目，访问日期 2026-11-01。用于补充跨作品署名查证路径；原文未能直接访问。
+<a id="arcade-11001009-shared"></a>
+## ケッペキショウ [ 2 ]
 
-**核验边界**
+- 统一曲库 ID：`arcade:11001009`
+- 原章节编号与标题：94. ケッペキショウ [ 2 ]
 
-未能直接访问页面时，不引用 BPM、时长、谱面表现、版本加入日、解禁事件或制作分工。曲名中的「THA」与「UNDAGROUND」按给定数据保留，不应在整理稿中改为标准英语拼写。
+### 曲目档案
+
+- 标题：ケッペキショウ [ 2 ]
+- 艺人：すこっぷ feat.GUMI
+- BPM：190；HOLD BSC / ADV / EXT：4 / 7 / 10.4；节点：354 / 589 / 908。[1]
+
+### 创作与制作背景
+
+[2] 仅确认本次追加 HOLD 谱面，未获重新编曲或重录证据。通常曲背景参见[原曲条目](06_jubeat_saucer_fulfill歌曲背景.md#arcade-50000334-shared)。ニコログ保存的原投稿说明将本曲称为すこっぷ第四首GUMI原创，音乐由すこっぷ负责、PV由アボガド6负责，原投稿时间为2012-12-16。[2]
+
+原说明以对污浊世界和自我的态度概括歌曲，不能把作品叙述者与作者本人等同，也不能据标题诊断作者。该资料是第三方保存的原上传说明，本轮Piapro出现503，故没有冒称亲读作者原站。[2]
+
+### jubeat 收录与版本
+
+官方2025年6月档案写明6月26日追加[2]，BONUS TUNE只需游玩1次解禁。[3] 不能将通常谱面EXT 10.0/814节点误贴到本条HOLD 10.4/908。[1]
+
+### 资料来源
+
+1. jubeat Wiki：ケッペキショウ：https://w.atwiki.jp/jubeat/pages/1380.html（已读；通常与HOLD分别列；HOLD等级节点）
+2. ニコログ：すこっぷ原投稿说明存档：https://www.nicolog.jp/watch/sm19595505（已读；2012-12-16；GUMI第4作；音乐すこっぷ、视频アボガド6；主题简述）
+3. KONAMI：2025年6月新闻档案：https://p.eagate.573.jp/game/jubeat/beyond/news/get_news.html?date=2025.06（已读；6月26日ケッペキショウ[2]；BONUS TUNE1次）
+
+### 核验边界与待补
+
+- 作者Piapro 503未能实读，不计来源；本轮原投稿仅第三方说明可见。
+- 没有新HOLD专属作曲或编谱访谈。
+
+<a id="arcade-11001010-shared"></a>
+## AIR RAID FROM THA UNDAGROUND [ 2 ]
+
+- 统一曲库 ID：`arcade:11001010`
+- 原章节编号与标题：95. AIR RAID FROM THA UNDAGROUND [ 2 ]
+
+### 曲目档案
+
+- 标题：AIR RAID FROM THA UNDAGROUND [ 2 ]
+- 艺人：GUHROOVY
+- BPM：180；HOLD BSC / ADV / EXT：6 / 9.2 / 10.7；节点：414 / 676 / 1000。[1]
+- 长度异文：jubeat Wiki 2:02；RemyWiki 2:04，计时口径未核。[1][2]
+
+### 创作与制作背景
+
+这是既有《AIR RAID FROM THA UNDAGROUND》的 HOLD 新谱面，不是GUHROOVY新写的续作。原作起源与制作说明参见[通常谱面条目](03_jubeat_knit歌曲背景.md#arcade-20000120-shared)；总表分组保留不代表本曲首发knit，社区明确首发为ripples APPEND与IIDX17 SIRIUS同期。[1][2]
+
+本轮重新读到 RemyWiki 转录的 GUHROOVY 曲评英译，原作追求富攻击性的地下音乐和机械枪火、战争迷雾形象；这是原音乐的作者说明转译，非HOLD谱面故事。该页另有影像制作者描写霓虹数码世界的文字，不能将影像构想混作作曲者动机。[2]
+
+GUHROOVY 的 Bandcamp《HARDCORE LIFE》明确在2012-12-31发行目录第11首列本曲长版，说明音乐有独立专辑载体，但不意味着游戏原录音原样收入该盘；不能把该发行称为2024重录。[2][3]
+
+### jubeat 收录与版本
+
+社区记录HOLD通过SMITH STREET的CHERRY STREET-NIGHT达到100%解禁；RemyWiki记开始于2024-12-04。[1][2] 官方12月新闻独立核实SMITH STREET首批地图当日10:00启动，但没有在文字中点名本曲，因此只作活动上下文，不计第四来源。[4]
+
+### 资料来源
+
+1. jubeat Wiki：AIR RAID FROM THA UNDAGROUND：https://w.atwiki.jp/jubeat/pages/246.html（已读；HOLD参数；CHERRY STREET-NIGHT100%；原作ripples APPEND）
+2. RemyWiki：原作曲评英译与追加记录：https://remywiki.com/AIR_RAID_FROM_THA_UNDAGROUND（已读；GUHROOVY地下攻击性、枪火形象；影像评论另属Tomokazu Ohishi；HOLD2024-12-04）
+3. GUHROOVY：HARDCORE LIFE：https://guhroovy.bandcamp.com/album/guhroovy-hardcore-life（已读；2012-12-31；第11轨本曲）
+4. KONAMI：2024年12月新闻档案：https://p.eagate.573.jp/game/jubeat/beyond/news/get_news.html?date=2024.12（已读；SMITH STREET12月4日10:00启动，无本曲点名）
+
+### 核验边界与待补
+
+- 原作日文曲评旧入口本轮未直接核验；仅已读英译，后续优先找可读原文。
+- 两个社区参数同根，Remy仅原评论文本作为另一文献根；活动一般说明不计。
+- 无HOLD编谱者创作说明。
+

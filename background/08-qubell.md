@@ -1,8 +1,14 @@
 # jubeat Qubell 歌曲背景知识
 
+> **阅读口径**：保留的原稿批次说明、旧访问日期及历史来源数量不是本次核验结论；请以随包逐曲状态及各条“核验边界与待补”为准。机器本地路径已隐去，公开引用链接未改。来源数量达标不等于已有创作者故事，也不等于游戏母带或所有参数均已核实。
+
+
+<!-- JUBEAT_ALIGNMENT_NOTE_START -->
+> 本轮总表对齐：本地分组 `Qubell` 共 132 个身份；原稿可对应 117 个，本轮补齐 15 个，目前可定位 132/132 个。数量仅表示条目覆盖，不表示研究或全部字段已完成。原前言的旧曲数及不含追加曲等口径是历史整理范围，本轮不再据此排除00总表条目。真实首发另列，原表外条目保留但不计覆盖；逐曲审查状态见《研究状态与待核说明》。
+<!-- JUBEAT_ALIGNMENT_NOTE_END -->
 ## 版本说明
 
-- jubeat Qubell 是 jubeat 系列的第 8 代街机作品，2016 年 3 月 30 日在日本上线，2017 年 6 月 20 日停止网络服务。
+- jubeat Qubell 是 jubeat 系列的第 8 代街机作品，2016-03-30在日本上线，2017-06-20停止网络服务。
 - 本稿正文按统一曲库中 `source.version == 08_Qubell_2017062001` 的 117 首整理，并按 70000019-70001007 的数字顺序排列。资料行里的“首次收录”指本稿整理范围内的 Qubell 版本首收或谱面变化记录，不与外部曲表总数直接等同。
 - 统一曲库 ID 来自本机曲库映射，与 117 条正文逐条对应且不重复。
 - 本稿的编号是资料整理编号，不是 Konami 官方曲目编号。
@@ -20,3707 +26,4937 @@
 - RemyWiki：本次整理未能直接访问，单曲页 URL 仅在条目内作为待核验线索标注。
 - BEMANIwiki 2nd：https://bemaniwiki.com/
 
-## 1. あなたに恋をしてみました
-
-统一曲库 ID：`arcade_70000019`
-
-
-**曲目档案**
-
-《あなたに恋をしてみました》是 chay 演唱的流行歌曲，为其代表单曲之一。歌曲由 chay 与いしわたり淳治共同作词，多保孝一作曲并编曲。jubeat Qubell 记载的基本速度为 130；部分音乐资料页将实际速度标注为 137，这一差异在核验边界中另行说明。收录于 jubeat 时的三档谱面等级为 BASIC 1、ADVANCED 5、EXTREME 7，节点数分别为 109、291、444。
-
-**背景知识**
-
-原曲于 2015 年 2 月 18 日以单曲形式发行，并被富士电视台月九剧《デート〜恋とはどんなものかしら〜》采用为主题歌。作品以轻快而坦率的女声情歌氛围著称，播出期间获得大众关注，也让 chay 的知名度明显提升。歌曲标题可译为“试着恋爱了”，文本与剧集对恋爱经验的困惑和试探相互呼应。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 中属于授权流行曲目，配信日期为 2016 年 12 月 20 日。其谱面结构以中等密度的流行曲节奏为主，EXTREME 谱面虽有 444 个节点，但难度仍保持在 7 级，适合作为中进阶玩家熟悉流行歌曲切分和连打的素材。
-
-**资料来源**
-
-1. RemyWiki：《あなたに恋をしてみました》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《あなたに恋をしてみました》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. Warner Music Japan：chay 单曲发行信息页，访问日期 2026-11-01。
-4. 日本唱片协会与 Oricon 音乐数据库：《デート〜恋とはどんなものかしら〜》主题歌关联信息，访问日期 2026-11-01。
-5. Otoge Station：jubeat Qubell 授权曲收录报道，访问日期 2026-11-01。
-
-**核验边界**
-
-jubeat@Wiki 的 Qubell 曲目表记载速度为 130，而部分流媒体或音乐资料页给出 137 的实际速度标注。本文采用 jubeat 内记载的 130，不将 137 写成机台内部显示值。各难度节点数与配信日期以 jubeat@Wiki 汇总页为准；若官方网站页面后续改版或删除，具体页面存档仍需另行比对。
-
-## 2. 新宝島
-
-统一曲库 ID：`arcade_70000024`
-
-
-**曲目档案**
-
-《新宝島》是サカナクション于 2015 年发行的单曲，也是其第 11 张单曲。jubeat Qubell 中的基本速度记载为 149 至 158，三档谱面等级为 BASIC 3、ADVANCED 5、EXTREME 8，节点数分别为 206、367、481。歌曲在街机音游与大众流行文化两侧都有很高的辨识度。
-
-**背景知识**
-
-原曲于 2015 年 9 月 30 日发行，并作为电影《バクマン。》的主题歌使用。标题借用手塚治虫 1947 年的同名漫画《新宝島》，但歌曲内容并非直接复述原作剧情，而是以宏大的电子摇滚编曲与少年感强烈的叙事构成影像感。对サカナクション而言，这首作品也是其后期现场演出中的标志性曲目。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于授权曲，配信日期为 2016 年 7 月 18 日。其 EXTREME 谱面以 8 级呈现，包含数量可观的拍点群与副歌强节奏段，可用来练习宽幅命中与歌曲高潮的连续判断。
-
-**资料来源**
-
-1. RemyWiki：《新宝島》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《新宝島》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. BEMANICN：jubeat Qubell 新宝島条目，访问日期 2026-11-01。
-4. Sony Music Japan：サカナクション《新宝島》单曲信息页，访问日期 2026-11-01。
-5. BEMANI Fan Site：《jubeat Qubell》2016 年 7 月 18 日授权曲追加公告，访问日期 2026-11-01。
-
-**核验边界**
-
-jubeat@Wiki 将速度记录为 149-158，本文保留该区间而不取单一定值。歌曲与手塚治虫漫画同名但非漫画改编音乐作品；此处只记录标题来源层面的关联，不扩大为剧情引用。各配信日期与节点数已与 jubeat@Wiki 汇总页及 BEMANI Fan Site 公告交叉核对。
-
-## 3. HERO
-
-统一曲库 ID：`arcade_70000026`
-
-
-**曲目档案**
-
-《HERO》是ソナーポケット于 2015 年发行的第 21 张单曲。jubeat Qubell 记载基本速度为 130，三档谱面等级为 BASIC 3、ADVANCED 6、EXTREME 8，节点数分别为 152、331、458。作为动画片尾曲，它在 Qubell 授权曲目中承担了旋律强、结构规整的流行叙事段落。
-
-**背景知识**
-
-原曲于 2015 年 8 月 19 日发行，并作为电视动画《うしおととら》的片尾曲使用。ソナーポケット以温暖的女性主唱与叙事性歌词见长，《HERO》也延续了这一路线，把少年冒险题材中的羁绊与前行意志写成易记的流行曲。动画版与原作漫画的时代背景不同，但主题歌的位置使其成为 2015 年动画传播中的重要配套曲目。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于授权动画相关曲，配信日期为 2016 年 12 月 20 日。ADVANCED 和 EXTREME 谱面之间的节点数差距较明显，EXTREME 谱面在 458 个节点中安排了副歌连段与部分四分音符宽位，适合练习节奏稳定性。
-
-**资料来源**
-
-1. RemyWiki：《HERO》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《HERO》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. Sony Music Associated Records：ソナーポケット《HERO》单曲信息页，访问日期 2026-11-01。
-4. 动画《うしおととら》官方网站：主题歌列表，访问日期 2026-11-01。
-5. Otoge Station：jubeat Qubell 授权曲追加报道，访问日期 2026-11-01。
-
-**核验边界**
-
-《うしおととら》存在旧 OVA 与新版电视动画，本文只确认《HERO》对应 2015 年新版电视动画的片尾曲，不把旧版或其他主题曲混入。jubeat 难度与节点数依据 jubeat@Wiki；若后续出现移植或降格记录，应以各代作品页面单独确认。
-
-## 4. Two souls -toward the truth-
-
-统一曲库 ID：`arcade_70000033`
-
-
-**曲目档案**
-
-《Two souls -toward the truth-》是 fripSide 的第 10 张单曲，也是南条愛乃加入后作品序列中的重要动画主题歌。jubeat Qubell 记载基本速度为 165，三档谱面等级为 BASIC 3、ADVANCED 7、EXTREME 9，节点数分别为 228、475、607。曲目延续了 fripSide 常见的电子舞曲结构和高密度副歌。
-
-**背景知识**
-
-原曲于 2015 年 12 月 2 日发行，作为《終わりのセラフ 名古屋決戦編》片头曲使用。八木沼悟志负责作曲，南条愛乃的声线覆盖主歌冷色调铺陈与副歌高潮，与该作后期的战斗叙事相配合。fripSide 自《only my railgun》后成为动画主题歌的常客，本曲进一步巩固了其高速电子摇滚与动画市场之间的联系。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于授权动画曲，配信日期为 2016 年 12 月 20 日。EXTREME 谱面达到 9 级、607 个节点，副歌和弦与电子打击乐段落构成主要难度峰值，是 Qubell 后期授权曲中较适合练习高速连打的曲目。
-
-**资料来源**
-
-1. RemyWiki：《Two souls -toward the truth-》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Two souls -toward the truth-》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. NBCUniversal Entertainment Japan：fripSide 单曲页，访问日期 2026-11-01。
-4. 动画《終わりのセラフ 名古屋決戦編》官方网站：音乐与主题歌信息，访问日期 2026-11-01。
-5. Otoge Station：jubeat Qubell 授权曲收录报道，访问日期 2026-11-01。
-
-**核验边界**
-
-曲目副标题中的“-toward the truth-”需要完整保留，检索时应注意与《Two souls》或《toward the truth》的省略写法区分。jubeat@Wiki 记录的速度为 165；未在其他可验证资料中找到相反数值，故不另行改动。动画两季主题歌不同，此处仅覆盖第二季片头曲。
-
-## 5. paranoia
-
-统一曲库 ID：`arcade_70000042`
-
-
-**曲目档案**
-
-《paranoia》是つなまる创作的 VOCALOID 曲目，jubeat Qubell 记载基本速度为 150，三档谱面等级为 BASIC 3、ADVANCED 7、EXTREME 9，节点数分别为 172、414、563。该曲属于初音未来生态的电子系作品，主旋律结构紧凑，副歌具有较强的电子节拍驱动力。
-
-**背景知识**
-
-つなまる作为 VOCALOID 音乐人，以《グリグリメガネホリデー》等作品为人所知。《paranoia》延续其较清晰的合成器质感和流动感，歌词围绕偏执与心理失衡的意象展开。此曲不是 DanceDanceRevolution 系列长期使用的《PARANOIA》家族曲目，曲名相似容易造成混淆。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于 VOCALOID 曲，配信日期为 2016 年 12 月 20 日。EXTREME 谱面为 9 级、563 个节点，后段电子音群和副歌重复段提供较高的判定压力，难度集中在连续四分和拍点切换，而非复杂长条状的节奏变化。
-
-**资料来源**
-
-1. RemyWiki：《paranoia》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《paranoia》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. 初音ミク Wiki：《paranoia》曲目页，访问日期 2026-11-01。
-4. Nico Nico Pedia：つなまる与《paranoia》相关条目，访问日期 2026-11-01。
-5. Otoge Station：jubeat Qubell VOCALOID 曲收录报道，访问日期 2026-11-01。
-
-**核验边界**
-
-与 KONAMI 的《PARANOIA》系列无关，本文不采用任何来自 DDR 曲目家族的数据。つなまる相关作品存在不同平台投稿版本与专辑收录版本，jubeat 谱面所使用的音源版本此处不进一步推断，以 jubeat@Wiki 的收录记录为准。
-
-## 6. 炉心融解
-
-统一曲库 ID：`arcade_70000043`
-
-
-**曲目档案**
-
-《炉心融解》是 iroha 作曲、kuma 作词、鏡音リン演唱的 VOCALOID 曲目，jubeat Qubell 记载基本速度为 165，三档谱面等级为 BASIC 2、ADVANCED 6、EXTREME 8，节点数分别为 154、334、608。曲目自 2008 年底至 2009 年初投稿后成为鏡音リン的重要代表曲之一。
-
-**背景知识**
-
-原曲以核炉、逃离、生命碎片等意象构建出急促而具有机械感的叙事，iroha 的电子编曲与鏡音リン的高音域形成明显记忆点。歌曲后来进入多个同人合辑与游戏授权序列，亦衍生出多种翻唱与再编曲版本。对 jubeat 系列而言，该曲在便携版先行收录，随后才进入街机正式曲目池。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于 VOCALOID 曲，配信日期为 2016 年 12 月 20 日。EXTREME 谱面 8 级、608 个节点，前中段密度不高，但副歌和结尾处有明显快拍与宽位组合，需要稳定的双手交替命中。
-
-**资料来源**
-
-1. RemyWiki：《炉心融解》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《炉心融解》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. BEMANICN：炉心融解条目，访问日期 2026-11-01。
-4. 初音ミク Wiki：《炉心融解》曲目页，访问日期 2026-11-01。
-5. EXIT TUNES：合辑收录信息，访问日期 2026-11-01。
-
-**核验边界**
-
-原曲投稿日期在不同平台显示格式略有差异，本文只写作 2008 年底至 2009 年初，不写死单一日期。iroha 与 kuma 的署名在不同合辑中可能以汉字、罗马字或组合形式出现，此处采用 jubeat@Wiki 与初音ミク Wiki 常见署名。便携版先行收录与街机配信日期为两条不同时间线，不能混为一谈。
-
-## 7. 蒼空に舞え、墨染の桜
-
-统一曲库 ID：`arcade_70000049`
-
-
-**曲目档案**
-
-《蒼空に舞え、墨染の桜》是 Silver Forest feat. さゆり制作的东方 Project 二次创作曲，jubeat Qubell 记载基本速度为 150，三档谱面等级为 BASIC 3、ADVANCED 6、EXTREME 9，节点数分别为 265、438、743。原曲来自《東方妖々夢》的《幽雅に咲かせ、墨染の桜 〜 Border of Life》，同人曲保留了原曲的东方雅致氛围并加入流行电子与摇滚结构。
-
-**背景知识**
-
-Silver Forest 是日本同人音乐社团，さゆり为其长期合作歌手。《蒼空に舞え、墨染の桜》于 2007 年 2 月 11 日随专辑《GRAZE》发布，是东方同人圈中流传较广的改编曲之一。标题中的“墨染”借自西行法师咏樱的典故，与原曲“幽雅に咲かせ、墨染の桜”的主题直接呼应，歌曲因此同时具有春樱、彼岸与妖梦角色的多重意象。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于东方 Project 二次创作曲，配信日期为 2016 年 12 月 20 日。EXTREME 谱面为 9 级、743 个节点，是本批次中密度最高的曲目之一，副歌与间奏的连续拍点需要较强的读谱耐力。
-
-**资料来源**
-
-1. RemyWiki：《蒼空に舞え、墨染の桜》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《蒼空に舞え、墨染の桜》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. 东方编曲録：Silver Forest《GRAZE》页面，访问日期 2026-11-01。
-4. THBWiki：《幽雅に咲かせ、墨染の桜 〜 Border of Life》与同人改编记录，访问日期 2026-11-01。
-5. Otoge Station：jubeat Qubell 二次创作曲收录报道，访问日期 2026-11-01。
-
-**核验边界**
-
-《GRAZE》专辑通常标注 2007 年 2 月 11 日发售，但不同同人资料库的登记条目可能与展会日期或销售日期略有差异。本文只记录该日期并注明来自东方编曲録，不据此推断首次公开场合。さゆり的署名存在“さゆり”与“Sayuri”两种写法，jubeat@Wiki 采用片假名写法。
-
-## 8. Endless, Sleepless Night
-
-统一曲库 ID：`arcade_70000050`
-
-
-**曲目档案**
-
-《Endless, Sleepless Night》是 samfree feat. かにぱん。演唱的二次创作曲目，jubeat Qubell 记载基本速度为 165，三档谱面等级为 BASIC 3、ADVANCED 7、EXTREME 9，节点数分别为 234、558、848。曲目结构以电子舞曲和高强度副歌为主，节点数在 Qubell 授权曲中非常突出。
-
-**背景知识**
-
-原曲于 2016 年 10 月 16 日在秋季例大祭会场先行发布，10 月 18 日正式进入 jubeat Qubell 配信。samfree 是 VOCALOID 与同人音乐领域的重要音乐人，2015 年 9 月 24 日去世，此曲作为其遗作之一具有纪念意义。かにぱん。的演唱在电子节拍上带有明显的动漫同人曲质感，使作品在快节奏结构中仍保留较清晰的人声旋律线。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于同人纪念曲，配信日期为 2016 年 10 月 18 日。EXTREME 谱面为 9 级、848 个节点，是 Qubell 后期的高密度授权曲之一，全曲拍点压力较大，与歌曲的电子副歌和快拍结构高度契合。
-
-**资料来源**
-
-1. RemyWiki：《Endless, Sleepless Night》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Endless, Sleepless Night》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. BEMANICN：Endless, Sleepless Night 条目，访问日期 2026-11-01。
-4. ZIv：jubeat Qubell 追加曲报道，访问日期 2026-11-01。
-5. 秋季例大祭相关公告与同人合辑信息，访问日期 2026-11-01。
-
-**核验边界**
-
-会场先行发布与街机配信为两条独立时间线，本文分别写作 10 月 16 日与 10 月 18 日。samfree 的生卒年信息来自多个媒体资料页，未采用非公开来源。曲目是否存在后续移动端或家用版移植此处不作判断，只覆盖 Qubell 街机数据。
-
-## 9. SUSHI食べたい feat. ソイソース
-
-统一曲库 ID：`arcade_70000056`
-
-
-**曲目档案**
-
-《SUSHI食べたい feat. ソイソース》是 ORANGE RANGE 的特殊企划单曲，jubeat Qubell 记载基本速度为 135，三档谱面等级为 BASIC 2、ADVANCED 5、EXTREME 8，节点数分别为 157、282、544。歌曲以反复的“想吃寿司”句式和节拍驱动形成强烈幽默感，是 ORANGE RANGE 后期最具辨识度的怪奇作品之一。
-
-**背景知识**
-
-原曲于 2015 年 7 月 18 日以《SUSHI食べたい》EP 形式发行，限定于租赁与配信渠道，feat. ソイソース的署名本身就是企划的一部分。作品延续 ORANGE RANGE 长期以来的玩笑式唱法，把食物欲望写成快节奏说唱式流行曲，在社交平台与便利店宣传中形成反差传播。后续也存在与咖喱主题相关联的续作企划。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于授权曲，配信日期为 2016 年 7 月 18 日。EXTREME 谱面为 8 级、544 个节点，难度主要来自节奏重复段的快拍和说唱节点的长连段，BASIC 谱面则明显偏低，适合入门玩家。
-
-**资料来源**
-
-1. RemyWiki：《SUSHI食べたい feat. ソイソース》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《SUSHI食べたい feat. ソイソース》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. ORANGE RANGE 官方网站：《SUSHI食べたい》发行信息，访问日期 2026-11-01。
-4. Sony Music Japan：ORANGE RANGE 相关资料页，访问日期 2026-11-01。
-5. BEMANI Fan Site：2016 年 7 月 18 日授权曲公告，访问日期 2026-11-01。
-
-**核验边界**
-
-曲目通常以《SUSHI食べたい feat. ソイソース》完整署名记录，检索时应避免只使用《SUSHI食べたい》。EP 中的收录版本与 jubeat 谱面使用的音源版本未完全比对，此处不额外推断。feat. ソイソース的后续续作信息与本文无关，仅作为背景提及。
-
-## 10. ワタリドリ
-
-统一曲库 ID：`arcade_70000057`
-
-
-**曲目档案**
-
-《ワタリドリ》是［Alexandros］的第 10 张单曲，jubeat Qubell 记载基本速度为 135，三档谱面等级为 BASIC 3、ADVANCED 6、EXTREME 8，节点数分别为 219、360、578。歌曲以高音域副歌和爽朗的摇滚节奏构成主旋律，是乐队从独立乐队走向大众市场的关键作品之一。
-
-**背景知识**
-
-原曲于 2015 年 3 月 18 日发行，并作为电影《明烏 あけがらす》的主题歌使用。［Alexandros］于 2014 年 3 月由旧团名［Champagne］改名，此后作品风格融合摇滚、电子与流行唱腔。《ワタリドリ》的歌词以候鸟为意象，在电影叙事与个人挣扎主题之间建立共鸣，也是乐队后继动画主题歌推广前的代表性作品。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于授权曲，配信日期为 2016 年 7 月 18 日。EXTREME 谱面为 8 级、578 个节点，节奏密度高于同专辑授权曲中的普通流行曲，副歌宽幅与连打段落适合中进阶玩家练习。
-
-**资料来源**
-
-1. RemyWiki：《ワタリドリ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《ワタリドリ》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. Universal Music Japan：［Alexandros］《ワタリドリ》单曲页，访问日期 2026-11-01。
-4. ［Alexandros］官方网站：历年作品与团名沿革，访问日期 2026-11-01。
-5. BEMANI Fan Site：2016 年 7 月 18 日授权曲追加公告，访问日期 2026-11-01。
-
-**核验边界**
-
-［Alexandros］的方括号与半角全角写法在不同平台略有差异，本文按乐队官方写法保留。电影《明烏 あけがらす》存在同名舞台剧与电影版本，此处只确认主题歌对应 2015 年电影版。配信日期与难度数据均以 jubeat@Wiki 汇总页为准。
-
-## 11. Girl A
-
-统一曲库 ID：`arcade_70000058`
-
-
-**曲目档案**
-
-《Girl A》是［Alexandros］的第 11 张单曲，jubeat Qubell 记载基本速度为 135，三档谱面等级为 BASIC 3、ADVANCED 6、EXTREME 9，节点数分别为 198、323、641。歌曲结构带有较明显的情绪推进，主歌相对克制，副歌与尾声部分则由吉他与人声共同推向高点。
-
-**背景知识**
-
-原曲于 2015 年 12 月 2 日发行，并作为日本电视剧《サイレーン 刑事×彼女×完全悪女》片头曲使用。［Alexandros］在《ワタリドリ》之后进一步扩大流行市场曝光，《Girl A》延续了其动感摇滚路线，但在叙事上更贴近剧中角色之间的心理角力。曲名“Girl A”本身不指代具体人物，而是一种叙事性的代号式写法。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于授权曲，配信日期为 2016 年 12 月 20 日。EXTREME 谱面为 9 级、641 个节点，难度高于同团的《ワタリドリ》，主要峰值来自副歌节奏密集段和结尾推进部分。
-
-**资料来源**
-
-1. RemyWiki：《Girl A》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Girl A》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. Universal Music Japan：［Alexandros］《Girl A》单曲页，访问日期 2026-11-01。
-4. 日本电视台电视剧《サイレーン 刑事×彼女×完全悪女》官方网站：主题歌信息，访问日期 2026-11-01。
-5. Otoge Station：jubeat Qubell 授权曲追加报道，访问日期 2026-11-01。
-
-**核验边界**
-
-《Girl A》存在多种现场与再编版本，本文只记录 jubeat Qubell 收录版本。电视剧标题常有省略写法，完整标题为《サイレーン 刑事×彼女×完全悪女》。难度与配信日期以 jubeat@Wiki 为准，不与其他系列授权曲或后续复刻记录混用。
-
-## 12. アンビリーバーズ
-
-统一曲库 ID：`arcade_70000059`
-
-
-**曲目档案**
-
-《アンビリーバーズ》是米津玄師的第 4 张单曲，jubeat Qubell 记载基本速度为 133，三档谱面等级为 BASIC 2、ADVANCED 6、EXTREME 8，节点数分别为 173、331、575。歌曲结构紧凑，主歌与副歌的反差明显，属于米津玄師从 VOCALOID 转向个人演唱作品后的重要单曲之一。
-
-**背景知识**
-
-原曲于 2015 年 9 月 2 日发行，并作为 MIZUNO WAVE ENIGMA5 的广告曲使用。米津玄師在 2015 年前后凭借《サンタマリア》《 FLAMINGO 》等作品持续扩大商业影响力，《アンビリーバーズ》则以急促的吉他节拍和带有否定感的歌词表现奔跑、怀疑与自我肯定。这是米津玄師作品首次进入 BEMANI 系列正式曲库。
-
-**jubeat Qubell 位置**
-
-该曲在 jubeat Qubell 属于授权曲，配信日期为 2016 年 7 月 18 日。EXTREME 谱面为 8 级、575 个节点，节拍密度中等偏高，副歌与间奏的连续拍点对读谱稳定性要求较高。
-
-**资料来源**
-
-1. RemyWiki：《アンビリーバーズ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《アンビリーバーズ》与 Qubell 新曲列表页，访问日期 2026-11-01。
-3. Sony Music Records：米津玄師《アンビリーバーズ》单曲页，访问日期 2026-11-01。
-4. MIZUNO：WAVE ENIGMA5 广告曲信息，访问日期 2026-11-01。
-5. BEMANI Fan Site：2016 年 7 月 18 日授权曲追加公告，访问日期 2026-11-01。
-
-**核验边界**
-
-米津玄師作品在多个音乐游戏与专辑中均有收录，本文只覆盖 jubeat Qubell 街机版本。广告曲委托关系基于 MIZUNO 公告与音乐资料页交叉确认，但具体广告投放范围不作进一步判断。第 4 张单曲的序号依据 Sony Music Records 作品页，不同资料库可能以正式单曲或专辑先行配信为单位计数。
-
-# jubeat Qubell 资料条目批次（资料行 13-24）
-
-以下条目按 `/tmp/qubell-order.tsv` 第 13-24 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
-
-## 13. Synchronized Love J Rap Jam
-
-统一曲库 ID：`arcade_70000060`
-
-
-**曲目档案**
-
-曲名为《Synchronized Love J Rap Jam》，日文资料亦常记作《シンクロナイズド・ラブ J ラップ ジャム》，演唱者与原作者为ジョー・リノイエ。曲目在 Qubell 中的标示节拍为 124，基础、进阶、极限难度分别为 3、5、8，对应音符数为 162、317、527。它属于授权曲与节目曲改编组合，整曲强调说唱段落与原曲旋律的衔接。
-
-**背景知识**
-
-本曲的原型《Synchronized Love》是ジョー・リノイエ于 1995 年 2 月 8 日通过东芝 EMI 发行的单曲，商品编号为 TOCT-4266。该曲长期作为武富士电视广告曲为人熟知，1998 年至 2000 年的版本改为《Synchronized Love J Rap Jam》。游戏中的标题保留了广告改编版的名称，曲风也把原曲的流行舞曲框架与说唱改编结合起来。
-
-**jubeat Qubell 位置**
-
-曲目于 2016 年 7 月 18 日在 jubeat Qubell 中首次收录。资料行归类为“首次收录”，本批次以“jubeat 新增曲目”处理。它属于本作的常规配信曲目，不是 dig dig Qubell 限时解禁曲。
-
-**资料来源**
-
-- RemyWiki：《Synchronized Love J Rap Jam》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Synchronized Love J Rap Jam》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- BEMANICN：《jubeat Qubell》，访问日期 2026-11-01。
-- 日本维基百科镜像页：《SYNCHRONIZED LOVE》，访问日期 2026-11-01。
-- MUV RINOIE 艺人资料页：《ジョー・リノイエ》，访问日期 2026-11-01。
-- HMV & BOOKS 与唱片资料库：《Synchronized Love》商品页，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 124 节拍与三难度音符数由 jubeat@Wiki 曲目页和曲表交叉确认。原曲 1995 年发行、TOCT-4266、东芝 EMI 与武富士广告背景由日本维基百科镜像、MUV RINOIE 页面及唱片商城页核对；1998 年至 2000 年采用《Synchronized Love J Rap Jam》的表述以广告史资料为准，未把广告播放时间扩大解释为完整改编版发行日期。
-
-## 14. 黒髪乱れし修羅となりて～凛edition～
-
-统一曲库 ID：`arcade_70000061`
-
-
-**曲目档案**
-
-曲名为《黒髪乱れし修羅となりて～凛edition～》，演唱名义为日向美ビタースイーツ♪，角色声线为霜月凛，由水原薫担任歌唱。曲目在 Qubell 中的标示节拍为 150，基础、进阶、极限难度分别为 2、6、9，对应音符数为 203、516、828。极限谱面保留原曲高密度与图形化配置特征，进阶谱面则更强调中速连打。
-
-**背景知识**
-
-本曲是“ひなビタ♪”企划中《黒髪乱れし修羅となりて》的“凛 edition”版本，同时也是“日向美ちくわ姫決定戦”活动霜月凛优胜的纪念作品。活动记录显示，霜月凛以 318,886 根竹轮的累计成绩获胜，该结果促成多个 BEMANI 机种在 2016 年 4 月 18 日同步收录这首覆盖版。日向美ビタースイーツ♪名义下的歌曲与活动剧情紧密结合，本曲的标题与角色叙事都延续了原曲的“修罗”主题。
-
-**jubeat Qubell 位置**
-
-曲目于 2016 年 4 月 18 日进入 jubeat Qubell，属于八机种同日配信的纪念新曲。资料行归类为“首次收录”。它在 Qubell 曲表中标为常规曲目，不是 dig dig Qubell 限时解禁曲。
-
-**资料来源**
-
-- RemyWiki：《黒髪乱れし修羅となりて～凛edition～》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《黒髪乱れし修羅となりて～凛edition～》《日向美ちくわ姫決定戦》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- BEMANICN：《青丝散乱终成修罗 ~凛edition~》，访问日期 2026-11-01。
-- asagaolabo @ ポップン百科大事典：《日向美ちくわ姫決定戦》，访问日期 2026-11-01。
-- BEMANI Fan Site：《日向美ちくわ姫決定戦 凛 ひなビタ♪》新闻页，访问日期 2026-11-01。
-- SOUND VOLTEX @ wiki 与 pop'n music 上级攻略 Wiki 的同名曲目页，访问日期 2026-11-01。
-
-**核验边界**
-
-2016 年 4 月 18 日、318,886 根竹轮与八机种同日配信由 jubeat@Wiki、asagaolabo 页面和 BEMANICN 摘要交叉确认。Qubell 中的 150 节拍、2/6/9 难度与 203/516/828 音符数以 jubeat@Wiki 曲目页为准；其他平台的显示资料中出现“极限 9.5”的写法，但该数值不属于本批次确认的 Qubell 标示，故正文未采用。曲名中“凛 edition”的空格样式在不同页面略有差异，这里保留 Qubell 资料行的无空格形式。
-
-## 15. ロンロンへ ライライライ！
-
-统一曲库 ID：`arcade_70000065`
-
-
-**曲目档案**
-
-曲名为《ロンロンへ ライライライ！》，演唱名义为ここなつ，作词、作曲与编曲署名为ヒゲドライバー。曲目在 Qubell 中的标示节拍为 156，基础、进阶、极限难度分别为 3、7、9，对应音符数为 300、498、727。整体旋律带有店铺主题曲式的高重复度句式，谱面也用重叠与对称配置呼应歌词中的数数与回旋感。
-
-**背景知识**
-
-ここなつ是“ひなビタ♪”关联企划中的角色组合，成员为东云夏阳与东云心菜。歌曲围绕中华料理店“ロンロン”展开，资料将歌曲定位为店铺宣传或广告曲，而ヒゲドライバー则负责把角色叙事和中华料理店主题写进明快的舞曲结构。该曲先前已在 SOUND VOLTEX 中登场，并伴随“ようこそロンロンへ！”故事段落出现，随后才进入 Qubell。
-
-**jubeat Qubell 位置**
-
-曲目于 2016 年 6 月 12 日进入 jubeat Qubell。该日期与ここなつ生日活动相关。资料行归类为“首次收录”，本批次按“jubeat 新增曲目”处理。它是 Qubell 曲表中的常规配信曲，不属于 dig dig Qubell 限时解禁曲。
-
-**资料来源**
-
-- RemyWiki：《ロンロンへ ライライライ！》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《ロンロンへ ライライライ！》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- asagaolabo @ ポップン百科大事典：《ロンロンへ ライライライ！》，访问日期 2026-11-01。
-- SOUND VOLTEX @ wiki：《ロンロンへ ライライライ！》，访问日期 2026-11-01。
-- BEMANI Fan Site：《p/music/201606》乐曲页，访问日期 2026-11-01。
-- JOYSOUND 与 MusicBrainz 的ここなつ相关条目，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 156 节拍、3/7/9 难度、300/498/727 音符数与 2016 年 6 月 12 日配信由 jubeat@Wiki 曲目页和曲表交叉确认。作为“ロンロン”店铺广告曲的定位由 asagaolabo 页面、SOUND VOLTEX 资料与非官方ひなビタ♪资料页共同支持，但原始广告投放时间未在本批次来源中获得完整列表，故不写死具体播出期间。
-
-## 16. Good bye, Summer～さよならは言わない～
-
-统一曲库 ID：`arcade_70000066`
-
-
-**曲目档案**
-
-曲名为《Good bye, Summer～さよならは言わない～》，演唱名义为私立BEMANI学園軽音部 OB。曲目在 Qubell 中的标示节拍为 165，基础、进阶、极限难度分别为 3、7、9，对应音符数为 202、397、642。歌曲以摇滚编成和夏日送别主题为骨架，谱面在副歌段落安排了清晰的乐句分割。
-
-**背景知识**
-
-本曲是《BEMANI ROCK FES '16》的主题曲，演唱名义把活动的学校叙事与轻音部设定连在一起。活动的“BEMANI Bi-Ra Factory”目标达成后，主题曲获得提前或多机种同步解禁的机会，并于 2016 年 6 月 30 日上午 10 时进入相关 BEMANI 机种。它同时带有活动纪念曲和跨机种联动曲性质，不是 jubeat 单独委托的单机新作。
-
-**jubeat Qubell 位置**
-
-曲目于 2016 年 6 月 30 日进入 jubeat Qubell，与《GITADORA》《pop'n music》《REFLEC BEAT》《BeatStream》等同期 BEMANI 作品的收录计划相关。资料行归类为“首次收录”。它在 Qubell 曲表中标为常规配信曲，不属于 dig dig Qubell 限时解禁曲。
-
-**资料来源**
-
-- RemyWiki：《Good bye, Summer～さよならは言わない～》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Good bye, Summer～さよならは言わない～》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- BEMANI Fan Site：《BEMANI ROCK FES '16》新闻页，访问日期 2026-11-01。
-- asagaolabo @ ポップン百科大事典：《エンドレスサマー》，访问日期 2026-11-01。
-- ZIv：BEMANI ROCK FES '16 相关新闻列表，访问日期 2026-11-01。
-- pop'n music 上级攻略 Wiki 与 BEMANICN 的相关收录页，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 165 节拍、3/7/9 难度与 202/397/642 音符数由 jubeat@Wiki 曲目页和 Namu 镜像页交叉确认。2016 年 6 月 30 日解禁与主题曲定位由 BEMANI Fan Site 新闻页和 asagaolabo 页面核对。部分资料把演唱名义写作“軽音楽部 OB”，本条沿用 jubeat 资料行与 jubeat@Wiki 的“軽音部 OB”写法。
-
-## 17. 星宿る空の下で
-
-统一曲库 ID：`arcade_70000067`
-
-
-**曲目档案**
-
-曲名为《星宿る空の下で》，作者与演唱名义为 Akhuta。曲目在 Qubell 中的标示节拍为 204，基础、进阶、极限难度分别为 4、7、9，对应音符数为 307、544、859。整曲呈现强烈的世界观叙事感，谱面在中后段以连续识别与高速连打承担推进力。
-
-**背景知识**
-
-本曲原本在 GITADORA OverDrive 中登场，后来通过 Qubell 的“Fables of Akhuta”活动进入 jubeat。Akhuta 在 BEMANI 中常以自我作词、作曲并参与演唱的方式建立连续世界观，这首曲子的星空意象也与其后续活动曲《枝に結ぶ願い》的长版叙事相衔接。Qubell 相关音乐资料后续把长版《星宿る空の下で 枝に結ぶ願い》收录进官方原声集，使本曲成为该活动线的核心曲目之一。
-
-**jubeat Qubell 位置**
-
-本曲属于 dig dig Qubell 限时活动“Fables of Akhuta”的阶段曲，阶段为 STAGE 1。活动解禁窗口为 2016 年 7 月 7 日上午 10 时至 7 月 20 日 23 时 59 分。资料行归类为“首次收录”。
-
-**资料来源**
-
-- RemyWiki：《星宿る空の下で》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《星宿る空の下で》与《dig dig Qubell》，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 与 Akhuta 相关条目，访问日期 2026-11-01。
-- Namu 与只读镜像页：《星宿る空の下で》及其长版条目，访问日期 2026-11-01。
-- beatmania IIDX ULTIMATE MOBILE 音乐资料页：jubeat Qubell ORIGINAL SOUNDTRACK 相关列表，访问日期 2026-11-01。
-- sonicy_memo @ jubeat：本曲各难度备忘页，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 204 节拍、4/7/9 难度、859 极限音符数与 2016 年 7 月 7 日至 7 月 20 日的限时窗口由 jubeat@Wiki 曲目页和活动页确认。基础与进阶谱面的音符数在 jubeat@Wiki 中为 307 和 544；Namu 系镜像把进阶记作 547，本条正文采用 jubeat@Wiki 的 544，并在边界记录该差异。长版收录信息见于官方原声集资料，但单首曲目的原声集轨号未作为正文重点展开。
-
-## 18. 六花にくちづけ
-
-统一曲库 ID：`arcade_70000068`
-
-
-**曲目档案**
-
-曲名为《六花にくちづけ》，演唱、作词、作曲与编曲署名均归于 Akhuta。曲目在 Qubell 中的标示节拍为 210，基础、进阶、极限难度分别为 5、7、9，对应音符数为 291、538、694。曲目以冬日、雪与亲密意象构成叙事，谱面在中高难度强调快速交替与节奏收束。
-
-**背景知识**
-
-本曲是“Fables of Akhuta”活动叙事中的另一首重要作品，与《星宿る空の下で》同属 Akhuta 的世界观组曲。Akhuta 在 BEMANI 作品中经常让歌词、曲名与活动标题互相呼应，《六花にくちづけ》的六花意象与《星宿る空の下で》的星空意象共同扩展了活动的叙事纵深。后来官方原声集《jubeat Qubell ORIGINAL SOUNDTRACK》也把这首歌曲收录进主要曲目区。
-
-**jubeat Qubell 位置**
-
-本曲属于 dig dig Qubell 限时活动“Fables of Akhuta”的阶段曲，阶段为 STAGE 3。解禁窗口同样为 2016 年 7 月 7 日上午 10 时至 7 月 20 日 23 时 59 分。资料行归类为“首次收录”。
-
-**资料来源**
-
-- RemyWiki：《六花にくちづけ》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《六花にくちづけ》与《dig dig Qubell》，访问日期 2026-11-01。
-- BEMANICN：Akhuta 相关条目，访问日期 2026-11-01。
-- CDJapan：《jubeat Qubell ORIGINAL SOUNDTRACK》商品页，访问日期 2026-11-01。
-- 骏河屋：《jubeat Qubell ORIGINAL SOUNDTRACK》商品页，访问日期 2026-11-01。
-- Namu 与只读镜像页：《六花にくちづけ》，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 210 节拍、5/7/9 难度、291/538/694 音符数与限时窗口由 jubeat@Wiki 曲目页和活动页交叉确认。官方原声集收录由 CDJapan 与骏河屋商品列表确认，列表将其列为第 12 轨；不同商城页对标题排版偶有差别，未影响曲目认定。Akhuta 署名的具体分工以 jubeat@Wiki 和 BEMANICN 的“作词、作曲、编曲、演唱”描述为准，未把非日文页的机器翻译署名直接写入正文。
-
-## 19. My Precious
-
-统一曲库 ID：`arcade_70000072`
-
-
-**曲目档案**
-
-曲名为《My Precious》，演唱名义为本場切絵，声优为白石晴香，曲目与电视动画《干物妹！うまるちゃん》相关。曲目在 Qubell 中的标示节拍为 136，基础、进阶、极限难度分别为 3、5、7，对应音符数为 131、278、386。歌曲采用轻快的流行结构，难度整体偏低，适合作为联动活动的入口曲目。
-
-**背景知识**
-
-本曲来自 jubeat Qubell 与《干物妹！うまるちゃん》的联动活动。该活动于 2016 年 7 月 14 日开始，在 dig dig Qubell 中设置联动舞台，并把本場切絵的角色歌《My Precious》作为可解禁曲目之一。日文媒体报道同时提到本曲与《sweet sweet everytime sweet》共同构成联动曲组。歌词与角色视角相匹配，本場切絵的角色设定也使曲子带有对亲密关系的珍视感。
-
-**jubeat Qubell 位置**
-
-本曲是“干物妹！うまるちゃん”联动舞台的解禁曲，解禁条件资料中记录为以评级 B 以上清一次《My Precious》。活动最初通过 dig dig Qubell 的联动舞台开放；其后的曲表将其作为已收录或默认可玩曲目处理。资料行归类为“首次收录”。
-
-**资料来源**
-
-- RemyWiki：《My Precious》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《My Precious》《dig dig Qubell》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- Famitsu.com：《『jubeat Qubell』×『干物妹！うまるちゃん』のコラボイベントが本日開始！》，访问日期 2026-11-01。
-- Gamer：《AC「jubeat Qubell」と「干物妹！うまるちゃん」がコラボ！》，访问日期 2026-11-01。
-- Uta-net 与 JOYSOUND：本場切絵《My Precious》歌词与艺人页，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 条目，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 136 节拍、3/5/7 难度与 131/278/386 音符数由 jubeat@Wiki 曲目页、曲表和媒体报道交叉确认。联动活动开始日与曲目组合由 Famitsu、Gamer 于 2016 年 7 月 14 日的报道核对。联动曲最初的解禁路径和后续转为常规可玩状态在资料中分别出现“dig dig Qubell 联动”与“默认”的表述；正文只说明两者先后关系，不再补写具体的转默认日期。
-
-## 20. sweet sweet everytime sweet
-
-统一曲库 ID：`arcade_70000073`
-
-
-**曲目档案**
-
-曲名为《sweet sweet everytime sweet》，演唱名义为海老名菜々，声优为影山灯，曲目与电视动画《干物妹！うまるちゃん》相关。曲目在 Qubell 中的标示节拍为 110，基础、进阶、极限难度分别为 3、6、8，对应音符数为 142、365、522。歌曲以柔缓节奏与日常感词句为主，谱面难度也明显低于同期活动中的高速曲。
-
-**背景知识**
-
-本曲与《My Precious》同属 jubeat Qubell 和《干物妹！うまるちゃん》的联动舞台。海老名菜々的角色形象带有内向、温柔与日常亲近感，歌曲名中的重复词也强化了轻巧甜美的气质。媒体报道将其列为本場切絵之外的重要联动角色歌，活动叙事则围绕动画角色的喜好与日常生活展开。
-
-**jubeat Qubell 位置**
-
-本曲是“干物妹！うまるちゃん”联动舞台的解禁曲，解禁条件资料中记录为以评级 B 以上清一次《sweet sweet everytime sweet》。它最初在 dig dig Qubell 联动舞台开放，随后在 Qubell 曲表中按已收录或常规可玩曲目处理。资料行归类为“首次收录”。
-
-**资料来源**
-
-- RemyWiki：《sweet sweet everytime sweet》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《sweet sweet everytime sweet》《dig dig Qubell》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- Famitsu.com：《『jubeat Qubell』×『干物妹！うまるちゃん』のコラボイベントが本日開始！》，访问日期 2026-11-01。
-- Gamer：《AC「jubeat Qubell」と「干物妹！うまるちゃん」がコラボ！》，访问日期 2026-11-01。
-- Uta-net 与 JOYSOUND：海老名菜々相关歌词与艺人页，访问日期 2026-11-01。
-- Fandom：jubeat Wiki 的 Qubell 曲表与难度变更资料，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 110 节拍、3/6/8 难度与 142/365/522 音符数由 jubeat@Wiki 曲目页和 sonicy_memo 备忘页交叉确认。联动活动开始日与曲目组合由 Famitsu、Gamer 报道核对。后续 jubeat clan 中基础与进阶难度分别调整为 5 与 7 的记录见于 Fandom 曲表；该变更不属于 Qubell 初期数据，故仅写入核验边界而不进入曲目档案。
-
-## 21. Entrapment
-
-统一曲库 ID：`arcade_70000074`
-
-
-**曲目档案**
-
-曲名为《Entrapment》，作者名义为 Expander。曲目在 Qubell 中的标示节拍为 150，基础、进阶、极限难度分别为 5、8、10，对应音符数为 433、645、798。它以 EDM trap 结构为主，重低音、节奏空隙与短促段落交替，极限谱面把出张、复合识别和低频节奏同步放进高难度区间。
-
-**背景知识**
-
-Expander 是 Sota Fujimori 的别名名义之一，常用于更具现代舞曲或电子风格的分支。《Entrapment》在 2016 Summer dig dig 祭中作为 STAGE 3 曲目登场，是活动叙事与舞曲品类结合的代表。官方原声集《jubeat Qubell ORIGINAL SOUNDTRACK》后续将其列为第 13 轨，商品页也把作曲署名与 Sota Fujimori 关联起来。
-
-**jubeat Qubell 位置**
-
-本曲属于 dig dig Qubell 限时活动“2016 Summer dig dig 祭”的 STAGE 3。活动窗口为 2016 年 8 月 15 日上午 10 时至 9 月 7 日 23 时 59 分。资料行归类为“首次收录”。
-
-**资料来源**
-
-- RemyWiki：《Entrapment》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Entrapment》《dig dig Qubell》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- BEMANICN：jubeat plus 与 jubeat Qubell 相关条目，访问日期 2026-11-01。
-- Namu 与只读镜像页：《Entrapment》，访问日期 2026-11-01。
-- CDJapan：《jubeat Qubell ORIGINAL SOUNDTRACK》商品页，访问日期 2026-11-01。
-- Gamers：《jubeat Qubell ORIGINAL SOUNDTRACK》商品页，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 150 节拍、5/8/10 难度与 433/645/798 音符数由 jubeat@Wiki 曲目页和 Namu 资料交叉确认。2016 Summer dig dig 祭的阶段安排与活动窗口由 jubeat@Wiki、非官方镜像与 BEMANICN 曲表核对。Expander 与 Sota Fujimori 的关系以 BEMANICN、官方原声集商品页及既有 BEMANI 资料共同支持；正文只写署名关系，不扩展为 Sota Fujimori 的完整创作史。
-
-## 22. 不可説不可説転
-
-统一曲库 ID：`arcade_70000075`
-
-
-**曲目档案**
-
-曲名为《不可説不可説転》，作者名义为 OSTER project。曲目在 Qubell 中的标示节拍为 140，基础、进阶、极限难度分别为 5、8、9，对应音符数为 338、522、665。曲目标题取自佛典与巨大数体系，音乐本身则把轻快的电子语汇与 OSTER project 常见的明亮旋律线结合。部分极限资料把长按音符单独列出，因此总音符数和长按数量在不同页面有细微表达差异。
-
-**背景知识**
-
-本曲是 OSTER project 首次为 jubeat 写下的原创曲。曲名《不可説不可説転》来自佛典数词系统，常被解释为极大的数；常见算式写作“10 的 7 乘以 2 的 122 次方”，其数值远超过无量大数。词义中的“不可说”与巨大数单位在游戏内外形成辨识度，也让这首曲子成为 2016 Summer dig dig 祭中标题最具话题性的阶段曲之一。
-
-**jubeat Qubell 位置**
-
-本曲属于 dig dig Qubell 限时活动“2016 Summer dig dig 祭”的 STAGE 2。活动窗口为 2016 年 8 月 15 日上午 10 时至 9 月 7 日 23 时 59 分。资料行归类为“首次收录”。
-
-**资料来源**
-
-- RemyWiki：《不可説不可説転》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《不可説不可説転》与《dig dig Qubell》，访问日期 2026-11-01。
-- BEMANICN：《不可说不可说转》，访问日期 2026-11-01。
-- asagaolabo @ ポップン百科大事典：《不可説不可説転》，访问日期 2026-11-01。
-- pop'n music 上级攻略Wiki：同名曲目页，访问日期 2026-11-01。
-- 骏河屋：《jubeat Qubell ORIGINAL SOUNDTRACK》商品页，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 140 节拍、5/8/9 难度与 338/522/665 音符数由 jubeat@Wiki 曲目页、Namu 资料和 sonicy_memo 备忘页交叉确认。极限难度长按数量在不同页面记为 24 或 25，本条不把长按数写入正文。曲名对应的巨大数解释由巨大数资料页和 asagaolabo 页面支持，但佛典译本与数词体系的学术细节未逐条展开。OSTER project 首次为 jubeat 写原创曲的表述来自 jubeat@Wiki 曲目页。
-
-## 23. FUJIMORI -祭- FESTIVAL
-
-统一曲库 ID：`arcade_70000076`
-
-
-**曲目档案**
-
-曲名为《FUJIMORI -祭- FESTIVAL》，演唱名义为 VENUS。曲目在 Qubell 中的标示节拍为 158，基础、进阶、极限难度分别为 4、7、9，对应音符数为 271、469、624。曲目以祭典式的喊声、电子舞曲推进和高潮叠段为核心，谱面在中高难度突出转向、鼓点错位和副歌爆发。
-
-**背景知识**
-
-本曲原本在《REFLEC BEAT groovin'!!》中登场，后来作为“2016 Summer dig dig 祭”的一部分移植到 jubeat Qubell。VENUS 是 BEMANI 内部活跃的女性合作名义，曲名中的“FUJIMORI”与 DJ YOSHITAKA 的姓氏体系相关。曲目后续也被《DanceDanceRevolution》《DanceEvolution ARCADE》《ミライダガッキ》等平台收录，长版或现场版还见于 BEMANI 演唱会与 VENUS 专辑资料。
-
-**jubeat Qubell 位置**
-
-本曲属于 dig dig Qubell 限时活动“2016 Summer dig dig 祭”的 STAGE 4。活动窗口为 2016 年 8 月 15 日上午 10 时至 9 月 7 日 23 时 59 分。资料行归类为“首次收录”。
-
-**资料来源**
-
-- RemyWiki：《FUJIMORI -祭- FESTIVAL》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《FUJIMORI -祭- FESTIVAL》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- BEMANICN：《FUJIMORI -祭- FESTIVAL》，访问日期 2026-11-01。
-- asagaolabo @ ポップン百科大事典：《FUJIMORI -祭- FESTIVAL》，访问日期 2026-11-01。
-- Namu 与只读镜像页：《FUJIMORI -祭- FESTIVAL》，访问日期 2026-11-01。
-- BEMANI Fan Site：《p/music/201607》乐曲页，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 158 节拍、4/7/9 难度与 271/469/624 音符数由 jubeat@Wiki 曲目页和 Namu 资料交叉确认。2016 Summer dig dig 祭的 STAGE 4 与活动窗口由 jubeat@Wiki、非官方镜像和 BEMANICN 曲表核对。其他资料出现过“极限 9.1”的细化写法，但该数值未被 Qubell 曲表确认为当时的正式标示，故正文不采用。原曲在《REFLEC BEAT groovin'!!》的来源定位由 BEMANICN 页面确认。
-
-## 24. NISHIMURA -祭- CARNIVAL
-
-统一曲库 ID：`arcade_70000077`
-
-
-**曲目档案**
-
-曲名为《NISHIMURA -祭- CARNIVAL》，演唱与合作名义为 S-C-U x U1 feat. VENUS。曲目在 Qubell 中的标示节拍为 158，基础、进阶、极限难度分别为 3、7、9，对应音符数为 265、561、646。它承接祭典舞曲的推进方式，但加入更密集的电子段落与角色化喊声，极限谱面以后半段的高速变化为主要难点。
-
-**背景知识**
-
-本曲是《FUJIMORI -祭- FESTIVAL》的对应续作，标题中的“NISHIMURA”延续了 DJ YOSHITAKA 姓氏对应的曲名设计。S-C-U 与 U1-ASAMi 参与创作，VENUS 则在合作名义中承担主唱与祭典形象。资料把本曲列为“2016 Summer dig dig 祭”的 STAGE 5 最终解禁曲，并指出这是 VENUS 名义下首次向 jubeat 单独提供的新曲。官方原声集《jubeat Qubell ORIGINAL SOUNDTRACK》将其列为第 16 轨。
-
-**jubeat Qubell 位置**
-
-本曲属于 dig dig Qubell 限时活动“2016 Summer dig dig 祭”的 STAGE 5，也是该活动的最终阶段曲。活动窗口为 2016 年 8 月 15 日上午 10 时至 9 月 7 日 23 时 59 分。资料行归类为“首次收录”。
-
-**资料来源**
-
-- RemyWiki：《NISHIMURA -祭- CARNIVAL》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《NISHIMURA -祭- CARNIVAL》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-- BEMANICN：jubeat plus、jubeat Qubell 与相关活动曲表，访问日期 2026-11-01。
-- Namu 与只读镜像页：《NISHIMURA -祭- CARNIVAL》，访问日期 2026-11-01。
-- CDJapan 与骏河屋：《jubeat Qubell ORIGINAL SOUNDTRACK》商品页，访问日期 2026-11-01。
-- Billboard JAPAN 商品资料页：《jubeat Qubell ORIGINAL SOUNDTRACK》，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 中的 158 节拍、3/7/9 难度与 265/561/646 音符数由 jubeat@Wiki 曲目页和 Namu 资料交叉确认。活动阶段、2016 年 8 月 15 日至 9 月 7 日的窗口、续作关系与 VENUS 名义首次向 jubeat 单独提供新曲的表述由 jubeat@Wiki、BEMANICN 曲表和官方原声集商品页共同核对。后续 jubeat clan 中极限难度调整为 8 的记录见于难度变更资料，但本条正文保持 Qubell 时期的 9 级标示。
-
-# jubeat Qubell 资料条目批次（资料行 25-36）
-
-以下条目按 `/tmp/qubell-order.tsv` 第 25-36 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
-
-## 25. 零の位相
-
-统一曲库 ID：`arcade_70000078`
-
-
-**曲目档案**
-
-日文原名：零の位相。艺人栏为 kradness；官方活动页与多个唱片资料页记载作词为あさき，作曲与编曲为 96。BPM 标示为 190 至 205，jubeat Qubell 的三谱面等级为 BASIC 4、ADVANCED 7、EXTREME 9，对应物量 262、425、604。曲目于 2016 年 9 月 7 日进入 Qubell，与歌手专辑《MIND HACK》的发售日期一致。
-
-**背景知识**
-
-kradness 是日本网络歌手与歌手活动参与者，《MIND HACK》是其 2016 年 9 月 7 日发售的专辑。这首《零の位相》作为专辑关联曲目被 KONAMI 多机种采用，官方新闻明确列出该曲可在 GITADORA、jubeat、REFLEC BEAT 与 MÚSECA 系列游玩。作词者あさき与作曲者 96 的组合，使其带有 KONAMI 音乐团队传统作者参与商业协作的性质。
-
-**jubeat Qubell 位置**
-
-本曲属于 Qubell 时期追加曲，配信日 2016 年 9 月 7 日。因源为歌手专辑收录曲，它在 jubeat 官方体系中被作为授权曲处理，而 BEMANICN 与日文相关页面也指出其跨机种移植背景。玩家在 Qubell 中通过常规可玩列表接触，后续 jubeat plus/Android 阶段的收录情况应以当时应用商店与曲包列表为准，本条不推断其长期保留状态。
-
-**资料来源**
-
-1. RemyWiki：《零の位相》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. BEMANICN：《零之位相》，访问日期 2026-11-01。
-4. BEMANI Fan Site：《kradness》相关新闻与活动页，访问日期 2026-11-01。
-5. kradness Official Website：《Discography》，访问日期 2026-11-01。
-6. JOYSOUND：《零の位相／kradness》，访问日期 2026-11-01。
-7. Tower Records：《MIND HACK＜通常盤＞》，访问日期 2026-11-01。
-
-**核验边界**
-
-“编曲”栏在不同资料页之间存在记载差异：官方活动与多数唱片页固定作词 あさき、作曲 96，部分条目另写编曲者，本条不以单一站点评断编曲署名。各机种的后续删除时间、REFLEC BEAT 特殊玩法细节、Qubell 之外的难度与物量未全部展开。RemyWiki 原文虽被列为定位来源，但本次未能直接访问，其结论未单独采信。
-
-## 26. Now Loading!!!!
-
-统一曲库 ID：`arcade_70000080`
-
-
-**曲目档案**
-
-日文原名：Now Loading!!!!。演唱单位为 fourfolium，BPM 标示为 193，jubeat Qubell 的三谱面等级为 BASIC 3、ADVANCED 6、EXTREME 8，对应物量 171、361、471。该曲是电视动画《NEW GAME!》第一季片尾曲，CD 于 2016 年 7 月 27 日发售；Qubell 侧在 2016 年 8 月 9 日至 9 月 25 日的联动 QUBE 中出现，jubeat@Wiki 也标注其曾在 jubeat plus 先行配信。
-
-**背景知识**
-
-fourfolium 是《NEW GAME!》四位主要女性角色的声优组合，成员为高田忧希、山口爱、户田惠与竹尾步美。《SAKURAスキップ》和《Now Loading!!!!》分别是第一季动画的开头曲与结尾曲。Qubell 的联动 QUBE 围绕动画主题设计，通过分段 QUBE 挖掘解锁曲目、图标、背景与称号；泰文维基记录显示，首次活动后歌曲改为默认可玩，而装饰物在再开活动中继续限定出现。
-
-**jubeat Qubell 位置**
-
-本曲属于联动 QUBE「NEW GAME!」最终阶段曲目，活动期间在 Qubell 中解锁；jubeat@Wiki 曲目表将《Now Loading!!!!》列为该 QUBE 的新曲并标注 plus 先行配信。曲面在动画联动装饰曲组中呈现，不与 BEMANI 原创活动混列。后续在 jubeat plus、BeatStream、maimai 等平台的出现，需要按各平台当时列表核对，本条只写 Qubell 侧的解锁路径。
-
-**资料来源**
-
-1. RemyWiki：《Now Loading!!!!》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. jubeat Wiki @ TH：《「NEW GAME!」QUBE》，访问日期 2026-11-01。
-4. TV动画《NEW GAME!!》官方网站：《PRODUCT 音乐页》，访问日期 2026-11-01。
-5. Animate Online Shop：《TV NEW GAME! ED「Now Loading!!!!」/fourfolium》，访问日期 2026-11-01。
-6. 歌ネット：《fourfolium Now Loading!!!! 歌词》，访问日期 2026-11-01。
-7. dアニメストア：《NEW GAME! 第1话/第4话》作品页，访问日期 2026-11-01。
-
-**核验边界**
-
-歌曲作曲、编曲、作词的完整署名以 CD 封面与官方商品资料为准，本次网页摘要未逐条展开，故不写死。Qubell 内 2016 年 12 月 20 日或其他具体日期的默认化时间，在所读页面中未统一显示，因此不写死。BEMANICN 与泰文维基对 QUBE 再开时间一致，但装饰物的长期可获得性应以游戏内公告为准。
-
-## 27. Boss Rush
-
-统一曲库 ID：`arcade_70000083`
-
-
-**曲目档案**
-
-日文原名：Boss Rush。艺人为 USAO，BPM 标示为 190，jubeat Qubell 的三谱面等级为 BASIC 4、ADVANCED 7、EXTREME 9，对应物量 386、608、775。曲目在 2016 年 8 月 15 日至 9 月 7 日的「dig dig 祭」QUBE 中登场，并收录于《jubeat Qubell ORIGINAL SOUNDTRACK》第 15 轨。
-
-**背景知识**
-
-USAO 是以硬核与高速电子舞曲闻名的作曲者。多站记载《Boss Rush》是其为 jubeat 系列创作的首支原创曲；此前《ZED》属 IIDX 曲目移植，不能作为其 jubeat 原创首秀。曲目后来也进入 USAO 精选专辑《USAO ULTIMATE HYPER BEST》与 Qubell 原声带，说明它作为 Qubell 时期活动曲被保留为可辨识的代表曲目之一。
-
-**jubeat Qubell 位置**
-
-本曲属于 Qubell 内置解锁系统 dig dig Qubell 的 2016 Summer「dig dig 祭」第一阶段解锁曲。jubeat@Wiki 曲目表将该组日期列为 2016 年 8 月 15 日至 9 月 7 日；BEMANICN 条目同样写明其为该活动的第一阶段曲。后续在 SOUND VOLTEX 的移植属于其他机种的收录，不改变其在 Qubell 的首次原创登场定位。
-
-**资料来源**
-
-1. RemyWiki：《Boss Rush》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Boss Rush》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. BEMANICN：《Boss Rush》与《jubeat Qubell》，访问日期 2026-11-01。
-4. BEMANI Fan Site：《2016年8月 BEMANI 乐曲页》，访问日期 2026-11-01。
-5. CDJapan：《Jubeat Qubell Original Soundtrack GFCA-428》，访问日期 2026-11-01。
-6. Apple Music：《jubeat Qubell ORIGINAL SOUNDTRACK》，访问日期 2026-11-01。
-7. Dance Dance Revolution Wiki：《Boss Rush》，访问日期 2026-11-01。
-
-**核验边界**
-
-“2016 Summer dig dig 祭”的准确日语大写形式在不同页面存在「2016 Summer dig dig 祭」与「dig dig 祭」混用，本条采用曲目表显示的活动名，不额外统一大小写。长版专辑《USAO ULTIMATE HYPER BEST》的确切年份与完整曲目顺序未逐项核对。Qubell 结束后的跨机种解锁时间和谱面差异不写入。
-
-## 28. 倉野川音頭
-
-统一曲库 ID：`arcade_70000084`
-
-
-**曲目档案**
-
-日文原名：倉野川音頭。艺人栏为日向美ビタースイーツ♪＆ひなちくん，BPM 标示为 113，jubeat Qubell 的三谱面等级为 BASIC 1、ADVANCED 5、EXTREME 7，对应物量 124、336、512。曲目于 2016 年 8 月 5 日配信，官方新闻说明其配合鸟取县仓吉市「倉吉打吹まつり」实装，并列入 BEMANI 四机种联动收录。
-
-**背景知识**
-
-《倉野川音頭》属于富士见书房与 KONAMI 作曲者 TOMOSUKE 相关的多媒体企划「ひなビタ♪」。日向美ビタースイーツ♪是企划内虚构乐队，而倉野川市在企划设定中与仓吉市存在关联。2016 年 8 月的活动将这首和风主题曲同时带入 pop'n music、jubeat、DanceDanceRevolution 与 REFLEC BEAT 等平台，并借助当地祭典活动强化企划与仓吉市的联动。
-
-**jubeat Qubell 位置**
-
-本曲在 Qubell 中作为 2016 年 8 月 5 日配信的版权关联曲登场，BEMANI Fan Site 的当月乐曲页将其列为 Qubell 可玩曲。它不是「dig dig 祭」或「夏のニュージェネ流星フェスタ2016」的原创活动曲，而属于ひなビタ♪企划与地方祭典联动的一批歌曲。DanceDanceRevolution 资料页记录其在 2016 年 8 月 5 日同步进入 DDR A。
-
-**资料来源**
-
-1. RemyWiki：《倉野川音頭》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. BEMANI Fan Site：《2016年8月 BEMANI 乐曲页》与新闻页，访问日期 2026-11-01。
-4. Pop'n Music Wiki：《Kuranogawa Ondo》，访问日期 2026-11-01。
-5. Dance Dance Revolution Wiki：Dance Dance Revolution A 曲目资料，访问日期 2026-11-01。
-6. 倉吉市立图书馆/仓吉市史料 PDF：《倉吉打吹まつり》相关报道，访问日期 2026-11-01。
-7. 鸟取传统艺能档案：《倉吉打吹太鼓》《打吹童子ばやし》，访问日期 2026-11-01。
-
-**核验边界**
-
-ひなビタ♪企划的内部角色设定、歌曲歌词署名和「ひなちくん」具体构成，未在本次直接访问的官方页面逐项展开，故不做详细展开。DDR 与 pop'n 的删除日期、jubeat 后续版本的谱面调整不写入。「倉吉打吹まつり」举办日程随年份变化，本条只确认 2016 年 8 月联动背景。
-
-## 29. 反撃
-
-统一曲库 ID：`arcade_70000089`
-
-
-**曲目档案**
-
-日文原名：反撃。艺人为猫大樹，BPM 标示为 145，jubeat Qubell 的三谱面等级为 BASIC 3、ADVANCED 6、EXTREME 9，对应物量 192、456、784。曲目于 2016 年 8 月 12 日配信，属于「猫大樹 夏のパーリーピーポー」QUBE 组曲之一。
-
-**背景知识**
-
-《反撃》出自猫大樹的东方 Project 编曲专辑《NH-STYLE》，原曲通常对照《U.N.オーエンは彼女なのか？》。THBWiki 与东方编曲资料库记录其收录于《NH-STYLE》第 3 轨，演唱名义包含猫体質与新井大樹；BOOTH 商品页也列出反撃原曲为《U.N.オーエンは彼女なのか？》。这与同批《眼光》《厳冬記》出自《NH-STYLE 2》的情况区分开。
-
-**jubeat Qubell 位置**
-
-本曲属于 Qubell 的特别 QUBE「猫大樹 夏のパーリーピーポー」新曲组，该组活动日期为 2016 年 8 月 12 日至 10 月 2 日。jubeat@Wiki 曲目表把它放在该组开头，而泰文维基的新曲列表也显示其通过该 QUBE 解锁。它属于东方编曲授权曲，而非 BEMANI 原创新曲，且后续 jubeat plus 的「猫大樹 東方アレンジ」相关曲包与本曲源专辑存在关联。
-
-**资料来源**
-
-1. RemyWiki：《反撃》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. jubeat Wiki @ TH：《New songs in Qubell》与「猫大樹 夏のパーリーピーポー」QUBE 相关页，访问日期 2026-11-01。
-4. THBWiki：《jubeat 收录曲目列表（jubeat plus）》与《NH-STYLE》，访问日期 2026-11-01。
-5. 猫大樹official BOOTH：《NH-STYLE》，访问日期 2026-11-01。
-6. 东方编曲录：《ボーカリスト別 - 猫体質》与《編曲者別 - Iceon》，访问日期 2026-11-01。
-7. SOUND VOLTEX @ Wiki：《猫大樹》，访问日期 2026-11-01。
-
-**核验边界**
-
-部分搜索摘要将《反撃》与《NH-STYLE 2》并列，但 THBWiki、东方编曲录与 BOOTH 商品页更一致地指向《NH-STYLE》；本条采信后者，并在边界中保留差异。原曲是否完全对应《U.N.オーエンは彼女なのか？》，以专辑官方页为准；不写《NH-STYLE 2》为来源。Qubell 内活动奖励顺序、称号与 QUBE 挖掘奖励细节未全部展开。
-
-## 30. 眼光
-
-统一曲库 ID：`arcade_70000090`
-
-
-**曲目档案**
-
-日文原名：眼光。艺人为猫大樹，BPM 标示为 165，jubeat Qubell 的三谱面等级为 BASIC 4、ADVANCED 7、EXTREME 8，对应物量 308、500、687。曲目于 2016 年 8 月 12 日配信，属于「猫大樹 夏のパーリーピーポー」QUBE 组曲之一。
-
-**背景知识**
-
-《眼光》出自猫大樹的东方 Project 编曲专辑《NH-STYLE 2》。该专辑于 2016 年 5 月 8 日在博丽神社例大祭 13 发布，THBWiki 与东方编曲录记录其风格涵盖 House、Trance、J-pop 等方向。相关资料页将《眼光》的原曲对应为《東方妖々夢 ～ Ancient Temple》，演唱与制作名义涉及猫体質、新井大樹等。
-
-**jubeat Qubell 位置**
-
-本曲在 Qubell 中属于「猫大樹 夏のパーリーピーポー」特别 QUBE 新曲，并在该阶段解锁；jubeat@Wiki 曲目表列为该组第 2 轨，泰文维基记录其 QUBE 阶段 cleared 曲目等级为 4、7、8。它属于东方编曲授权曲，而非 BEMANI 原创曲。后续在 jubeat festo 的 mission travel 解锁或难度调整属于后作变化，不写入 Qubell 位置。
-
-**资料来源**
-
-1. RemyWiki：《眼光》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《眼光》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. jubeat Wiki @ TH：《New songs in Qubell》与「猫大樹 夏のパーリーピーポー」QUBE 相关页，访问日期 2026-11-01。
-4. THBWiki：《NH-STYLE 2》与《jubeat 收录曲目列表（jubeat plus）》，访问日期 2026-11-01。
-5. 猫大樹official BOOTH：《NH-STYLE 2》，访问日期 2026-11-01。
-6. 东方编曲录：《ボーカリスト別 - 猫体質》，访问日期 2026-11-01。
-7. BEMANI Fan Site：《2016年8月 BEMANI 乐曲页》，访问日期 2026-11-01。
-
-**核验边界**
-
-《眼光》在《NH-STYLE 2》中的准确曲目序号来自 jubeat@Wiki 的第 3 轨说法，东方资料库的曲目列表应在完整页面下再次确认；本条不把序号写入档案正文。新井大樹、猫体質等参与署名在不同专辑与歌手栏之间存在组合差异，故只说明相关名义存在。后作 mission travel 细节和 mobile/plus 曲包差异不展开。
-
-## 31. 厳冬記
-
-统一曲库 ID：`arcade_70000091`
-
-
-**曲目档案**
-
-日文原名：厳冬記。艺人为猫大樹，BPM 标示为 150，jubeat Qubell 的三谱面等级为 BASIC 5、ADVANCED 9、EXTREME 10，对应物量 332、653、745。曲目于 2016 年 8 月 12 日配信，属于「猫大樹 夏のパーリーピーポー」QUBE 组曲之一。
-
-**背景知识**
-
-《厳冬記》出自猫大樹的东方 Project 编曲专辑《NH-STYLE 2》，对应原曲通常记录为《東方妖々夢 ～ Ancient Temple》。该专辑是 2016 年 5 月 8 日在博丽神社例大祭 13 发布的同人全长专辑。日文攻略维基、THBWiki 与 BOOTH 商品页都将其视为猫大樹的东方编曲作品，并区分于同一专辑中其他高速曲目。
-
-**jubeat Qubell 位置**
-
-本曲在 Qubell 中属于「猫大樹 夏のパーリーピーポー」特别 QUBE 新曲，并作为该组较靠后的阶段曲目解锁；jubeat@Wiki 曲目表列为该组第 5 轨，泰文维基记录其新曲谱面为 5、9、10。它属于东方编曲授权曲，而非 BEMANI 原创曲。clan 时期 EXTREME 难度由 10 降为 9 的记录属于后作变化，不在 Qubell 位置中展开。
-
-**资料来源**
-
-1. RemyWiki：《厳冬記》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《厳冬記》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. jubeat Wiki @ TH：《New songs in Qubell》，访问日期 2026-11-01。
-4. THBWiki：《NH-STYLE 2》与《jubeat 收录曲目列表（jubeat plus）》，访问日期 2026-11-01。
-5. 猫大樹official BOOTH：《NH-STYLE 2》，访问日期 2026-11-01。
-6. 东方编曲录：《ボーカリスト別 - 猫体質》，访问日期 2026-11-01。
-7. sonicy_memo @ jubeat：《厳冬記(ADV)》，访问日期 2026-11-01。
-
-**核验边界**
-
-《厳冬記》原曲名为《東方妖々夢 ～ Ancient Temple》的写法在多站常见，但完整专辑页与曲目表应以官方 BOOTH 页和 THBWiki 目录为准；本条不展开歌词或演唱全署名。clan、Ave. 等后作的难度调整、谱面等级保留值和删除状态不写入。Qubell 内称号或 QUBE 奖励的具体获得顺序未在所读页面中完整核对。
-
-## 32. JACK THE RIPPER feat. Iceon
-
-统一曲库 ID：`arcade_70000092`
-
-
-**曲目档案**
-
-日文原名：JACK THE RIPPER feat. Iceon。艺人栏为猫大樹，BPM 标示为 145，jubeat Qubell 的三谱面等级为 BASIC 2、ADVANCED 7、EXTREME 10，对应物量 130、408、810。曲目于 2016 年 8 月 12 日配信，属于「猫大樹 夏のパーリーピーポー」QUBE 组曲之一。
-
-**背景知识**
-
-《JACK THE RIPPER feat. Iceon》出自猫大樹的东方 Project 编曲专辑《NH-STYLE 2》。东方编曲录记录其编曲涉及新井大樹，Iceon 作为 feat. 名义出现；韩文资料页与 THBWiki 相关摘要将原曲对应为《月時計 ～ ルナ・ダイアル》，即东方红魔乡中十六夜咲夜的主题曲。该曲与专辑内其他曲目共同构成猫大樹东方编曲进入 KONAMI 街机的代表样本。
-
-**jubeat Qubell 位置**
-
-本曲在 Qubell 中属于「猫大樹 夏のパーリーピーポー」特别 QUBE 新曲，jubeat@Wiki 曲目表列为该组第 4 轨，泰文维基记录其新曲谱面为 2、7、10。它属于东方编曲授权曲，而非 BEMANI 原创曲。clan 时期 EXTREME 难度由 10 降为 6 的记录属于后作变化，不写入 Qubell 位置。
-
-**资料来源**
-
-1. RemyWiki：《JACK THE RIPPER feat. Iceon》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《曲リスト(Qubell)》与 sonicy_memo @ jubeat 相关页，访问日期 2026-11-01。
-3. jubeat Wiki @ TH：《New songs in Qubell》，访问日期 2026-11-01。
-4. THBWiki：《NH-STYLE 2》与《jubeat 收录曲目列表（jubeat plus）》，访问日期 2026-11-01。
-5. 东方编曲录：《編曲者別 - Iceon》，访问日期 2026-11-01。
-6. 猫大樹official BOOTH：《NH-STYLE 2》，访问日期 2026-11-01。
-7. 읽기전용위키：《JACK THE RIPPER feat. Iceon》，访问日期 2026-11-01。
-
-**核验边界**
-
-Iceon、猫体質、新井大樹与猫大樹之间的署名关系在搜索摘要中显示不完全一致：专辑页把曲目列入《NH-STYLE 2》，东方编曲录列出编曲新井大樹，feat. Iceon 则是游戏与曲目名一致的名义。本条不在档案正文写死完整编曲链。EXTREME 谱面在 clan 的降级时间与原由未展开。
-
-## 33. Grand Chariot
-
-统一曲库 ID：`arcade_70000093`
-
-
-**曲目档案**
-
-日文原名：Grand Chariot。艺人为 xi，BPM 标示为 191，jubeat Qubell 的三谱面等级为 BASIC 3、ADVANCED 6、EXTREME 10，对应物量 216、451、833。曲目于 2016 年 8 月 10 日起进入 Qubell 的「夏のニュージェネ流星フェスタ2016」，属于该跨机种活动的新曲。
-
-**背景知识**
-
-xi 是以《Sunrise》《Thunderbolt》等作品闻名的电子作曲者。《Grand Chariot》后来收录于其第五张个人专辑《Quietus Ray》，该专辑由 Diverse System 发行，商品页明确列出第 3 轨为《Grand Chariot》。官方活动页与 SOUND VOLTEX Wiki 显示，本曲与《Angelic Jelly》《Sephirot》《StrayedCatz》《ZEPHYRANTHES》《Triple Counter》共同组成 2016 年夏的新生代流星祭活动曲。
-
-**jubeat Qubell 位置**
-
-本曲属于 Qubell 的特别 QUBE「夏のニュージェネ流星フェスタ2016」，活动日期为 2016 年 8 月 10 日至 10 月 30 日。官方活动页说明在 IIDX、jubeat、SOUND VOLTEX 任一机种游玩相关曲后可解锁本活动相关曲目；jubeat@Wiki 曲目表将其列为 Qubell 活动新曲。本曲也标记 xi 的曲目进入 jubeat 街机正作。
-
-**资料来源**
-
-1. RemyWiki：《Grand Chariot》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Grand Chariot》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. BEMANI 官方：《夏のニュージェネ流星フェスタ2016》活动页，访问日期 2026-11-01。
-4. SOUND VOLTEX Wiki：《Grand Chariot》，访问日期 2026-11-01。
-5. Diverse System：《Quietus Ray - xi 5th solo album》，访问日期 2026-11-01。
-6. TANO*C STORE：《Quietus Ray》，访问日期 2026-11-01。
-7. xi 官方资料页/同人音乐 info：《xi 参加作品一覧》，访问日期 2026-11-01。
-
-**核验边界**
-
-《Grand Chariot》在《Quietus Ray》的完整发售日与试听信息未逐项展开，商店页摘要只确认其为第 3 轨且属于该专辑。BEMANICN 因访问受限，其关于具体 STAGE 序号的说明未直接采信；本条以 jubeat@Wiki 与官方活动页写明活动组别。后续 IIDX 或 SOUND VOLTEX 的解锁阶段与谱面差异不写入。
-
-## 34. StrayedCatz
-
-统一曲库 ID：`arcade_70000094`
-
-
-**曲目档案**
-
-日文原名：StrayedCatz。艺人为削除（Sakuzyo），BPM 标示为 151，jubeat Qubell 的三谱面等级为 BASIC 4、ADVANCED 8、EXTREME 10，对应物量 289、582、843。曲目于 2016 年 8 月 10 日起进入 Qubell 的「夏のニュージェネ流星フェスタ2016」，属于该跨机种活动的新曲。
-
-**背景知识**
-
-削除是以 BMS、电子音乐与旋律系 Drum and bass 等作品闻名的作曲者，长期与 Diverse System 相关。官方活动页与 jubeat@Wiki 显示《StrayedCatz》是 2016 年夏流星祭新曲之一；Pop'n Music Wiki 与 BEMANICN 记录该曲是削除在 BEMANI 体系中的首支 KONAMI 原创曲，并作为其进入多个 KONAMI 机种的首秀。
-
-**jubeat Qubell 位置**
-
-本曲属于 Qubell 的特别 QUBE「夏のニュージェネ流星フェスタ2016」，在 2016 年 8 月 10 日至 10 月 30 日活动期内通过 QUBE 解锁。jubeat@Wiki 曲目表将其与《Grand Chariot》《Sephirot》等并列于同一活动组，泰文维基记录其新曲等级为 4、8、10。后续在 IIDX、pop'n music、DDR、REFLEC BEAT、MÚSECA 等平台的扩散属于跨机种移植。
-
-**资料来源**
-
-1. RemyWiki：《StrayedCatz》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《StrayedCatz》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. BEMANI 官方：《夏のニュージェネ流星フェスタ2016》活动页，访问日期 2026-11-01。
-4. BEMANICN：《StrayedCatz》，访问日期 2026-11-01。
-5. Pop'n Music Wiki：《StrayedCatz》，访问日期 2026-11-01。
-6. Last.fm / NTS：《Sakuzyo》艺人资料，访问日期 2026-11-01。
-7. Diverse System：《Members》，访问日期 2026-11-01。
-
-**核验边界**
-
-《StrayedCatz》是否为《MagiCatz》或《Altale》相关曲，所读摘要只显示部分页面提出可能性或后续作品关系，本条不写死关联曲。削除在 BEMANI 的“首秀”表述应限定为 KONAMI 原创曲或本曲所在机种组合的首次提供，避免覆盖其所有同人活动经历。跨机种解锁日期差异不写入。
-
-## 35. Sephirot
-
-统一曲库 ID：`arcade_70000095`
-
-
-**曲目档案**
-
-日文原名：Sephirot。艺人为 SHIKI，BPM 标示为 154，jubeat Qubell 的三谱面等级为 BASIC 5、ADVANCED 9、EXTREME 10，对应物量 387、776、934。曲目于 2016 年 8 月 10 日起进入 Qubell 的「夏のニュージェネ流星フェスタ2016」，属于该跨机种活动的新曲。
-
-**背景知识**
-
-SHIKI 是长期以 BMS 与同人电子音乐活动为主的作曲者。jubeat@Wiki 明确记载《Sephirot》是其非 BEMANI 移植形式的首次 BEMANI 楽曲提供；SHIKI 个人博客也说明该曲为 IIDX、jubeat、SOUND VOLTEX 三机种联动的新曲，并强调其旋律性 Trance 性质。官方活动页则将该曲列入 2016 年夏流星祭曲目组。
-
-**jubeat Qubell 位置**
-
-本曲属于 Qubell 的特别 QUBE「夏のニュージェネ流星フェスタ2016」，在活动期内通过 QUBE 解锁；jubeat@Wiki 曲目表将其列为该组第 2 轨，泰文维基记录其新曲等级为 5、9、10。BEMANICN 的 Qubell 条目亦把它显示在活动第二阶段，但访问受限导致细节未逐项采信。后续 ZIv 记录的 jubeat plus 版本属于移动端收录。
-
-**资料来源**
-
-1. RemyWiki：《Sephirot》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Sephirot》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. SHIKI 官方博客：《- Link to you ? -》，访问日期 2026-11-01。
-4. BEMANI 官方：《夏のニュージェネ流星フェスタ2016》活动页，访问日期 2026-11-01。
-5. ZIv：《Song Database - Sephirot》，访问日期 2026-11-01。
-6. jubeat Wiki @ TH：《New songs in Qubell》，访问日期 2026-11-01。
-7. sonicy_memo @ jubeat：《Sephirot(ADV)》与《Sephirot(EXT)》，访问日期 2026-11-01。
-
-**核验边界**
-
-《Sephirot》是否收录于某张 SHIKI 专辑、长版年份与重制版本，本次未在可直接访问的商品页确认，故不写。Qubell 内第二阶段或第几 QUBE 的精确解锁顺序只写活动组别，不写死阶段细节。ZIv 显示的 jubeat plus 2010 年日期可能指向同名旧收录，不能用来推断本曲街机首日，因此未并入背景。
-
-## 36. Angelic Jelly
-
-统一曲库 ID：`arcade_70000096`
-
-
-**曲目档案**
-
-日文原名：Angelic Jelly。艺人为 t+pazolite，BPM 标示为 200，jubeat Qubell 的三谱面等级为 BASIC 5、ADVANCED 9、EXTREME 10，对应物量 425、658、780。曲目于 2016 年 8 月 10 日起进入 Qubell 的「夏のニュージェネ流星フェスタ2016」，官方活动页将其列为可从头游玩的曲目。
-
-**背景知识**
-
-t+pazolite 是以高速 Happy Hardcore、Hardcore 与节奏游戏乐曲闻名的作曲者。官方活动页显示《Angelic Jelly》在 2016 年夏流星祭中作为起初可玩曲出现；Pop'n Music Wiki 与日文攻略维基进一步记录该曲是 t+pazolite 正规外注进入 BEMANI 体系的首曲，后来还扩散到 pop'n music、DDR、REFLEC BEAT、MÚSECA 等平台。
-
-**jubeat Qubell 位置**
-
-本曲属于 Qubell 的特别 QUBE「夏のニュージェネ流星フェスタ2016」，在活动期内作为该组初始可玩曲之一出现；jubeat@Wiki 曲目表也标注其为 Qubell 原创侧曲目，并于 2016 年 8 月 10 日配信。后续在 jubeat plus 的 Qubell 曲包和 pop'n music 等其他机种属于扩散收录，不改变其在 Qubell 的首发定位。
-
-**资料来源**
-
-1. RemyWiki：《Angelic Jelly》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Angelic Jelly》与《曲リスト(Qubell)》，访问日期 2026-11-01。
-3. BEMANI 官方：《夏のニュージェネ流星フェスタ2016》与《ニュージェネ流星拡散フェスタ2016》活动页，访问日期 2026-11-01。
-4. Pop'n Music Wiki：《Angelic Jelly》，访问日期 2026-11-01。
-5. ポップンミュージック上級攻略Wiki：《ハッピーでハードコア(H)/(N)》，访问日期 2026-11-01。
-6. jubeat Lab.：《Angelic Jelly / t+pazolite》谱面与编集室页，访问日期 2026-11-01。
-7. T+pazolite：《Wikipedia 艺人资料》，访问日期 2026-11-01。
-
-**核验边界**
-
-本曲初出组合在 IIDX、jubeat、SOUND VOLTEX 三机种同时进行，jubeat 的具体首发日写为 2016 年 8 月 10 日；其他机种同日或后续日期未统一列出。clan 时期 BASIC 5 降为 4 的记录属于后作变化，不写入 Qubell 位置。jubeat Lab. 页面可用于曲面存在性，但本次不据此推断详细谱面特征。
-
-# jubeat Qubell 资料条目批次（资料行 37-48）
-
-以下条目按 `/tmp/qubell-order.tsv` 第 37-48 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
-
-## 37. ZEPHYRANTHES
-
-统一曲库 ID：`arcade_70000097`
-
-
-**曲目档案**
-
-《ZEPHYRANTHES》由 TAG 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 180，三种谱面等级为 BASIC 4、ADVANCED 8、EXTREME 10，节点数分别为 333、616、844。曲名取自风雨兰属植物，是 TAG 以花朵为主题的 BLOOM 系列第三作。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）。
-
-**背景知识**
-
-本曲为 2016 年 IIDX、SDVX、jubeat 三作联动企划「夏のニュージェネ流星フェスタ2016」的追加曲之一，同时也在《beatmania IIDX 23 copula》与《SOUND VOLTEX III GRAVITY WARS》登场。TAG 是 BEMANI 系列资深作曲家，本曲延续其以花卉命名的创作脉络，编曲融合电子音色与管弦要素，节奏变化鲜明。
-
-**jubeat Qubell 位置**
-
-本曲在 Qubell 期通过「夏のニュージェネ流星フェスタ2016」QUBE 的 STAGE 4 解锁，活动期间为 2016 年 8 月 10 日至 10 月 30 日。活动结束后本曲成为 Qubell 默认曲。移动端《jubeat plus》以 Qubell pack 15 形式收录。
-
-**资料来源**
-
-1. RemyWiki：《ZEPHYRANTHES》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲リスト（Qubell）及 ZEPHYRANTHES 条目，访问日期 2026-11-01。
-3. Jubeat Wiki Fandom：夏のニュージェネ流星フェスタ2016（QUBE）条目，访问日期 2026-11-01。
-4. seore.org：ZEPHYRANTHES 条目，访问日期 2026-11-01。
-5. BEMANICN：ZEPHYRANTHES 条目，访问日期 2026-11-01。
-6. Konami BEMANI Fan Site：夏のニュージェネ流星フェスタ2016 官方页面，访问日期 2026-11-01。
-
-**核验边界**
-
-节点数以 jubeat@Wiki 曲リスト（Qubell）记载为准，各难度分别为 333、616、844，与 sonicy_memo 及 Fandom 曲表交叉一致。BLOOM 系列归属依据 TAG 花朵主题系列曲目的既有资料，具体曲目顺序以 IIDX 或 SDVX 侧记载为准。活动结束后转为默认曲的具体日期未在可查资料中给出单一答案，故不作定论。
-
-## 38. Triple Counter
-
-统一曲库 ID：`arcade_70000098`
-
-
-**曲目档案**
-
-《Triple Counter》由 DJ YOSHITAKA meets dj TAKA 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 216，三种谱面等级为 BASIC 6、ADVANCED 9、EXTREME 10，节点数分别为 451、800、921，各难度另有 12、30、35 个 HOLD 判定点。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）。
-
-**背景知识**
-
-jubeat@Wiki 将本曲流派标注为 RISK + VACUUM，与 DJ YOSHITAKA 的《Risk Junk》及 dj TAKA 的《Lucky Vacuum》在 jubeat 系列中的脉络相呼应。本曲也是两位作曲家继《Elemental Creation》之后的再次合作。曲风以高速电子节拍为主，216 的 BPM 在 Qubell 新曲中属于高速层级，谱面在总节点之外另设 HOLD 判定点。
-
-**jubeat Qubell 位置**
-
-本曲在 Qubell 期通过「夏のニュージェネ流星フェスタ2016」QUBE 的 STAGE 5 解锁，活动期间为 2016 年 8 月 10 日至 10 月 30 日。活动结束后转为默认曲。移动端《jubeat plus》收录情况未在本次交叉核对中确认为具体 pack 编号，故不作定论。
-
-**资料来源**
-
-1. RemyWiki：《Triple Counter》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Triple Counter 条目及曲リスト（Qubell），访问日期 2026-11-01。
-3. Jubeat Wiki Fandom：List of all songs (Qubell)，访问日期 2026-11-01。
-4. seore.org：Triple Counter 条目，访问日期 2026-11-01。
-5. BEMANICN：Triple Counter 条目，访问日期 2026-11-01。
-6. namu.moe：Triple Counter 条目，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）记载的 6、9、10 为准；后期版本如 clan 期调整为 6、9.2、10.4 的说法可在玩家资料中查到，但不属于 Qubell 初期数据，本条目不采用。HOLD 节点数比例（12、30、35）依据 namu.moe 记载，具体 HOLD 数与总节点数的关系需以谱面资料交叉确认。
-
-## 39. じもとっこスイーツ♪
-
-统一曲库 ID：`arcade_70000099`
-
-
-**曲目档案**
-
-《じもとっこスイーツ♪》由 ホララ・ホリック with 日向美ビタースイーツ♪ 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 108，三种谱面等级为 BASIC 2、ADVANCED 6、EXTREME 8，节点数分别为 155、352、522。后收录于日向美ビタースイーツ♪专辑《Home Sweet Home》（GFCA-429）第 11 轨。
-
-**背景知识**
-
-本曲属于 Konami 的 ひなビタ♪ 原创角色音乐项目，演唱者由日向美ビタースイーツ♪ 的三位女性角色担任。曲题直译为"本地人甜点"，歌词与旋律围绕地方甜点和地域情感展开，与 ひなビタ♪ 项目一贯的地域振兴主题呼应。原曲最初在《pop'n music éclale》登场，后移植至 jubeat Qubell 等多款 BEMANI 作品。
-
-**jubeat Qubell 位置**
-
-本曲于 2016 年 8 月 8 日追加至街机版《jubeat Qubell》，属于 ひなビタ♪ 系列曲移植。追加后即可游玩，无需额外解锁。移动端《jubeat plus》未确认具体 pack 归属。
-
-**资料来源**
-
-1. RemyWiki：《じもとっこスイーツ♪》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲リスト（Qubell）及 じもとっこスイーツ♪ 条目，访问日期 2026-11-01。
-3. asagaolabo @ ポップン百科大事典：じもとっこスイーツ♪ 条目，访问日期 2026-11-01。
-4. BEMANICN：本地の甜点（じもとっこスイーツ♪）条目，访问日期 2026-11-01。
-5. CDJapan：《Home Sweet Home》（GFCA-429）收录曲目页，访问日期 2026-11-01。
-
-**核验边界**
-
-本曲的演唱者角色分配在 ひなビタ♪ 项目资料中较复杂，本条目仅写"三位女性角色演唱"，不标注具体角色与声优对应关系以避免误写。pop'n music 侧的登场日期与 jubeat 端移植日期不同，本条目只覆盖 jubeat Qubell 侧的配信数据。
-
-## 40. 時の妖花
-
-统一曲库 ID：`arcade_70000101`
-
-
-**曲目档案**
-
-《時の妖花》由 ゲーム実況者わくわくバンド 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 150，三种谱面等级为 BASIC 2、ADVANCED 6、EXTREME 9，节点数分别为 142、367、662。配信日期为 2016 年 9 月 7 日。
-
-**背景知识**
-
-ゲーム実況者わくわくバンド是一支由五人组成的乐队，以游戏实况与音乐演出结合的形式活动。乐队曾一度解散，于 2016 年 4 月重新结成。本曲是重组后与 BEMANI 系列的第二次合作，延续了乐队前作《僕ガ壊レル前ニ》与 BEMANI 联动的脉络。曲名中的"妖花"暗示时间流逝中绽放的瞬间美感，编曲融合摇滚与电子要素。
-
-**jubeat Qubell 位置**
-
-本曲于 2016 年 9 月 7 日追加至街机版《jubeat Qubell》，追加后即可游玩。移动端《jubeat plus》未确认具体 pack 归属。
-
-**资料来源**
-
-1. RemyWiki：《時の妖花》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲リスト（Qubell）及時の妖花条目，访问日期 2026-11-01。
-3. asagaolabo @ ポップン百科大事典：時の妖花条目，访问日期 2026-11-01。
-4. BEMANICN：jubeat Qubell 曲目列表，访问日期 2026-11-01。
-5. sonicy_memo：時の妖花谱面记录页，访问日期 2026-11-01。
-
-**核验边界**
-
-jubeat@Wiki 曲リスト记载 EXTREME 等级为 9；sonicy_memo 部分页面存在标注为 8 的版本差异，本条目采用 jubeat@Wiki 曲リスト的 9。乐队重组时间与 BEMANI 合作次数依据 asagaolabo 百科事典，不扩展至具体重组成员变动细节。
-
-## 41. aleatrik
-
-统一曲库 ID：`arcade_70000102`
-
-
-**曲目档案**
-
-《aleatrik》由 nc ft. NRGFactory 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 138，三种谱面等级为 BASIC 4、ADVANCED 7、EXTREME 9，节点数分别为 310、526、731。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）第 17 轨。
-
-**背景知识**
-
-nc 为西村宜隆在 Konami BEMANI 系列使用的作曲家名义。NRGFactory 是 nc 所属 Noise Cloak 工作室的作曲家加藤浩義，本曲为其在 DDR 之外 BEMANI 机种的首次直接供曲。曲名读法为"アーリアトリック"，融合电子节拍与人声采样，节奏结构带有 DDR 系列曲目的律动感。
-
-**jubeat Qubell 位置**
-
-本曲通过 Qubell 的掘りすぎ dig RUSH 1st dig（DanceDanceRevolution A 主题）Stage 3 解锁，活动期间为 2016 年 9 月 8 日至 10 月 5 日。移动端《jubeat plus》以 Qubell pack 5 形式收录。
-
-**资料来源**
-
-1. RemyWiki：《aleatrik》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：aleatrik 条目及曲リスト（Qubell），访问日期 2026-11-01。
-3. sonicy_memo：aleatrik 三难度谱面记录页，访问日期 2026-11-01。
-4. seore.org：aleatrik 条目，访问日期 2026-11-01。
-5. BEMANICN：Aleatrik 条目，访问日期 2026-11-01。
-6. play-asia：《Jubeat Qubell Original Soundtrack》收录曲目页，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）的 4、7、9 为准。seore.org 部分页面显示 3、6、8 的数值，此为后期版本 clan 期调整，不属于 Qubell 初期数据。NRGFactory 与 nc 所属作曲家的对应关系依据 jubeat@Wiki 条目说明，工作室名 Noise Cloak 未在官方页面直接复核。
-
-## 42. Cosminflation
-
-统一曲库 ID：`arcade_70000103`
-
-
-**曲目档案**
-
-《Cosminflation》由山本真央樹创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 195，三种谱面等级为 BASIC 5、ADVANCED 7、EXTREME 10，节点数分别为 262、413、686。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）第 18 轨。
-
-**背景知识**
-
-山本真央樹是 Konami 所属作曲家，本曲为其在 jubeat 系列的首曲。曲名融合 cosmic（宇宙）与 inflation（膨胀）的意象，编曲以电子节拍与合成器为主，节奏推进感强烈。标题可理解为宇宙膨胀的隐喻，与 BEMANI 作曲家在命名上常用的科学概念风格一致。
-
-**jubeat Qubell 位置**
-
-本曲通过 Qubell 的掘りすぎ dig RUSH 2nd dig（GITADORA Tri-Boost 主题）Stage 3 解锁，活动期间为 2016 年 9 月 22 日至 10 月 19 日。移动端《jubeat plus》以 Qubell pack 5 形式收录。
-
-**资料来源**
-
-1. RemyWiki：《Cosminflation》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Cosminflation 条目及曲リスト（Qubell），访问日期 2026-11-01。
-3. seore.org：Cosminflation 条目，访问日期 2026-11-01。
-4. BEMANICN：jubeat Qubell 曲目列表，访问日期 2026-11-01。
-5. play-asia：《Jubeat Qubell Original Soundtrack》收录曲目页，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）的 5、7、10 为准。后期版本 clan 期调整未在本次交叉核对中逐一确认，故不写。山本真央樹的首曲身份依据 jubeat@Wiki 条目，其在 GITADORA 或 SDVX 的其他供曲情况不展开。
-
-## 43. Invisible Border
-
-统一曲库 ID：`arcade_70000104`
-
-
-**曲目档案**
-
-《Invisible Border》由 world sequence 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 156，三种谱面等级为 BASIC 4、ADVANCED 6、EXTREME 9，节点数分别为 167、301、629。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）第 20 轨。
-
-**背景知识**
-
-world sequence 是村井聖夜在 BEMANI 系列使用的作曲家名义之一。本曲继 jubeat saucer 期的《Life Connection》之后约三年再次出现在 jubeat 系列，延续了 world sequence 融合电子与管弦的风格。曲名"看不见的边界"呼应了乐曲在节奏切换与音色过渡中的流动感。
-
-**jubeat Qubell 位置**
-
-本曲通过 Qubell 的掘りすぎ dig RUSH 4th dig（pop'n music éclale 主题）Stage 3 解锁，活动期间为 2016 年 10 月 20 日至 11 月 16 日。移动端《jubeat plus》以 Qubell pack 5 形式收录。
-
-**资料来源**
-
-1. RemyWiki：《Invisible Border》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Invisible Border 条目及曲リスト（Qubell），访问日期 2026-11-01。
-3. seore.org：Invisible Border 条目，访问日期 2026-11-01。
-4. BEMANICN：jubeat plus 收录曲列表，访问日期 2026-11-01。
-5. play-asia：《Jubeat Qubell Original Soundtrack》收录曲目页，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）的 4、6、9 为准。后期版本调整未在本次核对中确认。world sequence 与村井聖夜的对应关系依据 jubeat@Wiki 条目说明，不扩展至名义变更时间线。
-
-## 44. The Omen
-
-统一曲库 ID：`arcade_70000105`
-
-
-**曲目档案**
-
-《The Omen》由 RoughSketch 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 185，三种谱面等级为 BASIC 5、ADVANCED 9、EXTREME 10，节点数分别为 340、586、772。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）第 21 轨。
-
-**背景知识**
-
-RoughSketch 是日本速度core和 hardcore 电子音乐制作人，继 jubeat prop 期的《Sacrifice for Justice》之后再次为 jubeat 系列供曲。曲名"凶兆"与乐曲的压迫感编曲和高速节拍呼应，延续了 RoughSketch 在 BEMANI 系列中偏向高强度电子的风格。
-
-**jubeat Qubell 位置**
-
-本曲通过 Qubell 的掘りすぎ dig RUSH 5th dig（REFLEC BEAT VOLZZA 2 主题）配信，活动期间为 2016 年 11 月 3 日至 11 月 30 日。移动端《jubeat plus》以 Qubell pack 15 形式收录。
-
-**资料来源**
-
-1. RemyWiki：《The Omen》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：The Omen 条目及曲リスト（Qubell），访问日期 2026-11-01。
-3. sonicy_memo：The Omen 三难度谱面记录页，访问日期 2026-11-01。
-4. seore.org：The Omen 条目，访问日期 2026-11-01。
-5. BEMANICN：jubeat Qubell 曲目列表，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）的 5、9、10 为准。后期版本 clan 期 ADV 调整为 8 的说法可在玩家资料中查到，但不属于 Qubell 初期数据。HOLD 节点数（8、20、14）依据 seore.org 记载，与总节点数的对应关系需以谱面资料确认。
-
-## 45. ULTRA HAPPY MEGAMIX
-
-统一曲库 ID：`arcade_70000106`
-
-
-**曲目档案**
-
-《ULTRA HAPPY MEGAMIX》由 DJ Genki 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 180，三种谱面等级为 BASIC 4、ADVANCED 8、EXTREME 9，节点数分别为 296、598、743。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）第 19 轨。
-
-**背景知识**
-
-DJ Genki 是日本 happy hardcore 与 future bass 制作人，本曲为其在 jubeat 系列的首次收录。曲题中的 MEGAMIX 指向多首乐曲片段混合的形式，编曲以 happy hardcore 的高速节拍与明亮旋律为主，延续 DJ Genki 一贯的欢快色彩。
-
-**jubeat Qubell 位置**
-
-本曲通过 Qubell 的掘りすぎ dig RUSH 3rd dig（beatmania IIDX 23 copula 主题）Stage 3 解锁，活动期间为 2016 年 10 月 6 日至 11 月 2 日。移动端《jubeat plus》以 Qubell pack 5 形式收录。
-
-**资料来源**
-
-1. RemyWiki：《ULTRA HAPPY MEGAMIX》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：曲リスト（Qubell），访问日期 2026-11-01。
-3. sonicy_memo：ULTRA HAPPY MEGAMIX 三难度谱面记录页，访问日期 2026-11-01。
-4. seore.org：ULTRA HAPPY MEGAMIX 条目，访问日期 2026-11-01。
-5. BEMANICN：jubeat Qubell 曲目列表，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）的 4、8、9 为准。DJ Genki 专辑《ULTRA HAPPY COLLECTION!!!!》收录 EXTENDED MIX 的说法依据 TANO*C STORE 页面信息，但具体收录版本差异未在本次交叉核对中充分展开。
-
-## 46. 檄
-
-统一曲库 ID：`arcade_70000107`
-
-
-**曲目档案**
-
-《檄》由 Ryu☆ feat.青龍 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 191，三种谱面等级为 BASIC 4、ADVANCED 8、EXTREME 10，节点数分别为 212、476、659。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）第 22 轨。
-
-**背景知识**
-
-檄在日语中意为檄文或号召书，曲题与乐曲的号召感编曲呼应。青龍是 Ryu☆ 在 BEMANI 系列使用的别名义之一，此前曾以该名义提供《Water Horizon》和《BLUE DRAGON》，但两者均为版权曲。本曲为青龍名义在 jubeat 系列的首首原创供曲。Ryu☆ 个人名义继 jubeat saucer 期的《We're so Happy》后回归 jubeat 系列。
-
-**jubeat Qubell 位置**
-
-本曲通过 Qubell 的掘りすぎ dig RUSH FINAL Stage 2 解锁，活动期间为 2016 年 11 月 17 日至 12 月 21 日。移动端《jubeat plus》以 Qubell pack 19 形式收录。
-
-**资料来源**
-
-1. RemyWiki：《檄》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：檄条目及曲リスト（Qubell），访问日期 2026-11-01。
-3. namu.moe：檄（BEMANI 시리즈）条目，访问日期 2026-11-01。
-4. BEMANICN：jubeat Qubell 曲目列表，访问日期 2026-11-01。
-5. ZIv：jubeat Qubell 新曲与活动报道，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）的 4、8、10 为准。namu.moe 页面显示 3、8、10.5 的数值，此为后期 clan 期调整，不属于 Qubell 初期数据。青龍名义首首原创供曲的说法依据 jubeat@Wiki 条目，与此前版权曲收录记录不冲突。
-
-## 47. Against the vulgar aggressor
-
-统一曲库 ID：`arcade_70000108`
-
-
-**曲目档案**
-
-《Against the vulgar aggressor》由 GUHROOVY 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 210，三种谱面等级为 BASIC 4、ADVANCED 7、EXTREME 10，节点数分别为 238、480、945。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）。
-
-**背景知识**
-
-GUHROOVY 是日本速度core电子音乐制作人，继 jubeat saucer 期的《Stand Alone Beat Masta》之后再次为 jubeat 系列供曲。本曲标题直译为"对抗低俗侵略者"，延续 GUHROOVY 在 jubeat 系列中以对抗性标题命名作品的习惯。其 jubeat 供曲的 BPM 从《Stand Alone Beat Masta》的 200 递增至本曲的 210，符合该作曲家每首 jubeat 供曲 BPM 递增 10 的系列特征。
-
-**jubeat Qubell 位置**
-
-本曲通过 Qubell 的掘りすぎ dig RUSH FINAL Stage 3 解锁，活动期间为 2016 年 11 月 17 日至 12 月 21 日。移动端《jubeat plus》收录情况未在本次交叉核对中确认具体 pack 编号。
-
-**资料来源**
-
-1. RemyWiki：《Against the vulgar aggressor》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Against the vulgar aggressor 条目及曲リスト（Qubell），访问日期 2026-11-01。
-3. BEMANICN：Against the vulgar aggressor 条目，访问日期 2026-11-01。
-4. namu.moe：Against the vulgar aggressor 条目，访问日期 2026-11-01。
-5. seore.org：Against the vulgar aggressor 条目，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）的 4、7、10 为准。Fandom 的 LEVEL changes in clan 页面显示后期 clan 期调整为 3、6、10，不属于 Qubell 初期数据。BPM 递增特征依据 BEMANICN 与 namu.moe 的既有记载，GUHROOVY 供曲序列的完整对应需以历代曲目页逐一确认。
-
-## 48. Giant Otter Family
-
-统一曲库 ID：`arcade_70000109`
-
-
-**曲目档案**
-
-《Giant Otter Family》由 S-C-U 创作，为街机版《jubeat Qubell》首次收录曲。基本速度为 188，三种谱面等级为 BASIC 3、ADVANCED 8、EXTREME 10，节点数分别为 208、569、761。后收录于《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）第 23 轨。
-
-**背景知识**
-
-S-C-U 是 Konami 所属作曲家，本曲延续其在 jubeat 系列中的动物主题系列曲脉络。曲名直译为"巨獭家族"，巨獭是南美淡水流域的大型鼬科动物。谱面制作者为 まっする，延续了该设计者在动物主题谱面中的既有工作。其后 S-C-U 在 jubeat clan 期以《brown hawk owl》继续动物系列。
-
-**jubeat Qubell 位置**
-
-本曲通过 Qubell 的掘りすぎ dig RUSH FINAL Stage 1 解锁，活动期间为 2016 年 11 月 17 日至 12 月 21 日。移动端《jubeat plus》以 Qubell pack 19 形式收录。
-
-**资料来源**
-
-1. RemyWiki：《Giant Otter Family》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：Giant Otter Family 条目及曲リスト（Qubell），访问日期 2026-11-01。
-3. sonicy_memo：Giant Otter Family 谱面记录页，访问日期 2026-11-01。
-4. seore.org：Giant Otter Family 条目，访问日期 2026-11-01。
-5. note.com IcarusProject：Giant Otter Family 专文，访问日期 2026-11-01。
-6. MusicBrainz：S-C-U 录音与专辑收录记录，访问日期 2026-11-01。
-
-**核验边界**
-
-三种谱面等级以 jubeat@Wiki 曲リスト（Qubell）的 3、8、10 为准。clan 期 EXTREME 调整为 9.5 的说法依据玩家资料，不属于 Qubell 初期数据。动物系列与谱面制作者 まっする 的对应关系依据 jubeat@Wiki 与 note.com IcarusProject 的记载，具体系列曲目编号未逐一列出。
-
-# jubeat Qubell 资料条目批次（资料行 49-60）
-
-以下条目按 `/tmp/qubell-order.tsv` 第 49-60 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
-
-## 49. Megalara Garuda
-
-统一曲库 ID：`arcade_70000110`
-
-
-**曲目档案**
-
-《Megalara Garuda》由 SYUNN 创作，为街机版《jubeat Qubell》首次收录曲。街机谱面 BPM 为 180，三种谱面等级均为 10， Notes 数分别为基础 932、中阶 912、困难 914。曲名取自 2012 年发表的新种蜂属与物种“Megalara garuda”，该曲与 SYUNN 开始作曲活动的时间相合。长版后来收录进《jubeat Qubell》原声专辑《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）。
-
-**背景知识**
-
-本曲是 SYUNN 在 BEMANI 系列中的出道作品，曲名借用了体形巨大、具明显大颚的新种蜂。作者把这种新发现的昆虫作为标题意象，使曲目在生物学趣味和强节奏编曲之间形成呼应。由于三谱面当时均定在 10 级，本曲也经常被玩家视作 Qubell 时期的高强度新曲标志。其后本曲陆续移植到《DanceDanceRevolution》《pop'n music》《beatmania IIDX》等 BEMANI 作品。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》位于掘りすぎ dig RUSH FINAL 的最终解禁段。解锁流程以 HARD MODE 达到 980,000 分以上为核心条件，完成对应活动条件后即可获得全三谱面。因其三谱面同为 10 级，活动期间常被玩家用作 FINAL 段的收尾挑战。
-
-**资料来源**
-
-- RemyWiki：《Megalara Garuda》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：Megalara Garuda 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 掘りすぎ dig RUSH 资料页，访问日期 2026-11-01。
-- Konami 官方：《jubeat Qubell》掘りすぎ dig RUSH FINAL 公告页，访问日期 2026-11-01。
-- Otoge Station：jubeat Qubell 新曲与 OST 收录整理页，访问日期 2026-11-01。
-- ZIv：jubeat Qubell 活动与新曲资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-各站对 Notes、BPM 与三谱面 10 级的记载一致；SYUNN 开始作曲活动与新种蜂发现同年虽可对应，但只作为背景说明，不引申为官方命名理由。后移植作品的谱面细节未纳入本条目。OST 的具体碟片编号以专辑资料页为准。
-
-## 50. Saturday Night Love
-
-统一曲库 ID：`arcade_70000111`
-
-
-**曲目档案**
-
-《Saturday Night Love》由 Sota feat. Brenda V. 演唱，为《jubeat Qubell》首次收录曲。Qubell 期三种谱面等级为 3、6、8。原曲属 disco house 风格，官方谱面资料未在本次交叉核对中统一给出 BPM；玩家资料普遍记录为 128，本条目不写死官方栏位。
-
-**背景知识**
-
-本曲最早出自《beatmania IIDX 8th Style》，另在《DanceDanceRevolution Ultramix 3》出现，演唱者为 Brenda Vaughn。曲题与编曲均延续美式夜生活气氛，人声段落和 4/4 拍低音节奏使其适合快速判点的密集排布。移植到 jubeat 后，谱面主要围绕鼓组和电子音色做反馈，属于易上手但中阶谱面节奏变化较明显的作品。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过 Special QUBE 活动获得，联动主题为《DanceDanceRevolution》QUBE。活动入口位于 Qubell 的 dig 流程内，完成相应条件后加入常驻曲库。Qubell 后期版本将谱面等级调整为 2、5、7，本条目保留 Qubell 当期等级。
-
-**资料来源**
-
-- RemyWiki：《Saturday Night Love》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：Saturday Night Love 条目，访问日期 2026-11-01。
-- RemyWiki 所属 Fandom 站：DanceDanceRevolution Saturday Night Love 曲目页，访问日期 2026-11-01。
-- Konami 官方：《jubeat Qubell》Special QUBE 公告资料，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell Special QUBE 与移植曲整理，访问日期 2026-11-01。
-- ZIv：BEMANI 系列移植曲资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-Qubell 当期等级与后期调整等级在 Fandom 曲表和 jubeat@Wiki 之间存在阶段差异，本条目采用 Qubell 初收录时期的 3、6、8。BPM 128 在多站玩家资料中出现，但未能直接复核官方界面栏位，故不作为确定数据写入曲目档案。原 IIDX 与 DDR 的初次收录年份细节未在本条目展开。
-
-## 51. New York EVOLVED
-
-统一曲库 ID：`arcade_70000112`
-
-
-**曲目档案**
-
-《New York EVOLVED》由 NC underground 创作，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 标为 190，三谱面等级为 5、9、10， Notes 数分别为 373、760、848。后继系列在 clan 期将基础谱面等级由 5 调整为 4。曲题在本作中省略原作的后缀，使用的是 Type A 音源。
-
-**背景知识**
-
-本曲原出自《DanceDanceRevolution X3 VS 2ndMIX》，原作存在多个类型版本，jubeat 收录时取 Type A 并以《New York EVOLVED》命名。NC underground 是 Konami 音乐团队使用过的名义之一，曲风保留 DDR 的高速电子与律动感。jubeat 谱面虽然把 BPM 收敛为 190，但在排点上延续了原曲的变化段落，困难与中阶谱面均强调连续判点。
-
-**jubeat Qubell 位置**
-
-本曲在 Qubell 前通过《jubeat plus》先行配信，随后进入街机《jubeat Qubell》曲库。街机端无需额外活动解锁，加入后即提供三种谱面。因原作为 DDR 曲目，jubeat 端也被归入移植新曲，而非活动追加曲。
-
-**资料来源**
-
-- RemyWiki：《New York EVOLVED》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：New York EVOLVED 条目，访问日期 2026-11-01。
-- Konami 官方：《DanceDanceRevolution X3 VS 2ndMIX》曲目页，访问日期 2026-11-01。
-- Konami 官方：《jubeat plus》配信资料，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 新曲与移植曲资料页，访问日期 2026-11-01。
-- ZIv：DanceDanceRevolution 与 jubeat 移植曲整理，访问日期 2026-11-01。
-
-**核验边界**
-
-jubeat 端 BPM 190 与 DDR 原作记载的 95-380 存在表述差异，本条目只写 jubeat 标示值。clan 期基础谱面由 5 调整为 4 可在系列曲表核对，但不是 Qubell 当期数据。Type A 与原曲其他类型的具体差异未纳入谱面比较。
-
-## 52. Destiny lovers
-
-统一曲库 ID：`arcade_70000113`
-
-
-**曲目档案**
-
-《Destiny lovers》由 くにたけみゆき 演唱，为《jubeat Qubell》首次收录曲。Qubell 谱面 BPM 为 170，三谱面等级为 3、6、9， Notes 数分别为 165、333、685。原曲最早出自《GUITARFREAKS 7thMIX & drummania 6thMIX》，长版收录在《GUITARFREAKS & drummania VOCAL COLLECTION》。
-
-**背景知识**
-
-本曲是 GuitarFreaks 与 drummania 系列的抒情摇滚曲，歌词围绕命运与恋人关系展开，演唱者的清亮声线与吉他主导编曲相互配合。曲子在 pop'n music 系列也于 2004 年 2 月 25 日通过 ee'MALL 2nd avenue 登场，因此对多系列玩家来说并非全新旋律。jubeat 收录时以原系列曲源为基础，把吉他和鼓点拆解成面积可读的判点。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过掘りすぎ dig RUSH 2nd dig 的 GITADORA STAGE 1 解锁，属于该活动跨系列移植段的组成部分。完成活动后进入常驻曲库，三种谱面均随本曲一并开放。
-
-**资料来源**
-
-- RemyWiki：《Destiny lovers》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：Destiny lovers 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 掘りすぎ dig RUSH 2nd dig 资料页，访问日期 2026-11-01。
-- Konami 官方：《GUITARFREAKS 7thMIX & drummania 6thMIX》曲目资料，访问日期 2026-11-01。
-- Konami 官方音乐资料库：GUITARFREAKS & drummania VOCAL COLLECTION 收录表，访问日期 2026-11-01。
-- ZIv：GuitarFreaks 与 drummania 曲目整理页，访问日期 2026-11-01。
-
-**核验边界**
-
-pop'n music 侧的 ee'MALL 登场日期有玩家资料交叉支持，但 jubeat 条目只记录曲源与 Qubell 解锁路径。长版碟片信息以音乐资料库收录表为准，未复核实体册页。基础谱面 Notes 数在三站资料中一致，但未直接查看街机内数据。
-
-## 53. Vampire Killer
-
-统一曲库 ID：`arcade_70000114`
-
-
-**曲目档案**
-
-《Vampire Killer》由浅田 靖 改编，为《jubeat Qubell》首次收录曲。Qubell 谱面 BPM 为 128，三谱面等级为 3、7、9， Notes 数分别为 202、508、705。曲源是《恶魔城》系列名曲，jubeat 版本为 BEMANI 平台上的新编曲。原曲在《jubeat plus》端先行于 GITADORA 联动包配信。
-
-**背景知识**
-
-《Vampire Killer》最初是《Castlevania》系列的经典舞台音乐，旋律在系列中多次重编。浅田 靖 以本曲参与 BEMANI 平台改编，把原曲的管弦乐与摇滚意象转成可兼容街机判点的电子节奏。Konami 自家 IP 与 BEMANI 的联动使这首老曲获得了新的玩家群体，后来音击与 SDVX 侧也出现了相关的二次改编或关联版本。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过 GITADORA QUBE 解锁，属于跨系列 QUBE 活动的新增移植曲。解锁后提供三种谱面，基础谱面承担旋律识别，困难谱面则加强鼓点与低音的连击。移动端先行配信时间早于街机解锁，形成“plus 先行、街机跟进”的路径。
-
-**资料来源**
-
-- RemyWiki：《Vampire Killer》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：Vampire Killer 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell GITADORA QUBE 资料页，访问日期 2026-11-01。
-- Konami 官方：《jubeat plus》GITADORA 联动包配信公告，访问日期 2026-11-01。
-- Konami 官方：《Castlevania》系列音乐资料页，访问日期 2026-11-01。
-- ZIv：Konami 自家 IP 联动与 BEMANI 改编整理，访问日期 2026-11-01。
-
-**核验边界**
-
-浅田 靖 以本曲作为 BEMANI 出道作的说法在玩家资料中较为一致，但官方页面未单独强调“出道”二字，故只写入背景知识而不改写为官方称号。SDVX 的 scar-ed Pf rmx 与本曲的关联属于后续作品资料，未在本条目展开。移动端与街机解锁的先后顺序以公告页为准。
-
-## 54. 夢有
-
-统一曲库 ID：`arcade_70000115`
-
-
-**曲目档案**
-
-《夢有》由 Des-ROW・組 创作，标题读作“むゆう”，为《jubeat Qubell》首次收录曲。Qubell 谱面 BPM 为 145-170，三谱面等级为 3、6、8， Notes 数分别为 255、505、777。曲源是《pop'n music 8》，曲风带有 Des-ROW 系作品常见的和风与舞台化人声表达。
-
-**背景知识**
-
-Des-ROW 是 Osamu Migitera 在 BEMANI 平台使用的代表性名义之一，《夢有》延续了 pop'n music 中一组具有和风舞台氛围的作品序列。玩家资料普遍将其与“うたかた”意象联系，Qubell 端相关称号包括“すべてはうたかたの夢”和“すべては夢オチだったのです！”。曲题中的“夢”与“有”在字面上已提示梦境与存在的对照，实际歌词表达也围绕短暂与虚幻展开。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过掘りすぎ dig RUSH 的 pop'n music 段解锁，加入后为常驻曲库提供三谱面。相关称号与活动进度绑定，玩家完成活动条件后可在个人资料中获取。困难谱面以中速双拍与和声切分为主要难点。
-
-**资料来源**
-
-- RemyWiki：《夢有》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：夢有 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 掘りすぎ dig RUSH pop'n music 段资料页，访问日期 2026-11-01。
-- Konami 官方：《pop'n music 8》曲目资料，访问日期 2026-11-01。
-- Otoge Station：jubeat Qubell 新曲与称号整理页，访问日期 2026-11-01。
-- ZIv：pop'n music 与 jubeat 移植曲资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-具体属于掘りすぎ dig RUSH 的哪一个 STAGE 未能在本次交叉核对中确认，jubeat@Wiki 仅指向 dig Qubell 参照，本条目因此不写死阶段编号。玩家站对 BPM 曾有 144-170 的写法，本条目采用更常见的 145-170，但保留该差异。困难谱面 777 Notes 在当时被部分资料称为该等级内最多，是否为严格记录未展开。
-
-## 55. Bleep Beep Bop
-
-统一曲库 ID：`arcade_70000116`
-
-
-**曲目档案**
-
-《Bleep Beep Bop》由 kors k 创作，为《jubeat Qubell》首次收录曲。曲源是《pop'n music Sunny Park》，属 CANDY RAVE 系列作品。Qubell 谱面 BPM 为 175，三谱面等级为 4、7、10， Notes 数分别为 409、545、921。
-
-**背景知识**
-
-本曲延续 CANDY RAVE 的糖果色舞曲形象，标题用拟声词呼应电子音色与机械节拍。对 kors k 而言，这是自《Ge-Ko-Ku-Jo》后在 pop'n music 中再见的非合作原创曲，因此常被玩家视为他在该系列作品线的重要续接。jubeat 谱面则把高频合成音与舞曲鼓组安排成密集判点，困难谱面在 10 级中偏重节奏耐力。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过掘りすぎ dig RUSH 第 4 dig 的 pop'n music QUBE 解锁。活动完成后进入常驻曲库，三种谱面随曲目开放。Qubell 端没有另行设置长版，街机使用的是移植短版。
-
-**资料来源**
-
-- RemyWiki：《Bleep Beep Bop》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：Bleep Beep Bop 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 掘りすぎ dig RUSH 第 4 dig 资料页，访问日期 2026-11-01。
-- Konami 官方：《pop'n music Sunny Park》曲目资料，访问日期 2026-11-01。
-- Otoge Station：jubeat Qubell 新曲与移植曲整理页，访问日期 2026-11-01。
-- ZIv：kors k 与 pop'n music 作品资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-“自 Ge-Ko-Ku-Jo 以来 pop'n 首支非合作原创”出自玩家资料整理，本条目仅作为背景描述，不视为官方说明。CANDY RAVE 系列形象依据 pop'n music 曲目页，未在本条目追溯系列全部作品。Qubell 解锁活动完成后的称号与奖励未展开。
-
-## 56. Knell
-
-统一曲库 ID：`arcade_70000117`
-
-
-**曲目档案**
-
-《Knell》由 Project B- 创作，为《jubeat Qubell》首次收录曲。曲源是《REFLEC BEAT colette》，Qubell 谱面 BPM 为 205，三谱面等级为 4、7、9， Notes 数分别为 304、523、712。长版《Float Under the Calm Knell》收录在《REFLEC BEAT colette ORIGINAL SOUNDTRACK VOL.2》。
-
-**背景知识**
-
-Project B- 是 Akhuta 在 BEMANI 平台使用的匿名名义之一，相同名义曾出现在《beatmania IIDX tricoro》的《Deceive Your Insight》。曲题“Knell”意为钟声，常与丧钟意象相联，曲风也以冷冽的钢琴、弦乐和电子底层构成阴郁氛围。jubeat 谱面用钟声与低音的交替形成节奏骨架，长押和连打配合高 BPM 保持压迫感。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过 REFLEC BEAT QUBE 第 5 dig 的 STAGE 1 解锁。移动端在 REFLEC BEAT pack 3 中已有 jubeat plus 原生长押谱面，街机端则随后通过 QUBE 活动开放。解锁后三种谱面一并提供，没有额外长版。
-
-**资料来源**
-
-- RemyWiki：《Knell》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：Knell 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell REFLEC BEAT QUBE 第 5 dig 资料页，访问日期 2026-11-01。
-- Konami 官方：《REFLEC BEAT colette》曲目资料，访问日期 2026-11-01。
-- Konami 官方：《jubeat plus》REFLEC BEAT pack 3 配信公告，访问日期 2026-11-01。
-- Otoge Station：REFLEC BEAT colette OST 收录整理页，访问日期 2026-11-01。
-
-**核验边界**
-
-Project B- 与 Akhuta 的对应关系由玩家资料和同名义作品交叉支持，官方页面未在 jubeat 曲目栏直接标注真实身份。移动端 pack 3 的“原生长押谱面”表述依据 jubeat plus 资料整理，不表示街机端谱面完全相同。长版碟片编号未写入，避免与实体专辑资料页冲突。
-
-## 57. Hollywood Galaxy
-
-统一曲库 ID：`arcade_70000118`
-
-
-**曲目档案**
-
-《Hollywood Galaxy》由 dj TAKA 创作，为《jubeat Qubell》首次收录曲。曲源是《REFLEC BEAT limelight》，后在《beatmania IIDX tricoro》以 LIMIT BURST 框架移植。jubeat Qubell 端采用仅长押谱面形式，三谱面等级为 5、8、10.3， Notes 数分别为 347、589、701，长押数分别为 20、18、38。BPM 为 186。
-
-**背景知识**
-
-本曲为 drum'n'bass 作品，把 dj TAKA 常见的科幻感键盘段落与高速鼓组结合。标题虽带有“Hollywood”，实际意象更接近霓虹与星际航行的合成器舞台。dj NAGAI Remix 收录于《beatnation RHYZE vs HARDCORE TANO*C》，长版则收录在 dj TAKA 专辑《True Blue…》。在 jubeat Qubell，本曲的特殊之处是全部谱面均以长押为判定主体。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过 REFLEC BEAT QUBE 的 STAGE 2 解锁。解锁后提供的是 HOLD 专用谱面，而非通常判点的常规谱面。困难谱面 10.3 级使它在当时 Qubell 曲表中带有明显的高难度标记，活动完成后进入常驻曲库。
-
-**资料来源**
-
-- RemyWiki：《Hollywood Galaxy》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：Hollywood Galaxy 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell REFLEC BEAT QUBE 与长押谱面资料页，访问日期 2026-11-01。
-- Konami 官方：《REFLEC BEAT limelight》与《beatmania IIDX tricoro》曲目资料，访问日期 2026-11-01。
-- Konami 官方音乐资料库：dj TAKA《True Blue…》收录表，访问日期 2026-11-01。
-- Otoge Station：beatnation RHYZE 与 dj TAKA 专辑整理页，访问日期 2026-11-01。
-
-**核验边界**
-
-jubeat Qubell 端“无通常谱、仅长押谱”由多个玩家曲表交叉，但不同资料对 Notes 的统计口径略有差别；本条目采用常见记录。10.3 级来自 Qubell 期谱面表，后续系列若有调整未纳入。IIDX LIMIT BURST 的移植规则只作为曲源背景，未比较三平台谱面细节。
-
-## 58. Daisuke
-
-统一曲库 ID：`arcade_70000119`
-
-
-**曲目档案**
-
-《Daisuke》由 Y&Co. 创作，为《jubeat Qubell》首次收录曲。曲源是《beatmania IIDX 10th style》，初出日期为 2004 年 2 月 18 日。Qubell 谱面 BPM 为 157，三谱面等级为 3、6、9， Notes 数分别为 343、621、871。街机端收录日期为 2016 年 10 月 6 日。
-
-**背景知识**
-
-本曲为 eurobeat 作品，作曲记名田村哲也，人声为 KAHORI。曲题原为《大好き(Daisuki)》，后来调整为现名《Daisuke》，这个名字也成为玩家识别 Y&Co. 作品线的重要标志。轻快的人声、循环副歌和高密度合成音使曲子在多平台移植后仍保持较高记忆度。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过掘りすぎ dig RUSH 3rd dig 的 IIDX STAGE 1 解锁。移动端在 beatmania IIDX pack 4 中先行配信，街机端随后于 2016 年 10 月 6 日开放。三种谱面随解锁一并提供，谱面排点以 eurobeat 的连续低音和副歌切分为主。
-
-**资料来源**
-
-- RemyWiki：《Daisuke》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：Daisuke 条目，访问日期 2026-11-01。
-- Otoge Station：Daisuke 曲目页，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 掘りすぎ dig RUSH 3rd dig 资料页，访问日期 2026-11-01。
-- Konami 官方：《beatmania IIDX 10th style》曲目资料，访问日期 2026-11-01。
-- Konami 官方：《jubeat plus》beatmania IIDX pack 4 配信公告，访问日期 2026-11-01。
-
-**核验边界**
-
-田村哲也与 KAHORI 的分工依据 IIDX 音乐资料页整理，Y&Co. 作为组合名义与实际人员名同时出现时未合并叙述。原题变更过程在玩家资料中有记载，但本条目不追溯改名前后的官方公告细节。移动端与街机端的具体日期以官方配信和 jubeat@Wiki 曲表为准。
-
-## 59. KAMAITACHI
-
-统一曲库 ID：`arcade_70000120`
-
-
-**曲目档案**
-
-《KAMAITACHI》由 DJ TECHNORCH fw. GUHROOVY 创作，为《jubeat Qubell》首次收录曲。曲源是《beatmania IIDX 14 GOLD》，曲风为 freeform hardcore。Qubell 谱面 BPM 为 165，三谱面等级为 5、9、10， Notes 数分别为 428、820、906。
-
-**背景知识**
-
-“KAMAITACHI”即日本传说中的妖怪镰鼬，作品以狂风、锐利音色和高强度 hardcore 节奏呼应这一形象。DJ TECHNORCH 的编排保留硬核电子的推进力，GUHROOVY 的人声与喊句进一步强化暴烈感。长版存在不同收录版本，一版见于 GUHROOVY 专辑《HARDCORE LIFE》，另一版以《Kamaitachi (妖怪鎌鼬 Long Version)》收录在 DJ TECHNORCH《THE BEST OF DJ TECHNORCH 2003-2013》。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过 IIDX QUBE 解锁。加入后提供三种谱面，中阶与困难谱面依靠持续连打和快速变奏体现原曲的硬核特征。活动完成后进入常驻曲库，街机端使用短版。
-
-**资料来源**
-
-- RemyWiki：《KAMAITACHI》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：KAMAITACHI 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell IIDX QUBE 资料页，访问日期 2026-11-01。
-- Konami 官方：《beatmania IIDX 14 GOLD》曲目资料，访问日期 2026-11-01。
-- Otoge Station：DJ TECHNORCH 专辑与长版收录整理页，访问日期 2026-11-01。
-- ZIv：beatmania IIDX 与 hardcore 作品资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-长版存在多个标题写法和专辑归属，本条目并列两种主要收录资料，不判定哪一版为“正式长版”。freeform hardcore 的曲风标签来自玩家与专辑资料整理，未查看官方曲风栏。镰鼬意象只作为曲题文化背景，不推论编曲每一音色的具体对应。
-
-## 60. BLACK or WHITE?
-
-统一曲库 ID：`arcade_70000121`
-
-
-**曲目档案**
-
-《BLACK or WHITE?》由 BlackYooh vs. siromaru 创作，为《jubeat Qubell》首次收录曲。曲源是《SOUND VOLTEX II -infinite infection-》，为 KAC 2013 公募曲。Qubell 谱面 BPM 为 185，三谱面等级为 5、9、10。Notes 数常见记录为 348、745、911，部分资料另记基础谱面 350；其中长押数分别为 23、22、35。
-
-**背景知识**
-
-本曲是 BlackY、Yooh 与 siromaru 的合作名义作品，名义中的黑、白对比也与曲题互文。作品在 Konami Arcade Championship 2013 公募中登场，后来成为 SOUND VOLTEX 曲库中的代表性高速合作曲之一。Yooh 的《Dynasty》此前已进入 jubeat saucer，本曲则让这条作品线继续连接到 jubeat Qubell。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过 FLOOR INFECTION Part.22 解锁。该活动自 2016 年 10 月 20 日起进行，解锁路径要求在 SOUND VOLTEX 端获得 7100 点并使感染等级达到 1 MAX。完成条件后，jubeat 端开放三谱面。后续系列曾将谱面等级调整为 4、9.1、10.5，本条目保留 Qubell 期数据。
-
-**资料来源**
-
-- RemyWiki：《BLACK or WHITE?》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：BLACK or WHITE? 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell FLOOR INFECTION Part.22 资料页，访问日期 2026-11-01。
-- Konami 官方：《SOUND VOLTEX II -infinite infection-》KAC 2013 公募资料，访问日期 2026-11-01。
-- Otoge Station：FLOOR INFECTION 与 SOUND VOLTEX 移植曲整理页，访问日期 2026-11-01。
-- ZIv：SOUND VOLTEX 与 jubeat 联动资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-基础谱面 Notes 数在 jubeat@Wiki 与其他玩家站之间存在 350 与 348 的差异，本条目以“常见记录”并列，不写死单一数值。谱面等级的后续调整不属于 Qubell 当期，未与活动解锁时间混写。KAC 2013 的详细公募规则未展开，本条目只记录其曲源身份。
-
-# jubeat Qubell 资料条目批次（资料行 61-72）
-
-以下条目按 `/tmp/qubell-order.tsv` 第 61-72 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
-
-## 61. 琥珀のくちづけ
-
-统一曲库 ID：`arcade_70000122`
-
+<a id="arcade-70000019-shared"></a>
+## あなたに恋をしてみました
+
+- 统一曲库 ID：`arcade:70000019`
+- 原章节编号与标题：1. あなたに恋をしてみました
 
 ### 曲目档案
 
-曲名为《琥珀のくちづけ》，艺人名日向美ビタースイーツ♪＆日向美ブルームーン，在 Qubell 中归属原创曲分类。曲目速度为每分钟 173 拍。通常谱面的基础、进阶、极限等级依次为 1、5、8，对应笔记数依次为 154、411、577。社区资料另记录全难度全连称号为「ディアボロ・ジンジャー」。
+- 标题：あなたに恋をしてみました
+- 艺人：chay
+- 词：chay、Junji Ishiwatari；曲：Koichi Tabo；歌网编曲署名多保孝一。
+- 原单曲：2015-02-18；历史游戏参数130、1/5/7、109/291/444。
 
-### 背景知识
+### 创作与制作背景
 
-这首曲目出自日向美ビタースイーツ♪企划，也就是常被乐迷简称为「ひなビタ♪」的跨机型音乐企划。曲名中的日向美ブルームoon 是企划内用于区分演唱与角色组合的艺人名之一，整体以仓吉市的日常、乐队活动与青春题材为叙事背景。标题里的「くちづけ」为「吻」之意，与企划中若干使用同类词缀的曲目形成命名上的呼应；不过其与其他吻题曲之间的具体设定关联，尚需企划文本或官方说明佐证。
+这首歌不是泛泛的甜蜜恋爱曲，而是chay首次担当连续剧主题歌的具体委约成果。唱片公司将它定位为《デート～恋とはどんなものかしら～》中笨拙主人公的恋心，与横滨背景相配的1960年代流行风格；这是官方用途说明。[1]
 
-### jubeat Qubell 位置
+chay在同期采访解释，接受主题歌时压力很大，制作投入了此前少见的时间及多人协作。委约给出的方向就是复古的六十年代感，她因而大量聆听当时音乐，想同时让年长听众感到熟悉、同代听众感到新鲜。完成录音后，她认为终于找到了自己的方向，而不是单为怀旧而模仿。[2]
 
-本曲属于 Qubell 时期新增收录曲，Tsv 记录为首次收录。其基础等级极低，进阶与极限则覆盖从入门到中阶的跨度，可作为原创曲早期推进路线中的过渡谱。社区资料记载，玩家在 2016 年 3 月 30 日以后游玩一次 Qubell 即可将其作为默认解锁曲目使用；该条件应按当期系统状态理解，不宜直接外推到后续世代。
+她在2017年的制作采访又明确，自己高中起就喜欢多保孝一创作的Superfly歌曲，一直希望请他写歌，这个愿望正是在本曲实现。多保的旋律与和弦思路不同于她自己的写法，合作由此成为持续的学习与新阶段的起点。[3]
+
+信用表同时保留chay与Junji Ishiwatari共同作词，不能因为歌手能创作就把全曲词曲全归给她；多保的作曲身份有采访与发行信用互证。[3–4]
+
+### jubeat 收录与版本
+
+Qubell历史表记2016-12-20加入，本条采用其130与旧等级/物量，不把来源未核的“实际137”作为结论。[5]
 
 ### 资料来源
 
-1. RemyWiki：《琥珀のくちづけ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《琥珀のくちづけ》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1742.html
-3. jubeat@Wiki：《曲リスト(Ave._旧曲)》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/2224.html
-4. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-5. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-6. 日向美ビタースイーツ♪官方档案与 e-AMUSEMENT GATE 日向美♪资料页，访问日期 2026-11-01。
+1. [Warner：あなたに恋をしてみました通常盘](https://wmg.jp/chay/discography/14040)：单曲日期、连续剧主题歌用途与60年代复古定位。
+2. [BARKS：chay首专采访](https://barks.jp/news/742483/)：主题歌压力、长时间共作、六十年代委约与自我方向发现。
+3. [Sound Designer采访公开节录](https://tunegate.me/P20170601009)：高中起欣赏多保作品，本曲实现合作；旋律和弦带来刺激。
+4. [歌ネット：本曲发行信用](https://www.uta-net.com/song/179777/)：chay/Junji Ishiwatari词，Koichi Tabo曲，多保编曲。
+5. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、130、1/5/7、109/291/444。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、等级、笔记数与解锁条件由 jubeat@Wiki 曲目页、旧曲列表、BEMANICN 与 Fandom 交叉。全连称号记录来自曲目页；通关称号原文写法仅概括为与曲名相关，未完整转录。与其他「くちづけ」题名曲目的设定关联未经官方来源证实，本文只描述命名现象。曲面时长在可访问页面中未见完整数值，故不写死。
+四来源根达标；本曲创作有歌手直接访谈。完整编配分工与街机母带待核；BARKS口述的“1月发行”不取代官方2月18日唱片日期。
 
-## 62. そこはかとなくロマンセ
+---
 
-统一曲库 ID：`arcade_70000123`
+<a id="arcade-70000024-shared"></a>
+## 新宝島
 
+- 统一曲库 ID：`arcade:70000024`
+- 原章节编号与标题：2. 新宝島
 
 ### 曲目档案
 
-曲名为《そこはかとなくロマンセ》，艺人名日向美ビタースイーツ♪，分类为原创曲。曲目速度为每分钟 140 拍。通常谱面的基础、进阶、极限等级依次为 2、6、8，对应笔记数依次为 172、339、503。Qubell 相关列表将追加日期记为 2016 年 11 月 3 日。全难度全连称号在社区资料中记录为「セツナ・ジュテーム・ジュテーム」。
+- 标题：新宝島
+- 艺人：サカナクション
+- 原单曲：2015-09-30，NF Records／Victor，VICL-37102。
+- 历史游戏参数：149–158、3/5/8、206/367/481。
 
-### 背景知识
+### 创作与制作背景
 
-曲目延续日向美ビタースイーツ♪企划的角色与世界观路线。「そこはかとなく」表示难以言明、不落具体名目的状态，与「ロマンセ」即浪漫曲结合后，题名呈现出含蓄的恋爱氛围。社区资料提到参与歌唱者与 pop'n music 企划中的ここなつ成员有关，但 jubeat 收录页标注的艺人名仍为日向美ビタースイーツ♪，因此本文不把具体演唱者名写成正式艺人署名。
+《新宝島》与电影《バクマン。》的关系是创作起因，而不是事后搭配。山口一郎在2019年电台回顾中说，当时乐队正走向较内省、阴暗的创作阶段，大根仁导演的电影配乐邀请迫使他们转向不同的张力；他把接下工作理解为重新面向外部听众的机会。因此本曲的明朗并非可由表面风格直接推论的无忧心情，而是一次有意识的方向转变。[1]
 
-### jubeat Qubell 位置
+另一场2020年电台谈话的媒体引述补足写词难关：山口先从手塚治虫作品读起，以理解漫画；电影已经完成时歌曲仍是无正式歌词的哼唱。真正卡住他的不是分别写电影或写自己，而是让两种叙事结合：第一段是漫画创作者，第二段是音乐人，最后副歌必须让二者相遇。这说明反复打磨的是叙事衔接，不宜把它简化为临时赶工。[2]
 
-本曲为 Qubell 中期追加曲，未使用长押谱面，等级跨度较温和。极限 8 的笔记量明显小于同级许多版权曲，社区资料对其评价偏重节奏与 score 安定性，而不是体力消耗。该曲后来也进入 pop'n music うさぎと猫と少年の夢，时间记为 2017 年 6 月 1 日；这说明其属于当时 Konami 企划内部相互借用的曲目，但不同机型的谱面与解锁路线互不相同。
+正式唱片将本曲列为电影主题歌，并把器乐版独立列轨，2015-09-30由NF Records发行；旧稿把厂牌写成Sony不沿用。电台创作回忆也不能证明jubeat采用哪一份商业剪辑母带。[3]
+
+### jubeat 收录与版本
+
+Qubell历史曲表记2016-07-18收录；保留当版149–158及3/5/8，不换成现行细分等级。[4]
 
 ### 资料来源
 
-1. RemyWiki：《そこはかとなくロマンセ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《そこはかとなくロマンセ》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1737.html
-3. asagaolabo @ ポップン百科大事典：《［そこはかとなくロマンセ］》，访问日期 2026-11-01。https://w.atwiki.jp/asagaolabo/pages/4916.html
-4. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-5. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-6. e-AMUSEMENT GATE：日向美ビタースイーツ♪ 相关资料页，访问日期 2026-11-01。
+1. [TOKYO FM：山口一郎回顾六年创作](https://www.tfm.co.jp/lock/sakana/index.php@itemid=13184&catid=17.html)：大根仁配乐邀请与乐队由内省走向外部的转机。
+2. [マイナビ：山口谈新宝岛制作秘话](https://news.mynavi.jp/article/20201014-1410974/)：引述10月11日STV本人谈阅读漫画、迟交歌词及两段叙事难以相接。
+3. [Victor：新宝島通常盘](https://www.jvcmusic.co.jp/-/Discography/-/VICL-37102.html)：NF Records、日期、电影主题歌与器乐分轨。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-07-18、149–158、3/5/8、206/367/481。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、三档等级与笔记数由 jubeat@Wiki、BEMANICN 与 Fandom 交叉。追加日期与 pop'n 收录日期由 asagaolabo 页面与社区曲表记录。演唱成员与角色对应关系虽有社区线索，但缺少直接官方署名页佐证，故只在背景段说明该不确定性。曲长与具体歌词设定未写入。
+四来源根达标，制作转机为本人节目原文，写词细节为媒体引述。游戏母带及精确时长未亲测；未用未核网络传说补MV制作动机。
 
-## 63. エイリアンエイリアン
+---
 
-统一曲库 ID：`arcade_70000125`
+<a id="arcade-70000026-shared"></a>
+## HERO
 
+- 统一曲库 ID：`arcade:70000026`
+- 原章节编号与标题：3. HERO
 
 ### 曲目档案
 
-曲名为《エイリアンエイリアン》，艺人名ナユタン星人，分类为社交音乐。曲目速度为每分钟 152 拍。通常谱面的基础、进阶、极限等级依次为 3、6、9.0，对应笔记数依次为 216、538、778。长押谱面的基础、进阶、极限等级依次为 3、7、9.6，对应笔记数依次为 251、591、920。Qubell 曲表将配信日期记为 2016 年 12 月 20 日。
+- 标题：HERO
+- 艺人：ソナーポケット
+- 载体：第21张双A面单曲《HERO / Good bye 大切な人。》，2015-08-19。
+- 历史游戏参数：130、3/6/8、152/331/458。
 
-### 背景知识
+### 创作与制作背景
 
-原曲由虚拟歌手音乐人ナユタン星人创作并使用初音未来演唱，原版投稿日期记为 2016 年 4 月 5 日。标题把「外星人」重复两次，把恋爱中的失态与宇宙视角的夸张比喻并置。曲绘与宣传中常出现アンドロメダ子、アンドロメダ男等角色形象，创作者也长期以宇宙人自称，作品因此带有明亮的电子舞曲色彩。该曲后来被多款音乐游戏收录，jubeat 选择的版本与版权授权路线需以游戏内署名为准。
+本曲专为动画《うしおととら》片尾制作。公布时乐队的署名说明提供了明确写作过程：他们原本就喜爱漫画，接到邀请后再次通读原作，想让歌曲的能量、热情与推进感不输角色和故事，并希望听众从中获得如阳光般的力量。这是创作者自己的目标，不能再用旧稿无来源的“女性声线”来描绘这组成员。[1]
 
-### jubeat Qubell 位置
+发行形态也值得分清：官网列本曲在第21张双A面单曲中，普通A盘另收TV size，完整版本与电视剪辑不是同一轨；初回A盘DVD则包含本曲MV及制作花絮。[2]
 
-本曲在 Qubell 末期追加，既有通常谱面也有长押谱面。通常极限 9.0 的密度明显高于进阶，副歌与高速连打段要求稳定手势；长押极限提升到 9.6，笔记数也接近 920。社区资料记录其长押谱面通过当期 BONUS TUNE 机制解锁，玩家在解锁活动期游玩一次即可取得后续使用资格；具体活动窗口应以当期官方公告为准。
+官方拍摄日志记下MV的实体制作细节：eyeron、ko-dai的手被涂成银色，人物戴着带铆钉的面具，matty使用覆盖嘴部的大面具，拍摄从早延续到夜间。这可以说明视觉呈现经过专门造型和拍摄，却不能据此虚构歌词的个人事件来源。[3]
+
+### jubeat 收录与版本
+
+Qubell历史曲表记2016-12-20加入。动画TV size单列的事实不证明街机必然用该剪辑，保留游戏母带待核。[2,4]
 
 ### 资料来源
 
-1. RemyWiki：《エイリアンエイリアン》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《エイリアンエイリアン》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1748.html
-3. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1607.html
-4. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-5. Otoge Station：《エイリアンエイリアン》曲介页，访问日期 2026-11-01。
-6. ナユタン星人官方网站：作品档案，访问日期 2026-11-01。https://nayutalien.com/
-7. UtaTen：《エイリアンエイリアン》歌曲资料页，访问日期 2026-11-01。
+1. [Animate Times：うしおととら片尾与乐队评论](https://www.animatetimes.com/news/details.php?id=1433850529)：乐队为原作粉丝、重读后新写，目标是匹配热情与疾走感并给予力量。
+2. [ソナーポケット官方：第21张单曲](https://www.sonapoke.jp/disco/detail.html?id=8851)：双A面、动画片尾、完整和TVsize分轨、初回A的MV花絮。
+3. [ソナーポケット官方：HERO拍摄日志](https://www.sonapoke.jp/news/detail.html?id=7273)：银色手部、铆钉面具、matty嘴部面具与全天拍摄。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、130、3/6/8、152/331/458。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、通常与长押谱面的等级、笔记数和配信日期由 jubeat@Wiki 曲表与 BEMANICN 交叉。原版投稿日期、初音未来署名与企划背景由 Otoge Station、UtaTen 及创作者官方站交叉。BONUS TUNE 解锁细节仅按社区记录概括，未写入具体活动编号与奖励层级。不同音乐游戏的谱面差异不用于推断 jubeat。
+四来源根达标，有公开乐队创作说明。游戏剪辑母带/时长未亲测，未用MV角色造型倒推私人歌词经历。
 
-## 64. Dreamland。feat. RED RICE（from 湘南乃風）, CICO（from BENNIE K）
+---
 
-统一曲库 ID：`arcade_70000126`
+<a id="arcade-70000033-shared"></a>
+## Two souls -toward the truth-
 
+- 统一曲库 ID：`arcade:70000033`
+- 原章节编号与标题：4. Two souls -toward the truth-
 
 ### 曲目档案
 
-曲名完整记作《Dreamland。feat. RED RICE（from 湘南乃風）, CICO（from BENNIE K）》，艺人名ハジ→，分类为流行曲。曲目速度为每分钟 141 拍。通常谱面的基础、进阶、极限等级依次为 3、6、8，对应笔记数依次为 222、456、617。Qubell 曲表将配信日期记为 2016 年 12 月 20 日。
+- 标题：Two souls -toward the truth-
+- 艺人：fripSide（第2期：八木沼悟志／南條愛乃）
+- 单曲：2015-12-02，第10张；GNCA-0398／0399。
+- 历史谱表：165、3/7/9、228/475/607。
 
-### 背景知识
+### 创作与制作背景
 
-本曲是对 BENNIE K 于 2005 年发行的歌曲《Dreamland》的翻唱重制。原曲因商业广告与夏季旋律而在日本有较高认知度，本版由ハジ→主导，加入湘南乃風成员 RED RICE，并让原组合成员 CICO 参与演唱与饶舌部分。实体单曲于 2016 年 8 月 17 日由 Universal Music 发行，作品编号记为 UPCH-80440。署名关系与制作名单应以单曲封面与流媒体资料为准。
+本曲是《終わりのセラフ》名古屋决战篇片头曲，第2期fripSide第10张单曲；唱片另收《冬のかけら》及两首器乐版，限定盘附本曲PV与制作花絮。[1]
 
-### jubeat Qubell 位置
+制作方向有可追溯但须限级的证词：PTT保存的《リスアニ！Vol.23》中文采访译录中，八木沼说这次采用了第一期也常用的、偏抒情王道J-POP的手法，音轨仍保有fripSide特点；南條则把初听感受形容为既熟悉又清爽的新方向。这比旧稿只说高速电子摇滚更具体，但本轮未读到杂志日文原页，不能把译录包装成亲核原始采访。[2]
 
-本曲为 Qubell 后期追加的版权曲。三档谱面等级都偏向前中阶，极限 8 的笔记量为 617，节奏贴合并保留旋律声部，适合作为流行曲路线中的稳定选择。由于艺人署名较长，游戏内选曲界面与资料页需要区分主艺人、客演者与原曲作者；本条目按 Tsv 与 RemyWiki 的题名保留全名。
+发行之前歌曲已进入演出现场。2015-10-10神奈川县民会馆报告记本曲在演出后段出现，观众用呼应动画的绿色荧光棒应援；这说明其动画播出、现场传播与12月实体唱片并非同一天开始。[3]
+
+### jubeat 收录与版本
+
+Qubell历史曲表记2016-12-20加入，使用当版3/7/9及228/475/607。不再以未亲测谱面推演具体难点。[4]
 
 ### 资料来源
 
-1. RemyWiki：《Dreamland。feat. RED RICE（from 湘南乃風）, CICO（from BENNIE K）》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《Dreamland。feat. RED RICE（from 湘南乃風）, CICO（from BENNIE K）》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1751.html
-3. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1607.html
-4. Universal Music Japan：《Dreamland。》单曲新闻与商品页，访问日期 2026-11-01。
-5. Oricon：《Dreamland。》商品资料，访问日期 2026-11-01。
-6. Billboard Japan：《Dreamland。》作品页，访问日期 2026-11-01。
-7. For Life Music Entertainment：BENNIE K《Dreamland》原曲资料，访问日期 2026-11-01。
+1. [NBCUniversal：第10张单曲](https://nbcuni-music.com/fripside/discography/single/index00180000.html)：动画用途、日期、编号与PV制作花絮。
+2. [PTT：《リスアニ！Vol.23》fripSide采访中文译录](https://www.ptt.cc/man/LoveLive_Sip/D469/D17D/D73E/DD11/M.1465474367.A.B38.html)：八木沼谈第一期也用过的抒情JPOP手法、南條谈清爽新印象。
+3. [AnimeAnime：2015神奈川演出报道](https://animeanime.jp/article/2015/10/11/25269.html)：第2期人员、本曲10月10日已现场表演与绿光应援。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、165、3/7/9、228/475/607。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、等级、笔记数与配信日期由 jubeat@Wiki 曲表与曲目页交叉。原曲与翻唱版的发行日期、厂牌、作品编号由 Universal Music、Oricon、Billboard Japan 与原曲厂牌资料交叉。原版发行日期写为 2005 年 6 月 8 日，但不同资料库对年份与日期的著录方式可能存在差异，已优先采用原厂与音乐资料库线索。游戏内版权授权版本是否与单曲版本完全一致未核实。
+四来源根达标；制作证词仅 attributed_secondary，待补日文杂志或可读原始访谈。游戏母带未亲测。
 
-## 65. マホロバケーション
+---
 
-统一曲库 ID：`arcade_70000127`
+<a id="arcade-70000042-shared"></a>
+## paranoia
 
+- 统一曲库 ID：`arcade:70000042`
+- 原章节编号与标题：5. paranoia
 
 ### 曲目档案
 
-曲名为《マホロバケーション》，艺人名ももいろクローバーZ，分类为流行曲。曲目速度为每分钟 145 拍。通常谱面的基础、进阶、极限等级依次为 4、7、9，对应笔记数依次为 251、564、775。Qubell 曲表将配信日期记为 2016 年 12 月 20 日。
+- 标题：paranoia
+- 艺人：つなまる（めざめP）；歌声：初音ミク。
+- 原视频：sm17239967，2012-03-13。
+- 历史游戏参数：150、3/7/9、172/414/563。
 
-### 背景知识
+### 创作与制作背景
 
-原曲收录于ももいろクローバーZ 的第四张专辑《白金の夜明け》，专辑发行日期记为 2016 年 2 月 17 日。曲名把「幻」与「假期」合并，延续了组合把和风语汇、偶像旋律与舞台仪式感混合的路线。公开资料记录作词为六ツ見純代，作曲与编曲为 invisible manners，演奏阵容中另出现贝斯手ハマ・オカモト与鼓手ピエール中野。该曲在组合专辑巡演与舞台影像中多次出现，但具体首演场合不应凭影像片段反推。
+本曲最明确的早期资料是作者自己留下的伴奏与视觉作者的制作说明。つなまる于2012-03-14在piapro上传本曲伴奏，直接链接sm17239967；因此该日是伴奏素材的发表日，而不是前一天原视频的首次发布日。Niconico官方周年文章确认原视频发表于3月13日。[1–2]
 
-### jubeat Qubell 位置
+视觉部分并非不知名网络配图：真理歪在自己的piapro作品页明确说明，为めざめP的新曲担当插画与视频，并提供没有标志文字的旧版本图。她把歌曲形容为美丽而伤感，这是参与者的感受，不应被改写成つなまる本人亲述的失恋经历或心理诊断。[3]
 
-本曲为 Qubell 末期追加的版权曲。基础 4 提供较缓的入口，进阶 7 与极限 9 分别承担节奏过渡与高密度处理。极限谱接近 775 笔记，副歌与桥段的双手分工较为明显。社区资料常将其列為ももいろクローバーZ 在 jubeat 系列中的第 3 首收录曲，此排序以前两首版权曲仍可运营为前提；跨世代检索时应以各作实际收录状态为准。
+这些公开作品记录展示了歌曲通过原视频、可供翻唱的伴奏、视觉素材继续传播的路径，但没有解释作曲最初契机、调声参数或歌词人物原型。旧稿由题名直接断定“偏执与心理失衡”的写作动机不保留；同名DDR系列的数据也不混入本曲。[1–4]
+
+### jubeat 收录与版本
+
+Qubell表记2016-12-20收录、150及3/7/9。原版伴奏页标3分50秒，不把该时长套为街机剪辑长度。[1,4]
 
 ### 资料来源
 
-1. RemyWiki：《マホロバケーション》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《マホロバケーション》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1752.html
-3. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1607.html
-4. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-5. ももいろクローバーZ官方网站：《白金の夜明け》专辑档案，访问日期 2026-11-01。
-6. Oricon：《マホロバケーション》歌词与作品页，访问日期 2026-11-01。
-7. JOYSOUND：《マホロバケーション》歌曲资料，访问日期 2026-11-01。
-8. BARKS：《白金の夜明け》相关报道，访问日期 2026-11-01。
+1. [つなまる：paranoia伴奏原发布](https://piapro.jp/t/QxlQ)：作者本人上传伴奏、链接原视频、日期及素材时长。
+2. [Niconico：paranoia十一周年](https://originalnews.nico/413897)：确认原视频2012-03-13及めざめP/つなまる名义。
+3. [真理歪：paranoia插画与视频说明](https://piapro.jp/t/Au0Q)：本人确认插画及视频工作、无标志旧版本、对歌曲感受。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、150、3/7/9、172/414/563。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、等级、笔记数与配信日期由 jubeat@Wiki 曲表与曲目页、BEMANICN 交叉。专辑、制作与演奏名单由官方专辑档案、Oricon、JOYSOUND 及媒体报道交叉。「第 3 首收录曲」的说法来自跨维基总结，只用于说明相对顺序，不作为 Konami 官方编号。现场演出首演日期与舞台版本差异未写入。
+四文献链达标；有视觉参与者直接说明，没有词曲作者的具体创作动机/调声访谈。不能把歌名当医学诊断或私人传记。
 
-## 66. 今夜はパジャマパーティ
+---
 
-统一曲库 ID：`arcade_70000128`
+<a id="arcade-70000043-shared"></a>
+## 炉心融解
 
+- 统一曲库 ID：`arcade:70000043`
+- 原章节编号与标题：6. 炉心融解
 
 ### 曲目档案
 
-曲名为《今夜はパジャマパーティ》，艺人名日向美ビタースイーツ♪，分类为原创曲。曲目速度为每分钟 148 拍。Qubell 登场时只有长押谱面，没有通常谱面。长押谱面的基础、进阶、极限等级依次为 3、7、8，对应笔记数依次为 205、405、548。Qubell 追加日期由 pop'n 百科大事典记录为 2017 年 1 月 12 日。全难度通关称号记为曲名本身，全难度全连称号记为「いつまでも」。
+- 标题：炉心融解
+- 游戏艺人：iroha；正式发行名义：iroha(sasaki)，歌声鏡音リン。
+- 词：kuma（旧作者说明转录）；PV：なぎみそ。
+- 历史谱表：165、2/6/8、154/334/608。
 
-### 背景知识
+### 创作与制作背景
 
-本曲属于日向美ビタースイーツ♪企划的合唱向曲目，题名直译为「今晚是睡衣派对」。歌词与封面把宿舍、夜间闲聊与少女合唱的轻松气氛结合，与同企划中较抒情的曲子相比更突出派对感。曲集资料将该曲收录进《日向美ビタースイーツ♪ BEST》，该精选集作品编号记为 GFCA-00449/50。后来 pop'n music 也在 2017 年 6 月引入该曲，体现了企划在 Konami 机种间的流动。
+应把歌曲、影像及观众解释拆开来看。第三方保存的iroha旧博客解说称，kuma原先写的是并非为VOCALOID预设的诗，iroha没有收到详细解说，直接从文字形成音乐；之后把曲交给なぎみそ，也没有指定必须画出哪一种含义。该段原博客本轮已404，因此只能作为标明出处的作者解说转录，而非亲核原页。[1]
 
-### jubeat Qubell 位置
+影像作者的直接采访则可核：なぎみそ此前围绕iroha的《moon》画《みくよん》，由此相识，后来接到新曲绘图请求。他解释《炉心融解》PV由多人协作，一部分设计请裏花火与三輪士郎完成，自己负责视频及3D背景。画面看似动作丰富，实际静态图约十张；没有先画完整分镜，而是边配音乐边制作场景、再编排。这些具体工作方法比凭画面推测宏大设定更可靠。[2]
 
-本曲是 Qubell 后期追加的纯长押曲。基础 3 的笔记量仅 205，适合第一次接触长押标记的玩家；进阶 7 与极限 8 都要求在维持按住的同时处理相邻按键。曲目页明确提醒极限谱中会出现较长约束，同时伴随需要迅速接应的笔记，若只按等级 8 的常规印象轻敌，容易断连。其谱面策略应以长押手势分工为中心，而不是单纯追求速度。
+作者解说转录还强调，PV赋予歌曲较积极的理解，但不准备解释所有谜面。因此不把某一网友的角色关系、疾病说或灾难寓意定为唯一答案，更不把虚构影像等同现实行为。KARENT正式发行目录则把该录音列为2010-10-13配信、鏡音リン演唱、なぎみそ美术；这只是数字发行日期，不替代较早视频发表史。[1,3]
+
+### jubeat 收录与版本
+
+Qubell表记2016-12-20街机加入，并注明plus先行；现阶段不替填plus具体包日或把2010数字发行当作初次作曲日期。[4]
 
 ### 资料来源
 
-1. RemyWiki：《今夜はパジャマパーティ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《今夜はパジャマパーティ》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1746.html
-3. asagaolabo @ ポップン百科大事典：《［今夜はパジャマパーティ］》，访问日期 2026-11-01。https://w.atwiki.jp/asagaolabo/pages/4916.html
-4. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-5. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-6. e-AMUSEMENT GATE：日向美ビタースイーツ♪ DISCOGRAPHY 页，访问日期 2026-11-01。
-7. キューブ：日向美ビタースイーツ♪ BEST 专辑商品页，访问日期 2026-11-01。
+1. [第三方保存：iroha旧文《炉心融解 曲について》](https://www.asahi-net.or.jp/~vb7y-td/L2/220315.htm)：kuma诗先行、未预设VOCALOID、iroha据文字作曲、PV自由解读与边界。
+2. [ASCII：なぎみそ原始采访第3页](https://ascii.jp/elem/000/000/501/501841/3/)：因moon漫画建立联系、受邀绘图、合作设计、约十静态图及3D背景、无预先分镜。
+3. [KARENT：炉心融解发行目录](https://karent.jp/album/524)：iroha(sasaki)、鏡音リン、なぎみそ美术与数字发行日。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：165、2/6/8、154/334/608，2016-12-20，plus先行。
 
-### 核验边界
+### 核验边界与待补
 
-曲目页明确记载其只有长押谱面，并给出长押等级与笔记数；BEMANICN 与 Fandom 表中出现的 3、7、8 与之相符。旧曲列表中出现的 3、6、8 是应用版长押谱或后续调整，不能当成 Qubell 原始等级写入。pop'n 追加日期与精选集收录由 asagaolabo 及商品页交叉。曲长与演唱成员细分不写死。
+四来源根达标；PV有制作人直接访谈，作曲解说仅第三方转录。kuma原始诗的私人经历未直接核验，不援引搜索到的未核传闻；原视频初发及删除重投时间待原记录。
 
-## 67. インフェルノ
+---
 
-统一曲库 ID：`arcade_70000129`
+<a id="arcade-70000049-shared"></a>
+## 蒼空に舞え、墨染の桜
 
+- 统一曲库 ID：`arcade:70000049`
+- 原章节编号与标题：7. 蒼空に舞え、墨染の桜
 
 ### 曲目档案
 
-曲名为《インフェルノ》，艺人名 9mm Parabellum Bullet，分类为流行曲。曲目速度为每分钟 195 拍。通常谱面的基础、进阶、极限等级依次为 3、7、9，对应笔记数依次为 202、398、580。Qubell 曲表将配信日期记为 2016 年 12 月 20 日。
+- 标题：蒼空に舞え、墨染の桜
+- 艺人：Silver Forest feat. さゆり
+- 词：NYO；原曲：幽雅に咲かせ、墨染の桜。
+- 历史参数：150、3/6/9、265/438/743。
 
-### 背景知识
+### 创作与制作背景
 
-原曲是 9mm Parabellum Bullet 的第 8 张单曲，发行日期记为 2016 年 7 月 20 日，商品编号记为 GNCA-0432。它同时作为电视动画《ベルセルク》第 1 期片头曲使用，公开资料记录作词为菅原卓郎，作曲为滝善充。歌曲以高 BPM 的吉他推进与副歌旋律承接动画的开场节奏，不少媒体按约 90 秒的动画剪辑版本评论；完整曲长与剪辑版并不相同。
+Silver Forest保存的《GRAZE》原始特设页给出了比旧稿泛说和风情绪更明确的制作定位：这是社团第四张东方改编专辑，也是第一次尝试人声改编，以人声与trance为重点。专辑在2007-02-11 Sunshine Creation34首次颁布，不能把多年后的游戏收录当作歌曲创作年份。[1]
 
-### jubeat Qubell 位置
+特设页将第一轨本曲直接标为Trance＋Vocal，注明さゆり演唱、NYO作词，并明确从妖夢视角处理《幽雅に咲かせ、墨染の桜》。这个角色视角是制作方写出的设定；没有必要进一步把未经核验的西行诗歌典故、词作者私人经历或某种固定故事结局塞入说明。[1]
 
-本曲为 Qubell 末期追加的版权曲。进阶 7 已有较快的八分节奏，极限 9 在 580 笔记中承担副歌与桥段的高密度变化。对玩家而言，识别 BPM 195 带来的拍距比单纯数笔记更重要。社区资料记载这是该乐团在 jubeat 系列的第 3 首：《Supernova》见于 knit，《ハートに火をつけて》曾于 prop 稼动中途删除；因此「第 3 首」应理解为系列收录史的累计位置。
+作品后来跨入不同节奏游戏。2015年9月《グルーヴコースター2 オリジナルスタイル》的Silver Forest四曲包已明确包含本曲；这证明它在jubeat之前已进入另一款移动节奏游戏，但不等于两个游戏共用剪辑、音质或谱面。[2]
+
+### jubeat 收录与版本
+
+Qubell曲表记2016-12-20收录及3/6/9。原曲来源与演唱名义按制作方页保留，不把さゆり误写成另一个片假名艺人。[1,3]
 
 ### 资料来源
 
-1. RemyWiki：《インフェルノ》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《インフェルノ》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1743.html
-3. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1607.html
-4. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-5. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-6. 日本コロムビア：《インフェルノ》单曲商品页，访问日期 2026-11-01。
-7. Billboard Japan：《インフェルノ》作品页，访问日期 2026-11-01。
-8. rockin'on：《インフェルノ》评论与资料页，访问日期 2026-11-01。
+1. [Silver Forest：GRAZE原始特设页](https://graze.tonosama.jp/)：第四专辑、首次人声改编、trance方向、首颁日、本曲妖夢视角与歌手词作者。
+2. [gamebiz：GC2 Silver Forest包公告](https://gamebiz.jp/news/149649)：另一游戏2015年四曲包列本曲featさゆり。
+3. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、150、3/6/9、265/438/743。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、三档等级与笔记数由 jubeat@Wiki 曲表与曲目页、BEMANICN 及 Fandom 交叉。单曲发行、动画使用与作者署名由日本コロムビア、Billboard Japan、rockin'on 与 Oricon 类资料交叉。动画片头剪辑约 90 秒属于媒体描述，完整时长未在可访问资料中统一定值，故不写死。此前收录曲的删除时间仅按 jubeat@Wiki 曲目页概括。
+三文献链达标；制作方有角色视角与编曲方向说明。词句典故、具体录音过程及游戏母带未直接核实。
 
-## 68. Ψです I LIKE YOU
+---
 
-统一曲库 ID：`arcade_70000130`
+<a id="arcade-70000050-shared"></a>
+## Endless, Sleepless Night
 
+- 统一曲库 ID：`arcade:70000050`
+- 原章节编号与标题：8. Endless, Sleepless Night
 
 ### 曲目档案
 
-曲名为《Ψです I LIKE YOU》，艺人名でんぱ組.inc，分类为流行曲。曲目速度为每分钟 220 拍。通常谱面的基础、进阶、极限等级依次为 3、6、9，对应笔记数依次为 251、369、663。Qubell 曲表将配信日期记为 2016 年 12 月 20 日。
+- 标题：Endless, Sleepless Night
+- 游戏艺人：samfree feat.(V)・∀・(V)かにぱん。；原发行社团：A-One。
+- 编曲、词：samfree；原曲：恋色マスタースパーク。
+- 原专辑：TOHO EUROBEAT VOL.1（2010年）；历史谱表165、3/7/9、234/558/848。
 
-### 背景知识
+### 创作与制作背景
 
-原曲是电视动画《斉木楠雄のΨ難》第 1 期片尾曲，由でんぱ組.inc演唱。其数字配信日期记为 2016 年 8 月 8 日，实体载体则收录于单曲《最Ψ最好調！》，该单曲发行日期记为 2016 年 11 月 2 日，由 TOY'S FACTORY发行。标题用希腊字母「Ψ」呼应动画标题中的超能力意象，同时保留偶像曲的直白宣言。社区资料另记载该曲于 2019 年 11 月 18 日从 jubeat 系列删除。
+本曲并非为2016年活动新写的追悼委约。唱片目录将它列为A-One《TOHO EUROBEAT VOL.1》第5轨、2010-08-14发行，编曲和作词为samfree，演唱かにぱん。，原曲是《恋色マスタースパーク》。这些明确的早期记录足以纠正旧稿把游戏活动年份当成创作年份的错误。[1]
 
-### jubeat Qubell 位置
+歌手在自己的英文博客回忆，曾三次为A-One客串人声，本曲是2010年8月制作的第一首。2014年8月它进入SEGA的maimai后，她久违地去街机厅，录下自己玩自己歌曲的视频并上传Niconico；她说玩得很开心，但仍未能通过更高的等级。这段参与者回忆具体呈现了同人录音再进入节奏游戏、歌手亲自体验的传播过程，不能把其中maimai等级套成jubeat等级。[2]
 
-本曲为 Qubell 末期追加的版权曲。三档等级跨度看似温和，但极限 9 的笔记量为 663，且 220 拍的高速度使八分节奏的读谱间隔很短。进阶 6 更接近旋律跟拍，极限则需要在副歌密集区维持左右分工。作为动画联动曲，其授权期结束后的可用性会随世代与平台变化，历史列表应以当时游戏状态为准。
+KONAMI在2016-10-12公告本曲于第三回博丽神社秋季例大祭会场先行游玩。同期更新日志随后保存10月18日开放相关曲目的通知，Qubell历史表亦列10月18日。由此应区分原唱片、maimai移植、例大祭先行与jubeat后续开放，而不是合并为一次创作。[3–5]
+
+### jubeat 收录与版本
+
+保留Qubell普通谱3/7/9与234/558/848。没有已核证据支持旧稿所谓samfree逝世后专门创作的纪念曲；本曲2010年已存在。精确会场日与各开放条件仍以原活动记录为准。[1–5]
 
 ### 资料来源
 
-1. RemyWiki：《Ψです I LIKE YOU》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1607.html
-3. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-4. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-5. TOY'S FACTORY：《最Ψ最好調！》单曲商品页，访问日期 2026-11-01。
-6. でんぱ組.inc官方资料与配信页，访问日期 2026-11-01。
-7. MANTANWEB：《斉木楠雄のΨ難》相关报道，访问日期 2026-11-01。
-8. UtaNet：《Ψです I LIKE YOU》歌曲资料页，访问日期 2026-11-01。
+1. [Gensokyo Radio：TOHO EUROBEAT VOL.1目录](https://gensokyoradio.net/music/album/10025/)：C78/AONE0006、第5轨、samfree词编、かにぱん、原曲恋色。
+2. [かにぱん本人英文博客：JAPOKANI第14回](https://kaniblog-eng.blog.jp/archives/1017413359.html)：三次客串、本曲2010年8月制作、2014年8月进maimai、亲自游玩录视频。
+3. [BEMANI Fan Site：例大祭会场先行预告](https://p.eagate.573.jp/game/bemani/fansite/p/news/index.html?page=4&tag=%E6%9D%B1%E6%96%B9Project)：10月12日19:20公告本曲第三回秋季例大祭会场先行。
+4. [BEAT SQUARE：Qubell更新日志](https://www2u.biglobe.ne.jp/~hiro-p/list/jubeat_qubell/memo.htm)：10月18日先行曲开放通知，10月20日官网更新明确本曲。
+5. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-10-18、165、3/7/9、234/558/848。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、三档等级与笔记数由 Qubell 曲表、BEMANICN 与 Fandom 交叉，其中 jubeat@Wiki 独立曲目页未能检索到完整数据表，故不引用其未确认页面。配信与单曲发行日期由 TOY'S FACTORY、官方资料与中文维基摘要交叉。删除日期来自社区曲史记录，官方删除公告原文未直接核验，本文只将其列为边界事实。
+四来源根达标；有歌手直接制作年代及移植回忆，samfree本人具体作曲动机仍缺。官方索引和转录日志合并同公告根。
 
-## 69. ハイパーリアリスト
+---
 
-统一曲库 ID：`arcade_70000131`
+<a id="arcade-70000056-shared"></a>
+## SUSHI食べたい feat. ソイソース
 
+- 统一曲库 ID：`arcade:70000056`
+- 原章节编号与标题：9. SUSHI食べたい feat. ソイソース
 
 ### 曲目档案
 
-曲名为《ハイパーリアリスト》，艺人名パスピエ，分类为流行曲。曲目速度为每分钟 160 拍。通常谱面的基础、进阶、极限等级依次为 2、5、8，对应笔记数依次为 186、283、573。
+- 标题：SUSHI食べたい feat.ソイソース
+- 艺人：ORANGE RANGE
+- 原EP：2015-07-18，NCS90010。
+- 历史游戏参数：135、2/5/8、157/282/544。
 
-### 背景知识
+### 创作与制作背景
 
-原曲由パスピエ发行，是双 A 面单曲《永すぎた春/ハイパーリアリスト》中的一首，发行日期记为 2016 年 7 月 27 日，商品编号记为 WPCL-12400/12401，厂牌为 Warner Music Japan。パスピエ的音乐常把钢琴、铜管、电子节拍与主唱大竹林亮的声线叠合，曲名「ハイパーリアリスト」即「超级现实主义者」，以日常观察切入，不依赖单一宏大叙事。
+歌曲的起点有同期电台报道可追溯：TOKYO FM在2015-09-02介绍《TEN》时说，NAOTO巡演期间想吃寿司，淋浴时唱起“想吃寿司”，由此形成歌曲。这是节目对创作经过的转述，而非本轮亲读的NAOTO访谈逐字记录，证据层级必须保留。[1]
 
-### jubeat Qubell 位置
+乐队正式EP资料确认，它在2015-07-18作为TSUTAYA租赁限定及配信EP推出；收录三首新曲、一个另署名的混音及两首现场版。官方将本曲宣传为滑稽歌词与全球化舞曲节拍的结合。因此原曲、Lichard Remix和后来现场录音不应混为同一母带。[2]
 
-本曲为 Qubell 时期新增的版权曲。基础 2 与 186 笔记提供了一个轻量入口，进阶 5 的笔记量仍然不高，而极限 8 突然增至 573 笔记，呈现出典型的前段低门槛、上阶处理密集乐句的结构。由于曲中键盘与铜管的切分较多，极限谱宜优先抓住贝斯与鼓的稳定拍点。社区资料记载这是パスピエ在 jubeat 系列的第 2 首，前作为 prop 收录的《MATATABISTEP》。
+发行后的推广还真正把歌名与送餐结合：乐队7月23日公告与出前馆合作，计划8月中旬在东京三个地区配送附下载码及T恤的限定商品。这里记录的是同期宣传方案，不把尚未核验的实际订单效果或商业成绩写成既定成功，也不由此倒推出歌曲本来为送餐广告而作。[3]
+
+### jubeat 收录与版本
+
+Qubell曲表记2016-07-18加入；这是游戏收录日，与2015年同月同日的EP相差一年。谱面按历史表2/5/8，不使用未亲测的具体打法推论。[2,4]
 
 ### 资料来源
 
-1. RemyWiki：《ハイパーリアリスト》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《ハイパーリアリスト》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1745.html
-3. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-4. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-5. パスピエ官方网站：《永すぎた春/ハイパーリアリスト》作品页，访问日期 2026-11-01。https://www.passepied.info/
-6. Warner Music Japan：《永すぎた春/ハイパーリアリスト》商品页，访问日期 2026-11-01。
-7. Billboard Japan：《ハイパーリアリスト》作品页，访问日期 2026-11-01。
-8. Apple Music：《永すぎた春/ハイパーリアリスト》专辑页，访问日期 2026-11-01。
+1. [TOKYO FM TREND EYES：2015-09-02榜单](https://www.tfm.co.jp/trend/index.php@blogid=165&archive=2015-09&catid=1112.html)：节目称NAOTO巡演想吃寿司、淋浴哼唱成为歌曲契机。
+2. [ORANGE RANGE：SUSHI食べたいEP官方目录](https://sp.orangerange.com/discography/detail/678/)：租赁及配信限定、编号、三新曲/混音/两live、宣传风格。
+3. [ORANGE RANGE：出前馆合作公告](https://orangerange.com/news/detail/1909)：东京三区8月中旬计划、下载码及T恤送餐推广。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-07-18、135、2/5/8、157/282/544。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、三档等级与笔记数由 jubeat@Wiki 曲目页、BEMANICN 与 Fandom 交叉。单曲发行日期、厂牌与作品编号由官方网站、Warner Music Japan、Billboard Japan 及 Apple Music 交叉。配信日期在可访问资料中未统一，故不写死。前作收录世代依据社区总结，仅作为背景参考。
+四文献链达标；起源目前是 attributed_secondary，原作者完整采访待补。推广公告是计划，未核实际执行结果。
 
-## 70. NANIMONO（feat.米津玄師）
+---
 
-统一曲库 ID：`arcade_70000132`
+<a id="arcade-70000057-shared"></a>
+## ワタリドリ
 
+- 统一曲库 ID：`arcade:70000057`
+- 原章节编号与标题：10. ワタリドリ
 
 ### 曲目档案
 
-曲名为《NANIMONO（feat.米津玄師）》，艺人名中田ヤスタカ，分类为流行曲。曲目速度为每分钟 128 拍。通常谱面的基础、进阶、极限等级依次为 2、4、7，对应笔记数依次为 137、253、503。Qubell 曲表将配信日期记为 2017 年 3 月 1 日，并标注需要使用 e-AMUSEMENT PASS 才能进入对应解禁或游玩条件。
+- 标题：ワタリドリ
+- 艺人：[Alexandros]
+- 原单曲：2015-03-18双A面《ワタリドリ/Dracula La》。
+- 历史参数：135、3/6/8、219/360/578。
 
-### 背景知识
+### 创作与制作背景
 
-原曲是电影《何者》的主题曲。电影改编自朝井リョウ的同名小说，公开日期记为 2016 年 10 月 15 日。曲子由中田ヤスタカ创作与制作，米津玄師负责歌词与演唱，公开报道将其定位为两人的首次合作。实体相关作品于 2016 年 10 月 5 日发行，相关资料把《NANIMONO EP》与电影原声带并列发行，作品编号记为 WPCL-12472/3。jubeat 所用封面即与该 EP 发行相关，但音频剪辑可能不同于专辑与电影版本。
+川上洋平在发行时的采访中解释，副歌先出现，唱出来的词自然就是歌名，于是决定保留，而不是先确定某个宣传口号再配旋律。他也谈到自己不再追求像小论文一样整齐的歌词，愿意留下跳接场景和人的不规则感；与成员整日一起创作、讨论梦想，也会渗入回家后的写词过程。[1]
 
-### jubeat Qubell 位置
+4月发行纪念对谈提供更明确的时间线：2014年5月，为下一年专辑写的五六首demo中已有本曲，当时完成前奏和副歌，经过夏季暂置，到秋天才补A段与B段。川上希望摆脱此前赶工状态，给歌曲较长时间成长；磯部和白井则回忆，听到demo时已认为它有担当单曲的突出力量。[2]
 
-本曲是 Qubell 末期通过 PASS 条件加入的版权曲。三档等级都不高，基础 2 只有 137 笔记，极限 7 也以中速节拍为主，适合作为流行曲的低压力路线。128 拍的速度让四分与八分切换相对清晰，进阶与极限主要差别在于过渡小节与和声组键的处理密度。因原曲与电影剪辑版本长度不同，不能把电影歌曲时长直接当作游戏内曲目时长。
+官网在2015年1月公告时明确它上一年末已在现场演出，3月18日再与《Dracula La》组成双A面发行。要注意同页《女くどき飯》电视剧主题歌署给后者，不应因共用唱片而误把那个委约写成本曲的起源。[3]
+
+### jubeat 收录与版本
+
+Qubell历史表记录2016-07-18追加，采用当版3/6/8及219/360/578。录音创作、首演、商业发行及游戏收录分别记述；游戏剪辑长度未亲测。[4]
 
 ### 资料来源
 
-1. RemyWiki：《NANIMONO（feat.米津玄師）》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《NANIMONO（feat.米津玄師）》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1761.html
-3. jubeat@Wiki：《曲リスト(Qubell)》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1607.html
-4. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-5. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-6. REISSUE RECORDS：中田ヤスタカ《NANIMONO》作品页，访问日期 2026-11-01。https://reissuerecords.net/
-7. Warner Music Japan：《NANIMONO EP/何者（オリジナル・サウンドトラック）》商品页，访问日期 2026-11-01。
-8. natalie：《NANIMONO》合作与电影主题曲报道，访问日期 2026-11-01。
-9. 电影《何者》官方网站与 eiga.com 作品页，访问日期 2026-11-01。
+1. [ROCKIN’ON JAPAN：川上洋平单曲采访摘录](https://rockinon.com/feat/alexandros_201502/)：副歌与标题自然出现、摆脱论文式歌词、成员讨论影响写作。
+2. [BARKS：发行纪念对谈现场记录](https://barks.jp/news/743409/)：2014年5月demo、夏季暂置、秋补AB段、成员认为可作单曲。
+3. [Alexandros官方：双A面单曲公告](https://alexandros.jp/contents/10251)：2014年末现场已唱、2015-03-18发行、电视剧用途属Dracula La。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-07-18、135、3/6/8、219/360/578。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、三档等级与笔记数由 jubeat@Wiki 曲表与曲目页、BEMANICN 及 Fandom 交叉。配信日期与 PASS 标注来自 Qubell 曲表；具体解禁路线是否随活动阶段变化未完整核验。电影公开、专辑发行与合作背景由 Warner Music Japan、natalie、eiga.com 及官方网站交叉。游戏内音频是否与 EP 或电影剪辑一致未核实。
+四来源根达标；有作者直接写作回忆。不同后续广告、电影使用不自动成为最初委约原因；游戏母带未核。
 
-## 71. ロプノールの商隊
+---
 
-统一曲库 ID：`arcade_70000133`
+<a id="arcade-70000058-shared"></a>
+## Girl A
 
+- 统一曲库 ID：`arcade:70000058`
+- 原章节编号与标题：11. Girl A
 
 ### 曲目档案
 
-曲名为《ロプノールの商隊》，艺人名 Akhuta，分类为原创曲。曲目速度为每分钟 186 拍。通常谱面的基础、进阶、极限等级依次为 3、7、9.6，对应笔记数依次为 280、514、733。该曲从 BeatStream アニムトライヴ移植而来。社区资料记载其称号为全难度通关「見よこれが究極の曲芸ですよ！」，全难度全连称号为「ただし炎はへそから出ます」。
+- 标题：Girl A
+- 艺人：[Alexandros]
+- 原单曲：2015-12-02；《サイレーン 刑事×彼女×完全悪女》片头曲。
+- 历史参数：135、3/6/9、198/323/641。
 
-### 背景知识
+### 创作与制作背景
 
-原曲是 Akhuta 为 BeatStream アニムトライヴ创作的书き下ろし曲目。Akhuta 的作品常在幻想叙事、暗色旋律与高难度曲面之间建立联系，这首曲子的标题指向丝绸之路旁的罗布泊与商队意象，给人干燥、远行与烈日的联想。作曲者署名维持 Akhuta，曲绘与机型主题也倾向把异域想象与机械或幻想元素结合。曲名中的「ロプノール」即罗布泊，但其命名是否另有游戏内设定说明，公开来源未见直接文本。
+川上洋平在2015年10月电台亲自解说：题名本来是《A Girl》，意为某个平凡女孩，把A移到后面后，产生既普通又不可替代的感觉。他把本曲称作一次实验：在黄金时段电视剧片头采用低调弦的强烈声音，曾令事务所担心，但完成录音、混音及母带后获得认可。[1]
 
-### jubeat Qubell 位置
+歌词却没有跟着猛烈编配写成恐怖故事。临近录音，他在家看见美丽晚霞，想到自己即使消失，世界与天空仍会继续，最后写向不求占有、只愿对方幸福的献身之爱。节目还明确提到同步breakbeats与效果音是重要组成，不能仅按传统四人乐队现场配置想象录音。[1]
 
-本曲作为 BeatStream 联动移植曲进入 Qubell。社区资料记载其传导解禁条件与 2017 年 2 月 13 日 0 时这一时间点相关：此前已在 BeatStream 内解锁的玩家可以取得资格，否则需在 Qubell 侧完成对应传导条件。极限 9.6 在 733 笔记中混入较快的三连与双手交替，评分难度偏高。iOS 版 jubeat Qubell 相关列表也曾把该曲归入第 6 个追加包，但该记录属于移动端包装方式，不改变街机移植来源。
+鼓手庄村在同期采访把它定位为有电子质感、却不只是舞曲，也有重量却不落入典型大音量摇滚；这是成员对作品位置的说明，不是游戏谱面难度判断。[2] 官网则确认12月2日实体单曲日期与电视剧片头用途，另收《In your face》及另一首现场录音，不把附赠现场曲的演出日期误写成本曲初发日。[3]
+
+### jubeat 收录与版本
+
+Qubell表记2016-12-20追加、3/6/9及198/323/641。采用当版记录，不由乐队低调弦或breakbeats直接推断按键难点。[4]
 
 ### 资料来源
 
-1. RemyWiki：《ロプノールの商隊》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《ロプノールの商隊》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1758.html
-3. BEMANICN：BeatStream アニムトライヴ曲目页，访问日期 2026-11-01。
-4. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-5. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-6. 읽기전용위키：유비트 큐벨条目，访问日期 2026-11-01。https://readonly.wiki/w/jubeat%20qubell
-7. namu.moe：유비트 큐벨条目，访问日期 2026-11-01。
+1. [TOKYO FM：川上洋平亲述Girl A制作](https://www.tfm.co.jp/lock/alexandros/index.php@itemid=6998&catid=84.html)：题名倒置、低调弦实验、夕阳与献身主题、同步breakbeats。
+2. [ROCKIN’ON JAPAN：Girl A成员采访摘录](https://rockinon.com/feat/alexandros_201511)：庄村谈电子但非舞曲、沉重但非典型loud的定位。
+3. [Alexandros：Girl A官方目录](https://alexandros.jp/musics/1565)：单曲日期、电视剧片头、分轨与附赠现场版本。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、135、3/6/9、198/323/641。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、三档等级与笔记数由 jubeat@Wiki 曲目页、BEMANICN 与 Fandom 交叉。BeatStream 原谱信息由 BEMANICN 曲目页交叉。传导解禁的日期与条件依赖社区转述，未能调取当期官方公告原文，故只作条件性表述。称号由曲目页记录，未额外验证活动页面。地名设定与歌词含义不写死。
+四来源根达标；直接节目解说支持创作主题和音色方法。完整demo与最终录音逐项差异、游戏母带仍未亲核。
 
-## 72. 蟲の棲む処
+---
 
-统一曲库 ID：`arcade_70000134`
+<a id="arcade-70000059-shared"></a>
+## アンビリーバーズ
 
+- 统一曲库 ID：`arcade:70000059`
+- 原章节编号与标题：12. アンビリーバーズ
 
 ### 曲目档案
 
-曲名为《蟲の棲む処》，艺人名かめりあ feat. Nana Takahashi，分类为原创曲。曲目速度为每分钟 161 拍。通常谱面的基础、进阶、极限等级依次为 4、8、10.2，对应笔记数依次为 255、500、684。该曲从 BeatStream アニムトライヴ的书き下ろし曲目移植而来。Qubell 登场时间由 pop'n 百科大事典记录为 2017 年 3 月 9 日 10 时。社区资料记载称号为全难度通关「蟲の棲む処」，全难度全连称号为「夥しい程の蟲」。
+- 标题：アンビリーバーズ
+- 艺人：米津玄師
+- 词曲：米津玄師。
+- 原单曲：2015-09-02；历史游戏参数133、2/6/8、173/331/575。
 
-### 背景知识
+### 创作与制作背景
 
-原曲由かめりあ创作，Nana Takahashi 演唱。公开介绍与社区评论把它定位为以 dubstep 为主干，同时带入哥特、前卫金属与硬核人声的曲目。曲名意为「虫栖息之处」，标题并非单纯的恐怖修辞，而是把寄生、群聚与侵蚀意象织入声景。相关宣传资料提到音乐视频或视觉主题中存在少女逐个消失的怪谈感，但这类描述常被压缩成短句，具体叙事不应用 MV 截图反推。该曲后来也在 2018 年 4 月 13 日移植到 SOUND VOLTEX IV HEAVENLY HAVEN。
+米津玄師在直接采访里解释，题名指不相信的人，他想通过否定来完成肯定：不直接喊出乐观口号，而是否定令人绝望的结论，从另一面确认值得相信的事物。歌网采访进一步说明，他希望用更易理解、不依赖私人背景的词语表达想法；这是作者主动选择的沟通方式，不宜简单概括为反宗教宣言。[1]
 
-### jubeat Qubell 位置
+声音上的限制与这一思路相呼应。他在另一采访明确说，自己原本偏爱吉他，却决定这次完全不用吉他编配，借否定熟悉方法探索新可能；作品完成约九成时，仍不知道最后一成如何解决，于是请蔦谷好位置参与。他强调可信赖的人确认方向的重要性。因此不应沿用旧稿把本曲写成传统吉他主导摇滚的说明。[2]
 
-本曲作为 BeatStream 联动移植曲进入 Qubell。社区资料记载其解锁与 2017 年 2 月 13 日 0 时前在 BeatStream 内的游玩数据有关：若当时已有对应记录则可直接解锁，否则需要在 Qubell 侧完成传导条件。极限 10.2 的 684 笔记密度接近 Qubell 末期高阶谱面，dubstep 的重拍错位与急促切分让 score 稳定性成为主要考验。进阶 8 已经需要处理较快的音组，不能仅凭基础 4 的入口判断整体难度。
+官方发布记录确认它是2015-09-02的第4张单曲，另含《旅人電燈》《こころにくだもの》，并有不同包装版本。这些版本是同一单曲的发行形态，不自动代表各有不同音乐编配，也不能把后续《Bremen》专辑日期当作本曲首次发行。[3]
+
+### jubeat 收录与版本
+
+Qubell历史表记2016-07-18追加，普通谱2/6/8及173/331/575。作曲人的编配说明与街机剪辑身份分开，游戏母带和短版时长未亲测。[4]
 
 ### 资料来源
 
-1. RemyWiki：《蟲の棲む処》，访问日期 2026-11-01。原文未能直接访问。
-2. jubeat@Wiki：《蟲の棲む処》，访问日期 2026-11-01。https://w.atwiki.jp/jubeat/pages/1773.html
-3. asagaolabo @ ポップン百科大事典：《［蟲の棲む処］》，访问日期 2026-11-01。https://w.atwiki.jp/asagaolabo/pages/4927.html
-4. BEMANICN：《虫之栖息处》与 BeatStream 相关曲目页，访问日期 2026-11-01。
-5. BEMANICN：AC jubeat Qubell 曲目列表，访问日期 2026-11-01。https://wiki.bemani.cc/index.php?title=AC_jb_Qubell
-6. Fandom：List of all songs (Qubell)，访问日期 2026-11-01。https://jubeat.fandom.com/wiki/List_of_all_songs_(Qubell)
-7. SOUND VOLTEX Wiki：《蟲の棲む処》收录页，访问日期 2026-11-01。https://w.atwiki.jp/sdvx/pages/6407.html
-8. Nana Takahashi 与かめりあ公开资料页，访问日期 2026-11-01。
+1. [歌网：米津玄師Bremen原始采访](https://www.uta-net.com/user/interview/1510_kenshi_yonezu/?target=art)：否定来肯定、题名含义、易理解歌词与主动变化。
+2. [ROCKIN’ON JAPAN：アンビリーバーズ采访摘录](https://rockinon.com/feat/yonedzukenshi_201508)：不用吉他编配、完成九成后请蔦谷帮助、相信协作者。
+3. [米津玄師官方：第4单曲发行公告](https://reissuerecords.net/2015/07/24/new-single%E3%80%8C%E3%82%A2%E3%83%B3%E3%83%93%E3%83%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%82%BA%E3%80%8D%EF%BC%99%E6%9C%88%E7%99%BA%E5%A3%B2%E6%B1%BA%E5%AE%9A/)：2015-09-02、第4单曲、三曲及不同包装。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-07-18、133、2/6/8、173/331/575。
 
-### 核验边界
+### 核验边界与待补
 
-BPM、三档等级与笔记数由 jubeat@Wiki 曲目页、BEMANICN 与 Fandom 交叉。Qubell 登场时间由 asagaolabo 页面记录。传导解锁与 BeatStream 条件来自社区曲表转述，官方公告原文未直接核验。曲风与 MV 主题综合公开介绍与 pop'n、SOUND VOLTEX 资料页，仍只作概括。歌唱者详细身份与演唱分工不写死。
+四来源根达标；直接采访核实写词目标、不用吉他的限制及协作。游戏短版录音未亲测，不把商业广告用途逆推为委约起点。
 
-# jubeat Qubell 资料条目批次（资料行 73-84）
+---
 
-以下条目按 `/tmp/qubell-order.tsv` 第 73-84 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+**历史说明：jubeat Qubell 资料条目批次（资料行 13-24）**
 
-## 73. Phlox
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 13-24 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
 
-统一曲库 ID：`arcade_70000135`
+<a id="arcade-70000060-shared"></a>
+## Synchronized Love J Rap Jam
 
+- 统一曲库 ID：`arcade:70000060`
+- 原章节编号与标题：13. Synchronized Love J Rap Jam
 
 ### 曲目档案
 
-- 曲目：Phlox
-- 艺人名义：Sota Fujimori 2nd Season
-- 曲风：ELECTRONICA
-- 每分钟拍数：185
-- 谱面：BASIC 5（348 点）、ADVANCED 8（626 点）、EXTREME 10（757 点）
-- 初出：BeatStream アニムトライヴ
+- 署名：ジョー・リノイエ
+- ジョー・リノイエ负责词、曲、编曲、制作及演唱等；官方把J Rap Jam列为TOCT-4266第1曲。[1]
+- Qubell曲表：2016-07-18追加，124BPM、3/5/8、162/317/527音符。[3]
 
-### 背景知识
+### 创作与制作背景
 
-“Phlox”是福框花属或花葱属的属名，常被理解为福框花、福禄考或天花，其花语在日本园艺语境中多与合意、同意和团结相关。曲名的音感也接近英文“flocks”，与聚集和群像的意象相通。这份名字结构清爽，且和藤森崇多偏重明亮合成器与节奏推进的做法十分契合。
+作者回忆《Synchronized Love》最初用于1991年的武富士广告，只有副歌片段；观众不断询问完整版与CD，甚至希望体育祭使用，才促使他补写A段、B段和间奏rap，扩充成完整歌曲。他也坦言最初没有预见这个广告系列会长期流行。[2]
 
-本曲由 Sota Fujimori 2nd Season 制作，艺人名义指向藤森崇多的第二期企划。Sota Fujimori 长年在科乐美制作电子舞曲与游戏音乐，作品以清晰的低音、丰富的合成器层次和现代电气质感著称。作为 BeatStream 企划委托曲，本曲延续其精练的电气摇滚气质，也因此成为该游戏结束后承接至 jubeat 的重要曲目之一。
+需区别作品的起源与这里的具体版本：1995年J.R.名义的单曲和2000年ジョー・リノイエ名义的再发行不是同一个发行事件。官方目录把J Rap Jam、Millennium、Soft Grind Mix分列，唱片资料又单列95 Original；因此不能把任何标题相近的广告版或DDR版本自动当作本条录音。[1][2][4] 该版本还被官方列为《笑う犬の冒険》中センターマン的主题，显示歌曲在广告之外的传播。[1]
 
-音乐上，本曲以 185 的较快速度展开，基础段落以低音和八分音符结构建立推进感，进入高难度后则围绕节奏点、重音与骤停做出分层处理。公开评述提到 EXTREME 谱面整体以较易捕捉的八分音符为中心，但若干位置较难卡拍，实际体验约为九级适性，因此多数资料会在数值和手感之间保留差异。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：从 BeatStream アニムトライヴ移植
-- 解锁方式：活动“BeatStream のあの曲達が jubeat でも遊べちゃう！”中的承接解锁
-- 解锁条件：2017 年 2 月 13 日 00:00 前在 BeatStream アニムトライヴ内完成本曲解锁，之后在 jubeat Qubell 中确认联动状态
-- 后续变化：2017 年 2 月 23 日起随活动后续处理进入通常解锁途径
-- 移动端：jubeat plus 的 Qubell pack 收录
-- 首次收录：jubeat Qubell
+保留Qubell，2016街机追加不是歌曲创作或唱片首发。[1][2][3]
 
 ### 资料来源
 
-- RemyWiki：《Phlox》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Phlox》，访问日期 2026-11-01，记载艺人、曲风、每分钟拍数、谱面点数、BeatStream 移植和解锁条件。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，列出本曲在 2017 年 2 月的联动解锁阵容。
-- BEMANICN：《Phlox》，访问日期 2026-11-01，核对 Sota Fujimori 2nd Season、BeatStream 初出与 jubeat Qubell 收录。
-- 音击/beatmania IIDX 曲目数据库：《SOUND VOLTEX III/コナステ 曲目リスト》，访问日期 2026-11-01，交叉确认同名艺人、BeatStream 来源和名称写法。
+1. [MUV RINOIE：官方个人唱片及制作信用](https://muv.jp/management/joe-rinoie/)（已实读；primary）
+2. [MUV RINOIE：作者长访谈后篇](https://muv.jp/management/joe-rinoie/interview-2/)（已实读；primary）
+3. [jubeat@wiki：Qubell曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+4. [MusicBrainz：TOCT4266版本曲序](https://musicbrainz.org/release/ff192604-d06a-44a1-9ab6-9e55276efba3)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接打开，RemyWiki 只作定位；Phlox 的花语在不同语言和园艺资料中并不完全统一，这里只保留属名与常见语义，不扩写具体象征。艺人“Sota Fujimori 2nd Season”的确切人员分工和声部协作未在可访问资料中逐项确认。Qubell 阶段 EXTREME 数值记作 10，但当年实际手感评述可能低于数值等级；后续版本的数值与解锁方式不再混入本条目。
+原始广告短版与J Rap Jam具体重录/混音变动仍待母带资料；作者访谈说明整首作品起源，不声称rap扩写发生于2000年。
 
-## 74. Lost wing at.0
+<a id="arcade-70000061-shared"></a>
+## 黒髪乱れし修羅となりて～凛edition～
 
-统一曲库 ID：`arcade_70000136`
-
+- 统一曲库 ID：`arcade:70000061`
+- 原章节编号与标题：14. 黒髪乱れし修羅となりて～凛edition～
 
 ### 曲目档案
 
-- 曲目：Lost wing at.0
-- 艺人名义：猫叉Master+
-- 曲风：DRUM'N'BASS
-- 每分钟拍数：185
-- 谱面：BASIC 4（255 点）、ADVANCED 8（496 点）、EXTREME 9（690 点）
-- 初出：BeatStream アニムトライヴ
+- 署名：日向美ビタースイーツ♪
+- 霜月凛（CV：水原薫）翻唱版本，不能与原作演唱混同。[3]
+- 2016-02-17《Five Drops 05 -bergamot mint-》第5曲，GFCA-00415。[1]
+- 4月18日解禁；游戏资料150BPM、203/516/828音符，现表2/6/9.5。[2][3]
 
-### 背景知识
+### 创作与制作背景
 
-本曲是猫叉Master+ 为 BeatStream アニムトライヴ写下的原创曲，也是该名义在该机种唯一明确可考的提供曲。曲名可读作“Lost wing at point zero”，沿用了猫叉Master+ 的夜鸟系标题脉络：jubeat 初代有“Far east nightbird”，DanceDanceRevolution 2013 版有“nightbird lost wing”，本曲则把“失去翅膀”的时间点推向“零点”。部分公开条目还提到“POINT ZERO”与 IIDX 相关标题的联系，但这种解读并非公式设定，应视为观感而非事实结论。
+凛edition的背景首先是角色翻唱，而不是给既有母带只换个名字。游戏社区明确将其识别为霜月凛的翻唱，并与她在「日向美ちくわ姫決定戦」胜出后的纪念导入相连。[3] 但唱片资料显示，这个同名版本已在2016年2月的角色单曲中出现，早于4月街机解禁；因此不能写成“获胜以后才首次录制”或“4月首次发表”。[1][2]
 
-音乐上，本曲以碎拍与鼓打贝斯为基础，并在中途加入变拍与细碎合成器，与“远东夜鸟”的空灵质感保持呼应。公开评述提到其与旧作存在部分合成器和中盘不规则节奏的共通点，但也强调这是听感上的关联。BGA 由アキ制作；アキ此前也为 jubeat Qubell 中同批承接曲《ロプノールの商隊》制作影像。
+配套影像也有可查的真实制作分工：BEMANI官方解禁帖说明，片中凛的绘制由Ray、ちっひ、T田、いそにん和菌類承担。[2] 这属于本次影像制作，不能扩为他们负责音乐。八机种导入说明这一角色版本面向BEMANI多个游戏，而jubeat保留了凛edition中不加空格的曲名写法。[3]
 
-### jubeat Qubell 位置
+### jubeat 收录与版本
 
-- 收录版本：jubeat Qubell
-- 收录定位：从 BeatStream アニムトライヴ移植
-- 解锁方式：活动“BeatStream のあの曲達が jubeat でも遊べちゃう！”中的承接解锁
-- 解锁批次：2017 年 6 月 7 日发布的 jubeat Qubell pack 第 6 弹
-- 移动端：jubeat plus 的 Qubell pack 6 收录
-- 首次收录：jubeat Qubell
+保留Qubell；唱片2月先发与4月街机导入分开。原作和本角色翻唱不合并。[1][2][3]
 
 ### 资料来源
 
-- RemyWiki：《Lost wing at.0》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《曲リスト（Qubell）》，访问日期 2026-11-01，核对 185 的速度与三级谱面点数 255、496、690，并标注 BeatStream 解禁要求。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，列出本曲与 Phlox、SPACE VILLAGE、キミとワタシのオンガク同属 BeatStream 承接曲。
-- BEMANICN：《Lost wing at.0》，访问日期 2026-11-01，核对猫叉Master+ 唯一 BeatStream 原创曲与移动端 Qubell pack 6 记载。
-- ポップン百科大事典：《Lost wing at.0》，访问日期 2026-11-01，记载夜鸟系标题关联、アキ影像制作与 BeatStream 服务终止后的承接背景。
-- jubeat Lab.：《Lost wing at.0》，访问日期 2026-11-01，确认官方 jubeat Lab. 数据库使用相同曲名与艺人名义。
+1. [ORICON：Five Drops05发行与曲序](https://www.oricon.co.jp/prof/382352/products/1157258/1/)（已实读；secondary）
+2. [BEMANI Fan Site：凛edition解禁与影像制作](https://eam.573.jp/app/web/post/detail.php?post_id=8723241)（已实读；primary）
+3. [jubeat@wiki：凛版游戏身份](https://w.atwiki.jp/jubeat/pages/1661.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接打开，RemyWiki 只作定位；曲名关联和“夜鸟系列”不等于官方设定的时间线声明，这里只写为可考的公开解读。BeatStream 原版 BEAST 谱面的数值在不同镜像中有 9 或 10 的差异，且服务已终止，因此不把原版数值写入结论。街机版速度在多个来源中出现 183 与 185 两种记载，本条目采用 Qubell 曲表和 jubeat 系谱面资料常用的 185；后续版本的数值调整不并入。
+尚未取得水原薫或音乐制作人谈此翻唱录音的直接访谈；原作词曲信用与凛版重编范围需补原始内页；动画原视频未实看，仅依据官方可读署名。
 
-## 75. SPACE VILLAGE
+<a id="arcade-70000065-shared"></a>
+## ロンロンへ ライライライ！
 
-统一曲库 ID：`arcade_70000138`
-
+- 统一曲库 ID：`arcade:70000065`
+- 原章节编号与标题：15. ロンロンへ ライライライ！
 
 ### 曲目档案
 
-- 曲目：SPACE VILLAGE
-- 艺人名义：サイバー劇レコ
-- 曲风：CYBER GAGAKU
-- 每分钟拍数：170
-- 谱面：BASIC 4（274 点）、ADVANCED 8（567 点）、EXTREME 9（751 点）
-- 初出：BeatStream アニムトライヴ
+- 署名：ここなつ
+- ヒゲドライバー作词、作曲、编曲，作者官网可直接核验。[1]
+- 官方2015-07-29宣布完整版配信。[2]
+- Qubell资料记录2016-06-12生日追加；156BPM、300/498/727音符，现表3/6/9.0。[3][4]
 
-### 背景知识
+### 创作与制作背景
 
-“SPACE VILLAGE”由サイバー劇レコ名义制作。这个名字是劇団レコード的变体，把“剧场”换成“サイバー”（赛博）和“電波”混合后的科技质感，即“赛博剧团唱片”。公开资料通常把它视为劇団レコード在 BeatStream 系列中的变身名义，风格也转向轻快的宇宙、科技与和风混合意象。
+在故事层面，本曲围绕ここなつ工作的中餐店「ロンロン」展开。社区整理将其起因记为店主请姐妹为店铺写宣传歌；官方配信日志也把歌曲与倉野川的「中華料理 龍龍」相连。这样的背景属于作品中的虚构商店与角色活动，不是现实餐馆向ヒゲドライバー委约的证据。[2][3]
 
-本曲的歌词采用逐字拆解的读法，把“地球のみなさん”“こんにちは”“サイバー劇レコ・ダ”“ハルカトオイワクセイデ”“イナサクヲシテイル”“コトシモ、ホウサクダベ～”等台词逐段展示，形成“遥远星球的村落”与“农事丰收”的幽默设定。这种写法与曲名中的“SPACE VILLAGE”直接对应，也解释了为何曲风在部分资料中被称为 CYBER GAGAKU：它把雅乐式的断句和电子鼓点拼在一起。
+真实创作人员方面，ヒゲドライバー在当年官网明确登记自己承担词曲编三职，并将其列为向SOUND VOLTEX提供的作品。[1] 歌曲先有SDVX相关呈现及2015年的完整版配信，后来才在这里的Qubell曲库中出现；社区还把2016-06-12的追加与姐妹生日相连。[2][3] 本轮未找到作者逐句谈菜单、旋律或音色选择的访谈，故不把其其他中毒性歌曲的制作经验直接套用。
 
-公开条目提到本曲在 BeatStream 原版 BEAST 难度附近有 10 级或 10 级以下的差异，但这一数值已随原服务终止而不再适合作为本条目的核心数据。jubeat Qubell 的移植谱面则以 170 的速度和 274、567、751 的点数稳定出现，多源交叉一致。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：从 BeatStream アニムトライヴ移植
-- 解锁方式：活动“BeatStream のあの曲達が jubeat でも遊べちゃう！”中的承接解锁
-- 解锁批次：2017 年 3 月发布的第 3 弹
-- 移动端：jubeat plus 的 Qubell pack 6 收录
-- 首次收录：jubeat Qubell
+保留Qubell；不是jubeat原创初出。SDVX精确最初开放日存在作者官网7月3与社区任务7月1差异，暂不择一消除。[1][3]
 
 ### 资料来源
 
-- RemyWiki：《SPACE VILLAGE》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《曲リスト（Qubell）》，访问日期 2026-11-01，核对 170 的速度和 274、567、751 的谱面点数，并标注 BeatStream 解禁要求。
-- BEMANI Fan Site：《2017 March》，访问日期 2026-11-01，列出本曲在 2017 年 3 月的 BeatStream 承接阵容。
-- BEMANICN：《jubeat Qubell》，访问日期 2026-11-01，核对曲名、艺人、来源机种和 Qubell 收录。
-- 谱面资料：《SPACE VILLAGE》，访问日期 2026-11-01，交叉记录 170 的速度、三段谱面点数和官方作者评论中的村落、农事设定。
-- BeatStream 官方曲单页：《Music Video》，访问日期 2026-11-01，确认本曲在 BeatStream アニムトライヴ的曲名与艺人名义。
+1. [ヒゲドライバー：2015年7月提供记录](https://higedriver.com/index.html)（已实读；primary）
+2. [KONAMI：7月29日配信消息](https://p.eagate.573.jp/game/bemani/hinabita/p/kuranogawa/index.html?month=201507)（已实读；primary）
+3. [popn百科：角色故事及移植记录](https://w.atwiki.jp/asagaolabo/pages/4918.html)（已实读；secondary）
+4. [jubeat@wiki：jubeat逐曲参数](https://w.atwiki.jp/jubeat/pages/1668.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接打开，RemyWiki 只作定位；“サイバー劇レコ”作为劇団レコード的变体名义是多个资料共同采用的说法，但确切的企划分工未在可访问资料中逐项确认。曲风 CYBER GAGAKU 在不同镜像的写法差异较大，这里保留为 jubeat 系资料常见的分类，不解释为严格的音乐学分类。BeatStream 原版数值存在 10 级或 10 级以下的记载分歧，因此只使用 jubeat Qubell 的数值；后续版本的数值调整不并入。
+现实作者创作动机及录音细节待访谈；虚构店主委托细节现据社区整理，仍待对应官方原日记；7月1任务开始与7月3可玩是否流程差异待核。
 
-## 76. キミとワタシのオンガク
+<a id="arcade-70000066-shared"></a>
+## Good bye, Summer～さよならは言わない～
 
-统一曲库 ID：`arcade_70000139`
-
+- 统一曲库 ID：`arcade:70000066`
+- 原章节编号与标题：16. Good bye, Summer～さよならは言わない～
 
 ### 曲目档案
 
-- 曲目：キミとワタシのオンガク
-- 艺人名义：seiya-murai feat. ALT
-- 曲风：BEATSTREAM
-- 每分钟拍数：160
-- 谱面：BASIC 3（266 点）、ADVANCED 7（493 点）、EXTREME 8（667 点）
-- 初出：BeatStream アニムトライヴ
+- 署名：私立BEMANI学園軽音部 OB
+- 官方曲评分别由T田谈歌词、96谈作曲、PON谈歌唱；不沿用部分社区把PON与96一概列为共同作曲的写法。[1][3][4]
+- 165BPM，202/397/642音符；现表3/7/8。[3]
+- 2016-06-30多机种开放，jubeat对应Qubell。[2][4]
 
-### 背景知识
+### 创作与制作背景
 
-本曲是村井聖夜以 seiya-murai 名义与音声合成歌姬 ALT 合作的 BeatStream 提供曲。曲名直译为“你与我的音乐”，但标题中的“オンガク”同时指向音乐这个词本身，因此曲子像是在问音乐属于谁：它既属于创作者，也属于听者，也属于把旋律重新组合的游戏舞台。
+本曲为BEMANI ROCK FES ’16主题曲，也是学园故事三年后的延伸。官方以戏谑的乐队访谈口吻刊载制作回忆：T田不把它限定为唯一正统结局，而是从一种可能的未来出发；收到旋律后，又寻找能表现夏天的歌词气息。96则回忆动笔后自然浮现熟悉的riff。PON谈到这次不仅唱歌，还穿发带、牛仔外套到海边出演；应将这些话作为官方带角色表演色彩的创作说明，而非逐字当作严肃人物传记。[1]
 
-ALT 是 BeatStream 世界观中的合成音声角色，声音接近机械音但略带口癖，并不追求真人歌手那种流畅的情感铺陈。公开评述提到，本曲的声音比此前更清晰、更挺拔，像“从长眠中醒来后，能更利落地唱出自己想说的话”。这个设定也解释了为何曲子中的歌与伴奏强调轻盈与同步，而不是抒情性的高潮。
+歌曲的传播与玩家参与相连：Bi-Ra Factory先行挑战使它在演出前已能游玩，GITADORA官方明确公告6月30日十点开放，社区记录jubeat等也在同日加入。[2][4] 后来它与《Endless Chain》一同被收入2021年的诺斯塔尔吉亚学园曲包，延续了这一组作品的关联；该次收录并不等于2016原始录音另行重制。[5]
 
-创作上，村井聖夜在科乐美的 BEMANI 系列中以复合节奏、明朗低音和复古电玩气质著称。本曲把 160 的速度、电子合成器、短句合唱与带口癖的人声结合在一起，既有游戏主题曲的直白，也有合成音声特有的俏皮感。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：从 BeatStream アニムトライヴ移植
-- 解锁方式：活动“BeatStream のあの曲達が jubeat でも遊べちゃう！”中的承接解锁
-- 解锁批次：2017 年 3 月 30 日发布的第 6 弹
-- 移动端：jubeat plus 的 Qubell pack 6 收录
-- 首次收录：jubeat Qubell
+保留Qubell；本曲属跨机种主题曲，不写成jubeat单独首发。[2][4]
 
 ### 资料来源
 
-- RemyWiki：《キミとワタシのオンガク》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《曲リスト（Qubell）》，访问日期 2026-11-01，核对 160 的速度与 266、493、667 的三级谱面点数，并标注 BeatStream 解禁要求。
-- BEMANI Fan Site：《2017 March》，访问日期 2026-11-01，列出本曲在 2017 年 3 月的 BeatStream 承接阵容。
-- BEMANICN：《jubeat Qubell》，访问日期 2026-11-01，核对曲名、艺人、来源机种和 Qubell 收录。
-- 初音ミク Wiki：《キミとワタシのオンガク》，访问日期 2026-11-01，确认 2016 年、ALT、VocalWriter、seiya-murai、BeatStream、jubeat 等标签与来源。
-- BeatStream 官方影像页：《キミとワタシのオンガク》，访问日期 2026-11-01，保留官方对 ALT 声音设定的说明。
+1. [KONAMI：T田・96・PON 官方曲评](https://p.eagate.573.jp/game/popn/eclale/p/musicchar/mcdetail/m_good_bye.html)（已实读；primary）
+2. [KONAMI：BRF16主题曲先行解禁](https://eam.573.jp/app/web/post/detail.php?post_id=9371636)（已实读；primary）
+3. [jubeat@wiki：逐曲参数与续作记录](https://w.atwiki.jp/jubeat/pages/1669.html)（已实读；secondary）
+4. [popn百科：Endless Summer资料](https://w.atwiki.jp/asagaolabo/pages/4727.html)（已实读；secondary）
+5. [4Gamer／KONAMI厂商稿：2021诺斯塔尔吉亚曲包](https://www.4gamer.net/games/535/G053514/20210630084/)（已实读；primary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接打开，RemyWiki 只作定位；“从长眠中醒来后，能更利落地唱出自己想说的话”来自官方影像页的可考设定，但这里改为概括，不逐字复述。ALT 的声源模型、声道分工与“VocalWriter”的完整技术链路未在可访问资料中逐项确认。曲风在不同镜像中的写法差异较大，这里保留为 jubeat 系资料常见的 BEATSTREAM 分类，不解释为严格的音乐学分类。Qubell 阶段的谱面难度为 3、7、8；后续版本调整为 3、7、8 之外的变化不并入。
+官方访谈为幽默角色化语气，制作细节只作有出处的自述；编曲、所有乐器及原唱录音完整内页待核；谱表现评级不可直接等同2016原评级。
 
-## 77. トキメキストリーム
+<a id="arcade-70000067-shared"></a>
+## 星宿る空の下で
 
-统一曲库 ID：`arcade_70000141`
-
+- 统一曲库 ID：`arcade:70000067`
+- 原章节编号与标题：17. 星宿る空の下で
 
 ### 曲目档案
 
-- 曲目：トキメキストリーム
-- 艺人名义：Qrispy Joybox
-- 曲风：BEATSTREAM
-- 每分钟拍数：164
-- 谱面：BASIC 4（236 点）、ADVANCED 7（541 点）、EXTREME 9（669 点）
-- 初出：BeatStream アニムトライヴ
+- 署名：Akhuta
+- 原本属于GITADORA OverDrive的曲目，本地保留Qubell移植归属。[2][3]
+- 收录于2016年7月Fables of Akhuta限时QUBE。[1]
+- Qubell事件总表可核第一阶段204BPM、原4/7/9、307/544/859音符。[5]
 
-### 背景知识
+### 创作与制作背景
 
-本曲由 Qrispy Joybox 制作。Qrispy Joybox 是 BEMANI 系列中一个跨机种活跃的音乐企划，成员与协作方式在不同时期有所变化，但通常以明亮旋律、流行感、电子摇滚和鼓点分层的做法为标志。本曲名直译为“心动急流”或“心动洪流”，把心跳的“ときめき”与“stream”的流动感拼在一起。
+本曲值得关注的背景是跨游戏展开的成对设计。社区资料把《星宿る空の下で》与《枝に結ぶ願い》分别定位在OverDrive和saucer fulfill，并记述封面及乐句彼此接续；因此不能把两首当作只有相近标题而毫无关联的作品。官方2016年7月介绍本曲回归jubeat时，也特别以相隔约两年终于相聚的说法强调这种关联。[1][2]
 
-作为 BeatStream 初出曲，本曲不只是简单的流行电子乐：它把游戏式的主题、鼓打贝斯式的节奏、电吉他与合成器短句叠在一起，既有开场与副歌的亮色，也有中层节奏的推进。公开评述常提到它属于“心跳加速的节奏组”，与《SPACE VILLAGE》《Lost wing at.0》等曲同属 BeatStream 承接曲目，但在气质上更明快。
+传播过程有两种不同用途：在OverDrive时期，它曾被选为第四届KAC GuitarFreaks五首预选课题之一，体现其在原游戏赛事中的使用；到Qubell阶段，则进入以Akhuta为主题的限时解锁活动。[1][3] 官方Qubell原声目录后来明确列出连接两首标题的曲目，并保留四项Fables事件BGM。这里仅确认实际发行目录，不把合并标题自动解释为某次未经核验的全新录音，也不凭题名推断具体神话原型。[4]
 
-本曲的 BGA 与 BeatStream 世界观相关，但公开资料对其中角色和演出的完整描述不够一致，因此这里不把 BGA 角色写成具体事实。可以确认的是，它后来进入 jubeat Qubell、pop'n music、SOUND VOLTEX 等多个 BEMANI 平台，成为 BeatStream 服务终止后仍保留较高可见度的代表曲目之一。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：从 BeatStream アニムトライヴ移植
-- 解锁方式：活动“BeatStream のあの曲達が jubeat でも遊べちゃう！”中的承接解锁
-- 解锁批次：2017 年 2 月 23 日发布的第 1 弹
-- 移动端：jubeat plus 的 Qubell pack 6 收录
-- 首次收录：jubeat Qubell
+保留Qubell分组；历史初出为GITADORA OverDrive。[2][3]
 
 ### 资料来源
 
-- RemyWiki：《トキメキストリーム》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《曲リスト（Qubell）》，访问日期 2026-11-01，核对 164 的速度与 236、541、669 的三级谱面点数，并标注 BeatStream 解禁要求。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，列出本曲在 2017 年 2 月的 BeatStream 承接阵容。
-- BEMANICN：《jubeat Qubell》，访问日期 2026-11-01，核对曲名、艺人、来源机种和 Qubell 收录。
-- 谱面资料：《トキメキストリーム》，访问日期 2026-11-01，交叉记录 164 的速度、236、541、669 的谱面点数，以及 2017 年 2 月 23 日的街机收录起始时间。
-- jubeat Ave. 官方曲单页：《ORIGINAL》，访问日期 2026-11-01，确认后续平台仍保留曲名与艺人名义。
+1. [KONAMI：2016年7月官方曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201607)（已实读；primary）
+2. [アニヲタwiki：星宿与枝的关联记录](https://w.atwiki.jp/aniwotawiki/pages/32689.html)（已实读；secondary）
+3. [KONAMI：第四届KAC GuitarFreaks规则](https://p.eagate.573.jp/game/kac2014/p/gitadora_gf/index.html)（已实读；primary）
+4. [KONAMI：Qubell原声曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=112&game_id=6)（已实读；primary）
+5. [jubeat@wiki：Qubell事件原参数](https://w.atwiki.jp/jubeat/pages/1612.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接打开，RemyWiki 只作定位；“心动急流”只是曲名的中文概括，不是官方译名。Qrispy Joybox 在不同时期的成员构成和协作方式未在可访问资料中逐项确认，这里不写死具体人员。曲风在不同镜像中的写法差异较大，这里保留为 jubeat 系资料常见的 BEATSTREAM 分类，不解释为严格的音乐学分类。Qubell 阶段的谱面难度为 4、7、9；后续版本数值变化不并入。
+作者对故事原型、人物命运和拆分创作的原始曲评待追；逐曲页普通读取403后停止；参数改由可读事件总表核，时长仍待补；社区的连贯设计说明仍待作者原评加强。
 
-## 78. 爆なな☆てすとロイヤー
+<a id="arcade-70000068-shared"></a>
+## 六花にくちづけ
 
-统一曲库 ID：`arcade_70000142`
-
+- 统一曲库 ID：`arcade:70000068`
+- 原章节编号与标题：18. 六花にくちづけ
 
 ### 曲目档案
 
-- 曲目：爆なな☆てすとロイヤー
-- 艺人名义：ARM feat. ななひら
-- 曲风：BEMANI LOUNGE
-- 每分钟拍数：200
-- 谱面：BASIC 5（258 点）、ADVANCED 9（657 点）、EXTREME 10（710 点）
-- 初出：BeatStream アニムトライヴ
+- 署名：Akhuta
+- 2016年7月官方以Akhuta署名介绍，属于Fables of Akhuta限时QUBE，并说明GITADORA也可游玩。[1]
+- 正式Qubell原声目录收录本曲。[2]
+- 事件总表记录第三阶段210BPM、原5/7/9、291/538/694音符；时长待核。[4]
 
-### 背景知识
+### 创作与制作背景
 
-本曲由 ARM 作编曲，ななひら演唱，是 IOSYS 与科乐美 BEMANI 系列的公开合作曲目之一。曲名可拆为“爆なな”“てすと”“ロイヤー”：“爆”强调强度，“なな”对应七与ななひら，“てすと”对应测验或考试，“ロイヤー”则与“royal”和王室、华丽感相连接。IOSYS 官方资料明确把它记作“爆なな☆てすとロイヤー”，并确认 ARM 与ななひら的身份。
+《六花にくちづけ》的可证实创作语境，是2016年以Akhuta为中心的Fables企划：它不是普通授权流行曲，而是官方与限时QUBE一起介绍的作品，且扩展至GITADORA。[1] 正式原声目录又把它与合并标题的《星宿る空の下で 枝に結ぶ願い》以及四段Fables背景音乐放在同一发行物中，显示歌曲所在的项目并非只有单一谱面，而包括围绕该企划的音乐呈现。[2]
 
-曲子把 200 的快速度、电子 Lounge 风格、萌系人声和游戏化的问答式演出结合起来。公开评述常把它与《分けるな危険！モモモモモモーイズム》《夏色バーニングラブ☆Prim》等曲一起归为 BeatStream 的欢快委托曲，但本曲更突出七重对答、重复句与高密度人声。歌曲中的“测验”“王室”等意象也与其高难度、高速度的谱面体验相呼应。
+这首歌还成为作者本人现场演唱的曲目。4Gamer对JAEPO2017的现场报道明确记述，Akhuta在第二天登台演唱本曲，曲表将它列在jubeat名下。[3] 这能确认公开舞台上的歌唱者，却不足以单独证明录音中每一段声线都由同一人完成；关于所谓女性声线、变声处理及故事结局，暂不把网友推断写成录音事实。
 
-值得注意的是，本曲在部分资料中被记载为“表记 BPM 有误”，后来修正为 200。这一事件说明，早期电子音乐的表记速度有时会受原机种、版本或资料整理影响，本条目只采用多方一致确认的 200，不把早期误差写入结论。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：从 BeatStream アニムトライヴ移植
-- 解锁方式：活动“BeatStream のあの曲達が jubeat でも遊べちゃう！”中的承接解锁
-- 解锁批次：2017 年 6 月 7 日发布的 jubeat Qubell pack 第 6 弹
-- 移动端：jubeat plus 的 Qubell pack 6 收录
-- 首次收录：jubeat Qubell
+保留Qubell；官方同时说明GITADORA可玩，但本轮不据此倒推两机种精确首次开放时刻。[1]
 
 ### 资料来源
 
-- RemyWiki：《爆なな☆てすとロイヤー》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《曲リスト（Qubell）》，访问日期 2026-11-01，核对 200 的速度与三级谱面点数，并标注 BeatStream 解禁要求。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，列出本曲在 2017 年 2 月的 BeatStream 承接阵容。
-- IOSYS 官方资料：《ARM Profile》，访问日期 2026-11-01，确认 ARM 的作编曲身份和与ななひら的合作。
-- BEMANICN：《爆なな☆てすとロイヤー》，访问日期 2026-11-01，核对 BeatStream 初出、jubeat Qubell 收录和移动端 Qubell pack 6。
-- ポップン百科大事典：《爆なな☆てすとロイヤー》，访问日期 2026-11-01，记录早期表记速度误载及其后修正为 200 的过程。
+1. [KONAMI：2016年7月官方新曲介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201607)（已实读；primary）
+2. [KONAMI：Qubell原声曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=112&game_id=6)（已实读；primary）
+3. [4Gamer：JAEPO2017现场报道](https://www.4gamer.net/games/361/G036123/20170215095/)（已实读；primary）
+4. [jubeat@wiki：Qubell事件原参数](https://w.atwiki.jp/jubeat/pages/1612.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接访问，RemyWiki 只作定位；“BEMANI LOUNGE”是资料整理中的常见风格标签，不是官方音乐学分类。曲名中的“なな”“てすと”“ロイヤー”是结构解释，不是逐字官方说明。Qrispy Joybox 未参与本曲；与 ARM、ななひら相关的人员分工以 IOSYS 官方页面为准。早期表记速度误载只作为背景信息，不改变当前结论。Qubell 阶段的谱面难度为 5、9、10；后续版本数值变化不并入。
+作者对六花意象、作词和旋律的直接说明待补；全部录音人员、声线处理与所谓三部曲结局缺原始内页/曲评；逐曲页普通读取403后停止，参数采用可读事件总表；时长待补。
 
-## 79. バビロニア
+<a id="arcade-70000072-shared"></a>
+## My Precious
 
-统一曲库 ID：`arcade_70000143`
-
+- 统一曲库 ID：`arcade:70000072`
+- 原章节编号与标题：19. My Precious
 
 ### 曲目档案
 
-- 曲目：バビロニア
-- 艺人名义：劇団レコード
-- 曲风：DISTORTED NEW AGE
-- 每分钟拍数：164
-- 谱面：BASIC 4（308 点）、ADVANCED 7（492 点）、EXTREME 9（644 点）
-- 初出：beatmania IIDX 17 SIRIUS
+- 署名：本場切絵（CV:白石晴香）
+- ミズノゲンキ作词，el作曲、编曲；2015-09-16角色歌Vol.3的第一曲。[1]
+- Qubell联动2016-07-14开始；本曲为第三阶段解锁，原表136BPM、3/5/7、131/278/386音符。[3][4]
 
-### 背景知识
+### 创作与制作背景
 
-“バビロニア”即“巴比伦尼亚”，指美索不达米亚文明中以巴比伦为中心的地区，也指古代两河流域的政治与文化地域。曲名没有直接唱出地名故事，而是以“巴比伦”作为听觉符号，把古代文明、祭仪感、电子合成器和不规则节奏放在同一个空间里。
+本曲并非白石晴香以个人身份演唱的一般情歌，而是以本場切絵的内心为出发点的角色作品。制作人三上政高亲自说明，其主题是切絵第一次在泳池看到うまる时产生的憧憬；因为角色平常的含糊低语、慌张状态难以仅靠歌声再现，制作上用歌词来补强内面表达。[2]
 
-本曲由劇団レコード制作，初出为 beatmania IIDX 17 SIRIUS，风格被资料标为 DISTORTED NEW AGE。这里的“扭曲新世纪”不是传统意义上的宁静新世纪，而是以扭曲合成器、异质感合唱与冥想式低音制造文明遗迹感。BGA 与演出也把地平线、遗迹与机械结构混合，强化“古老未来”的氛围。
+这使本曲与同碟其他角色表达具有区分：不能把另一首《トトファンタジア》的童年绘本构思移给本曲。正式制作记录明确列ミズノゲンキ负责词、el负责曲与编，并以Vol.3首曲发行。[1] 随后的jubeat收录发生在动画联动中，发行时点和游戏加入相隔约十个月；游戏采用角色及声优联合署名，而不是另招翻唱者的公告。[3]
 
-本曲后来成为 jubeat Qubell 限定 QUBE《遠い記憶の旅人たち～バビロニア～》的起点。该活动不是单纯移植，而是把《バビロニア》和两首新作串成一个叙事群：旧曲作为入口，新作继续旅人、古书与祝祭的故事。因此，本曲在 Qubell 中的位置既是移植曲，也是该叙事群的第一章。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：beatmania IIDX 17 SIRIUS 移植
-- 解锁方式：期间限定 QUBE《遠い記憶の旅人たち～バビロニア～》
-- 解锁期间：2017 年 2 月 2 日至 2017 年 2 月 22 日
-- 叙事定位：巴比伦三曲群的入口曲目
-- 首次收录：jubeat Qubell
+保留Qubell；原作是2015动画角色歌，2016联动追加，不属于jubeat原创。[1][3]
 
 ### 资料来源
 
-- RemyWiki：《バビロニア》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《バビロニア》，访问日期 2026-11-01，核对 IIDX 17 SIRIUS 初出、Qubell 收录、期间限定 QUBE 和 2017 年 2 月 2 日至 22 日的解锁期间。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，记录本曲作为期间限定 QUBE《遠い記憶の旅人たち～バビロニア～》公开曲的官方说明。
-- BEMANICN：《jubeat Qubell》，访问日期 2026-11-01，核对 Qubell 收录、IIDX 来源和活动叙事群。
-- jubeat Wiki @ TH：《「遠い記憶の旅人たち ~バビロニア~」QUBE》，访问日期 2026-11-01，确认活动包含旧曲与新曲、可读故事和称号解锁。
-- MusicBrainz：《beatmania IIDX 17 SIRIUS Original Soundtrack》，访问日期 2026-11-01，确认本曲在 IIDX 17 SIRIUS 原声带中的曲名与艺人名义。
+1. [VERY GOO：2015年制作信用](https://www.verygoo.jp/works/201603-201504.php)（已实读；primary）
+2. [Mikiki：三上政高谈角色歌制作](https://mikiki.tokyo.jp/articles/-/10329)（已实读；primary）
+3. [Famitsu／KONAMI：2016年联动五曲公告](https://www.famitsu.com/news/201607/14110847.html)（已实读；primary）
+4. [jubeat@wiki：Qubell解锁及原参数](https://w.atwiki.jp/jubeat/pages/1612.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接访问，RemyWiki 只作定位；“巴比伦尼亚”为历史地理与文明概念，曲子与具体神话人物、王朝事件的直接对应并无官方设定，这里不扩写。BGA 的具体角色、影像制作者和叙事分层未在可访问资料中逐项确认。曲风 DISTORTED NEW AGE 是 IIDX 分类，不是音乐学结论。Qubell 阶段的谱面难度为 4、7、9；后续版本的数值变化不并入。
+作词者与作曲者本人逐步创作/录音访谈仍待补；游戏剪辑与CD母带的技术比对未完成；评级明确为Qubell原资料，不冒充现行值。
 
-## 80. バビロニアの旅人たち
+<a id="arcade-70000073-shared"></a>
+## sweet sweet everytime sweet
 
-统一曲库 ID：`arcade_70000144`
-
+- 统一曲库 ID：`arcade:70000073`
+- 原章节编号与标题：20. sweet sweet everytime sweet
 
 ### 曲目档案
 
-- 曲目：バビロニアの旅人たち
-- 艺人名义：Babylonian Vates
-- 曲风：DISTORTED NEW AGE
-- 每分钟拍数：175
-- 谱面：BASIC 4（342 点）、ADVANCED 7（587 点）、EXTREME 9（751 点）
-- 初出：jubeat Qubell
+- 署名：海老名菜々（CV:影山灯）
+- 烏屋茶房作词、作曲、编曲；2015-09-02角色歌Vol.2第一曲。[1]
+- Qubell2016-07-14联动；第二阶段解锁，原表110BPM、3/6/8、142/365/522音符。[3][4]
 
-### 背景知识
+### 创作与制作背景
 
-本曲是巴比伦三曲群中的第二首。艺人名义“Babylonian Vates”可译为“巴比伦的预言者”或“巴比伦的诗人”，公开资料明确将其记作劇団レコード与 SHAMDEL 的合作名义。曲名从上一首的《バビロニア》推进到“旅人たち”，把地点变成人群与行进，也把单曲扩展为一个可被读取的故事。
+制作人三上政高把本曲定位为French pop。他说明海老名的音乐需要符合角色气质，也要让大家唱得开心；为避免四名角色的曲风重叠，选择了带跳跃感、速度不过快的方向。这是参与制作的人明确给出的选型理由，不是单凭柔和角色形象猜测她理应唱慢板抒情曲。[2]
 
-歌词围绕离别、母亲留下的吻、远方的路和“在这条路的尽头相见”展开。这些句子不直接解释巴比伦文明，而是把旅行、告别、预言与再生放进古文明的氛围里。部分资料还提到，故事末尾的诗与歌词片段相通，说明本曲不只是配乐，而是活动叙事的一部分。
+词曲编由烏屋茶房一人承担，2015年先作为角色单曲Vol.2首曲发行，随后才进入Qubell的动画联动。[1][3] 需特别区分同一次访谈中关于秋田方言反复增减的录音故事：那一段讲的是另一首《そいだばね》，不能转写成《sweet sweet everytime sweet》的制作逸闻。[2]
 
-音乐上，本曲以 175 的速度、扭曲合成器、合唱和异质感节奏推进，既保留了《バビロニア》的遗迹感，又用更明确的旋律线推进旅人主题。它和《旅の終わりと祝祭の夜》共同构成活动后半段，而不是把 IIDX 旧曲简单移植后放置在曲库里。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：期间限定 QUBE《遠い記憶の旅人たち～バビロニア～》的新曲
-- 解锁方式：期间限定 QUBE 挖掘
-- 解锁期间：2017 年 2 月 2 日至 2017 年 2 月 22 日
-- 叙事定位：巴比伦三曲群的第二曲
-- 首次收录：jubeat Qubell
+保留Qubell；2015年原作角色歌，2016年游戏联动追加。[1][3]
 
 ### 资料来源
 
-- RemyWiki：《バビロニアの旅人たち》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《バビロニアの旅人たち》，访问日期 2026-11-01，核对 Babylonian Vates 是劇団レコード与 SHAMDEL 的合作名义、175 的速度和期间限定 QUBE 解锁。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，记录本曲作为期间限定 QUBE《遠い記憶の旅人たち～バビロニア～》公开曲的官方说明。
-- BEMANICN：《jubeat Qubell》，访问日期 2026-11-01，核对 Qubell 收录、活动名称和三曲群的解锁关系。
-- jubeat Wiki @ TH：《「遠い記憶の旅人たち ~バビロニア~」QUBE》，访问日期 2026-11-01，确认活动包含新曲、可读故事和称号解锁。
-- jubeat clan ORIGINAL SOUNDTRACK 官方资料，访问日期 2026-11-01，确认后续原声带仍保留 Babylonian Vates 的曲名与艺人名义。
+1. [TOKYO LOGIC：海老名菜々角色单曲制作记录](https://tokyologic.info/archives/works_list/2015/%EF%BD%A2%E5%B9%B2%E7%89%A9%E5%A6%B9%EF%BC%81%E3%81%86%E3%81%BE%E3%82%8B%E3%81%A1%E3%82%83%E3%82%93%EF%BD%A3%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%BD%E3%83%B3%E3%82%B0vol-2/)（已实读；primary）
+2. [Mikiki：三上政高谈角色曲风选择](https://mikiki.tokyo.jp/articles/-/10329)（已实读；primary）
+3. [Famitsu／KONAMI：Qubell联动公告](https://www.famitsu.com/news/201607/14110847.html)（已实读；primary）
+4. [jubeat@wiki：联动第二阶段参数](https://w.atwiki.jp/jubeat/pages/1612.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接访问，RemyWiki 只作定位；“Vates”兼有预言者、诗人等语义，官方没有给出唯一中译，这里只作常见解读。歌词的完整叙事和活动称号的逐项解锁条件未在可访问资料中逐项确认。Qubell 阶段的谱面难度为 4、7、9；部分后续版本把 BASIC 记作 3，属于难度调整，不并入本条目。EXTREME 点数在少数镜像中出现 751 与 752 的差异，这里采用 Qubell 曲表和活动资料常用值 751。
+烏屋茶房本人关于和声及配器的逐曲自述待补；未把另曲方言录音过程移给本曲；游戏剪辑与原碟母带尚未技术核对。
 
-## 81. 旅の終わりと祝祭の夜
+<a id="arcade-70000074-shared"></a>
+## Entrapment
 
-统一曲库 ID：`arcade_70000145`
-
+- 统一曲库 ID：`arcade:70000074`
+- 原章节编号与标题：21. Entrapment
 
 ### 曲目档案
 
-- 曲目：旅の終わりと祝祭の夜
-- 艺人名义：月船古書堂
-- 曲风：BALADE
-- 每分钟拍数：148
-- 谱面：BASIC 5（434 点）、ADVANCED 9（632 点）、EXTREME 10（828 点）
-- 初出：jubeat Qubell
+- 署名：Expander
+- Qubell夏季限定dig dig祭曲，官方署名Expander。[1]
+- 2016-10-19个人专辑《今何度? What Temperature Is It?》收录Extended Mix。[3]
 
-### 背景知识
+### 创作与制作背景
 
-本曲是巴比伦三曲群的第三首。艺人名义“月船古書堂”可译为“月船古书堂”，公开资料明确将其记作劇団レコード与 SHAMDEL 的合作名义。曲名从“旅人たち”推进到“旅的结束与祝祭之夜”，把行进、告别、重逢与庆典放在同一个场景里，也像是在为整个巴比伦活动收束。
+本曲可核实的制作传播背景，是从2016年Qubell夏季挖掘活动曲发展为专辑长版本：游戏公告使用Expander署名，Qubell原声带也保持这个名义；同年10月Sota Fujimori个人专辑则把《Entrapment -Extended Mix-》排在第6轨。[1][2][3]
 
-歌词围绕远行的旅人、母亲的吻、夜空、古书与祝祭展开。这些句子不直接解释巴比伦文明，而是把旅行、告别、预言与再生放进古文明的氛围里。部分资料还提到，故事末尾的诗与歌词片段相通，说明本曲不只是配乐，而是活动叙事的一部分。
+因此，讨论录音时须区别街机收录音源与明确标作Extended Mix的专辑版本，不能把长版发行日当作原曲首次登场日。现有公告只证明这条版本关系，没有解释制作所用合成器、声样来源或曲名构思；也不能把作者另一首《Honey Trap》的创作说明移植到本曲。[1][3]
 
-音乐上，本曲以 148 的中速展开，强调钢琴、弦乐、合唱和隆隆低音的交错，既有抒情段落的呼吸，也有庆典化的节奏推进。它和《バビロニアの旅人たち》共同构成活动后半段，而不是把 IIDX 旧曲简单移植后放置在曲库里。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：期间限定 QUBE《遠い記憶の旅人たち～バビロニア～》的新曲
-- 解锁方式：期间限定 QUBE 挖掘
-- 解锁期间：2017 年 2 月 2 日至 2017 年 2 月 22 日
-- 叙事定位：巴比伦三曲群的第三曲
-- 首次收录：jubeat Qubell
+保留Qubell分组；夏季活动游戏版本与10月专辑长版分别记录。[1][3]
 
 ### 资料来源
 
-- RemyWiki：《旅の終わりと祝祭の夜》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《旅の終わりと祝祭の夜》，访问日期 2026-11-01，核对月船古書堂是劇団レコード与 SHAMDEL 的合作名义、148 的速度和期间限定 QUBE 解锁。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，记录本曲作为期间限定 QUBE《遠い記憶の旅人たち～バビロニア～》公开曲的官方说明。
-- BEMANICN：《jubeat Qubell》，访问日期 2026-11-01，核对 Qubell 收录、活动名称和三曲群的解锁关系。
-- jubeat Wiki @ TH：《「遠い記憶の旅人たち ~バビロニア~」QUBE》，访问日期 2026-11-01，确认活动包含新曲、可读故事和称号解锁。
-- ZIv Song Database：《旅の終わりと祝祭の夜》，访问日期 2026-11-01，确认曲名与艺人名义在 jubeat plus 中出现。
+1. [KONAMI：2016年8月曲目：Entrapment](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608)（已实读；primary）
+2. [KONAMI：Qubell原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=112&game_id=6)（已实读；primary）
+3. [4Gamer／KONAMI：Sota Fujimori新专辑发行公告](https://www.4gamer.net/games/323/G032396/20161019013/)（已实读；primary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接访问，RemyWiki 只作定位；“月船古書堂”为叙事化名义，官方没有给出中文译名，这里只作字面解读。歌词的完整叙事、称号解锁和影像制作者未在可访问资料中逐项确认。曲风 BALADE 是 jubeat 系资料中常见的法语式标签，不是音乐学结论；部分镜像的拼法差异不作展开。Qubell 阶段的谱面难度为 5、9、10；谱面点数在不同镜像中有出入，其中 BASIC 434、ADVANCED 632、EXTREME 828 为当前可用资料中的稳定组合，但仍保留差异提示。
+作者逐曲制作自述及采样授权信用待补；原档BPM、难度、解锁阶段及具体首日未在本轮可读原文全部核实。
 
-## 82. それは花火のような恋
+<a id="arcade-70000075-shared"></a>
+## 不可説不可説転
 
-统一曲库 ID：`arcade_70000146`
-
+- 统一曲库 ID：`arcade:70000075`
+- 原章节编号与标题：22. 不可説不可説転
 
 ### 曲目档案
 
-- 曲目：それは花火のような恋
-- 艺人名义：夏色バーニングラブ☆Prim
-- 曲风：HI-GAYO CORE
-- 每分钟拍数：182
-- 谱面：BASIC 4（232 点）、ADVANCED 7（528 点）、EXTREME 9（840 点）
-- 初出：BeatStream アニムトライヴ
+- 署名：OSTER project
+- 作者官方履历记录2016-08-15 Qubell夏季活动收录。[1]
+- 社区记为2016 Summer dig dig祭第二阶段曲。[2]
 
-### 背景知识
+### 创作与制作背景
 
-本曲由 Prim 制作。Prim 是 L.E.D. 与萌音歌姬モリナガ・マユミ的组合名义，而“夏色バーニングラブ☆Prim”则是在该名义上加装的夏日变体，强调“夏色”“燃烧的恋”和 Prim 的招牌人声。曲名直译为“那是像烟火一样的恋”，把短暂、明亮、上升与消散放进同一意象。
+OSTER project自己的作品履历明确记载了本曲进入Qubell夏季活动的日期，随后官方Qubell原声带亦以同名义收录。[1][3] 从乐曲接受史看，asagaolabo将其听感描述为和风前卫摇滚，并特别指出变拍子的节奏辨识难度；这是社区音乐与谱面评论，不等于作者亲口解释选用和风的原因。[2]
 
-歌词围绕“最初以为只是游戏”“被认真的低语吸引”“夏夜加速”“祭典结束”等意象展开。它不是单纯的恋爱颂歌，而是在庆典、烟火与夏夜的节奏中，把恋爱的短暂、后悔和再生并置。公开资料常把它的风格读作电子抒情与祭典系舞曲的混合，但这里不把这种概括当作严格分类。
+作品此后进入GITADORA NEX+AGE的2020年夏季联动，2023年又被收入pop’n Lively的jubeat选曲包，形成了由jubeat原曲向其他玩法传播的路径。[2] 曲名相关宗教意象、数学数值及其与配器的因果关系尚缺作者证言，不能将社区疑问式的联想改写成已证实创作故事。
 
-音乐上，本曲以 182 的速度推进，副歌用高密度人声、电子鼓点和上扬旋律把“烟火”的上升感写进节奏，而结尾则回到祭典散场的空旷感。这种落差也解释了为何它的谱面在高难度处既有中速抒情段，又有 840 点的高密度收束。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：从 BeatStream アニムトライヴ移植
-- 解锁方式：活动“BeatStream のあの曲達が jubeat でも遊べちゃう！”中的承接解锁
-- 解锁批次：2017 年 3 月 2 日发布的第 2 弹
-- 移动端：jubeat plus 的 Qubell pack 6 收录
-- 首次收录：jubeat Qubell
+保留Qubell；2016年jubeat活动来源与后续GITADORA、pop’n移植区别。[1][2]
 
 ### 资料来源
 
-- RemyWiki：《それは花火のような恋》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《それは花火のような恋》，访问日期 2026-11-01，核对夏色バーニングラブ☆Prim、182 的速度和 232、528、840 的三级谱面点数。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，列出本曲在 2017 年 2 月的 BeatStream 承接阵容。
-- BEMANICN：《那是烟花一样的恋爱》，访问日期 2026-11-01，核对夏色バーニングラブ☆Prim、BeatStream 初出、jubeat Qubell 收录与歌词关键句。
-- 谱面资料：《それは花火のような恋》，访问日期 2026-11-01，交叉记录 182 的速度、三段谱面点数和 Prim 的 artist comment。
-- BeatStream 官方影像页与 YouTube 公开影像，访问日期 2026-11-01，确认本曲的影像资料在 jubeat Qubell 和 jubeat plus 中出现。
+1. [OSTER project：2016年jubeat作品公告](https://fuwafuwacinnamon.sakura.ne.jp/info5.html)（已实读；primary）
+2. [asagaolabo：不可説不可説転曲目说明](https://w.atwiki.jp/asagaolabo/pages/5601.html)（已实读；secondary）
+3. [KONAMI：Qubell原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=112&game_id=6)（已实读；primary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接访问，RemyWiki 只作定位；“HI-GAYO CORE”是资料整理中的常见风格标签，不是官方音乐学分类。Prim 的成员、歌词创作、影像制作与角色分工未在可访问资料中逐项确认。歌词是概括，不是逐句翻译；MV 与 BGA 的具体演出细节不写入结论。Qubell 阶段的谱面难度为 4、7、9；后续版本数值变化不并入。
+未取得OSTER本人的逐曲创作说明；不采用社区未经独立核实的数值解释及佛典动机推测；原档各难度、音符数等未全部复核。
 
-## 83. 分けるな危険！モモモモモモーイズム
+<a id="arcade-70000076-shared"></a>
+## FUJIMORI -祭- FESTIVAL
 
-统一曲库 ID：`arcade_70000147`
-
+- 统一曲库 ID：`arcade:70000076`
+- 原章节编号与标题：23. FUJIMORI -祭- FESTIVAL
 
 ### 曲目档案
 
-- 曲目：分けるな危険！モモモモモモーイズム
-- 艺人名义：ARM×狐夢想 feat. 桃井はるこ
-- 曲风：BEMANI LOUNGE
-- 每分钟拍数：200
-- 谱面：BASIC 4（258 点）、ADVANCED 8（572 点）、EXTREME 9（710 点）
-- 初出：BeatStream アニムトライヴ
+- 署名：VENUS
+- VENUS作品；Qubell通过2016年夏季dig祭收录。[1]
+- 存在另行命名的EDP Live Mix，不能与无后缀本曲混写。[3]
 
-### 背景知识
+### 创作与制作背景
 
-本曲由 ARM 与狐夢想合作，桃井はるこ演唱。ARM 是 IOSYS 的核心创作者，狐夢想是同人音乐圈里的作词与企划者，桃井はるこ则以“モモーイ”这一昵称和电子萌系人声著称。曲名中的“モモモモモモー”对应モモーイ的口癖和重复感，“イズム”则以“主义”收束，使整句读起来像一场危险的宣言。
+这首作品的可核背景包括舞蹈游戏编舞与现场版再利用两条线。在DanceEvolution官方逐曲评论中，编舞者把音乐理解为让大家一起热烈跳舞的祭典声响。这是参与舞蹈制作的人员对该曲表达方式的说明，不是作曲者解释音乐最初如何写成。[2]
 
-歌词用“被叫出来，我是桃井子”“从桃井心中诞生的妖精”“不要读出声来”等句子，把角色扮演、秘密同人志、妄想、羞耻与自我暴露放在同一段对话中。它既是喜剧，也是一种关于“把真实心情说出口”的宣言：后半段的“ Smash the shell”“以本来面目活下去”等意象，把前半段的搞笑局面推到情绪出口。这种结构与 200 的快速度、重复句和跳跃口癖配合，使它成为 BeatStream 欢快系曲目的代表之一。
+2014年12月EXIT TUNES Dance Party的演出音源后来被制成专辑；2015年的官方联动还将《FUJIMORI -祭- FESTIVAL(EDP Live Mix)》作为REFLEC解锁曲。到了2016年，Qubell夏季公告列出的则是没有Live Mix后缀的标题。原曲、现场录音及不同游戏移植是不同层次的履历，不应将2016年当作作品诞生年。[1][3]
 
-桃井はるこ官方页面明确把本曲列为 BeatStream アニムトライヴ的歌曲，并确认“桃井はるこ（歌）”。IOSYS 官方资料则确认 ARM 的作编曲身份，并与狐夢想共同署名。这为曲子的创作链提供了两方官方页面的交叉证据。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：从 BeatStream アニムトライヴ移植
-- 解锁方式：活动“BeatStream のあの曲達が jubeat でも遊べちゃう！”中的承接解锁
-- 解锁批次：2017 年 3 月 2 日发布的第 2 弹
-- 移动端：jubeat plus 的 Qubell pack 10 收录
-- 首次收录：jubeat Qubell
+保留本地Qubell；已有更早舞蹈游戏及2014年现场版历史，非Qubell首创曲。[2][3]
 
 ### 资料来源
 
-- RemyWiki：《分けるな危険！モモモモモモーイズム》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《曲リスト（Qubell）》，访问日期 2026-11-01，核对 200 的速度与 258、572、710 的三级谱面点数，并标注 BeatStream 解禁要求。
-- BEMANI Fan Site：《2017 February》，访问日期 2026-11-01，列出本曲在 2017 年 2 月的 BeatStream 承接阵容。
-- 桃井はるこ官方页面：《〖歌唱〗ゲーム『BeatStream アニムトライヴ』「分けるな危険！モモモモモモーイズム」》，访问日期 2026-11-01，确认桃井はるこ的演唱身份。
-- IOSYS 官方资料：《ARM Profile》，访问日期 2026-11-01，确认 ARM 的作编曲身份和与狐夢想的共同署名。
-- BEMANICN：《无法排解的危险！桃色主义》，访问日期 2026-11-01，核对 BeatStream 初出、jubeat Qubell 收录和移动端 Qubell pack 10。
+1. [KONAMI：夏季dig祭曲目](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608)（已实读；primary）
+2. [KONAMI／编舞者：FUJIMORI振付评论](https://p.eagate.573.jp/game/danceevolution/ac/p/howto/crg/crg_tetsu2.html)（已实读；primary）
+3. [KONAMI：EXIT TUNES Dance Party现场音源企划](https://p.eagate.573.jp/game/bemani/campaign/etadp_cp/index.html)（已实读；primary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接访问，RemyWiki 只作定位；“BEMANI LOUNGE”是资料整理中的常见风格标签，不是官方音乐学分类。曲名没有官方中文译名，这里不使用“桃色主义”作为唯一译法。歌词是概括，不是逐句翻译；“モモイ子”“モモーイ”“妖精”等角色关系来自歌曲文本和公开资料，但未确认官方角色设定书。Qubell 阶段的谱面难度为 4、8、9；后续版本数值变化不并入。
+作词作曲编曲的具体分工及原作最早上线日待原始信用复核；编舞评论不代替词曲作者创作动机；原档速度、时长、全难度尚未全部核定。
 
-## 84. 翡翠の狼
+<a id="arcade-70000077-shared"></a>
+## NISHIMURA -祭- CARNIVAL
 
-统一曲库 ID：`arcade_70000148`
-
+- 统一曲库 ID：`arcade:70000077`
+- 原章节编号与标题：24. NISHIMURA -祭- CARNIVAL
 
 ### 曲目档案
 
-- 曲目：翡翠の狼
-- 艺人名义：米津玄師
-- 曲风：J-POP
-- 每分钟拍数：121
-- 谱面：BASIC 3（256 点）、ADVANCED 5（417 点）、EXTREME 7（597 点）
-- 初出：米津玄師第 6 张单曲《orion》第 3 曲，2017 年 2 月 15 日发售
-- 游戏初出：jubeat Qubell
+- 署名：S-C-U x U1 feat. VENUS
+- 官方合作名义S-C-U x U1 feat. VENUS。[1][3]
+- 158BPM、265/561/646音符；Qubell原表3/7/9，后来的曲目页为3/7/8，勿混淆评级年代。[2][4]
 
-### 背景知识
+### 创作与制作背景
 
-本曲由米津玄師作词、作曲并演唱，是其第 6 张单曲《orion》的第三曲。官方页面确认《orion》于 2017 年 2 月 15 日发售，第三曲为《翡翠の狼》。曲名可直译为“翡翠之狼”，把宝石质感的“翡翠”与野兽的“狼”并置，并用“我身之中宿藏美丽却不知”的歌词意象，把美丽、孤独和怒气放在同一主体上。
+本曲不是简单把VENUS旧作换名：官方在Qubell夏季公告及原声带中使用S-C-U x U1 feat. VENUS的联合名义，须把参与者完整保留，而不能将它归成某一人的独奏作品。[1][3] jubeat社区将它定位为《FUJIMORI -祭- FESTIVAL》的续篇，说明二者在玩家资料中的系列关系；更具体的作词、编曲及演唱分工仍须原始信用确认。[2]
 
-歌曲以 121 的中速推进，主歌低音清晰，副歌将合唱、鼓点和更明确的旋律线提升。歌词反复写到“孤独的寂寞”“踩着泥泞前行”“在暴风雪中流泪前进”“翡翠的狼再度叹息”，最终回到“在这个世界中比任何人都美丽的你”和“直到把爱说出口为止”。这些意象不指向某个古代神话，而是把孤独与自我认同写成一个持续奔跑的过程。
+这一祭典主题还进入玩法讨论：2016年的玩家记录特别指出副歌附近出现N、S形同时按键，并讨论手势转换。这能说明标题字母如何被玩家识别为谱面趣味，但不应据此虚构谱师访谈或作者取名经过。[2]
 
-本曲进入 jubeat Qubell 并非常规曲库更新，而是米津玄師与科乐美 BEMANI 系列的大型合作。官方新闻说明，《翡翠の狼》将在 BEMANI 中最受欢迎的 jubeat 上最速独占先行搭载，2017 年 2 月 23 日 10:00 起全国街机游戏中心同步解禁；米津玄師官方页面也确认这一时间点。因此，它在 Qubell 中的意义是主流音乐人曲目的独家先行收录，而非 BEMANI 原创曲。
+### jubeat 收录与版本
 
-### jubeat Qubell 位置
-
-- 收录版本：jubeat Qubell
-- 收录定位：米津玄師《orion》联动曲
-- 解锁方式：2017 年 2 月 23 日 10:00 起作为合作先行收录开放游玩
-- 收录性质：jubeat 独占先行收录
-- 首次收录：jubeat Qubell
-- 后续情况：列入米津玄師后续专辑或 BEMANI 相关精选时，具体平台与曲目组态不并入本条目
+保留Qubell；夏季dig祭收录的合作作品，区别FUJIMORI及其现场版。[1][2]
 
 ### 资料来源
 
-- RemyWiki：《翡翠の狼》，访问日期 2026-11-01。原文未能直接访问。
-- 米津玄師官方站点 REISSUE RECORDS：《New Single「orion」2017 / 2 / 15 発売決定》，访问日期 2026-11-01，确认单曲发售日、曲目和 BEMANI 合作信息。
-- 米津玄師官方站点 REISSUE RECORDS：《KONAMI「BEMANIシリーズ」との大型コラボ決定》，访问日期 2026-11-01，确认《翡翠の狼》2017 年 2 月 23 日在 jubeat Qubell 开放游玩。
-- 歌网络新闻：《音楽ニュース＆トピックス》，访问日期 2026-11-01，记录本曲在 jubeat 上最速独占先行搭载、2017 年 2 月 23 日 10:00 解禁的说明。
-- rockinon.com：《米津玄師、ハチ名義の5曲がKONAMI『BEMANIシリーズ』に一斉追加！》，访问日期 2026-11-01，交叉确认 BEMANI 收录、jubeat 独占先行和发售信息。
-- jubeat@Wiki：《翡翠の狼》，访问日期 2026-11-01，核对 Qubell 收录、121 的速度和 256、417、597 的三级谱面点数。
+1. [KONAMI：2016年8月新曲](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608)（已实读；primary）
+2. [jubeat@wiki：NISHIMURA曲目及玩家记录](https://w.atwiki.jp/jubeat/pages/1706.html)（已实读；secondary）
+3. [KONAMI：Qubell原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=112&game_id=6)（已实读；primary）
+4. [jubeat@wiki：Qubell历史难度表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-原访问入口显示无法直接访问，RemyWiki 只作定位；曲风 J-POP 是资料整理中的概括标签，不是官方分类。歌词是概括，不是逐句翻译；狼的象征、翡翠的宝石意义和专辑概念之间的对应不扩写。jubeat Qubell 的谱面难度为 3、5、7，数值点数与当年 jubeat@Wiki 曲表一致；后续版本数值变化、删除或再收录不并入。原声带或精选集版本不属于本条目的核心核验范围。
+缺少合作双方关于写作分工、题名对象的直接自述；字母押为玩家观察而非谱师自证；具体初次解锁日、时长待进一步原始记录。
 
-# jubeat Qubell 资料条目批次（资料行 85-96）
+**历史说明：jubeat Qubell 资料条目批次（资料行 25-36）**
 
-以下条目按 `/tmp/qubell-order.tsv` 第 85-96 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 25-36 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
 
-## 85. LOSER
+<a id="arcade-70000078-shared"></a>
+## 零の位相
 
-统一曲库 ID：`arcade_70000149`
-
-
-**曲目档案**
-
-《LOSER》由米津玄師作词、作曲并演唱，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 121，三谱面等级为 4、6、8， Notes 数分别为 273、614、782。该曲是其第 5 支单曲《LOSER/ナンバーナイン》的表题曲，后续在系列曲表中有难度与标注微调。
-
-**背景知识**
-
-本曲延续了米津玄師偏重流行乐结构与声部层次的创作路线，副歌旋律与切分节奏容易识别，歌词以承认自身不完美、仍要向前为意象。其单曲由蔦谷好位置与 mabanua 参与编曲，发行后在多个流媒体和榜单资料中被列为代表作之一。移植到 jubeat 后，谱面主要围绕人声断句、鼓组与低音律动排布。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》经由米津玄師第 5 支单曲《orion》的封入序列码先行解禁，序列码使用期为 2017 年 2 月 23 日至 3 月 31 日；2017 年 4 月 1 日起，使用 e-AMUSEMENT PASS 初次游玩即可无条件解禁。解禁后进入街机曲库并提供三种谱面，后继系列也继续保留。
-
-**资料来源**
-
-- RemyWiki：《LOSER》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：LOSER 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 新曲与谱面整理页，访问日期 2026-11-01。
-- Sony Music：米津玄師《LOSER/ナンバーナイン》作品页，访问日期 2026-11-01。
-- Otoge Station：jubeat Qubell 追加曲整理页，访问日期 2026-11-01。
-- ZIv：jubeat Qubell 曲目资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-jubeat 端 BPM、等级与 Notes 数在玩家资料中一致，但本次未能直接查看街机内栏位。序列码活动起止时间来自玩家资料整理，官方公告原文未直接复核。单曲编曲人员名单以唱片公司作品页为准，本条目不把个人贡献拆写到具体声部。后续版本是否有注记或难度调整，以各期官方曲表为准。
-
-## 86. CARNIVOROUS
-
-统一曲库 ID：`arcade_70000150`
-
-
-**曲目档案**
-
-《CARNIVOROUS》由 SOUND HOLIC feat. Nana Takahashi 提供，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 170，三谱面等级为 2、6、8， Notes 数分别为 223、455、570。曲源来自《BeatStream》，属于该作与 jubeat 侧互通活动中加入的移植曲。
-
-**背景知识**
-
-SOUND HOLIC 是长期活跃于东方同人现场的团体，也多次参与 BEMANI 原创曲目。Nana Takahashi 的高音声线与其偏摇滚的编曲，使本曲在《BeatStream》中以鲜明的攻击性节奏登场。移植到 jubeat 后，电子音、鼓组与旋律线被拆成面积较大但变化清楚的判点，困难谱面保留了原曲快速交替的能量。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过《BeatStream》联动活动追加。2017 年 2 月 13 日 0 时前已在《BeatStream アニムトライヴ》拥有游玩数据的玩家可直接解禁；未满足该条件的玩家则在后续传导中开放。解锁完成后进入 jubeat 常驻曲库。
-
-**资料来源**
-
-- RemyWiki：《CARNIVOROUS》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：CARNIVOROUS 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell BeatStream 联动与移植曲整理页，访问日期 2026-11-01。
-- Konami 官方：《BeatStream》曲目数据库，访问日期 2026-11-01。
-- Konami 官方：《jubeat Qubell》BeatStream 互通活动公告，访问日期 2026-11-01。
-- ZIv：BEMANI 系列移植曲资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-jubeat 端配信时间与活动批次在不同玩家资料中的表述略有差异，本条目只写 2017 年 2 月 13 日游玩数据解禁规则与后续传导，不另写死具体配信日期。BPM、等级与 Notes 数可交叉对应，但未直接复核街机界面。原作侧的谱面细节不纳入本条目。
-
-## 87. 月風魔伝 ～ ビーストメドレー ～
-
-统一曲库 ID：`arcade_70000151`
-
-
-**曲目档案**
-
-《月風魔伝 ～ ビーストメドレー ～》由 Akhuta 改编，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 170，三谱面等级为 4、7、9.4， Notes 数分别为 326、533、823。本曲只提供 hold 谱面，不提供通常谱面。曲目把《月風魔伝》的相关主题编成组曲式移植版本，曲名中的“ビースト”也与《BeatStream》的活动名相呼应。
-
-**背景知识**
-
-《月風魔伝》是 Konami 于 1987 年推出的 FC 动作游戏，以和风幻想、妖怪与地狱意象著称。Akhuta 将其音乐主题重新编成现代节奏游戏版本，保留原有旋律轮廓的同时加入电子与管弦化层次。该曲与《がんばれゴエモン》《GRADIUS Ⅱ》同属“ビーストメドレー”系列改编，构成 Konami 经典 IP 向《BeatStream》的集中移植。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过《BeatStream》联动活动追加。2017 年 2 月 13 日 0 时前已在原作拥有游玩数据的玩家可直接解禁，未满足者按批次传导开放；有玩家资料把 jubeat 侧解禁日记作 2017 年 4 月 6 日，对应活动第 7 弹。加入常驻曲库后提供三种谱面。
-
-**资料来源**
-
-- RemyWiki：《月風魔伝 ～ ビーストメドレー ～》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：月風魔伝 ～ ビーストメドレー ～ 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell BeatStream 联动资料页，访问日期 2026-11-01。
-- Konami 官方：《月風魔伝》游戏资料页，访问日期 2026-11-01。
-- Konami 官方：《BeatStream》曲目数据库，访问日期 2026-11-01。
-- ZIv：Konami 经典 IP 与 BEMANI 改编整理，访问日期 2026-11-01。
-
-**核验边界**
-
-2017 年 4 月 6 日的解禁日与第 7 弹归属来自玩家资料，官方公告原文未直接复核；早前汇总中的“2017 年 6 月”与当前核对结果不一致，本条目不再采用。BPM、等级与 Notes 数在多站一致，但未直接核对街机内栏位。原作音乐主题的选用范围以改编音源为准，本条目不逐段指认。
-
-## 88. がんばれゴエモン ～ ビーストメドレー ～
-
-统一曲库 ID：`arcade_70000152`
-
-
-**曲目档案**
-
-《がんばれゴエモン ～ ビーストメドレー ～》由 96 改编，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 标示范围较宽，通常记作 113-190，三谱面等级为 3、6、9， Notes 数分别为 188、370、526。曲源为 Konami 经典系列《がんばれゴエモン》，属于“ビーストメドレー”改编组曲。
-
-**背景知识**
-
-《がんばれゴエモン》是 Konami 以来到江户时代风格的义贼义辉卫门为主角的动作游戏系列，历代音乐中带有鲜明和风与喜剧色彩。96 的改编版保留了系列主题的旋律记忆，并以现代节奏编曲衔接不同段落的情绪转换。它与《月風魔伝》《GRADIUS Ⅱ》一起，成为《BeatStream》侧集中呈现 Konami 经典 IP 的系列作品。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过《BeatStream》联动活动追加，属于该活动第 4 弹加入的曲目。曾在《BeatStream》中达成条件的玩家可提前解锁，后续通过传导机制开放。获得后进入常驻曲库，并随本曲提供三种谱面。
-
-**资料来源**
-
-- RemyWiki：《がんばれゴエモン ～ ビーストメドレー ～》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：がんばれゴエモン ～ ビーストメドレー ～ 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell BeatStream 联动与配信批次整理，访问日期 2026-11-01。
-- Konami 官方：《がんばれゴエモン》系列资料页，访问日期 2026-11-01。
-- Konami 官方：《BeatStream》曲目数据库，访问日期 2026-11-01。
-- ZIv：Konami 经典 IP 移植曲资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-本曲 BPM 在玩家资料中以范围形式出现，其内部是否分段或以某一标值呈现，未能直接复核街机界面，故只写范围。配信时间 2017 年 3 月 16 日可对应活动第 4 弹，但官方原文未直接复核。原作主题选用段落不逐项指认。
-另有玩家资料把基础谱面 Notes 数记作 372，与当前采用的 370 存在差异；本条目以 jubeat@Wiki Qubell 曲表为准。
-
-## 89. GRADIUS Ⅱ ～ ビーストメドレー ～
-
-统一曲库 ID：`arcade_70000153`
-
-
-**曲目档案**
-
-《GRADIUS Ⅱ ～ ビーストメドレー ～》由 Sota Fujimori 改编，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 190，三谱面等级为 3、6、9， Notes 数分别为 271、417、648。曲目改编自 Konami 射击游戏《Gradius II》，并与“ビーストメドレー”系列其他作品一同进入《BeatStream》联动。
-
-**背景知识**
-
-《Gradius II》是 Konami 横版射击系列的代表作，其音乐以快节奏、合成器与战斗场景交织著称。Sota Fujimori 的改编把它转成现代电子声场，保留了原曲的推进感，并与同期《月風魔伝》《がんばれゴエモン》改编形成跨题材的经典 IP 组曲。该版本后来在 clan 期困难谱面被调整到 9.4，显示其谱面定位在系列运营中仍被重新评估。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过《BeatStream》联动活动追加，属于该活动第 4 弹加入的曲目。曾在《BeatStream》中达成条件的玩家可提前解锁，未达成者则在后续传导中开放。解锁后进入常驻曲库，三种谱面随曲一并提供。
-
-**资料来源**
-
-- RemyWiki：《GRADIUS Ⅱ ～ ビーストメドレー ～》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：GRADIUS Ⅱ ～ ビーストメドレー ～ 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell BeatStream 联动资料页，访问日期 2026-11-01。
-- Konami 官方：《Gradius II》游戏与音乐资料页，访问日期 2026-11-01。
-- Konami 官方：《BeatStream》曲目数据库，访问日期 2026-11-01。
-- ZIv：Konami 经典 IP 与 BEMANI 改编整理，访问日期 2026-11-01。
-
-**核验边界**
-
-jubeat 端 BPM 190 与原作或《BeatStream》侧可能出现记载差异，本条目只采用 jubeat 曲表常见标值。clan 期困难谱面 9.4 属后继版本调整，不是 Qubell 当期等级。活动第 4 弹配信日期可交叉到 2017 年 3 月 16 日，但官方原文未直接复核。
-另有玩家资料曾把困难谱面 Notes 数记作 684，与当前采用的 648 存在差异；本条目以 jubeat@Wiki Qubell 曲表为准。
-
-## 90. ちょちょいとちょいだよ夢浪漫
-
-统一曲库 ID：`arcade_70000156`
-
-
-**曲目档案**
-
-《ちょちょいとちょいだよ夢浪漫》由 A応P 演唱，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 152，三谱面等级为 3、6、8， Notes 数分别为 184、399、580。该曲是 jubeat 与永谷園联动系列中的第 2 首，曲题带有明显的食品与和风印象。
-
-**背景知识**
-
-A応P 是以动画歌曲活动为主的女性声优团体，本曲则是 jubeat 与茶品品牌永谷園合作企划中登场的作品之一。系列曲用轻快的口语化标题、和风旋律与食品意象结合，形成品牌联动中少见的完整曲目企划。相对于后续的《椀・of・Relaxation》，本曲更接近明亮活泼的商业联动曲。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过 jubeat × 永谷園联动活动配信，属于该企划的第 2 期追加曲。活动完成后加入常驻曲库，并提供三种谱面。clan 期部分谱面等级有调整，本条目保留 Qubell 当期数值。
-
-**资料来源**
-
-- RemyWiki：《ちょちょいとちょいだよ夢浪漫》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：ちょちょいとちょいだよ夢浪漫 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 永谷園联动资料页，访问日期 2026-11-01。
-- Konami 官方：jubeat × 永谷園联动公告页，访问日期 2026-11-01。
-- A応P 官方：作品与活动资料页，访问日期 2026-11-01。
-- ZIv：jubeat Qubell 品牌联动曲目整理，访问日期 2026-11-01。
-
-**核验边界**
-
-永谷園联动各期的官方页面表述以当期活动为准，本次未直接复核原始公告原文，故“第 2 期”按玩家曲表顺序归纳。BPM、等级与 Notes 数在多站一致，但未直接核对街机界面。clan 期调整后的等级不写入曲目档案。
-
-## 91. 椀・of・Relaxation
-
-统一曲库 ID：`arcade_70000157`
-
-
-**曲目档案**
-
-《椀・of・Relaxation》由 A応P 演唱，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 96，三谱面等级为 3、7、9， Notes 数分别为 215、422、739。曲题把日式“椀”与英文 relaxation 结合，延续 jubeat 与永谷園联动系列的食品主题。
-
-**背景知识**
-
-本曲是 jubeat × 永谷園联动企划的第 3 期作品，曲名和曲风比前作更放松，演唱也带有休息与治愈的意象。A応P 以活泼声线与动画歌曲经验参与该企划，使品牌联动的曲目不只是一次广告性配信，而是形成了连续的系列身份。其在玩家曲表中也被视为 Qubell 时期食品品牌联动最具辨识度的曲目之一。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过 jubeat × 永谷園联动活动配信，属于该企划第 3 期追加曲。配信完成后加入常驻曲库，并提供三种谱面。clan 期基础谱面等级由 3 调整为 2，本条目保留 Qubell 当期数值。
-
-**资料来源**
-
-- RemyWiki：《椀・of・Relaxation》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：椀・of・Relaxation 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 永谷園联动与后续难度调整资料页，访问日期 2026-11-01。
-- Konami 官方：jubeat × 永谷園联动公告页，访问日期 2026-11-01。
-- A応P 官方：作品与活动资料页，访问日期 2026-11-01。
-- Otoge Station：jubeat Qubell 联动曲整理页，访问日期 2026-11-01。
-
-**核验边界**
-
-配信日期 2017 年 5 月 17 日可对应部分玩家资料，但官方原文未直接复核，本条目未写死。BPM、等级与 Notes 数可交叉对应，但未直接查看街机内栏位。clan 期基础谱面 2 级为后继版本调整，不作为 Qubell 初收录数据。
-
-## 92. マトリョシカ
-
-统一曲库 ID：`arcade_70000158`
-
-
-**曲目档案**
-
-《マトリョシカ》由ハチ作词、作曲并演唱，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 记载范围较宽，通常为 205-296；jubeat@Wiki 记录街机版与 plus 版谱面相同，仅封面不同，三谱面等级为 3、5、9.0， Notes 数分别为 147、294、588。其曲风栏位归入“ソーシャルミュージック”。
-
-**背景知识**
-
-本曲是ハチ于 2010 年发表的高人气 VOCALOID 作品，原版由 GUMI 演唱，之后也在多个专辑与现场版本中出现。曲名取自俄罗斯套娃，歌词围绕社会规范与个体关系展开，节奏变化和副歌记忆点使其成为 widespread 传播的代表作品之一。移植到 jubeat 后，快速变速与人声断句成为谱面节奏的核心。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat plus》先行配信，随后进入街机《jubeat Qubell》曲库。街机端加入后提供三种谱面，移动端与街机端的收录时间存在先后差异。
-
-**资料来源**
-
-- RemyWiki：《マトリョシカ》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：マトリョシカ 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 曲表与谱面等级整理，访问日期 2026-11-01。
-- Konami 官方：《jubeat plus》配信资料，访问日期 2026-11-01。
-- Sony Music：ハチ作品资料页，访问日期 2026-11-01。
-- ZIv：jubeat 移植曲与 VOCALOID 曲目整理，访问日期 2026-11-01。
-
-**核验边界**
-
-BEMANICN 汇总表曾把三谱面等级记作 3、6、9，与 jubeat@Wiki 单曲页的 3、5、9.0 存在差异；本条目以后者为准，但未直接复核街机界面。2017 年 2 月 23 日可作为移动端先行配信参考，街机端具体配信日以官方公告或曲表为准。演唱版本、专辑版本与原版之间的关系未在本条目展开。
-
-## 93. パンダヒーロー
-
-统一曲库 ID：`arcade_70000159`
-
-
-**曲目档案**
-
-《パンダヒーロー》由ハチ作词、作曲并演唱，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 190；jubeat@Wiki 记录街机版与 plus 版谱面相同，仅封面不同，三谱面等级为 4、6、9.0， Notes 数分别为 249、490、826。BEMANICN 将 Qubell 街机版归入 dig dig Qubell 的米津玄師／ハチ × BEMANI STAGE 2 解锁曲目。
-
-**背景知识**
-
-本曲是ハチ于 2011 年发表的 VOCALOID 作品，原版由 GUMI 演唱，以“熊猫英雄”的意象结合流行摇滚与电子节拍。旋律的推进感与副歌重复段使其在音游移植中具有较高识别度。其在多个音游和演唱会资料中被视为ハチ早期代表作品之一，与《マトリョシカ》共同构成该时期高人气曲目的集中移植。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat plus》先行配信，随后进入街机《jubeat Qubell》曲库。街机端通过 dig dig Qubell 的米津玄師／ハチ × BEMANI STAGE 2 解锁，完成条件后加入常驻曲库。移动端与街机端的解锁路径和时间并不完全相同。
-
-**资料来源**
-
-- RemyWiki：《パンダヒーロー》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：パンダヒーロー 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell dig dig Qubell 与 BEMANI STAGE 资料页，访问日期 2026-11-01。
-- Konami 官方：《jubeat plus》配信资料，访问日期 2026-11-01。
-- Sony Music：ハチ作品资料页，访问日期 2026-11-01。
-- ZIv：jubeat 移植曲与 VOCALOID 曲目整理，访问日期 2026-11-01。
-
-**核验边界**
-
-本曲 BPM、等级与 Notes 数在 jubeat plus 与街机曲表之间可能出现版本差异，本次未能在同一官方界面下直接复核，故保留移动端参考并另写街机解锁路径。2017 年 2 月 23 日可作为移动端先行配信参考，街机端具体配信日以官方资料为准。原版、专辑版与现场版的关系未在本条目展开。
-BEMANICN 汇总表曾把三谱面等级记作 4、7、9，与 jubeat@Wiki 单曲页的 4、6、9.0 存在差异；本条目以后者为准。dig dig Qubell 解锁路径来自 BEMANICN 与玩家资料，官方公告原文未直接复核。
-
-## 94. ドーナツホール
-
-统一曲库 ID：`arcade_70000160`
-
-
-**曲目档案**
-
-《ドーナツホール》由ハチ作词、作曲，原版由 GUMI 演唱，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 252，三谱面等级为 4、5、8， Notes 数分别为 223、479、704。曲名直译为“甜甜圈洞”，以其快速的节奏与高密度旋律成为 Qubell 期高人气移植曲之一。
-
-**背景知识**
-
-本曲是ハチ于 2013 年发表的 VOCALOID 作品，原版由 GUMI 演唱。歌曲以甜甜圈洞的意象比喻缺失与循环，快速推进的旋律线和副歌张力使其成为该时期流传度极高的作品。米津玄師后来以本名名义自翻唱，收录于专辑中，但 jubeat 侧曲源以原版 VOCALOID 音源为基础，谱面围绕其快速节拍与旋律断点展开。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》以移植新曲形式加入街机曲库，BEMANICN 记录的配信日期为 2017 年 3 月 1 日。加入后提供三种谱面，无需额外联动解锁。其快速 BPM 与密集旋律使困难谱面在 Qubell 期移植曲中具有较强识别度。
-
-**资料来源**
-
-- RemyWiki：《ドーナツホール》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：ドーナツホール 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell 曲表与配信整理，访问日期 2026-11-01。
-- Konami 官方：《jubeat plus》配信资料，访问日期 2026-11-01。
-- Sony Music：ハチ与米津玄師作品资料页，访问日期 2026-11-01。
-- ZIv：jubeat 移植曲与 VOCALOID 曲目整理，访问日期 2026-11-01。
-
-**核验边界**
-
-原版与米津玄師自翻唱版的音源关系、收录专辑及配信时间可能因版本不同而出现差异，本条目只以原版 VOCALOID 曲源为主线。jubeat@Wiki 单曲页把三谱面等级记作 4、5、8；jubeat@Wiki 曲表、玩家难度整理与后续系列资料则多记作 4、6、9。本条目采用单曲页数值，但未直接复核街机界面。配信日期 2017 年 3 月 1 日来自 BEMANICN，未直接核对官方原文。
-
-## 95. 怪盗BisCoの予告状！！
-
-统一曲库 ID：`arcade_70000161`
-
-
-**曲目档案**
-
-《怪盗BisCoの予告状！！》由 Qrispy Joybox 创作，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 160，三谱面等级为 2、7、9.2， Notes 数分别为 222、482、657。本曲只提供 hold 谱面，不提供通常谱面。曲名为全角感叹号，角色 BisCo 与《BeatStream》的世界观直接相关，属于该作向 jubeat 移植的代表性曲目。
-
-**背景知识**
-
-Qrispy Joybox 是 Konami BEMANI 系列中的创作名义，作品多为高能量电子与摇滚混合风格。BisCo 作为《BeatStream》的看板角色，其“怪盗予告状”主题在原作中承担了强烈的视觉与叙事记忆点。移植到 jubeat 后，快节奏鼓组、旋律断点与角色主题相互配合，使曲子在联动曲中保持了较高的辨识度。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过《BeatStream》联动活动追加。2017 年 2 月 13 日 0 时前已在《BeatStream》内解禁该曲的玩家可直接游玩，未满足者按后续传导开放。解锁后进入常驻曲库，并提供三种谱面。
-
-**资料来源**
-
-- RemyWiki：《怪盗BisCoの予告状！！》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：怪盗BisCoの予告状！！ 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell BeatStream 联动资料页，访问日期 2026-11-01。
-- Konami 官方：《BeatStream》曲目数据库与角色资料，访问日期 2026-11-01。
-- Konami 官方：《jubeat Qubell》BeatStream 互通活动公告，访问日期 2026-11-01。
-- ZIv：BEMANI 系列移植曲资料页，访问日期 2026-11-01。
-
-**核验边界**
-
-活动第 1 弹与配信日期的旧表述不再直接写死，解禁规则以 2017 年 2 月 13 日前原作解禁数据为准。BPM、等级与 Notes 数在多站一致，但未直接查看街机内栏位。角色设定细节只作为曲名背景，未在本条目展开原作剧情。
-
-## 96. びいすと！
-
-统一曲库 ID：`arcade_70000162`
-
-
-**曲目档案**
-
-《びいすと！》由ビートまりおとARM 提供，为《jubeat Qubell》首次收录曲。jubeat 谱面 BPM 为 200，三谱面等级为 4、7、10， Notes 数分别为 202、376、736。曲名读法与《BeatStream》的昵称“ビースト”相同，属于该作向 jubeat 侧移植的纪念性主题曲。
-
-**背景知识**
-
-ビートまりお与 ARM 都来自 COOL&CREATE，长期活跃于东方同人现场，也曾多次参与 BEMANI 原创或联动曲。本曲以《BeatStream》的名称谐音为核心，把原作的角色感、现场热闹感和高速电子节奏结合在一起。10 级困难谱面使其在 Qubell 期联动曲目中带有明显的挑战属性。
-
-**jubeat Qubell 位置**
-
-本曲在《jubeat Qubell》通过《BeatStream》联动活动追加，属于该活动第 1 弹加入的曲目。曾在《BeatStream》中达成条件的玩家可提前解锁，后续通过传导机制开放。解锁后进入常驻曲库，并提供三种谱面。
-本曲只提供 hold 谱面，不提供通常谱面。
-
-**资料来源**
-
-- RemyWiki：《びいすと！》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：びいすと！ 条目，访问日期 2026-11-01。
-- BEMANICN：jubeat Qubell BeatStream 联动资料页，访问日期 2026-11-01。
-- Konami 官方：《BeatStream》曲目数据库，访问日期 2026-11-01。
-- COOL&CREATE：ビートまりお与 ARM 作品资料页，访问日期 2026-11-01。
-- ZIv：BEMANI 系列联动与移植曲整理，访问日期 2026-11-01。
-
-**核验边界**
-
-配信日期 2017 年 2 月 23 日对应活动第 1 弹，但官方原文未直接复核；解禁规则为 2017 年 2 月 13 日前已有原作游玩数据者可直接解禁，未满足者按传导开放。BPM、等级与 Notes 数在多站一致，但未直接查看街机内栏位。曲名读音、原作昵称与活动主题之间的关系以玩家资料交叉为依据，不以官方命名说明引申。
-
-# jubeat Qubell 资料条目批次（资料行 97-108）
-
-以下条目按 `/tmp/qubell-order.tsv` 第 97-108 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
-
-## 97. にゃんのパレードマーチ♪
-
-统一曲库 ID：`arcade_70000163`
-
+- 统一曲库 ID：`arcade:70000078`
+- 原章节编号与标题：25. 零の位相
 
 ### 曲目档案
 
-《にゃんのパレードマーチ♪》由 DJ TOTTO feat.にゃん 提供，BPM 为 202。jubeat Qubell 中设 BASIC、ADVANCED、EXTREME 三档常规谱面，难度分别为 4、7、9，音符数为 202、376、736。
+- 署名：kradness
+- 《MIND HACK》第一曲，あさき作词、96作曲。[1]
+- Qubell2016-09-07追加；原表190–205BPM、4/7/9、262/425/604音符。[3]
 
-### 背景知识
+### 创作与制作背景
 
-该曲是 BeatStream 中的联动向原创曲，带有明显的行进乐队与游行场景意象。曲名中的“パレードマーチ”直接点明主题，演唱者标注为“にゃん”。BeatStream 侧的动画与角色包装让这首作品在移植到 jubeat 后仍保持了较高的识别度。
+《零の位相》来自kradness专辑《MIND HACK》，是歌手与BEMANI作者合作的专辑曲，而不是把歌手署名等同于词曲创作。官方曲表明确词为あさき、曲为96，二人的职务不能倒置。[1]
 
-### jubeat Qubell 位置
+发行当天，kradness与两位作者共同参加第147回BEMANI生放送。官方幕后采访里，他说这次听到了制作期间也未曾听作者讲过的逸事，并谈到自己从BEMANI玩家变成参与演唱者的喜悦。[2] 这提供了合作关系及传播背景，但文章没有复述那些创作逸事的内容；不能把排练时开玩笑的场景当作录音室写歌过程。具体作品解释需继续核对该期节目原声。
 
-本曲随 BeatStream 乐曲移植活动进入 jubeat Qubell，对应活动第 1 弾，2017 年 2 月 16 日在 Qubell 中登场。参与当时活动的玩家可在条件满足后解禁；后续也进入 jubeat plus 的配信曲目池，其中可确认到 2017 年 7 月 5 日的 pack8 记录。
+### jubeat 收录与版本
+
+保留Qubell；2016年专辑及多机种合作曲，jubeat追加日9月7日；不将所有机种上线日混成同日。[1][2][3]
 
 ### 资料来源
 
-- RemyWiki：《にゃんのパレードマーチ♪》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 BeatStream 移植曲记录，访问日期 2026-11-01。
-- BeatStream 官方页面：《にゃんのパレードマーチ♪》乐曲页，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell pack8 相关曲目列表，访问日期 2026-11-01。
+1. [KONAMI／EXIT TUNES：MIND HACK与BEMANI合作曲表](https://p.eagate.573.jp/game/bemani/fansite/p/event/1608kradness/index.html)（已实读；primary）
+2. [KONAMI：BEMANIっ記Vol.7：kradness与作者对谈幕后](https://p.eagate.573.jp/game/bemani/fansite/p/report/2016a/bemanikki1.html)（已实读；primary）
+3. [jubeat@wiki：Qubell曲目历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-RemyWiki 原文未直接访问，本条难度与解禁日期以 jubeat@Wiki 和官方活动记录交叉核对。演唱者“にゃん”的完整身份说明、歌词与影像制作细节尚未在可直接访问的页面中完整核对，故不在此处写死。
+第147回节目含直接故事线索，但本轮未听核原声https://www.youtube.com/watch?v=8VmMxd6NCv8；具体编曲、演奏信用及歌词创作动机待核；部分社区将词曲职务倒置，本稿依官方记录。
 
-## 98. nostos
+<a id="arcade-70000080-shared"></a>
+## Now Loading!!!!
 
-统一曲库 ID：`arcade_70000164`
-
+- 统一曲库 ID：`arcade:70000080`
+- 原章节编号与标题：26. Now Loading!!!!
 
 ### 曲目档案
 
-《nostos》由 Setaria Virtuoso 提供，BPM 未能稳定确认。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 4、6、9.6。
+- 署名：fourfolium
+- 动画《NEW GAME!》ED；烏屋茶房作词、和田たけあき作曲、やしきん编曲，2016-07-27发行。[1]
+- plus先行，Qubell2016-08-09联动；原表193BPM、3/6/8、171/361/471音符。[3]
 
-### 背景知识
+### 创作与制作背景
 
-曲目属于 BEMANI 系列为纪念《ノスタルジア》稼働而展开的乐曲交换企划。曲名可联系希腊语中的“归乡、回归”意象，与《ノスタルジア》强调的怀旧与乡愁氛围相呼应。Setaria Virtuoso 是首次在 BEMANI 曲目署名中使用的马甲，后续资料多将其关联到 wac。
+本曲的录音逸闻由演唱者在发行活动中亲自讲述。竹尾歩美因为旋律高低起伏较大，录音时用手势辅助把握音阶；山口愛刻意区分主歌和副歌的情绪力度。戸田めぐみ则是四人中最先录这首歌的人，她在演唱时提前考虑四名角色共同构成的世界，也顾及后续录音成员。[2]
 
-### jubeat Qubell 位置
+这些细节说明，fourfolium的合唱效果不仅依赖统一音色，也需要成员各自把角色表达与段落对比处理好。词曲编分别由三位创作者承担，演员的演唱处理不应误写成他们作曲；2016年的jubeat联动是动画歌曲发行后的游戏利用，不是其原始创作目的。[1][2][3]
 
-本曲在 2017 年 3 月 15 日作为《ノスタルジア》稼働纪念乐曲交换企划的一部分进入 jubeat Qubell。同一企划还把曲目送往《beatmania IIDX SINOBUZ》和《REFLEC BEAT 悠久のリフレシア》，pop'n music 侧则在较晚的 2018 年 7 月 5 日加入。
+### jubeat 收录与版本
+
+保留Qubell，区分2016年7月原作发行、plus先行及8月街机联动。[1][3]
 
 ### 资料来源
 
-- RemyWiki：《nostos》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及ノスタルジア联动记录，访问日期 2026-11-01。
-- BEMANICN：《nostos》条目，访问日期 2026-11-01。
-- Gamerch：《ノスタルジア》乐曲交换与 nostos 相关资料，访问日期 2026-11-01。
-- pop'n 百科：ノスタルジア稼働记念乐曲交换企划记录，访问日期 2026-11-01。
+1. [歌ネット：Now Loading!!!!作品信用](https://www.uta-net.com/song/211927/)（已实读；secondary）
+2. [animate Times：fourfolium发行活动录音回顾](https://www.animatetimes.com/news/details.php?id=1471877777)（已实读；primary）
+3. [jubeat@wiki：NEW GAME联动历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-BPM 在所读资料中未取得一致或足够明确的数值，故不写死。Setaria Virtuoso 与 wac 的关系虽被多处提及，但官方署名仅写作马甲形式；难度和登场日期已由 jubeat@Wiki 与企划资料交叉核对。
+尚缺词曲编三人的逐曲创作自述；游戏剪辑与CD母带未做技术比较；未把另一首SAKURAスキップ的角色初录经历移作本曲故事。
 
-## 99. Four Leaves
+<a id="arcade-70000083-shared"></a>
+## Boss Rush
 
-统一曲库 ID：`arcade_70000165`
-
+- 统一曲库 ID：`arcade:70000083`
+- 原章节编号与标题：27. Boss Rush
 
 ### 曲目档案
 
-《Four Leaves》由 Endorfin. 提供人声与作词，sky_delta 负责作曲与编曲，BPM 为 181。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 4、7、9，音符数为 216、428、623。
+- 署名：USAO
+- Qubell夏季dig祭2016-08-15起；原表4/7/9，190BPM，386/608/775音符。[2][4]
+- 2018年精选另收Extended Mix与DJ Noriken Remix。[1]
 
-### 背景知识
+### 创作与制作背景
 
-本曲是 jubeat Qubell 稼働 1 周年纪念乐曲之一，主题与周年节点相符。Endorfin. 作为演唱团体参与歌词与人声，作曲者 sky_delta 则在该时期持续为 BEMANI 系列提供新曲。作品后来还出现了收录在专辑中的长版。
+社区资料特别区分了USAO的两种jubeat参与方式：《ZED》此前由IIDX移植，本曲则是首次为jubeat提供的新曲；官方Qubell原声带确认了它在该代原创曲中的出版位置。[2][3]
 
-### jubeat Qubell 位置
+两年后的《USAO ULTIMATE HYPER BEST》为作品增加了新的听觉版本：第一碟第6轨明确标为Extended Mix，第二碟相同位置则是DJ Noriken的Remix。因此，街机原曲、作者长版和他人重混应分开介绍，不能统称同一份录音，也不宜把2018年精选发行日期当作原曲诞生时间。[1][4] 目前这些材料能够说明版本扩展过程，尚不能解释作者为何采用特定音色、声样或游戏式标题。
 
-在 Qubell 的 FACTORY Inazuma 活动中，本曲与《crêpe suzette》《veRtrageS》同属第 24 弾解锁曲目。玩家完成 FI 第 24 弾并达成 Boss Rush 相关要求后，可在 2017 年 3 月 31 日同时解禁这三首作品。
+### jubeat 收录与版本
+
+保留Qubell；2016年游戏曲与2018年长版、重混分别记录。[1][4]
 
 ### 资料来源
 
-- RemyWiki：《Four Leaves》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 FI 第 24 弾记录，访问日期 2026-11-01。
-- BEMANICN：《Four Leaves》条目，访问日期 2026-11-01。
-- BEMANI Fan Site：2017 年 3 月 jubeat Qubell 1 周年纪念乐曲资料，访问日期 2026-11-01。
-- SOUND VOLTEX Floor：Four Leaves 长版评论页，访问日期 2026-11-01。
-- TANO*C STORE：Endorfin. 专辑《Alt.Strato》商品页，访问日期 2026-11-01。
+1. [HARDCORE TANO*C：USAO ULTIMATE HYPER BEST](https://www.tano-c.net/release/usao-015/)（已实读；primary）
+2. [jubeat@wiki：Boss Rush游戏资料](https://w.atwiki.jp/jubeat/pages/1702.html)（已实读；secondary）
+3. [KONAMI：Qubell原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=112&game_id=6)（已实读；primary）
+4. [jubeat@wiki：夏季dig祭历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
 
-### 核验边界
+### 核验边界与待补
 
-长版专辑页可确认《Alt.Strato》于 2018 年 4 月 29 日上架，但其具体收录形态以该商品页描述为准。活动中三曲同步解禁的细节依赖活动说明与曲リスト核对，未逐条复核每一阶段任务名称。
+缺少USAO逐曲制作访谈和声样来源一手证明；不采用未经授权信用核验的采样同源猜测；社区记载2:05，尚未独立计时核验。
 
-## 100. crêpe suzette
+<a id="arcade-70000084-shared"></a>
+## 倉野川音頭
 
-统一曲库 ID：`arcade_70000166`
-
+- 统一曲库 ID：`arcade:70000084`
+- 原章节编号与标题：28. 倉野川音頭
 
 ### 曲目档案
 
-《crêpe suzette》由 kamome sano 提供，BPM 为 202。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 4、8、10.2，音符数为 370、604、744。
+- 曲名：倉野川音頭
+- 艺人：日向美ビタースイーツ♪＆ひなちくん。[1]
+- 词曲 / 编曲：crimm作词、TOMOSUKE作曲；游戏资料列Taro Makido编曲。[1]
+- Qubell参数：BPM113；1/5/7；音符124/336/512。[1]
 
-### 背景知识
+### 创作与制作背景
 
-曲名指法式甜点“法式橙香可丽饼”，延续了 kamome sano 常见的轻盈食味意象。kamome sano 在 SOUND VOLTEX 与 BEMANI 圈层中活动频繁，本曲也先与 SDVX 侧的乐曲活动产生联系，随后进入 jubeat Qubell。
+这首歌把虚构小镇的日常音乐扩展到了现实地方节庆。2016年4月的くらよし桜まつり现场记录中，观众ぬのかわ记下新曲播放及TOMOSUKE的想法：音头容易记住、容易唱，希望倉吉居民也能学会，日后在当地祭典一起唱；会后另出售本曲CD。[2] 这是一份参与者事后凭记忆整理的报道，不是官方逐字稿或录音，本轮据此保留为作者发言的现场转述，而不装作直接核验其完整原话。
 
-### jubeat Qubell 位置
+现实市政材料提供了独立的后续印证。《倉吉市报》2016年10月号第7页预告11月12、13日在赤瓦与白壁土藏群一带举办红叶祭，安排《倉野川音頭》舞蹈大会；同时告知市方YouTube频道已公开编舞视频，请市民观看学习。[3] 这证明作品确实被纳入当地活动推广，不只是粉丝对歌词的联想；但预告本身不证明活动最终执行的全部细节。
 
-本曲作为 FACTORY Inazuma 第 24 弾解禁曲进入 Qubell，2017 年 3 月 3 日随活动登场。玩家完成第 24 弾及相关 Boss Rush 要求后可解锁；它与《Four Leaves》《veRtrageS》在同一批活动中共同出现。
+故事内也有相应叙述：官方虚构“倉野川市观光课”2016-09-09日记，将本曲说明为乐队为了居民与游客交流所作的音头。[4] 虚构倉野川与现实倉吉必须区分，不能把角色日记当成现实市政府的委托文件。署名也须留意载体差异：游戏资料列Taro Makido编曲，而后来的《Home Sweet Home》收录信用被记为TOMOSUKE；尚未核到足以消解差异的原盘内页。[1]
+
+### jubeat 收录与版本
+
+社区游戏史料记2016-08-05同时进入四款BEMANI机种；这里记录Qubell的初始等级1/5/7，不以clan下调后的ADV4覆盖历史值。[1]
 
 ### 资料来源
 
-- RemyWiki：《crêpe suzette》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 FI 第 24 弾记录，访问日期 2026-11-01。
-- SOUND VOLTEX Wiki：《crêpe suzette》条目及移植记录，访问日期 2026-11-01。
-- seore：《crêpe suzette》谱面与配信记录，访问日期 2026-11-01。
-- kamome sano 音乐资料页与相关发行信息，访问日期 2026-11-01。
+1. [RemyWiki：倉野川音頭署名与谱面](https://remywiki.com/Kuranogawa_ondo)（实读）
+2. [ぬのかわ：くらよし桜まつり现场回忆](https://leather770.hatenablog.com/entry/2016/04/18/011957)（实读）
+3. [倉吉市报2016年10月号：红叶祭与音头舞蹈](https://www.city.kurayoshi.lg.jp/secure/4726/shiho2016-10.pdf)（实读）
+4. [ひなビタ官方：倉野川观光课虚构日记](https://p.eagate.573.jp/game/bemani/hinabita/p/kuranogawa/index.html?category_id=-1&month=0&page=5)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-BASIC 难度在部分曲リスト表格中被写为 5，另一侧单页数据为 4；本条采用与单页数据一致的 4，并在边界中保留差异。kamome sano 与 KAC、SDVX 相关活动的先后关系只作背景概述，不用于断定创作日期。
+- 4页4文献根：游戏谱面、观众现场记忆、市政出版、官方虚构故事。
+- 作者愿望有现场转述，尚无原始音视频逐字核验；制作音色、录音及编曲署名差异待补。
 
-## 101. veRtrageS
+<a id="arcade-70000089-shared"></a>
+## 反撃
 
-统一曲库 ID：`arcade_70000167`
-
+- 统一曲库 ID：`arcade:70000089`
+- 原章节编号与标题：29. 反撃
 
 ### 曲目档案
 
-《veRtrageS》由 Riz vs. Shiron 提供，BPM 为 190。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 6、9、10，音符数为 501、751、888。
+- 曲名：反撃
+- 艺人：猫大樹（猫体質＆新井大樹）。[1]
+- 原曲：U.N.オーエンは彼女なのか？。[1]
+- 原载：《NH-STYLE》第3轨。[1]
+- Qubell参数：BPM145；3/6/9；音符192/456/784。[2]
 
-### 背景知识
+### 创作与制作背景
 
-曲名中的大写 R 与大写 S 常被解释为对应两位创作者 Riz 与 Shiron，标题本身带有对抗与交错的痕迹。这首作品在进入 Qubell 后也成为 BEMANI 长线活动中的竞技曲目之一，后续在 jubeat festo 时期与第 8 回 KAC 预选相关。
+本曲来自猫大樹结成后的第一张东方改编CD《NH-STYLE》，不是Qubell专属原创委约。官方曲表将《反撃》列为第3轨，明确以《U.N.オーエンは彼女なのか？》改编；专辑另外把猫大樹原创奖励曲单独标出，因此不能因商品页的概括署名出现新井大樹，就将原旋律也归为他的原创。[1]
 
-### jubeat Qubell 位置
+唱片的版本安排值得保留：第3轨是声乐歌曲，第9轨则明确标为“带引导旋律的器乐版”。这是同张唱片为歌曲提供的另一种聆听形式，而不是第二首同名新作；也不能把它直接称作游戏无歌声版本。[1] 官方销售说明未细谈《反撃》标题的含义、角色视点、选曲理由或制作设备，本轮不以东方人物设定替作者补写这些动机。
 
-本曲与《crêpe suzette》《Four Leaves》同属 FACTORY Inazuma 第 24 弾解禁曲，2017 年 3 月 3 日进入 Qubell。解锁路径需要完成 FI 第 24 弾与 Boss Rush 相关要求。
+### jubeat 收录与版本
+
+历史曲表将本曲列在2016-08-12追加的默认曲区，另列的“猫大樹 夏のパーリーピーポー”QUBE包含其他6曲。因此不把反撃一概写成必须在该QUBE逐级解锁。[2]
+
+Ave官方目录亦将本曲列入授权曲，署名猫大樹；后作等级不能倒填Qubell。[3]
 
 ### 资料来源
 
-- RemyWiki：《veRtrageS》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 FI 第 24 弾记录，访问日期 2026-11-01。
-- BEMANICN：BEMANI 乐曲资料中的 veRtrageS 相关页面，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell 曲目包信息，访问日期 2026-11-01。
-- jubeat festo 第 8 回 KAC 相关活动资料，访问日期 2026-11-01。
+1. [猫大樹官方：NH-STYLE曲表](https://booth.pm/ja/items/2057172)（实读）
+2. [jubeat Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
 
-### 核验边界
+3. [KONAMI：jubeat Ave官方授权曲目录](https://p.eagate.573.jp/game/jubeat/ave/music/index.html?page=3)（实读）
 
-R、S 与两位创作者的对应关系属于标题构造的通行解释，本次未见逐字官方说明，故不作更进一步的身份断言。festo 时期 KAC 预选信息用于背景，不代表 Qubell 当时已有该活动。
+### 核验边界与待补
 
-## 102. Twinbee's Home Town Song
+- 3文献根：原CD出版、社区独立历史参数、后作官方授权目录；不是3份创作动机证据。
+- 已检索作者访谈、手机包公告及后续出版；旧新闻日志只能证明包名与日期、未单独指明本曲，不拿来凑第三来源。
+- 原唱片精确初颁日期与原始创作动机未由本轮第一手证据核定。
 
-统一曲库 ID：`arcade_70000168`
+<a id="arcade-70000090-shared"></a>
+## 眼光
 
+- 统一曲库 ID：`arcade:70000090`
+- 原章节编号与标题：30. 眼光
 
 ### 曲目档案
 
-《Twinbee's Home Town Song》由 Sota Fujimori 编曲提供，BPM 为 168。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 2、6、9.4，音符数为 162、417、698。
+- 曲名：眼光
+- 艺人：猫大樹；猫体質、新井大樹演唱。[1]
+- 作词 / 编曲：猫体質／新井大樹。[1]
+- 原曲：信仰は儚き人間の為に；修正原档误写的東方妖々夢～Ancient Temple。[1]
+- 原载：《NH-STYLE 2》第3轨。[1]
+- Qubell参数：BPM165；4/7/8；音符308/500/687。[2]
 
-### 背景知识
+### 创作与制作背景
 
-作品源自科乐美射击游戏《TwinBee》系列中的家乡主题旋律，Sota Fujimori 用明亮的电子音色与舞曲结构重新塑形。原曲旋律关联到《TwinBee》早期家用机版本，Sota Fujimori 的改编也使其成为 BeatStream 侧很有辨识度的科乐美引用曲。
+《眼光》是猫大樹第二张东方改编CD《NH-STYLE 2》的第3轨。官方商品页明确写其原曲为《信仰は儚き人間の為に》；原档的《東方妖々夢～Ancient Temple》实际对应同张唱片紧邻的第4轨《厳冬記》，应纠正而不能继续传播。[1]
 
-### jubeat Qubell 位置
+这张唱片的企划结构是前半声乐、后半器乐：本曲的演唱版位于Vocal Area，第9轨另提供带引导旋律的器乐版。官方把组合描述为男女高音声线组合，信用列猫体質作词、新井大樹编曲，两人演唱。[1] 这些信息可以说明作品的制作阵容与唱片定位，却不足以推出本曲具体人声分工、调性设计、歌词角色或采用某种音色的原因。
 
-本曲属于 BeatStream 乐曲移植活动的第 7 弾，2017 年 4 月 6 日进入 jubeat Qubell。参与活动的玩家按当时规则解禁；后续记录中也能看到其进入 jubeat plus 曲目池。
+特别需要区分的是，这是一首以既有东方旋律进行的声乐改编，并不是只因后来进入jubeat就成为游戏原创。歌名“眼光”的象征意义仍缺作者解释，本轮不以原作角色的背景故事代替创作证言。
+
+### jubeat 收录与版本
+
+Qubell历史表把本曲列在2016-08-12至10月2日的猫大樹限时QUBE中；此处保存当时4/7/8的等级及普通谱面物量，不挪用后来HOLD[2]的数据。[2]
+
+Ave官方目录亦将本曲列入授权曲，署名猫大樹；后作等级不能倒填Qubell。[3]
 
 ### 资料来源
 
-- RemyWiki：《Twinbee's Home Town Song》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Twinbee's Home Town Song》单曲页，访问日期 2026-11-01。
-- BeatStream 官方页面：《Twinbee's Home Town Song》乐曲页，访问日期 2026-11-01。
-- BEMANICN：Twinbee's Home Town Song 相关资料，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell 曲目包信息，访问日期 2026-11-01。
+1. [猫大樹官方：NH-STYLE 2曲表与信用](https://booth.pm/ja/items/2057224)（实读）
+2. [jubeat Wiki：Qubell猫大樹QUBE历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
 
-### 核验边界
+3. [KONAMI：jubeat Ave官方授权曲目录](https://p.eagate.573.jp/game/jubeat/ave/music/index.html)（实读）
 
-原曲在《TwinBee》系列中的具体作品与作曲者署名，所读页面之间存在简写差异，这里保留到《TwinBee》早期家用机旋律与 Sota Fujimori 编曲这一层。《オトメディウスG》侧的改编关系可作为背景，不写成同一曲目的直接移植。
+### 核验边界与待补
 
-## 103. CHERNOBOG
+- 3文献根：原CD出版、社区独立历史参数、后作官方授权目录；不是3份创作动机证据。
+- 未找到逐曲访谈；官方原CD目录的多个转载不能算多份独立来源。
+- 销售页未给精确初颁日，本轮不拿搜索摘要或后建商店日期充发行日。
 
-统一曲库 ID：`arcade_70000169`
+<a id="arcade-70000091-shared"></a>
+## 厳冬記
 
+- 统一曲库 ID：`arcade:70000091`
+- 原章节编号与标题：31. 厳冬記
 
 ### 曲目档案
 
-《CHERNOBOG》由漆黒のEBONY 提供，BPM 为 200。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 5、9.6、10.7，音符数为 430、761、916。jubeat 侧采用 NIGHTMARE 难度封面。
+- 曲名：厳冬記
+- 艺人 / 制作：猫大樹（猫体質＆新井大樹）；猫体質作词、新井大樹编曲。[1]
+- 原曲：東方妖々夢 ～ Ancient Temple。[1]
+- 原载：《NH-STYLE 2》第4轨。[1]
+- Qubell参数：BPM150；5/9/10；音符332/653/745。[2]
 
-### 背景知识
+### 创作与制作背景
 
-漆黒のEBONY 是 Qrispy Joybox 的马甲，曲名指向斯拉夫神话中与黑暗相关的神名，也和“漆黑”的署名形成呼应。该曲在 BeatStream 侧曾以“タカハシサンのえかきうた”这一假名参与第 5 回 KAC 的赛前环节，输入密码“GOD”后才公开真名，成为当时讨论度较高的解谜演出。
+官方《NH-STYLE 2》曲表把《厳冬記》列在声乐区第4轨，并明确其原曲为《東方妖々夢 ～ Ancient Temple》。这也是纠正同专辑《眼光》原曲误记的重要依据：两首的改编来源不同，不能因为共用唱片封面而互换。[1]
 
-### jubeat Qubell 位置
+专辑以男女高音声线组合为宣传定位，并把前半声乐与后半器乐区分开来。《厳冬記》第10轨的版本带有引导旋律，不能简单等同于删去主唱后的游戏伴奏。目录信用为猫体質作词、新井大樹编曲、两人演唱；但未给本曲更细的声部、器材、混音或歌词构思说明。[1]
 
-本曲为 BeatStream 乐曲移植活动第 10 弾曲目，2017 年 4 月 27 日进入 jubeat Qubell。参与当时活动的玩家可在满足条件后解禁；移植后延续其较高难度的 EXTREME 定位。
+它随后作为东方改编授权曲进入jubeat，后作Ave官方目录仍明确标注猫大樹授权。[3] 这条授权关系与游戏谱面史可以核实，而由冬季题名进一步推导出特定角色内心、战斗情节或现实创作缘起，仍需作者本人材料支持。
+
+### jubeat 收录与版本
+
+Qubell时期列在2016-08-12至10月2日的限时猫大樹QUBE中。[2] 旧档关于clan将EXT降成9的说法本轮未核，不沿用；Ave官方列4/8/10.4，仅作为后作资料对照，不覆盖Qubell的5/9/10。[3]
 
 ### 资料来源
 
-- RemyWiki：《CHERNOBOG》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《CHERNOBOG》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- BeatStream 官方页面：《CHERNOBOG》与 Qrispy Joybox 相关评论，访问日期 2026-11-01。
-- The 5th KAC 官方活动页，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell 曲目包信息，访问日期 2026-11-01。
+1. [猫大樹官方：NH-STYLE 2](https://booth.pm/ja/items/2057224)（实读）
+2. [jubeat Wiki：Qubell历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [KONAMI：Ave官方授权曲目录](https://p.eagate.573.jp/game/jubeat/ave/music/index.html)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-KAC 假名与密码“GOD”的细节来自活动页和 Wiki 记录的交叉，但当时页面流程未逐屏重放。漆黒のEBONY 与 Qrispy Joybox 的对应关系在官方评论和资料页中一致，此处不把马甲解释扩展到其他作者。
+- 3文献根：原CD、社区历史实测、后作官方授权目录；动机仍未核。
+- 未找到完整初版内页、精确首颁日的一手原文和逐曲访谈。
 
-## 104. ケンぱ！ケンぱ！拳拳ぱん打！
+<a id="arcade-70000092-shared"></a>
+## JACK THE RIPPER feat. Iceon
 
-统一曲库 ID：`arcade_70000170`
-
+- 统一曲库 ID：`arcade:70000092`
+- 原章节编号与标题：32. JACK THE RIPPER feat. Iceon
 
 ### 曲目档案
 
-《ケンぱ！ケンぱ！拳拳ぱん打！》由ぱんぱんぱん打提供，BPM 为 200。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 3、6、9，音符数为 280、459、628。
+- 曲名：JACK THE RIPPER feat. Iceon
+- 艺人：猫大樹；Iceon保留于曲名参与署名，未据此推定其演唱。[1][3]
+- 原曲：月時計 ～ ルナ・ダイアル。[1]
+- 原载：《NH-STYLE 2》第5轨。[1]
+- Qubell参数：BPM145；2/7/10；音符130/408/810。[2]
 
-### 背景知识
+### 创作与制作背景
 
-ぱんぱんぱん打是 Qrispy Joybox 的另一马甲，署名与标题互相制造“打拳”的谐音节奏。标题把“拳”与“ぱん打”拼合，配合快速拍点，呈现出拳击练习或打击乐般的轻快闹剧感。
+本曲是《NH-STYLE 2》声乐区第5轨，以《月時計 ～ ルナ・ダイアル》为改编原曲。官方商品页和后作KONAMI目录都保留“feat. Iceon”的标题，表明这一参与署名是作品身份的一部分，而非社区自行添加。[1][3] 不过，feat.并不能单独说明受邀者究竟负责演唱、旋律、演奏还是其他制作，本轮未把Iceon误写成主唱。
 
-### jubeat Qubell 位置
+唱片在后半另列对应的带引导旋律器乐版本。网页第11轨的排印把feat.截为标点与Iceon分行，结合前半完整曲名及器乐区结构，可确认其为对应版本，而不应把排版误差造出另一首歌。[1] 官方专辑概括信用列猫体質作词、新井大樹编曲、两人演唱，但仍缺本轨与Iceon的完整角色分工表，因此不据概括行排除合作编曲的可能。
 
-本曲属于 BeatStream 乐曲移植活动第 8 弾，2017 年 4 月 13 日进入 jubeat Qubell。参与活动的玩家按当时规则解禁；后续版本在 ADVANCED 侧有过难度下调记录，clan 时期资料将该档调整至 8。
+“JACK THE RIPPER”的标题没有在已读材料中获得创作者逐字解释。不能把现实案件、原作角色或玩家联想拼成作者明确讲述的创作故事；本轮可确认的是原曲谱系、合作名义和声乐／器乐出版结构。
+
+### jubeat 收录与版本
+
+Qubell历史表列本曲为猫大樹限时QUBE曲目，活动2016-08-12至10月2日。[2] 原档称clan把EXT降至6，本轮未核且可能混淆谱面栏，删除这一未经验证的说法；Ave官方当前记录ADV6、EXT10.3，不据此倒推clan的调整过程。[3]
 
 ### 资料来源
 
-- RemyWiki：《ケンぱ！ケンぱ！拳拳ぱん打！》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 BeatStream 移植记录，访问日期 2026-11-01。
-- BeatStream 官方页面：乐曲与 Qrispy Joybox 相关资料，访问日期 2026-11-01。
-- jubeat clan 时期曲リスト与难度调整记录，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell 曲目包信息，访问日期 2026-11-01。
+1. [猫大樹官方：NH-STYLE 2](https://booth.pm/ja/items/2057224)（实读）
+2. [jubeat Wiki：Qubell历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [KONAMI：Ave官方曲目目录](https://p.eagate.573.jp/game/jubeat/ave/music/index.html?page=2)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-ADVANCED 难度在 Qubell 与 clan 之间有 6 到 8 的差异，本条按 Qubell 当时的 6 记录，并注明后续调整。标题内的谐音解释仅为面向中文读者的描述，不替代日文原语境。
+- 3文献根：原CD出版、社区历史参数、后作官方目录。
+- Iceon的具体分工、原始制作过程及标题释义未核；不将feat.自动等同演唱。
 
-## 105. アキネイション
+<a id="arcade-70000093-shared"></a>
+## Grand Chariot
 
-统一曲库 ID：`arcade_70000171`
-
+- 统一曲库 ID：`arcade:70000093`
+- 原章节编号与标题：33. Grand Chariot
 
 ### 曲目档案
 
-《アキネイション》由ビートまりお（COOL&CREATE）提供，BPM 为 185。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 4、8、10.0，音符数为 304、660、769。
+- 曲名：Grand Chariot
+- 艺人 / 曲编：xi；曲编署名据社区整理。[1][3]
+- Qubell参数：BPM191；3/6/10；音符216/451/833。[4]
+- 后来唱片：《Quietus Ray》第3轨，2018-12-30。[2]
 
-### 背景知识
+### 创作与制作背景
 
-ビートまりお是 COOL&CREATE 的代表创作者之一，在同人音乐圈层中以活力强、节奏直给的人声曲著称。这首作品作为 BeatStream 侧联动曲进入 BEMANI 舞台，也延续了其高能量的舞台表现。
+《Grand Chariot》是2016年夏季三机种联动“夏のニュージェネ流星フェスタ2016”的作品。官方当月曲目介绍直接以xi署名并确认活动身份，因此它不是先发行于《Quietus Ray》、再在2016年移植的歌曲；该个人专辑实际晚至2018-12-30发行。[1][2]
 
-### jubeat Qubell 位置
+Diverse System将《Quietus Ray》明确标为xi第五张个人专辑，并在第3轨《Grand Chariot》后标注Konami Amusement授权。这一出版细节说明游戏作品后来回到作者个人唱片体系，并保留了原权利关系。[2] 社区版本史将专辑收录称为长版，所以不能把唱片版与两分钟左右的游戏剪辑不加区分。[3]
 
-本曲为 BeatStream 乐曲移植活动第 5 弾曲目，2017 年 3 月 23 日进入 jubeat Qubell。参与活动的玩家可在条件满足后解禁；后续 jubeat plus 的曲目记录也保留了这首作品。
+本轮未取得xi解释本曲标题、天体意象、旋律设计或硬核音色制作的原始访谈。官方“新世代声音”的活动宣传语只能说明企划定位，不能替代作者逐曲创作动机；也不因标题的外语含义就断言他是在描写某一星座。
+
+### jubeat 收录与版本
+
+社区历史表记录Qubell的初期活动窗口为2016-08-10至10月30日，Remy记录为该QUBE第一阶段解锁。[3][4] 原档把后来的“流星扩散”活动跨机种触发方法混入初期解锁，本轮不再沿用；两次活动应分开。
 
 ### 资料来源
 
-- RemyWiki：《アキネイション》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《アキネイション》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- BEMANICN：《アキネイション》相关资料，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell 曲目包信息，访问日期 2026-11-01。
-- COOL&CREATE 与ビートまりお公开资料，访问日期 2026-11-01。
+1. [BEMANI官方：2016年8月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608/)（实读）
+2. [Diverse System：Quietus Ray／xi第五张个人专辑](https://diverse.jp/dvsp-0214/)（实读）
+3. [RemyWiki：Grand Chariot版本史](https://remywiki.com/Grand_Chariot)（实读）
+4. [jubeat Wiki：Qubell历史参数](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-ADVANCED 难度在不同表格中出现过 9 与 8 的差异，本条采用 jubeat@Wiki 单曲页的 8，并把差异保留在边界内。曲名的语义来源与歌词主题未作直接核对，故不作词源断言。
+- 4页3保守文献根：2016官方活动、2018个人专辑、社区版本与谱面史。
+- 原曲动机和标题解释未核；社区音乐制作栏标未译并非可用作者原文。
+- 长版性质为社区说明，官方曲表只写同名轨，不证明与游戏音频完全相同。
 
-## 106. 秘密がーる♡乙女
+<a id="arcade-70000094-shared"></a>
+## StrayedCatz
 
-统一曲库 ID：`arcade_70000172`
-
+- 统一曲库 ID：`arcade:70000094`
+- 原章节编号与标题：34. StrayedCatz
 
 ### 曲目档案
 
-《秘密がーる♡乙女》由 MaMiKa（松下×mitsu×T.kakuta）提供，BPM 为 180。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 4、7、9，音符数为 281、523、703。
+- 曲名：StrayedCatz
+- 艺人 / 曲编：削除（Sakuzyo）；曲编据社区整理。[1][2]
+- Qubell参数：BPM151；4/8/10；音符289/582/843。[3]
+- 后来唱片：2018-10-10《pop’n music うさぎと猫と少年の夢 Original Soundtrack》第4碟第19轨。[4]
 
-### 背景知识
+### 创作与制作背景
 
-MaMiKa 是由松下、mitsu、T.kakuta 组成的三人合作署名，这首作品作为其出道曲出现在 BeatStream 侧，包装带有少女与秘密的可爱主题。曲名中的“乙女”直接点明少女感，而“秘密”则成为演绎和活动包装上的关键词。
+本曲以削除署名出现在官方2016年8月曲目介绍，被明确归入三机种同时举办的夏季流星祭。[1] 因而不能把IIDX也写成“后来才从jubeat移植”：两者与SOUND VOLTEX属于最初活动组合，随后向其他系列扩散才是另一阶段的传播。
 
-### jubeat Qubell 位置
+跨机种目录存在一个容易误解的细节：同一曲在jubeat、SOUND VOLTEX和REFLEC记151 BPM，IIDX和pop’n则记303，MÚSECA为152，DDR还有变速范围。[2] 这些是游戏标示差异，不能据数字相差一倍就断言作者给某机种重新制作了一首速度翻倍的音乐，也不能用IIDX的303替换Qubell档案。
 
-本曲为 BeatStream 乐曲移植活动第 6 弾曲目，2017 年 3 月 30 日进入 jubeat Qubell。参与活动的玩家按当时规则解禁。jubeat Lab 记录中还出现了隐藏难度谱面“彼女の正体を掴めない”，难度为 10.7。
+2018年发行的pop’n四碟原声把本曲排在第4碟第19轨，与同活动其他曲目相邻；这是后续实体出版证据，不代表作品起源于该版pop’n。[4] 本轮未找到削除逐曲解释《StrayedCatz》与《MagiCatz》关系的原文。名称与听感相似不足以确定为续作，更不能把玩家猜测升级成作者宣布的故事。
+
+### jubeat 收录与版本
+
+社区资料记录为初期流星祭QUBE第3阶段曲，初期窗口2016-08-10至10月30日。[2][3] 不混用后续流星扩散活动的跨机种触发条件。
 
 ### 资料来源
 
-- RemyWiki：《秘密がーる♡乙女》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 BeatStream 移植记录，访问日期 2026-11-01。
-- BeatStream 官方页面：《秘密がーる♡乙女》乐曲页，访问日期 2026-11-01。
-- jubeat Lab：隐藏谱面“彼女の正体を掴めない”记录，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell 曲目包信息，访问日期 2026-11-01。
+1. [BEMANI官方：2016年8月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608/)（实读）
+2. [RemyWiki：StrayedCatz版本史](https://remywiki.com/StrayedCatz)（实读）
+3. [jubeat Wiki：Qubell历史参数](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [Neowing：pop’nうさぎと猫と少年の夢原声曲表](https://www.neowing.co.jp/product/GFCA-452)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-三人组各成员在该曲中的分工未在可直接访问的页面中完整核对，故只保留集体署名。隐藏谱面的名称与难度来自 jubeat Lab，其开放机制细节不在此处展开。
+- 4页3保守文献根：2016官方企划、社区版本史与测量、2018原声出版。
+- 直接创作动机、标题故事及与其他Catz作品的关系仍待作者原文。
 
-## 107. Sky High
+<a id="arcade-70000095-shared"></a>
+## Sephirot
 
-统一曲库 ID：`arcade_70000173`
-
+- 统一曲库 ID：`arcade:70000095`
+- 原章节编号与标题：35. Sephirot
 
 ### 曲目档案
 
-《Sky High》由 Cuvelia 提供，BPM 为 153。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 4、10.6、10.6，音符数为 381、872、798。该曲在 jubeat 中仅有 HOLD 谱面。
+- 曲名：Sephirot
+- 艺人：SHIKI。[1]
+- Qubell参数：BPM154；5/9/10；音符387/776/934。[2]
+- 后来唱片：2018-10-10《pop’n music うさぎと猫と少年の夢 Original Soundtrack》第4碟第16轨。[3]
 
-### 背景知识
+### 创作与制作背景
 
-Cuvelia 是 dj TAKA 使用的署名之一。作品以“高处、腾空”的意象推进，节奏结构在 BeatStream 侧已经展现出较强的挑战性。移植到 jubeat 后，ADVANCED 谱面音符数高于 EXTREME，成为 HOLD-only 体系中很有代表性的案例。
+《Sephirot》由SHIKI提供，官方2016年8月介绍将它与另外几位作者的作品一同纳入三机种“夏のニュージェネ流星フェスタ2016”。它不是仅属于某一机种的独占歌曲，jubeat中通过QUBE获得的经历，也不应覆盖另外两款游戏各自的获得方式。[1][2]
 
-### jubeat Qubell 位置
+后续实体出版已能补实：2018-10-10发行的《pop’n music うさぎと猫と少年の夢 Original Soundtrack》是一套包含该作及未曾上CD的eclale作品的四碟专辑，本曲列在第4碟第16轨，紧接着是《Angelic Jelly》《ZEPHYRANTHES》《StrayedCatz》等联动作品。[3] 这不是SHIKI个人专辑或已确认长版的证据，不能因此擅自加上“完整版”。
 
-本曲属于 BeatStream 乐曲移植活动第 9 弾，2017 年 4 月 20 日进入 jubeat Qubell。参与活动的玩家可在条件满足后解禁；其 HOLD-only 设计在 jubeat Qubell 曲目群体中具有辨识度。
+SHIKI在2016-08-06的本人博客《KONAMI》中解释，这是他首次为KONAMI提供新曲，因此希望拿出能代表自己的旋律型Trance。他过去尽量避免为了增加游戏击打音而牺牲旋律；完成本曲时一度觉得旋律与音数兼顾得不错，听过其他参与者的新曲后，又反思面对硬核玩家是否应更重视游戏性。[4] 这是创作者对取舍的自我检讨，不是承认作品制作失败，也不是说明谱面由他本人编写。
+
+这份日记还记录他参加当月3日的BEMANI直播，原以为只出场十多分钟，实际参与约一小时，对与长期听过的作曲者同台感到紧张。[4] 它提供了此番合作的职业心境，但未解释曲名的宗教含义或具体音色设计。
+
+### jubeat 收录与版本
+
+Qubell历史表列初期活动2016-08-10至10月30日，本曲属于该QUBE组。[2] 不把列表顺序直接当成已独立核验的解锁阶段。
 
 ### 资料来源
 
-- RemyWiki：《Sky High》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Sky High》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- BEMANICN：Sky High 相关资料，访问日期 2026-11-01。
-- BeatStream 官方页面与移植活动记录，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell 曲目包信息，访问日期 2026-11-01。
+1. [BEMANI官方：2016年8月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608/)（实读）
+2. [jubeat Wiki：Qubell历史参数](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [Neowing：pop’nうさぎと猫と少年の夢原声曲表](https://www.neowing.co.jp/product/GFCA-452)（实读）
 
-### 核验边界
+4. [SHIKI本人博客：KONAMI](http://blog.livedoor.jp/shiki2/)（普通HTTP全文实读；2016-08-06条目）
 
-Cuvelia 与 dj TAKA 的对应关系为资料中的通行署名解释，本条未展开具体活动语境。ADVANCED 音符数高于 EXTREME 的说法基于谱面数据交叉，未逐面核对每版客户端中的谱面显示差异。
+### 核验边界与待补
 
-## 108. ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～
+- 4独立文献根：作者日记、官方2016企划、社区谱面、2018原声出版。
+- HTTPS/web访问失败但普通HTTP200取得完整EUC-JP正文；永久链接52163384.html由实际HTML读得，本文以可读首页原条目为来源。
+- 标题解释、录音器材仍未核。
 
-统一曲库 ID：`arcade_70000174`
+<a id="arcade-70000096-shared"></a>
+## Angelic Jelly
 
+- 统一曲库 ID：`arcade:70000096`
+- 原章节编号与标题：36. Angelic Jelly
 
 ### 曲目档案
 
-《ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～》由おひさまくらぶ提供，BPM 为 158。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 3、6、9，音符数为 236、417、618。
+- 曲名：Angelic Jelly
+- 艺人：t+pazolite。[1]
+- 游戏曲风标签：HAPPY で HARDCORE，据跨机种社区资料。[2]
+- Qubell参数：BPM200；5/9/10；音符425/658/780。[2]
+- 初入Qubell：2016-08-10默认曲，不需先完成特别QUBE。[2][4]
 
-### 背景知识
+### 创作与制作背景
 
-おひさまくらぶ是あさき使用的署名。标题采用儿歌式的重复与口号，把“ぱんだ”“しんけん”“おっしょさん”等词语拼成热闹的对决场景，与其偏严肃的代表作形成很明显的反差。
+《Angelic Jelly》参与2016年的三机种夏季流星祭，官方署名t+pazolite。[1] 它在jubeat中扮演可以直接开始游玩的活动入口曲，而不是与所有其他活动曲一样需要先挖掘QUBE；这一区别在社区版本史和Qubell默认曲表中一致。[2][4]
 
-### jubeat Qubell 位置
+跨机种资料所载曲风标签为“HAPPY で HARDCORE”，长度1分58秒，jubeat记200 BPM，DDR另有100–200的变速标示。[2] 标签、速度与乐谱记录可以帮助准确定位作品，但不能仅凭作者常用风格，就断言他在这首曲里使用了某套DAW或某一采样包。本轮没有获得他谈本曲音色、和声或标题意象的直接制作记录。
 
-本曲为 BeatStream 乐曲移植活动第 8 弾曲目，2017 年 4 月 13 日进入 jubeat Qubell。参与活动的玩家按当时规则解禁；与《ケンぱ！ケンぱ！拳拳ぱん打！》同日加入。
+2018-10-10发行的pop’n四碟原声将本曲收在第4碟第17轨，与同一流星祭作品相邻。[3] 因而至少可以把后续实体出版史落实，而不把2018年的唱片日期误认为原曲初出。原声目录没有为这轨标长版，本轮不自行添加长版或重混身份。
+
+### jubeat 收录与版本
+
+Qubell初始等级5/9/10，物量425/658/780；Remy记录clan的BASIC后来降为4，这是不同版本的等级调整，不是本曲初出时即为4。[2] 活动关联与解锁位置分开：曲属流星祭企划，但不是必须挖出的一关。[1][2]
 
 ### 资料来源
 
-- RemyWiki：《ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 BeatStream 移植记录，访问日期 2026-11-01。
-- BeatStream 官方页面：乐曲与おひさまくらぶ相关资料，访问日期 2026-11-01。
-- jubeat plus 配信记录：Qubell 曲目包信息，访问日期 2026-11-01。
-- あさき与おひさまくらぶ公开音乐资料，访问日期 2026-11-01。
+1. [BEMANI官方：2016年8月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608/)（实读）
+2. [RemyWiki：Angelic Jelly资料](https://remywiki.com/Angelic_Jelly)（实读）
+3. [Neowing：pop’nうさぎと猫と少年の夢原声曲表](https://www.neowing.co.jp/product/GFCA-452)（实读）
+4. [jubeat Wiki：Qubell默认曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-副标题中的词汇更接近口语与角色化表达，本条只描述其儿歌式与对决感，不逐词拆解原意。おひさまくらぶ与あさき的对应关系由资料页交叉确认，具体歌曲分工未额外核对。
+- 4页3文献根：官方2016企划、社区历史测量、2018原声出版。
+- 尚未取得t+pazolite逐曲创作动机；他人听感、共享采样推测不代替作者证言。
 
-# jubeat Qubell 资料条目批次（资料行 109-117）
+**历史说明：jubeat Qubell 资料条目批次（资料行 37-48）**
 
-以下条目按 `/tmp/qubell-order.tsv` 第 109-117 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 37-48 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
 
-## 109. Qubellic Prism
+<a id="arcade-70000097-shared"></a>
+## ZEPHYRANTHES
 
-统一曲库 ID：`arcade_70000177`
-
+- 统一曲库 ID：`arcade:70000097`
+- 原章节编号与标题：37. ZEPHYRANTHES
 
 ### 曲目档案
 
-《Qubellic Prism》由 Nazzo-Non-Heat 提供，BPM 为 170。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 4、7、9.7，音符数为 328、522、745。
+- 曲名：ZEPHYRANTHES
+- 艺人 / 曲编：TAG；曲编据社区整理。[1][2]
+- Qubell参数：BPM180；4/8/10；音符333/616/844。[2]
+- 后来唱片：2018-10-10《pop’n music うさぎと猫と少年の夢 Original Soundtrack》第4碟第18轨。[3]
 
-### 背景知识
+### 创作与制作背景
 
-本曲是围绕 jubeat Qubell 主题展开的周年纪念向改编曲，署名 Nazzo-Non-Heat 表明其来自多人合作形态。曲目以 Prism、谜团与仪式感为包装，电子段落和鼓点都带有庆典色彩，也与 Qubell 玩法中的拼合意象相呼应。
+这首TAG作品以三机种同时联动曲的身份登场，而非jubeat独占后再移植给IIDX、SOUND VOLTEX。[1] 它在跨机种资料中使用BLOOM CORE标签，社区把它列为TAG花卉命名BLOOM系列继《アルストロメリア》《デンドロビウム》后的第三曲；标题对应风雨兰属植物。[2] 这些分类与词义可作为作品脉络，但尚未获得TAG本人说明选花原因、花语或具体人物情感的原文，不将花语资料包装成创作故事。
 
-### jubeat Qubell 位置
+原档的唱片信息需要修正。本轮实读的2018年pop’n四碟原声目录，明确把《ZEPHYRANTHES》列于第4碟第18轨。[3] 原档称其收在《jubeat Qubell ORIGINAL SOUNDTRACK》GFCA-428，本轮未找到对应曲表证据，故撤去该断言，改列真正核到的出版记录。
 
-本曲在 2017 年 3 月 30 日随 jubeat Qubell 1 周年纪念活动登场，参与活动的玩家可按当时的传导解禁规则获得。后续在 jubeat clan 时期进入商店解禁曲目池。全难度通关称号为【ロウソクを一息で消しちゃうよ】，全难度全连称号为【謎の人】。
+不同机种还给予它各自的视觉、谱面与解锁位置。社区列封面设计Kaito、影像Fukutomi WAVE；这些人员属于视觉制作，不可与TAG的曲编署名混为一谈。[2] 目前未取得作者关于旋律发展、器材或编曲过程的逐曲证言。
+
+### jubeat 收录与版本
+
+据Remy为Qubell流星祭QUBE第4阶段解锁。[2] 原档“活动结束后立即默认开放”未获支持，删除；后续jubeat SHOP、emo MART等解锁史与初期活动不是同一条件。
 
 ### 资料来源
 
-- RemyWiki：《Qubellic Prism》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Qubellic Prism》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- jubeat clan 时期曲リスト与商店解禁记录，访问日期 2026-11-01。
-- jubeat Qubell 1 周年纪念活动页，访问日期 2026-11-01。
-- BEMANICN：Qubellic Prism 相关资料，访问日期 2026-11-01。
+1. [BEMANI官方：2016年8月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608/)（实读）
+2. [RemyWiki：ZEPHYRANTHES版本史](https://remywiki.com/ZEPHYRANTHES)（实读）
+3. [Neowing：pop’nうさぎと猫と少年の夢原声曲表](https://www.neowing.co.jp/product/GFCA-452)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-RemyWiki 原文未直接访问，本条数值以 jubeat@Wiki 单曲页与曲リスト交叉核对。Nazzo-Non-Heat 的成员构成与活动中的具体解禁步骤说明未逐屏复核，故不在此处写死。clan 时期的商店上架时间仅按曲リスト记录概括。
+- 3文献根：官方活动、社区资料、2018原声出版。
+- BLOOM系列关联为社区整理，不冒充作者本人的命名解释；直接制作动机仍待核。
 
-## 110. FLOOR INFECTION Medley from SOUND VOLTEX×jubeat
+<a id="arcade-70000098-shared"></a>
+## Triple Counter
 
-统一曲库 ID：`arcade_70000178`
-
+- 统一曲库 ID：`arcade:70000098`
+- 原章节编号与标题：38. Triple Counter
 
 ### 曲目档案
 
-《FLOOR INFECTION Medley from SOUND VOLTEX×jubeat》由 United Composers from SOUND VOLTEX 提供，BPM 范围为 145-195。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 6、9、10.2，音符数为 507、720、932。该曲在 jubeat 中仅有 HOLD 谱面。
+- 曲名：Triple Counter
+- 艺人：DJ YOSHITAKA meets dj TAKA。[1]
+- Qubell参数：BPM216；6/9/10；音符451/800/921。[3]
+- 后来唱片：2018-10-10《pop’n music うさぎと猫と少年の夢 Original Soundtrack》第4碟第21轨。[4]
 
-### 背景知识
+### 创作与制作背景
 
-这是一首把六首 SOUND VOLTEX 关联曲串成连续段落的合作组曲，参与段落包括《Dynasty》《Gott》《croiX》《freaky freak》《BLACK or WHITE?》《veRtrageS》。它的结构不是单纯把原曲连接起来，而是把不同作者的节奏与段落调成一条贯通的竞速线，用来呈现 FLOOR INFECTION 企划的跨界规模。
+本曲以DJ YOSHITAKA meets dj TAKA署名加入三机种夏季流星祭，官方当月介绍采用两人“紧急参战”的宣传定位。[1] 社区记录曲风标签RISK + VACUUM，将其联系到dj TAKA的Risk Junk与DJ YOSHITAKA的Lucky Vacuum两个别名。[2] 原档把两人的别名归属写反，也把这些别名误写得像曲名，本轮予以纠正。
 
-### jubeat Qubell 位置
+作品的视觉侧同样强调BEMANI作品之间的串联。Remy整理影像和封面由KINRUI制作，影像包含JOMANDA、VALLIS-NERIA、FLOWER等相关角色及既往联动活动的图像引用。[2] 此处只是带来源的社区视觉整理，尚未取得KINRUI亲述每处引用的动机，不擅自解释为某位作者告别或退场宣言。
 
-本曲于 2017 年 3 月 31 日进入 jubeat Qubell。解禁需要与 SOUND VOLTEX 侧的 Boss Rush 相关要求联动，涉及当时 jubeat 侧 FACTORY INFECTION 第 24 弾的《Four Leaves》《crêpe suzette》《veRtrageS》，以及 SOUND VOLTEX 侧 POLICY BREAK 第 25 弾的 4 曲。SOUND VOLTEX 侧的对应组曲则在约一周后配信。
+2018年pop’n四碟原声目录将它列在第4碟第21轨，与其他流星祭曲构成相邻段落。[4] 原档声称已收于Qubell原声GFCA-428，缺少对应曲表证明，本轮改为这份实际读到的出版记录。关于216 BPM是否隐指2016年，社区也只写可能性；未经作者确认，不把这种数字巧合作为定论。
+
+### jubeat 收录与版本
+
+据社区版本史为Qubell流星祭QUBE第5阶段终点曲。[2] 历史参数按Qubell保留，不额外把HOLD统计重复加到总音符。原档“活动结束后即默认”未获证据，撤去。[2][3]
 
 ### 资料来源
 
-- RemyWiki：《FLOOR INFECTION Medley from SOUND VOLTEX×jubeat》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 FLOOR INFECTION 第 24 弾记录，访问日期 2026-11-01。
-- SOUND VOLTEX Wiki：FLOOR INFECTION Medley 与移植记录，访问日期 2026-11-01。
-- BEMANICN：FLOOR INFECTION 企划与组曲曲目资料，访问日期 2026-11-01。
-- jubeat Qubell 官方活动资料，访问日期 2026-11-01。
+1. [BEMANI官方：2016年8月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201608/)（实读）
+2. [RemyWiki：Triple Counter署名与版本史](https://remywiki.com/Triple_Counter)（实读）
+3. [jubeat Wiki：Qubell历史参数](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [Neowing：pop’nうさぎと猫と少年の夢原声曲表](https://www.neowing.co.jp/product/GFCA-452)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-BPM 范围取自组曲各段落的记录，未逐段重新测速。两侧活动的解锁顺序和时间差按当时活动页与 Wiki 记录概括，本次未逐项重放每个任务阶段。EXTREME 音符数虽有多处一致，但仍以曲リスト表格为准，未复核逐面谱面统计。
+- 4页3保守文献根：官方活动、社区版本与测量、2018原声出版。
+- 两人实际分工、曲名与数字命名原因、影像作者自述仍缺直接证言。
 
-## 111. POLICY BREAK Medley from SOUND VOLTEX×jubeat
+<a id="arcade-70000099-shared"></a>
+## じもとっこスイーツ♪
 
-统一曲库 ID：`arcade_70000179`
-
+- 统一曲库 ID：`arcade:70000099`
+- 原章节编号与标题：39. じもとっこスイーツ♪
 
 ### 曲目档案
 
-《POLICY BREAK Medley from SOUND VOLTEX×jubeat》由 United Composers from jubeat 提供，BPM 范围为 93-311。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 5、9、10.6，音符数为 402、706、1074。
+- 曲名：じもとっこスイーツ♪
+- 艺人：ホララ・ホリック with 日向美ビタースイーツ♪。[2]
+- 词曲：トモコササキ本人确认；不以企划总监TOMOSUKE代填。[1]
+- 演唱角色：山形まり花、芽兎めう、東雲心菜；CV分别日高里菜、五十嵐裕美、小澤亜李。[3]
+- Qubell参数：BPM108；2/6/8；音符155/352/522。[3]
 
-### 背景知识
+### 创作与制作背景
 
-本曲与 FLOOR INFECTION Medley 成对，把六首 jubeat 关联曲串成一条跨界组曲，参与段落包括《I'm so Happy》《True Blue》《ドーパミン》《Boss Rush》《JOMANDA》《量子の海のリントヴルム》。曲名中的 POLICY BREAK 直接指向当时的两侧合作企划，整曲也强调从日常舞池推进到高张力高潮的落差。
+这首歌的创作困难不在“甜点”题材本身，而在如何同时容纳委托要求与人物的可爱感。トモコササキ在本人日记中确认作词作曲：故事中三人成为新开甜品店的爱好者，任务要求呈现她们讨论新甜点名称、以及地方商店也不输东京的心情。她最初过于认真，把自己困在这些条件里；三人都偏天然的性格，又使单靠对话制造可爱感的方案难以推进。[1]
 
-### jubeat Qubell 位置
+转机是创造“じもとっこスイーツ”这个词，再想象她们唱得绕口、配上方言。地方甜点则尽量设计得真实可行，融入倉吉特产；这让她切身感到虚构项目与现实地方振兴相连。她还设计まり花与心菜轻柔地交替，めう像调味料般带来对比。此次录音也是她第一次与一直靠邮件合作的TOMOSUKE见面，亦首次见日高里菜。[1]
 
-本曲于 2017 年 4 月 7 日进入 jubeat Qubell。SOUND VOLTEX 侧的对应组曲提前至 2017 年 3 月 31 日配信。解禁与 FLOOR INFECTION Medley 同属一组联动要求，需要完成 jubeat 侧 FLOOR INFECTION 第 24 弾和 SOUND VOLTEX 侧 POLICY BREAK 第 25 弾的 Boss Rush 相关任务。全难度全连称号为【その常識を壊していく……】。
+现实制作人员与故事内作者必须分开：ホララ・ホリック是故事中甜品店粉丝组织，不应直接当作现实作曲团队。心菜来自ここなつ，因此原档“日向美乐队三位女性成员”的概括也不准确。[3] 本曲2016-08-24有官方数字配信公告；《Home Sweet Home》另收练习＠サウダージ版本，不能将其与正式版或游戏剪辑混同。[2][3]
+
+### jubeat 收录与版本
+
+原档写“pop’n éclale初出后移植至Qubell”，与已读版本史不符：Qubell追加于2016-08-08，pop’n《うさぎと猫と少年の夢》则是2017-06-01。[3] 本轮纠正先后关系，不将企划中的广播首播误作音乐游戏初出。
 
 ### 资料来源
 
-- RemyWiki：《POLICY BREAK Medley from SOUND VOLTEX×jubeat》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：jubeat Qubell 曲リスト及 POLICY BREAK 相关活动记录，访问日期 2026-11-01。
-- SOUND VOLTEX Wiki：POLICY BREAK Medley 与移植记录，访问日期 2026-11-01。
-- BEMANICN：POLICY BREAK 企划与组曲曲目资料，访问日期 2026-11-01。
-- jubeat Qubell 官方活动资料，访问日期 2026-11-01。
+1. [トモコササキ本人：じもとっこスイーツ♪制作日记](https://sasakitomoko.jp/2016/08/じもとっこスイーツ♪/)（实读）
+2. [BEMANI官方：本曲数字配信公告](https://p.eagate.573.jp/game/bemani/fansite/p/news/detail.html?post_id=9834423)（实读）
+3. [RemyWiki：じもとっこスイーツ♪版本与人员](https://remywiki.com/Jimotokko_sweets)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-BPM 范围来自组曲段落记录，未对每段单独重新核对。两侧配信先后关系与解锁顺序以活动页和 Wiki 曲リスト交叉，但活动内任务名和阶段细节未逐屏复核。EXTREME 音符数未复核谱面逐面显示差异。
+- 3独立文献根：作者制作日记、官方数字配信公告、社区谱面版本史。
+- 作者日记已完整实读；官方公告仅题头可读，正文未加载，限支持题头与日期。
+- 唱片原盘编曲信用和母带差异仍待核，不用搜索片段代替。
 
-## 112. Valanga
+<a id="arcade-70000101-shared"></a>
+## 時の妖花
 
-统一曲库 ID：`arcade_70000180`
-
+- 统一曲库 ID：`arcade:70000101`
+- 原章节编号与标题：40. 時の妖花
 
 ### 曲目档案
 
-《Valanga》由 DJ TOTTO 提供，BPM 为 186。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 6、9.1、10.5，音符数为 436、703、842。该曲在 jubeat 中仅有 HOLD 谱面。
+- 曲名：時の妖花
+- 艺人：ゲーム実況者わくわくバンド。[1][2]
+- 词曲：UtaTen均列せらみかる；原盘内页待核。[1]
+- Qubell参数：BPM150；2/6/9；音符142/367/662。[3]
 
-### 背景知识
+### 创作与制作背景
 
-本曲原出自 REFLEC BEAT colette -Winter-，移植时保留了强烈山地意象。曲名可联系雪崩式的快速推进，DJ TOTTO 用层层递进的鼓组和高密度 HOLD 谱面呈现寒峰、传说与攀登之间的张力，成为 Qubell 期间限时活动中很醒目的高难度曲。
+这是一首游戏实况创作者组成的乐队作品，而不是仅凭“游戏”二字就能认定为jubeat委托创作。Billboard记录该团于2014年成立，成员包括湯毛、ヒラノ課長、フジ、フルコン、せらみかる；其后演出将正式乐队表演与游戏实况环节放在同一舞台。[2] 歌词资料将本曲词曲均署给せらみかる，因此也不宜把主唱湯毛自动等同词作者。[1]
 
-### jubeat Qubell 位置
+本曲并未停留在音游收录阶段：2018年第8次演唱会东京、大阪两场共用曲表中，它排在第14首，紧接着演奏《完全幸福サレンダー》。这能说明两曲进入现场曲目体系，却不能据此反推当初写作动机或说两曲是同一故事。报道附带的唱片目录列《時の妖花／完全幸福サレンダー》发行于2016-08-31；UtaTen页显示的2016-12-10与之不同，暂不以该页日期覆盖单曲日期。[1][2]
 
-本曲属于期间限定 QUBE《Valanga～伝説の山～》的解禁曲目，活动期间为 2017 年 4 月 20 日至 5 月 10 日。玩家按当时的活动流程解禁。全难度通关称号为【この山には冬将軍が住んでいると言われております！】，全难度全连称号为【お芋が食べたくなってきたよぅ！】。
+本轮尚未取得せらみかる针对本曲命名、灵感来源及录音过程的直接说明。原档从“妖花”引申的美丽、神秘等主题不作作者意图保留。
+
+### jubeat 收录与版本
+
+Qubell历史表记载2016-09-07追加，晚于所见单曲目录日期；属于授权乐队作品的游戏收录史，而非由加入日期证明专门创作。[2][3]
 
 ### 资料来源
 
-- RemyWiki：《Valanga》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Valanga》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- REFLEC BEAT Wiki：Valanga 原收录与移植记录，访问日期 2026-11-01。
-- jubeat Qubell 期间限定 QUBE 活动页，访问日期 2026-11-01。
-- BEMANICN：Valanga 相关资料，访问日期 2026-11-01。
+1. [UtaTen：時の妖花词曲信息](https://utaten.com/lyric/rq20062914/)（实读）
+2. [Billboard JAPAN：2018年第8次演唱会报道](https://www.billboard-japan.com/d_news/detail/64420/2)（实读）
+3. [jubeatWiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-EXTREME 音符数在 jubeat@Wiki 页面内部出现 842 与 841 的差异，本条采用多数记录的 842，并在边界中保留这一细微出入。活动流程中的阶段命名未逐屏重放。雪崩意象仅作为曲名背景解释，不作歌词或官方设定断言。
+- 3文献根为词曲资料、独立现场报道、社区历史表；报道附带CD目录不另加一源。
+- UtaTen显示日期与单曲目录不同；具体日期口径及盘面信用待核。
+- 未找到本曲作者访谈；网络汇总出现不同作词署名，不能替代原盘核定。
 
-## 113. 見習い天使と星降りの丘
+<a id="arcade-70000102-shared"></a>
+## aleatrik
 
-统一曲库 ID：`arcade_70000181`
-
+- 统一曲库 ID：`arcade:70000102`
+- 原章节编号与标题：41. aleatrik
 
 ### 曲目档案
 
-《見習い天使と星降りの丘》由 DJ TOTTO 提供，BPM 为 174。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 3、8、9.7，音符数为 264、553、806。
+- 曲名：aleatrik
+- 艺人：nc ft. NRGFactory；CD目录写nc feat.NRGFactory。[1][2]
+- Qubell参数：BPM138；4/7/9；音符310/526/731。[3]
 
-### 背景知识
+### 创作与制作背景
 
-本曲原为 GITADORA 关联曲目，后来收录于《GITADORA Original Soundtrack 3rd season》。曲名把见习天使、星落与山丘并置，音乐也保持明亮的旋律和轻盈的推进感。与《Valanga》相比，它在同一活动中承担了更具童话色彩的一面。
+本曲的背景首先是《掘りすぎ dig RUSH》第一弹与DanceDanceRevolution的联动。官方2016年9月介绍将它与该DDR主题联系起来；这说明活动来源和品牌联动，却不能仅由“DDR来到jubeat”的宣传句断言本曲从DDR移植而来。[1] 其后进入《jubeat Qubell ORIGINAL SOUNDTRACK》，2017-01-11发行的目录中列为第17轨。[2]
 
-### jubeat Qubell 位置
+原档把nc认作西村宜隆、把NRGFactory扩写为Noise Cloak工作室，证据不足且与已读公司资料不符。Noisycroak官方在另一唱片的制作说明中明确加藤浩義使用NRG Factory名义做自我混音；SAK.履历亦将《Find The Way》的nc名义与加藤浩義作曲关联。这两份是姓名/名义旁证，而不是《aleatrik》的制作访谈；本曲档案先保留实际发布的艺人名义，不编造两人合作分工。[4][5]
 
-本曲属于期间限定 QUBE《Valanga～伝説の山～》的第二阶段解禁曲目，活动期间为 2017 年 4 月 20 日至 5 月 10 日。全难度通关称号为【突然の振り向き】，全难度全连称号为【お客さま！館内で走られては困りますっ！】。
+本轮未找到题名含义、具体音色设备、写作任务或作者如何安排长按的直接说明。不能把西文词源猜测、玩家谱面感受写成创作故事。
+
+### jubeat 收录与版本
+
+社区历史表列DDR主题活动开放于2016-09-08至10月5日，原期难度4/7/9；此处保留Qubell历史口径，不把后续降级值倒填。[3]
 
 ### 资料来源
 
-- RemyWiki：《見習い天使と星降りの丘》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《見習い天使と星降りの丘》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- GITADORA 相关乐曲资料与移植记录，访问日期 2026-11-01。
-- MusicBrainz：《GITADORA Original Soundtrack 3rd season》收录信息，访问日期 2026-11-01。
-- BEMANICN：見習い天使と星降りの丘相关资料，访问日期 2026-11-01。
+1. [BEMANI官方2016年9月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201609/index.html)（实读）
+2. [CDJapan：Qubell原声目录](https://www.cdjapan.co.jp/product/GFCA-428)（实读）
+3. [jubeatWiki：Qubell历史参数](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [Noisycroak：消滅都市Remix works人员说明](https://www.noisycroak.co.jp/works/product/remix_works.html)（实读）
+5. [Noisycroak：SAK.合作履历](https://www.noisycroak.co.jp/staff/sak.html)（实读）
 
-### 核验边界
+### 核验边界与待补
 
-BASIC 与 EXTREME 难度在 jubeat@Wiki 日文页面与部分曲リ列表中存在差异：本条 BASIC 取 3、EXTREME 取 9.7，另有记录把 BASIC 写作 4、EXTREME 写作 10，故不把另一侧数据完全排除。原曲在 GITADORA 系列中的收录版本与音源差异未逐条复核。
+- 3有效逐曲根：官方活动、独立唱片出版目录、社区实测；2份身份旁证不计最低数。
+- Remy与曲目Wiki1711本轮普通HTTP403，已停止该读取；不以搜索片段计源。
+- 本曲作编曲原盘信用与创作构思仍需一手补核。
 
-## 114. Ding Dong Bell
+<a id="arcade-70000103-shared"></a>
+## Cosminflation
 
-统一曲库 ID：`arcade_70000182`
-
+- 统一曲库 ID：`arcade:70000103`
+- 原章节编号与标题：42. Cosminflation
 
 ### 曲目档案
 
-《Ding Dong Bell》由 A応P 提供，BPM 为 157。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 3、6、8，音符数为 259、354、583。
+- 曲名：Cosminflation
+- 艺人/作编曲：山本真央樹；本人官网明确作编曲。[1]
+- Qubell参数：BPM195；5/7/10；音符262/413/686。[3]
+- 谱面类型：HOLD；社区曲目页时长1:50。[5]
 
-### 背景知识
+### 创作与制作背景
 
-本曲是 A応P 的合作曲，由肥塚良彦担任作词与作曲，主题围绕相遇与别离、心之钟等意象展开。A応P 当时由水希蒼、巴奎依、福绪唯、広瀬ゆうき四名成员参与。曲目也是《A応Pのあにむす!!》的片尾曲，并于 2017 年 4 月 29 日随专辑《Y》发售。
+山本真央樹在个人官网的工作记录中明确把《Cosminflation》标作自己作编曲，并列出其原声第18轨位置。这是比单凭游戏艺人栏更直接的职责证据；但它并未说本人是KONAMI员工，原档这一雇佣身份断言撤下。[1]
 
-### jubeat Qubell 位置
+作品在2016年9月官方曲目介绍中属于《掘りすぎ dig RUSH》第二弹、GITADORA主题。应区分“活动向GITADORA致意”与“歌曲由GITADORA移植”：社区资料将它记为山本首次为jubeat写的新曲，不能仅凭活动名反转来源。[2][5] 后续2017-01-11《Qubell ORIGINAL SOUNDTRACK》收录第18轨，由作者工作记录与唱片目录相互核对；同一唱片的两页信用只算一条出版根。[1][4]
 
-本曲于 2017 年 4 月 28 日进入 jubeat Qubell，同日也在 GITADORA Tri-Boost Re:EVOLVE 中登场。它与同一时期的 A応P 关联曲目共同构成跨作品配信，后续也可在相关曲リ列表中确认其保留情况。
+作者官网另有2016-09-23发布、9月27日更新的《Cosminflation》独立作品页，正文列出jubeat Qubell及2016-09-22。[6] 这提供了早于2017年原声记录的本人发布材料，但页面没有说明音乐制作过程。
+
+现有直接作者材料确认作编曲职责与早期发布记录，但未解释为何采用这一标题、是否以宇宙膨胀为故事主题、如何构思拍号或鼓的录制。因此原档将标题词源解释提升为作者设定的内容不保留；仍待本人逐曲评论或采访补充。
+
+### jubeat 收录与版本
+
+Qubell历史表将活动列为2016-09-22至10月19日；当时EXT10与后来细分后的10.3分开记录。[3][5] 原始5/7/10及物量有社区实测依据，但不冒充厂商原始谱面文件。
 
 ### 资料来源
 
-- RemyWiki：《Ding Dong Bell》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Ding Dong Bell》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- GITADORA Tri-Boost Re:EVOLVE 相关乐曲资料，访问日期 2026-11-01。
-- A応P《Y》专辑发行信息，访问日期 2026-11-01。
-- 官方访谈与乐曲介绍页，访问日期 2026-11-01。
+1. [山本真央樹官网：Qubell OST工作记录](https://maoki-yamamoto.com/category/works/page/23/)（实读）
+2. [BEMANI官方2016年9月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201609/index.html)（实读）
+3. [jubeatWiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [CDJapan：Qubell原声出版目录](https://www.cdjapan.co.jp/product/GFCA-428)（实读）
+5. [jubeatWiki：Cosminflation资料](https://w.atwiki.jp/jubeat/pages/1714.html)（实读）
 
-### 核验边界
+6. [山本真央樹：Cosminflation原发布记录](https://maoki-yamamoto.com/works/cosminflation/)（公开原文缓存实读）
 
-EXTREME 难度以 sonicy_memo 记录的 8 为准，未见有不同版本明确冲突，但仍需说明其来自记忆式记录而非官方谱面统计。A応P 四名成员的署名顺序未逐张资料重放，专辑《Y》的具体收录版本未在本次核对。歌词主题为概述，不作逐句解读。
+### 核验边界与待补
 
-## 115. 拙者はSAMURAI FOOD
+- 3文献根：本人/目录同原声出版信用、官方活动、社区实测史。
+- 一手作编曲署名已核，但未取得本曲创作动机；不把署名等同幕后故事证言。
+- Remy本轮403后停止；不以不可读页面凑数。
 
-统一曲库 ID：`arcade_70000183`
+<a id="arcade-70000104-shared"></a>
+## Invisible Border
 
+- 统一曲库 ID：`arcade:70000104`
+- 原章节编号与标题：43. Invisible Border
 
 ### 曲目档案
 
-《拙者はSAMURAI FOOD》由 S-C-U a.k.a. Food Samurai × A応P 提供，BPM 为 136。jubeat Qubell 中 BASIC、ADVANCED、EXTREME 谱面难度分别为 3、7、9，音符数为 251、494、653。
+- 标题：Invisible Border
+- 艺人：world sequence
+- world sequence；Qubell HOLD曲，BPM156，Notes167／301／629；初期4／6／9，后期EXT9.8。[1][2]
+- Qubell OST 第20轨。[4]
 
-### 背景知识
+### 创作与制作背景
 
-本曲是 jubeat 与永谷园联动的相关曲目，2017 年 6 月 1 日配信。S-C-U 在这里以 Food Samurai 署名出现，并参与制作和说唱部分，A応P 则承担人声表现。作品把武士口吻、料理意象和轻快节奏拼在一起，形成较明显的宣传企划曲风格。
+可核的制作归属首先是 world sequence：RemyWiki 将作曲编曲记为村井聖夜，并指出这是继 saucer《Life Connection》后再次向 jubeat 提供原创曲；该身份与回归记录属于社区整理而非本轮新取得的作者访谈。[1] 同期官方曲目档案确认本曲属于掘りすぎ dig RUSH 第4弹的 pop’n music 主题内容，随后由 Qubell OST 以独立曲目出版。[3][4]
 
-### jubeat Qubell 位置
+这能确定它的作者名义、项目与发行路径，却不能解释曲名具体寓意。原稿把“看不见的边界”解释为节奏切换与音色过渡的隐喻，没有已读作者证言支持，现撤去该因果判断；也不套用搜索出现的パソコン音楽クラブ同名曲故事。关于旋律构思、音源及封面故事仍需原始曲评或作者采访。
 
-本曲属于 jubeat 与永谷园联动的新曲，2017 年 6 月 1 日进入 Qubell。同一联动在同期还把其他 A応P 关联曲目带到 jubeat 侧，本曲在曲リ列表中与该系列并列出现。
+### jubeat 收录与版本
+
+官方2016年10月曲目档案确认第4弹 pop’n music 主题；社区进一步记为Stage3。它在jubeat中是Qubell原创而非因活动主题便断为pop’n先发移植。[1][3] 原稿10/20–11/16精确窗口本轮未读独立原公告，暂不确证。
 
 ### 资料来源
 
-- RemyWiki：《拙者はSAMURAI FOOD》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《拙者はSAMURAI FOOD》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- BEMANI Fan Site：2017 年 6 月永谷园联动与新曲资料，访问日期 2026-11-01。
-- cosmos_memo：《拙者はSAMURAI FOOD》谱面与配信记录，访问日期 2026-11-01。
-- sonicy_memo：jubeat 配信与相关曲目记录，访问日期 2026-11-01。
+1. RemyWiki：Invisible Border：https://remywiki.com/Invisible_Border（已读；村井聖夜作编；Life Connection后回归；Stage3；初期4/6/9）
+2. jubeat Wiki：Invisible Border：https://w.atwiki.jp/jubeat/pages/1721.html（已读；HOLD167/301/629；156；现EXT9.8）
+3. BEMANI Fan Site：2016年10月新曲：https://p.eagate.573.jp/game/bemani/fansite/s/music/201610/（已读；本曲world sequence；掘りすぎdigRUSH第4弹pop’n主题）
+4. Playasia：Qubell OST曲表：https://www.play-asia.com/en/jubeat-qubell-original-soundtrack/13/70aqop（已读；第20轨Invisible Border）
 
-### 核验边界
+### 核验边界与待补
 
-EXTREME 难度存在 8 与 9 的记录差异，本条采用 cosmos_memo 的 9，并在边界中保留 sonicy_memo 侧的 8。S-C-U 与 Food Samurai 的具体分工说明以游戏目录和 Wiki 记录概括，未逐段核对音源。永谷园联动中的活动包装细节未逐页复核。
+- 两社区资料保守同根，另官方活动和OST出版根，共三根；非三份创作采访。
+- 尚无原作者创作动机；不以曲名推测。官方月档web不可读后普通HTTP200正文已核。
 
-## 116. 枝に結ぶ願い [ 2 ]
+<a id="arcade-70000105-shared"></a>
+## The Omen
 
-统一曲库 ID：`arcade_70001001`
-
+- 统一曲库 ID：`arcade:70000105`
+- 原章节编号与标题：44. The Omen
 
 ### 曲目档案
 
-《枝に結ぶ願い [ 2 ]》由 Akhuta 提供，BPM 为 204。jubeat Qubell 中的新增 HOLD 谱面于 2016 年 7 月 7 日配信，BASIC、ADVANCED、EXTREME 谱面难度分别为 4、7、9.5，音符数为 357、519、735。
+- 标题：The Omen
+- 艺人：RoughSketch
+- RoughSketch；Qubell HOLD曲，BPM185，Notes340／586／772；现等级5／8／10.4。[1]
+- Qubell OST第21轨；后来另有Extended Mix。[3][4]
 
-### 背景知识
+### 创作与制作背景
 
-本曲原为 GITADORA OverDrive 收录曲《星宿る空の下で》的续篇。Akhuta 用星、枝、愿望等意象延续前作的世界观，音色也更偏空灵与叙事感。Qubell 侧的 [ 2 ] 版本对音源进行了微调，并新设 HOLD-only 谱面，用来区别于早前已收录的常规谱面。
+官方2016年11月新曲档案将《The Omen》列为掘りすぎ dig RUSH 第5弹、REFLEC BEAT主题的jubeat内容，而不是证明它原先出自REFLEC。[2] 游戏原声中它以第21轨出版。[3] 后续在 Notebook Records《CARDS: JACK》（NBCD-034）的第5轨出现 Extended Mix；受托销售介绍把它明确称为bonus track，因此长版与原游戏尺应分别记载，不能将同盘其他合作或remix的制作成员套给本曲。[4]
 
-### jubeat Qubell 位置
+社区转述原声曲评曾提醒标题的读法为“ジ・オーメン”，但本轮没有读到那份原册，故只能标作转述。[1] 本轮亦没有作者证据证明同名恐怖电影是创作来源，封面气氛或恶魔称号不足以建立此因果；原稿有关凶兆对应编曲的解释不作为作者故事保留。
 
-本曲 [ 2 ] 版本属于 dig dig Qubell 活动《Fables of Akhuta》的解禁曲目，活动期间为 2016 年 7 月 7 日至 7 月 20 日。玩家在活动期内完成相关条件后解禁。全难度全连称号为【彼の者は枝の下に立っていた】。
+### jubeat 收录与版本
+
+Qubell为HOLD-only曲；社区记录旧ADV9后来下调8，与现页8不矛盾。[1] 官方可核2016年11月第5弹，原稿精确活动终止日与plus pack15仍待专项公告。[2]
 
 ### 资料来源
 
-- RemyWiki：《枝に結ぶ願い [ 2 ]》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《枝に結ぶ願い [ 2 ]》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- GITADORA OverDrive 相关乐曲资料与《星宿る空の下で》记录，访问日期 2026-11-01。
-- jubeat Qubell dig dig Qubell《Fables of Akhuta》活动页，访问日期 2026-11-01。
-- BEMANICN：枝に結ぶ願い [ 2 ] 相关资料，访问日期 2026-11-01。
+1. jubeat Wiki：The Omen：https://w.atwiki.jp/jubeat/pages/1728.html（已读；HOLD185/340/586/772；现5/8/10.4；clanADV降8；标题读法转述）
+2. BEMANI Fan Site：2016年11月新曲：https://p.eagate.573.jp/game/bemani/fansite/s/music/201611/（已读；The Omen/RoughSketch；第5弹REFLEC主题）
+3. Playasia：Qubell OST曲表：https://www.play-asia.com/en/jubeat-qubell-original-soundtrack/13/70aqop（已读；第21轨The Omen）
+4. TANO*C STORE：CARDS:JACK：https://www.tanocstore.net/shopdetail/000000001706/（已读；NBCD034；第5轨Extended Mix为bonus；M3 2018秋归类）
 
-### 核验边界
+### 核验边界与待补
 
-原曲通常谱面已在 saucer fulfill 收录，本次仅记录 [ 2 ] 版本及其 HOLD 谱面，不把两版数据混写。GITADORA 与 jubeat 侧的音源差异以“微调”概括，未逐秒比对。活动阶段的详细任务顺序未逐屏复核。
+- 四根可读资料，但原册曲评仅社区转述，不虚报原作者直接证据。
+- Remy The_Omen web cache miss后普通HTTP403已停止未计；社区所谓曲评链接实际指向无关旧评论页，亦未作为原文。
 
-## 117. Windy Fairy [ 2 ]
+<a id="arcade-70000106-shared"></a>
+## ULTRA HAPPY MEGAMIX
 
-统一曲库 ID：`arcade_70001007`
-
+- 统一曲库 ID：`arcade:70000106`
+- 原章节编号与标题：45. ULTRA HAPPY MEGAMIX
 
 ### 曲目档案
 
-《Windy Fairy [ 2 ]》由 DJ TOTTO 提供，BPM 为 180。jubeat Qubell 中的新增 HOLD 谱面 BASIC、ADVANCED、EXTREME 谱面难度分别为 4、7、9，音符数为 278、465、690，其中 EXTREME 侧包含 35 个 HOLD 音符。
+- 标题：ULTRA HAPPY MEGAMIX
+- 艺人：DJ Genki
+- DJ Genki；Qubell原创，BPM180；Notes296／598／743；初期4／8／9，后期3／7／9.4。[1]
+- Qubell OST第19轨；另有COLLECTION’S EXTENDED MIX及kobaryo REMIX。[3][4]
 
-### 背景知识
+### 创作与制作背景
 
-本曲原出自 REFLEC BEAT colette -Spring-，此前已在 jubeat saucer 移植。曲名中的风与妖精对应轻快、透明且带有一丝幻想感的音乐气质。[ 2 ] 版本在 Qubell 中以 HOLD-only 谱面重新登场，强调长按节奏与滑过线条的表现。
+本曲是DJ Genki在jubeat系列的初次登场，社区将其放在掘りすぎ dig RUSH 的beatmania IIDX主题Stage3；同期官方档案确实将它列为第3弹jubeat新曲。[1][2] 因而这里的IIDX主题是活动安排，不能反写成这首歌在IIDX首先发行。
 
-### jubeat Qubell 位置
+作品之后有清晰的版本扩展：GNKCD-005《ULTRA HAPPY COLLECTION!!!》收录第2轨COLLECTION’S EXTENDED MIX，并在第11轨另列kobaryo REMIX。[4] 这比单纯从“MEGAMIX”一词推断“多首旧作拼贴”更可靠。社区提到与《Firestorm》共享背景人声样本，但尚无作者采样清单或原曲评直接核对，本条不把它升级成已证实的制作手法，也不因此宣称是相关歌曲混音。[1]
 
-本曲 [ 2 ] 版本属于期间限定 QUBE《Valanga～伝説の山～》的第一阶段解禁曲目，活动期间为 2017 年 4 月 20 日至 5 月 10 日。全难度通关称号为【春風が心地よい】，全难度全连称号为【妖精かと思った？残念！小さいおじさんでした！】。
+### jubeat 收录与版本
+
+原版归Qubell；官方2016年10月曲档确认第3弹IIDX主题。[2] 社区进一步记载plus先经CHALLENGE SCRATCH再进Qubell pack5；此为移动端后续，不与街机首发混合。[1]
 
 ### 资料来源
 
-- RemyWiki：《Windy Fairy [ 2 ]》，访问日期 2026-11-01。原文未能直接访问。
-- jubeat@Wiki：《Windy Fairy [ 2 ]》单曲页及 Qubell 曲リスト，访问日期 2026-11-01。
-- REFLEC BEAT Wiki：Windy Fairy 原收录与移植记录，访问日期 2026-11-01。
-- jubeat Qubell 期间限定 QUBE 活动页，访问日期 2026-11-01。
-- BEMANICN：Windy Fairy [ 2 ] 相关资料，访问日期 2026-11-01。
+1. RemyWiki：ULTRA HAPPY MEGAMIX：https://remywiki.com/ULTRA_HAPPY_MEGAMIX（已读；DJ Genki初登场；180/296/598/743；初期4/8/9；Stage3；plus流程）
+2. BEMANI Fan Site：2016年10月新曲：https://p.eagate.573.jp/game/bemani/fansite/s/music/201610/（已读；DJ Genki本曲；第3弹IIDX主题）
+3. Playasia：Qubell OST曲表：https://www.play-asia.com/en/jubeat-qubell-original-soundtrack/13/70aqop（已读；第19轨ULTRA HAPPY MEGAMIX）
+4. TANO*C STORE：ULTRA HAPPY COLLECTION!!!：https://www.tanocstore.net/shopdetail/000000001404/（已读；GNKCD005；第2轨Extended；第11轨kobaryo REMIX）
 
-### 核验边界
+### 核验边界与待补
 
-EXTREME 侧的 35 个 HOLD 音符来自单曲页记录，曲リ列表中个别汇总方式不同，因此这里把总数与 HOLD 数分开写出。原曲在 REFLEC BEAT 侧和 saucer 侧的谱面差异未逐面核对。活动阶段顺序和称号开放机制未逐屏重放。
+- 四根为游戏、同期官方、原OST、后续专辑，不冒称四份作者评论。
+- 旧稿MEGAMIX必为多曲拼接的解释无作者依据，撤去。采样对应仅社区线索，原始制作过程待核。
+
+<a id="arcade-70000107-shared"></a>
+## 檄
+
+- 统一曲库 ID：`arcade:70000107`
+- 原章节编号与标题：46. 檄
+
+### 曲目档案
+
+- 标题：檄
+- 艺人：Ryu☆ feat.青龍
+- BPM：191；长度1:40；节点212／476／659。现行社区等级3／8／10.5，勿当作Qubell初期值。[1]
+- 原声第22轨。[4] 原稿初期4／8／10保留为历史记录，首期表尚待补核。
+
+### 创作与制作背景
+
+Ryu☆ feat.青龍并不意味着两名制作人合作：EXIT TUNES的《AO∞》发行公告明确将青龍称为Ryu☆的名义；该盘第5轨为《檄(AO∞MIX)》，注明来源jubeat Qubell。因而街机原曲、Qubell原声版与后来个人专辑的有标注混音版本应分开记录，不能把2017年专辑日期当成本曲街机初出。[2][4]
+
+社区资料将本曲视作青龍名义在jubeat中的首支原创供曲，并区别此前以版权曲进入的《Water Horizon》《BLUE DRAGON》。这是供曲史记录，而非作者亲述创作起因。[1] 目前没有读到作者说明为何取名“檄”、如何处理自身两名义音色的原始曲评；原稿将字面号召含义直接解释成编曲意图，缺少证据，撤去。
+
+### jubeat 收录与版本
+
+官方2016年11月新曲页把本曲列在掘りすぎ dig RUSH FINAL，与历代代表作曲者回归的活动文案相连。[3] 精确Stage及活动结束日未由本轮可读原始公告核实，不沿用为确定事实。
+
+### 资料来源
+
+1. jubeat@Wiki：檄：https://w.atwiki.jp/jubeat/pages/1730.html（已读；191、1:40、212/476/659及现行等级；青龍原创供曲与此前版权曲区别）
+2. EXIT TUNES：青龍第二张专辑AO∞发行公告（4Gamer刊载）：https://www.4gamer.net/games/361/G036123/20170224133/（已读；青龍为Ryu☆名义；2017-03-01发行AO∞；第5轨檄(AO∞MIX)来源Qubell）
+3. BEMANI Fan Site 2016年11月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201611/（已读；檄列入2016年11月dig RUSH FINAL）
+4. Qubell ORIGINAL SOUNDTRACK 商品曲表：https://www.play-asia.com/en/jubeat-qubell-original-soundtrack/13/70aqop（已读；原声第22轨檄）
+
+### 核验边界与待补
+
+- 未直接读取Qubell原声册作者评论；创作动机/录音过程待核。
+- Remy条目普通读取403已停止，不计来源。
+- 四链为社区记录、2017个人专辑、2016活动、原声出版，并非四份作者访谈。
+
+<a id="arcade-70000108-shared"></a>
+## Against the vulgar aggressor
+
+- 统一曲库 ID：`arcade:70000108`
+- 原章节编号与标题：47. Against the vulgar aggressor
+
+### 曲目档案
+
+- 标题：Against the vulgar aggressor
+- 艺人：GUHROOVY
+- BPM：210；长度2:02；节点238／480／945。[1]
+- Qubell初期等级4／7／10；现行3／6／10.4，社区分期记录。[1]
+- 原声第24轨。[3]
+
+### 创作与制作背景
+
+本曲属于GUHROOVY为Qubell提供的原创曲；官方把它与FINAL阶段历代代表作曲者阵容联系起来，但没有说明制作设备、委托细节或题名针对的具体对象。[2]
+
+新取得的韩文转录在作者评论栏署名GUHROOVY：他表示收到制作带恶役（ヒール）感觉曲目的要求，因此把作品做得更为喧闹。[4] 这是具体委托方向的归名二手证词，但该页没有明确交代原评论刊载于哪份文献，日文原件和委托方身份仍待核；不能自行标为Qubell原册。转录同时写有420(210)及与前作的速度比较，本条保留游戏显示210，不据该表述推出整个供曲系列每首必增10 BPM的固定规则。
+
+社区把它与前作《Stand Alone Beat Masta》的速度作对比：前者200、本曲210，形成供曲序列中的速度递增观察。[1] 这一观察不等于作者宣布每首必须加10 BPM的作曲规则，更不支持从“aggressor”推导现实事件或人物。原声目录则提供独立发行落点，本曲位于《Giant Otter Family》之后、《Megalara Garuda》之前。[3]
+
+### jubeat 收录与版本
+
+社区记作掘りすぎ dig RUSH FINAL Stage 3供曲；官方月报独立确认属于FINAL。[1][2] 移动版经历Challenge Scratch限时收录，再列入2021年的Qubell pack 19，不能把移动再发行日期当街机首发。[1]
+
+### 资料来源
+
+1. RemyWiki：Against the vulgar aggressor：https://remywiki.com/Against_the_vulgar_aggressor（已读；210、2:02及三谱面历史参数；FINAL Stage 3及移动版发行沿革；与Stand Alone Beat Masta速度比较）
+2. BEMANI Fan Site 2016年11月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201611/（已读；Against the vulgar aggressor／GUHROOVY列入FINAL）
+3. Qubell ORIGINAL SOUNDTRACK 商品曲表：https://www.play-asia.com/en/jubeat-qubell-original-soundtrack/13/70aqop（已读；原声第24轨）
+
+4. 읽기전용위키：Against the vulgar aggressor，GUHROOVY归名作者评论韩译：https://www.readonly.wiki/w/Against%20the%20vulgar%20aggressor（实际读署名作者评论；恶役委托方向，原始刊载载体未明，非亲读日文原件）
+
+### 核验边界与待补
+
+- 原稿每首固定递增10及对抗性题名习惯未取得作者证据，不作创作动机。
+- 新增归名作者评论转译提供委托风格；日文原文及录音采访仍缺，原三链仍仅支持身份、活动及发行，不因新增转录虚增最低来源数。
+
+<a id="arcade-70000109-shared"></a>
+## Giant Otter Family
+
+- 统一曲库 ID：`arcade:70000109`
+- 原章节编号与标题：48. Giant Otter Family
+
+### 曲目档案
+
+- 标题：Giant Otter Family
+- 艺人：S-C-U
+- BPM：188；长度1:57；节点208／569／761。[1]
+- Qubell等级3／8／10，clan曾调整EXT为9，细分后现行9.5；不可把9.5直接写成clan初始等级。[1]
+- 原声第23轨。[3]
+
+### 创作与制作背景
+
+社区将本曲归入S-C-U以动物为题的供曲系列，题名指向巨獭家族。[1] 官方介绍可确认它是FINAL供曲，却没有说明作者为何选择这一动物或是否观察过真实巨獭；因此不能由英文题名扩写成旅行、生态纪录片或家庭经历。[2]
+
+作为作品接受史，IcarusProject的独立听谱文章提出一个具体观察：开头相同旋律第二次出现时加入更厚的合成器与鼓，相应谱面也增加随底鼓出现的同时押；作者还觉得旋律安排与鼓暂时退出的时点，使曲式比传统主副歌更接近build-up与drop。[4] 这些是2026年听者分析，不是S-C-U自己的制作说明，也不把文中世代交替的猜测升级为官方企划。
+
+### jubeat 收录与版本
+
+社区记录其位于掘りすぎ dig RUSH FINAL Stage 1，官方月报确认FINAL身份。[1][2] 原声将本曲置于《檄》与《Against the vulgar aggressor》之间。[3] 后续移动版沿革与街机原作分别记录，不以pack号推首发年代。
+
+### 资料来源
+
+1. RemyWiki：Giant Otter Family：https://remywiki.com/Giant_Otter_Family（已读；188、1:57、谱面数及分期等级；动物题材系列与FINAL Stage 1）
+2. BEMANI Fan Site 2016年11月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201611/（已读；Giant Otter Family／S-C-U为FINAL新曲）
+3. Qubell ORIGINAL SOUNDTRACK 商品曲表：https://www.play-asia.com/en/jubeat-qubell-original-soundtrack/13/70aqop（已读；原声第23轨）
+4. IcarusProject：ショッチョーが確立したユビートの音楽性 #5，#13曲段：https://note.com/icarusprojectlab/n/n0bee8e3da834（已读；同旋律音色/鼓及同时押的对应观察；曲式被听者描述为更接近build-up/drop）
+
+### 核验边界与待补
+
+- 无作者原始曲评，动物选择与作曲过程待核。
+- 玩家文章参数取自社区，不另计参数佐证；独立性仅限自身听谱分析。
+- 未核谱面设计者一手署名，不沿用原稿まっする的肯定归属。
+
+**历史说明：jubeat Qubell 资料条目批次（资料行 49-60）**
+
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 49-60 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+
+<a id="arcade-70000110-shared"></a>
+## Megalara Garuda
+
+- 统一曲库 ID：`arcade:70000110`
+- 原章节编号与标题：49. Megalara Garuda
+
+### 曲目档案
+
+- 标题：Megalara Garuda
+- 艺人：SYUNN
+- BPM：180；节点932／912／914；Qubell三谱面均10，现行10.4／10.5／10.7，社区分期记录。[1]
+- Qubell原声第25轨与第28轨Long version分别列名。[3]
+
+### 创作与制作背景
+
+官方2016年11月介绍直接将本曲称作SYUNN的出道曲，并安排在掘りすぎ dig RUSH FINAL的最终解禁位置；这比单凭后来高难度地位推测作者被委派“终极Boss曲”更可靠。[2]
+
+关于题名，RemyWiki转述Qubell原声册说法：与作者开始作曲年份相联系的是蜂发现的2011年。本轮未读到原册扫描，只能保留为二手出处指向，不能把原稿的2012年物种发表年改写成作者开始作曲年，也不自行把昆虫攻击性解释成作曲动机。[1]
+
+另有一项直接可核的后续视觉制作史：在《ANCHOR》的官方影像评论中，BEMANI Designers说明HuΣeR要求让《Highcharge Divolt》与本曲的主要角色登场；其中本曲的蜂角色在jubeat设计者监督下制作成3D。[5] 这是后来《ANCHOR》影像制作过程，不是本曲最初音频制作过程。
+
+原声同时列游戏版与Long version，说明商业发行有两种版本条目；仅凭曲表不能推断延长版新增哪些音色或段落。[3]
+
+### jubeat 收录与版本
+
+官方明确其为FINAL最终解禁曲。[2] 社区所列Stage 4及高强度谱面属于游戏记录，不据此宣称作者私人创作目的。[1] 后续pop’n UniLab官方公告另证2024-08-15 10:00加入本曲，8月22日加入UPPER，这是移植/追加谱面时间而非原作发表日期。[4]
+
+### 资料来源
+
+1. RemyWiki：Megalara Garuda：https://remywiki.com/Megalara_Garuda（已读；180及分期谱面参数；原声册题名故事仅社区转述：2011发现年份与开始作曲年份关联）
+2. BEMANI Fan Site 2016年11月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201611/（已读；SYUNN出道曲与FINAL最终解禁曲）
+3. Qubell ORIGINAL SOUNDTRACK 商品曲表：https://www.play-asia.com/en/jubeat-qubell-original-soundtrack/13/70aqop（已读；第25轨及第28轨Long version）
+4. pop’n UniLab 2024年8月官方更新：https://p.eagate.573.jp/game/popn/unilab/info/info_2408.html（已读；8月15日10:00加入Megalara Garuda；8月22日UPPER）
+5. IIDX25 ANCHOR：BEMANI Designers影像评论：https://p.eagate.573.jp/game/2dx/25/p/newsong/76_anchor.html（已读；应HuΣeR要求让本曲蜂角色登场；jubeat设计者监督蜂角色3D化）
+
+### 核验边界与待补
+
+- 题名故事只有原声册的社区转述，原日文作者评论未直接核；不将2012发表年与2011发现年混淆。
+- 原声册转述与同原声目录合一出版根；官方新曲介绍、后来移植公告独立；后续影像制作仅附证不凑最低数。
+- Remy本轮web正文可读，普通请求403已停止，未绕过。
+
+<a id="arcade-70000111-shared"></a>
+## Saturday Night Love
+
+- 统一曲库 ID：`arcade:70000111`
+- 原章节编号与标题：50. Saturday Night Love
+
+### 曲目档案
+
+- 标题：Saturday Night Love
+- 艺人：Sota feat. Brenda V.
+- 作曲/编曲Sota Fujimori，作词/演唱Brenda Vaughn，社区署名。[1]
+- BPM128，游戏长1:37；节点196／392／619；Qubell等级3／6／8，clan起2／5／7。[1]
+
+### 创作与制作背景
+
+本轮纠正原稿将本曲写成IIDX 8th初出的错误：可读社区记录是家用DDR EXTREME2初出，随后有STRIKE与街机SuperNOVA记录；MusicBrainz的原声录音目录也将其列入EXTREME2、FESTIVAL & STRIKE及SuperNOVA，而非IIDX 8th。[1][3]
+
+版本上应至少区别原曲、作为家用模式结尾音乐的U1 edit，以及Sota个人专辑《SYNTHESIZED》的Phunk Disco Mix。目录分别标出后两者，个人专辑混音记为约4:47，不能把这条长混音的声音配置直接套到1:37街机曲。[1][3] 原稿关于“美式夜生活气氛”是泛化听感，不是作者说明；本轮仍未找到可读Sota/Brenda逐曲访谈或录音记述，不虚构工作室与合成器型号。
+
+### jubeat 收录与版本
+
+官方2016年9月月报明确将它列为掘りすぎ dig RUSH第1弹DDR移植曲；社区进一步记录为Stage 1。[1][2] 因此总库Qubell分组表示街机jubeat加入期，不是全平台首次发表。等级2／5／7的变化属于clan，不应写成Qubell后期。[1]
+
+### 资料来源
+
+1. RemyWiki：Saturday Night Love：https://remywiki.com/Saturday_Night_Love（已读；DDR EXTREME2初出、Sota/Brenda分工；128、1:37及Qubell/clan分期参数；Stage 1与U1 edit/Phunk Disco Mix区分）
+2. BEMANI Fan Site 2016年9月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201609/（已读；Saturday Night Love为dig RUSH第1弹DDR曲）
+3. MusicBrainz：Sota录音目录 Saturday Night Love各条：https://musicbrainz.org/artist/5c46069f-43d8-453f-8224-d94cbc0d5f48/recordings?page=5（已读；原曲三种DDR原声载体；SYNTHESIZED收录Phunk Disco Mix约4:47；U1 edit另条）
+
+### 核验边界与待补
+
+- 未取得创作动机/录音过程本人证据；Remy制作栏只写Untranslated。
+- 唱片原曲约1:39与游戏记录1:37不同口径，未强行统一。
+- 三链为游戏记录、官方活动、不同混音/原声出版目录；不是三份采访。
+
+<a id="arcade-70000112-shared"></a>
+## New York EVOLVED
+
+- 统一曲库 ID：`arcade:70000112`
+- 原章节编号与标题：51. New York EVOLVED
+
+### 曲目档案
+
+- 标题：New York EVOLVED
+- 艺人：NC underground
+- jubeat BPM190、长度2:00，节点373／760／848；Qubell等级5／9／10，clan基础降4，现行4／9.4／10.5。[1]
+- 社区署名作曲h-katou、编曲NRG Factory；Wii游戏信用转录本曲Performed by Hiroyoshi Kato。[1][2]
+
+### 创作与制作背景
+
+原稿把X3 VS 2ndMIX写为原作，遗漏更早家用DDR（2010）来源。本轮游戏信用转录明确2010年Wii作品已有本曲及Hiroyoshi Kato署名；社区进一步整理同年家用版与后来X3移植，因此不能由NC underground中的字样把作者推定为NAOKI或笼统内部团队。[1][2]
+
+本曲有A/B/C三种版本，开头相同而后续不同；社区记录jubeat采用Type A、曲名省去后缀。DDR的Type A谱面存在95至380的速度变化与停止，但jubeat标示190；这不是实际音源被改成另一首，也不能单凭谱面显示推断制作人重新录制。[1] 目前未取得加藤本人关于纽约题材、三分支设计起因或采样选择的曲评，城市旅游等背景不作补写。
+
+### jubeat 收录与版本
+
+官方2016年9月月报明确它属于dig RUSH第1弹DDR联动，直接纠正原稿“无需额外活动解锁”的叙述；社区记录具体Stage 2。[1][3] 移动版先于街机的沿革只作平台区分，不沿用聚合站把应用整体上线日当单曲配信日。
+
+### 资料来源
+
+1. RemyWiki：New York EVOLVED：https://remywiki.com/New_York_EVOLVED（已读；家用2010初出、后来X3移植；三版本与jubeat Type A；190及分期谱面参数；dig RUSH第1弹Stage 2）
+2. MobyGames：Dance Dance Revolution（Wii，2010）原游戏信用转录：https://www.mobygames.com/game/60392/dance-dance-revolution/credits/wii/（已读；New York EVOLVED：Hiroyoshi Kato（Performed by），©2010）
+3. BEMANI Fan Site 2016年9月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201609/（已读；New York EVOLVED为dig RUSH第1弹DDR移植曲）
+
+### 核验边界与待补
+
+- 作者创作评论未读；MobyGames为游戏信用转录，不等同亲看游戏片尾。
+- MusicBrainz相关原声页429，未改渠道重试，不计来源。
+- 谱面/历史、原游戏信用、2016官方移植事件三根；不得把NAOKI整作制作人职务等同本曲作曲。
+
+<a id="arcade-70000113-shared"></a>
+## Destiny lovers
+
+- 统一曲库 ID：`arcade:70000113`
+- 原章节编号与标题：52. Destiny lovers
+
+### 曲目档案
+
+- 标题：Destiny lovers
+- 艺人：くにたけみゆき
+- 原曲首发GF7th/dm6th；演唱くにたけみゆき，作曲/编曲泉陸奥彦、作词Y.Uehara为社区信用记录。[1]
+- BPM170、游戏长1:34；节点165／333／685；Qubell等级3／6／9，现行EXT9.4。[1]
+
+### 创作与制作背景
+
+可读RemyWiki保存了泉陸奥彦曲评英译：他将Eurobeat式节奏、硬摇滚吉他和易记旋律组合起来，并指出快速度与疾走感带来的演奏快感。这里更具体的制作描述应优先于原稿笼统的“抒情摇滚”，但该段仍属第三方翻译，尚未直接复核官方日文原页。[1]
+
+同页tQy影像评论英译说明，泉提出浪漫意象的要求，制作者通过欧洲古堡、沉睡公主等画面，在保留速度感的同时增加优雅感。音频作曲与影片构思分别署名，不能把tQy画面设计归为歌手的个人故事。[1]
+
+长版发行也有可追溯线索：MusicBrainz《Third》目录第二碟第15轨列本曲3:50，注释把该轨来源指向《GUITARFREAKS & drummania VOCAL COLLECTION》。这是长版再收录记录，不代表2014重新创作或重新录唱。[3]
+
+### jubeat 收录与版本
+
+官方2016年9月月报将本曲列入dig RUSH第2弹GITADORA移植；社区细分Stage 1，说明它是已存在多年的跨系列歌曲在Qubell的加入，而非Qubell原创。[1][2] 不再凭“把吉他鼓点拆成判点”的泛化描述冒充谱面设计者说明。
+
+### 资料来源
+
+1. RemyWiki：Destiny lovers 曲评/影像评论及游戏资料：https://remywiki.com/Destiny_lovers（已读；泉曲评：Eurobeat节奏、硬摇滚吉他、易记旋律；tQy：浪漫要求与古堡/沉睡公主视觉；GF7/dm6起源、QubellStage1及参数）
+2. BEMANI Fan Site 2016年9月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201609/（已读；Destiny lovers为dig RUSH第2弹GITADORA移植曲）
+3. MusicBrainz：Third（コナミスタイル盤）第二碟与原册来源注释：https://musicbrainz.org/release/cd6fc94a-2cb1-4db7-88d7-7d1839ac1d65（已读；第二碟15轨Destiny lovers约3:50；原册注释指其源自VOCAL COLLECTION）
+
+### 核验边界与待补
+
+- 创作与影像故事仅第三方英译已读；日文官方原页/原册未直接核。
+- BEMANICN条目403停止，不以搜索摘要所见日文算已读原文。
+- 原作曲评/游戏资料一根、2016移植公告一根、后续Third出版一根；长版并未证实新录。
+
+<a id="arcade-70000114-shared"></a>
+## Vampire Killer
+
+- 统一曲库 ID：`arcade:70000114`
+- 原章节编号与标题：53. Vampire Killer
+
+### 曲目档案
+
+- 标题：Vampire Killer
+- 艺人：浅田 靖
+- 改编曲；BEMANI初出GF/DM V6，并非为Qubell新写。[1]
+- BPM：128；长度1:56；Qubell等级3/7/9，物量202/508/705；festo后EXT记9.7。[1]
+
+### 创作与制作背景
+
+本条必须区分早期《恶魔城》旋律、《Judgment》改编和后来的BEMANI版本。社区资料把本版本演奏／编曲记为nc ft. Yasushi Asada，指出它以《Judgment》版本为基础再增加摇滚与吉他独奏段落；游戏显示艺人则是浅田靖。不能把“浅田靖改编”写成他创作了最初旋律，也不能把同名SDVX混音当成本录音。[1][2]
+
+关于前身《Judgment》的制作，一手采访可说明项目方法而非每个小节：坂本英城说团队早期确定把哥特恐怖的管弦意象与摇滚结合，因浅田的吉他能力及多风格处理选择他。浅田谈到保留辨识度而加入个人演奏和和弦处理，并刻意不听以前的改编唱片以免受其限制。这是整项配乐的创作背景，不足以证明BEMANI追加独奏的具体委托过程。[4]
+
+独立乐评专门讨论《Judgment》的本曲，把吉他与中段弦乐、管风琴、合唱的对比视为其特点，并注意到约一分钟处的新增素材。这属于评论者的分析，不冒充浅田本人的逐曲说明，也不能把该版时间位置直接套在jubeat剪辑上。[3]
+
+### jubeat 收录与版本
+
+官方2016年9月栏目列本曲为掘りすぎdig RUSH第2弹GITADORA移植；社区进一步记STAGE 2。不是初始默认曲。[1][2]
+
+### 资料来源
+
+1. RemyWiki：Vampire Killer：https://remywiki.com/Vampire_Killer（已读；Judgment改编基础与BEMANI版本区分，GFDM V6初出；128、1:56、202/508/705；Qubell3/7/9；第2弹Stage2）
+2. KONAMI BEMANI Fan Site：2016年9月乐曲栏目：https://p.eagate.573.jp/game/bemani/fansite/s/music/201609/（已读；Vampire Killer／浅田靖；掘りすぎdig RUSH第2弹GITADORA）
+3. Video Game Music Daily：Judgment版Vampire Killer评论：https://vgmdaily.wordpress.com/2010/03/26/castlevania-judgment-vampire-killer-yasushi-asada/（已读；评论浅田Judgment版的吉他与中段弦乐、管风琴、合唱；约一分钟新增素材）
+4. Game Developer：Noisycroak／Castlevania Judgment采访（2009-04-06）：https://www.gamedeveloper.com/game-platforms/interview-noisycroak-on-traversing-i-castlevania-i-s-musical-timeline（已读；Judgment项目的哥特管弦与摇滚方向、选浅田原因；浅田保留旋律与个人处理、避免听旧改编；不单独点名本曲）
+
+### 核验边界与待补
+
+- 1986年原旋律具体个人署名在本轮二手资料冲突，暂不裁定。
+- 项目采访未单独点名本曲，作上下文附证，不计最低三来源。
+- 尚缺本曲BEMANI追加制作及jubeat移植剪辑的作者原话；移动端先行确日未核。
+
+<a id="arcade-70000115-shared"></a>
+## 夢有
+
+- 统一曲库 ID：`arcade:70000115`
+- 原章节编号与标题：54. 夢有
+
+### 曲目档案
+
+- 标题：夢有
+- 艺人：Des-ROW・組
+- 原作：pop’n music 8，类型标DAY DREAM；不能与GITADORA同名类型／别曲混同。[1]
+- BPM：145–170；长度2:01；Qubell3/6/8，物量255/505/777。[1]
+
+### 创作与制作背景
+
+《夢有》由Des-ROW・組署名，社区资料把作词、作曲、编曲及演唱均记在该组合名下。这并不自动识别每一段声音的具体成员，故不补推演唱分工。它来自pop’n music 8，而不是Qubell原创；旧稿根据“夢／有”字面推导创作哲学，以及以游戏称号反推作者梦境动机，均没有作者原话支持，撤为缺口。[1]
+
+发行史至少能辨清短长版本：《pop’n music Vocal Best 4》实际商品曲表第6轨收《夢有》，艺人仍为Des-ROW・組，时长4:47；明显不同于社区记录的2:01游戏段落。社区另记《D》收录《夢有(89)》，本轮未直接读到该唱片原资料，因此不能将89版、Vocal Best长版与Qubell剪辑当成同一母带。[1][3]
+
+目前可核到的是组合署名、原作平台与长版载体，尚不能翔实回答本曲为何写成这样的叙事、录音如何分工或歌词来自何种亲历。保留明确缺口比把梦境解读包装为事实更可靠。
+
+### jubeat 收录与版本
+
+官方2016年10月栏目把《夢有》列在第4弹pop’n music移植，社区给出STAGE 1，并说明Qubell换用新封面；该活动身份与歌曲初创背景分开记录。[1][2]
+
+### 资料来源
+
+1. RemyWiki：夢有：https://remywiki.com/Muyuu（已读；Des-ROW組署名、popn8初出、DAY DREAM；Vocal Best长版及D的89版关系；145–170、2:01、255/505/777；第4弹Stage1及新封面）
+2. KONAMI BEMANI Fan Site：2016年10月乐曲栏目：https://p.eagate.573.jp/game/bemani/fansite/s/music/201610/（已读；夢有／Des-ROW・組；第4弹popn music）
+3. 紀伊國屋：pop’n music Vocal Best 4：https://www.kinokuniya.co.jp/f/dsg-10-4524334100213（已读；第6轨夢有／Des-ROW・組，4:47）
+
+### 核验边界与待补
+
+- 未找到可实际读取的作曲者逐曲原评、歌词动机或录音访谈。
+- D所收89版仅社区关系记录，未读原册；不确定与其他长版的母带关系。
+- 原稿144–170异文未找到可读出处；采用本次已读145–170并保留待复核。
+
+<a id="arcade-70000116-shared"></a>
+## Bleep Beep Bop
+
+- 统一曲库 ID：`arcade:70000116`
+- 原章节编号与标题：55. Bleep Beep Bop
+
+### 曲目档案
+
+- 标题：Bleep Beep Bop
+- 艺人：kors k
+- 原作：pop’n music Sunny Park；类型CHIPPIN’ RAVE，担当角色whip。[1][3]
+- BPM：175；长度2:00；Qubell等级4/7/10，物量409/545/921；后期记3/7/10.2。[1]
+
+### 创作与制作背景
+
+这首作品并非仅由拟声标题推测出的“机械节拍”。可读韩文转载保留kors k曲评：收到创作新CANDY RAVE作品的要求后，他感到压力，最后才形成满意的形状；他把横向卷轴动作游戏般的故事压进一首歌，并尝试以不同声音呈现。这里明确标为作者评论的二手韩译，日文原页尚未成功核验；不进一步发明关卡、角色剧情或题名词源。[3]
+
+后续创作链得到作者官网直接确认：《Candy Rave Land Vol.1》在2022-12-30 C101发布，曲表第4轨是《Bleep Beep Bop 2023》，第8轨为Akira Complex与kiraku的Sweet&Spicy Remix，第13轨为2023 Extended。官网明确这三轨源自Sunny Park。标题中的2023不是原版初出年，也不能因为后期唱片有Extended而断言Qubell使用长版。[4]
+
+该唱片将四首既有音游作品与新作组合，提供原长／延长版本及他人混音；其制作与母带信用为kors k及DJ Noriken。这些是后续唱片层面的工作，不能倒填为2013年原版母带工程师。[4]
+
+### jubeat 收录与版本
+
+官方2016年10月栏目证实第4弹pop’n music移植；社区进一步记STAGE 2，Qubell封面不同于之前移动端图像。等级调整不代表歌曲被重新制作。[1][2]
+
+### 资料来源
+
+1. RemyWiki：Bleep Beep Bop：https://remywiki.com/Bleep_Beep_Bop（已读；Sunny Park初出、175、2:00；Qubell4/7/10及409/545/921；第4弹Stage2与新封面）
+2. KONAMI BEMANI Fan Site：2016年10月乐曲栏目：https://p.eagate.573.jp/game/bemani/fansite/s/music/201610/（已读；Bleep Beep Bop／kors k；第4弹popn music）
+3. 우만위키：Bleep Beep Bop，2.2作者评论韩译：https://tcatmon.com/wiki/Bleep_Beep_Bop（已读；新Candy Rave委托压力、满意形态、横向卷轴动作游戏故事与多种声音；非日文原页核验）
+4. kors k／S2TB Recording：Candy Rave Land Vol.1：https://korsk.jp/s2tb-0027/（已读；2022-12-30 C101；第4/8/13轨2023版、他人混音及Extended；对应Sunny Park；kors k制作、DJ Noriken母带为本唱片信用）
+
+### 核验边界与待补
+
+- 原曲制作故事仅实际读到韩译，尚缺原日文评论；译文保守作为附证，不额外凑最低数。
+- 未采用搜索摘要的采样出处与非合作首次等未经独立核验说法。
+- 作者官网普通公开HTTP200读取，web超时不等于不可读；Fandom先前402后未绕过。
+
+<a id="arcade-70000117-shared"></a>
+## Knell
+
+- 统一曲库 ID：`arcade:70000117`
+- 原章节编号与标题：56. Knell
+
+### 曲目档案
+
+- 标题：Knell
+- 艺人：Project B-
+- 原作：REFLEC BEAT colette -Summer-，署名Project B-。[1][2]
+- BPM205；当前社区记jubeat4/7/9.5，物量304/523/712。[2]
+- 原稿Qubell等级4/7/9与长度1:44保留为待核旧参数，未用不可读摘要升级。
+
+### 创作与制作背景
+
+原作的活动语境不是jubeat：REFLEC社区记录它由colette Fishing中鲷鱼进度解锁。页面保留2013年6月玩家对封面与曲风的讨论，但其中关于Project B-身份、血型、与其他作者相似性的文字都是当时猜测，不能当作署名证据。[1]
+
+创作背景目前只读到韩文转载的作者曲评：短版用不祥感及漂浮身体的意象描述音乐；长版评论则说把先前制作的材料继续拼接，结果比预想长。此处只概述与制作有关的要点，不把作者玩笑扩写为真实恐怖经历。网页明确说明原评论采用片假名连写，翻译也故意模仿语音形态，因此不能据韩译反推日文每个词的准确原意。[2]
+
+发行载体可以独立核验：2013-10-23《REFLEC BEAT colette ORIGINAL SOUNDTRACK VOL.2》第一盘第20轨是Knell，第三盘第21轨另列《Float Under the Calm Knell》。这为短长版本区分提供目录证据，但商品曲表不是实体内页，不能宣称作者评论原件已读；也不把长标题首字母的玩家解读当作已证命名动机。[3]
+
+### jubeat 收录与版本
+
+官方2016年11月栏目列Knell／Project B-为掘りすぎdig RUSH第5弹REFLEC BEAT移植。[4] 韩文社区记2016-11-03加入Qubell；该精确日期仍为社区层证据，本轮未直接读到官方逐日公告。原稿STAGE 1暂保留待活动表再核，不由搜索摘要升级。[2]
+
+### 资料来源
+
+1. REFLEC BEAT @wiki：Knell：https://w.atwiki.jp/reflec_beat/pages/734.html（已读；colette Summer、205、Project B-；Fishing鲷鱼进度解锁；2013玩家评论是身份推测，不能直接当作者证词）
+2. 읽기전용위키：Knell，游戏资料及作者评论韩译：https://readonly.wiki/w/Knell（已读；jubeat4/7/9.5、304/523/712、2016-11-03；短版不祥漂浮意象；长版接入此前材料后比预期长；原文片假名连写说明）
+3. 駿河屋：REFLEC BEAT colette OST VOL.2 GFCA-349：https://www.suruga-ya.jp/product/detail/340015832（已读；2013-10-23；Disc1第20Knell，Disc3第21Float Under the Calm Knell）
+4. KONAMI BEMANI Fan Site：2016年11月乐曲栏目：https://p.eagate.573.jp/game/bemani/fansite/s/music/201611/（已读；Knell／Project B-；掘りすぎdig RUSH第5弹REFLEC BEAT）
+
+### 核验边界与待补
+
+- 曲评仅二手韩译，作者日文原册未读；不把韩译和原册目录重复计作独立制作来源。
+- 最低根为社区游戏记录、原声出版物、2016官方移植事件；两社区保守合一。
+- RemyWiki、namu.moe、BEMANICN及sonicy参数页普通请求403已停止，不计正文来源。
+- Project B-身份、Qubell初始难度及长度、Stage1待可读独立原文补核；未凭猜测或摘要坐实。
+
+<a id="arcade-70000118-shared"></a>
+## Hollywood Galaxy
+
+- 统一曲库 ID：`arcade:70000118`
+- 原章节编号与标题：57. Hollywood Galaxy
+
+### 曲目档案
+
+- 标题：Hollywood Galaxy
+- 艺人：dj TAKA
+- 原作：REFLEC BEAT；社区记Ver.1.5于2011-07-14追加，不是limelight初作。[1]
+- 类型：DRUM’N’BASS；作曲编曲dj TAKA；BPM186，长度1:54。[1][2]
+- Qubell等级5/8/10；物量347/589/701，含HOLD20/18/38；festo后EXT10.3。[1]
+
+### 创作与制作背景
+
+制作动机有官方刊载的本人原话，而不是仅凭曲名联想美国电影。dj TAKA说，Qrispy Joybox要求写一首可以继承《冥》的作品，他据此制作，并提示Hollywood这个名字背后也有与该要求相关的由来。然而评论没有把完整命名谜底逐项展开，因此不能擅自写成采样某部电影或直接重混《冥》。[2]
+
+同一评论中，他回顾KONAMI Arcade Championship的激烈比赛：认真玩家的支持使他感到荣幸，也促使他继续带着挑战高阶玩家的心态写曲。这说明本曲所处的高难挑战创作脉络，不等同于官方声称每个移植谱面都由他亲自设计。页面明示评论转载自《REFLEC BEAT limelight ORIGINAL SOUNDTRACK》，可核日文原文，但并未直接翻阅实体册。[2]
+
+版本上，社区另记《True Blue...》长版及DJ NAGAI混音，后者有独立标题。本条Qubell收录艺人仍是dj TAKA，不能把DJ NAGAI版的GALACTIC J-CORE标签或其额外编曲套到原曲上；未经本轮读取的长版具体录音过程仍留缺。[1][3]
+
+### jubeat 收录与版本
+
+官方2016年11月栏目将Hollywood Galaxy列为掘りすぎdig RUSH第5弹REFLEC BEAT，社区进一步记STAGE 2。移动端REFLEC BEAT pack 3与街机解锁是不同发行事件。[1][3]
+
+### 资料来源
+
+1. RemyWiki：Hollywood Galaxy：https://remywiki.com/Hollywood_Galaxy（已读；REFLEC初出与Ver1.5，186、1:54；长版和DJ NAGAI版本区分；Qubell第5弹Stage2；347/589/701含20/18/38HOLD；历史等级）
+2. KONAMI IIDX tricoro：Hollywood Galaxy／dj TAKA曲评：https://p.eagate.573.jp/game/2dx/20/p/newsong/hollywood_galaxy.html（已读；Qrispy委托冥后继作品及命名关联；KAC玩家支持与挑战高阶玩家态度；原文注明limelight OST转载）
+3. KONAMI BEMANI Fan Site：2016年11月乐曲栏目：https://p.eagate.573.jp/game/bemani/fansite/s/music/201611/（已读；Hollywood Galaxy／dj TAKA；第5弹REFLEC BEAT）
+
+### 核验边界与待补
+
+- 游戏参数与早期精确上线日为社区资料；官方曲评已直接读日文，不把同文英韩译另计来源。
+- 尚缺Hollywood命名谜底完整解释、录音设备与jubeat谱面制作原话；不猜电影素材。
+- 最低三文献根为游戏参数、原曲评、2016移植公告，不宣称三家独立作者访谈。
+
+<a id="arcade-70000119-shared"></a>
+## Daisuke
+
+- 统一曲库 ID：`arcade:70000119`
+- 原章节编号与标题：58. Daisuke
+
+### 曲目档案
+
+- 标题：Daisuke
+- 艺人：Y&Co.；歌声：KAHORI from 1 LOVE（社区及唱片目录署名）。
+- 原游戏：beatmania IIDX 10th style。
+- Qubell历史谱表：157、3/7/9、343/621/871。
+
+### 创作与制作背景
+
+本曲令人印象深刻的名字，来自录音中一次改动，而不是先为舞者定制名字的故事已经得到证实。2016年ねとらぼ报道田村哲也本人发言：原先准备唱“大好き”，录人声时他临时决定改成Daisuke，原因是语感适合，也不想做成普通歌曲。原始社交帖本轮返回空正文，因此这里明确是媒体引述，不能标作亲读原帖。[1]
+
+社区保存的旧官方曲评英译另记，制作方要求歌手反复尝试这一句的不同唱法；舞者DAISUKE的评论则说，GYO邀请他为已经叫这个名字的歌出演，舞蹈结合ParaPara和爵士舞。它提供了先有歌名、再邀舞者的叙述顺序，未证明所有命名细节；其中摆姿势出现隐藏曲是玩笑，不作为游戏解禁条件。[2]
+
+唱片资料将《Daisuke feat. KAHORI from 1 LOVE》列入2012-02-29《BEST HIT YCO》。这与最初IIDX版本、社区所记jubeat采用的较长原声版本应分开，不能看到同名就认定所有平台播放完全相同长度。[2–3]
+
+### jubeat 收录与版本
+
+Qubell历史表为2016-10-06起掘りすぎdig RUSH的IIDX组，社区记STAGE1。旧稿3/6/9混入clan后变更，纠正为Qubell3/7/9；plus先行但具体包日待原公告。[2,4]
+
+### 资料来源
+
+1. [ねとらぼ：田村哲也谈Daisuke改词](https://nlab.itmedia.co.jp/cont/articles/3261337/)：录音中大好き改Daisuke，语感及不愿普通的动机。
+2. [RemyWiki：Daisuke及旧曲评英译](https://remywiki.com/Daisuke)：原游戏、人声、版本差、旧曲评反复唱法与舞蹈说明、Qubell3/7/9及STAGE1。
+3. [ParaParaMania：BEST HIT YCO目录](https://www.2choume.com/para/BEST-HIT-YCO/cd/kbhy01.html)：唱片日期编号及Daisuke feat.KAHORI from1LOVE。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：IIDX组2016-10-06起；157、3/7/9、343/621/871。
+
+### 核验边界与待补
+
+三来源根达标；两社区参数保守同根。创作动机/旧曲评均 attributed_secondary；原帖为空、旧官方日文页未核。歌手具体录音及各版本母带待原件，不把田村一人署名替代组合信用。
+
+---
+
+<a id="arcade-70000120-shared"></a>
+## KAMAITACHI
+
+- 统一曲库 ID：`arcade:70000120`
+- 原章节编号与标题：59. KAMAITACHI
+
+### 曲目档案
+
+- 标题：KAMAITACHI
+- 艺人：DJ TECHNORCH fw. GUHROOVY
+- 曲编：DJ TECHNORCH；GUHROOVY为制作署名（社区记录，不直接称主唱）。
+- 原游戏：beatmania IIDX 14 GOLD；历史谱表165、5/9/10、428/820/906。
+
+### 创作与制作背景
+
+DJ TECHNORCH在2020年回看作品的本人文章中，直接把2007年的本曲解释为看不见、摸不到、无法清楚感知的模糊不安。他借三者分工的镰鼬传说说明：伤害与痕迹迅速消失，留下的是不知道问题为何、又担心再次发生的恐惧。这是作者对自己当时创作的回顾，不是研究者依据声音替他作医学判断，也不是要把妖怪传说写成自然科学事实。[1]
+
+旧官方曲评的社区英译进一步把rave stab形容为镰鼬真空刃。MAYA的影像评论则记在炎夏涩谷街头拍摄，希望让大量信息拥入观众脑中；音乐的不可见恐惧与影像的人群街景应作为两位创作者的各自说明，不笼统合成同一个写实妖怪故事。本轮原日文曲评未找到，以上保留译录层级。[2]
+
+长版归属也有作者方材料：999 Recordings说明《THE BEST OF DJ TECHNORCH 2003-2013》收录《Kamaitachi（妖怪鎌鼬 Long Version）》，且该录音通过KONAMI授权收录。它不是可以仅因作者自行发片就推定为完全独立于游戏版权的新作；这里仅核版本来源，不提供音乐文件。[3]
+
+### jubeat 收录与版本
+
+Qubell历史表列2016-10-06起IIDX组，社区记录STAGE2。采用当版5/9/10；旧稿把GUHROOVY直接称人声及喊句贡献缺证，不再沿用。[2,4]
+
+### 资料来源
+
+1. [DJ TECHNORCH本人博客：自分語り655](https://technorch.hatenablog.com/entry/20200505/1588629907)：2007作品对应无法感知的模糊不安、镰鼬叙事与作者回顾。
+2. [RemyWiki：KAMAITACHI及旧曲评英译](https://remywiki.com/KAMAITACHI)：TECHNORCH曲编/GUHROOVY制作；rave stab意象、MAYA涩谷拍摄与信息过载；STAGE2及参数。
+3. [999 Recordings：作品使用说明中的长版归属](https://www.technorch.com/policy/index.html)：THE BEST OF内妖怪鎌鼬Long Version为KONAMI授权收录。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-10-06起IIDX组、165、5/9/10、428/820/906。
+
+### 核验边界与待补
+
+三来源根达标；本人2020回忆是 primary_read，旧游戏曲评/影像说明仅 attributed_secondary。并非已核所有长版音频差异，原始录音设备和采样来源仍缺。
+
+---
+
+<a id="arcade-70000121-shared"></a>
+## BLACK or WHITE?
+
+- 统一曲库 ID：`arcade:70000121`
+- 原章节编号与标题：60. BLACK or WHITE?
+
+### 曲目档案
+
+- 标题：BLACK or WHITE?
+- 艺人：BlackYooh vs. siromaru（BlackY、Yooh、siromaru）。
+- 原用途：SOUND VOLTEX的KAC2013原创曲公募采用作品。
+- Qubell HOLD谱：185、5/9/10；历史表物量350/745/911。
+
+### 创作与制作背景
+
+三位作者在KONAMI公募结果页把合作流程讲得很具体。siromaru先独自做出只有节奏和效果音、带音游Boss感的基础，再突然邀请BlackY和Yooh合作；标题寄托让比赛分出黑白胜负的意思。这不是从三人艺名猜出来的设定，而是作者直接说明。[1]
+
+BlackY回忆，收到节奏部分后，最初苦于该放上怎样的展开，最后为了战斗氛围选择交响感方向，自己负责钢琴等部分。Yooh则强调siromaru节奏与两人的Boss级旋律叠加，以及上一届KAC公募对自己发展的重要性。三位的评论是一份共同出处，不能拆成三个信息源。[1]
+
+此后《KERBEROX》专辑收录本曲长版；发行介绍把专辑分成偏重低音的BLACK SIDE与偏神圣、优美的WHITE SIDE。这是后来专辑的组织方式，不可倒推为原公募曲每一段都已按双面专辑设计。[2] 2021年官方X-record活动又将本曲移入IIDX LIGHTNING MODEL，说明其跨机种经历继续延伸，但不改变最初SDVX公募身份。[4]
+
+### jubeat 收录与版本
+
+Qubell历史表将它列FLOOR INFECTION第22弹，5/9/10；单曲页明确只有HOLD谱，物量350/745/911。旧稿348没有本轮可读依据，保留为未核旧数不采用；当前页4/9.1/10.5是后续级别，不覆盖当版。[3,5]
+
+### 资料来源
+
+1. [KONAMI FLOOR：KAC2013采用曲本人评论](https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/11/index_2.html)：siromaru节奏效果音先行邀二人、分胜负题意、交响战斗方向、BlackY钢琴与Yooh旋律。
+2. [TANO*C STORE：KERBEROX正式流通目录](https://www.tanocstore.net/shopdetail/000000000565/)：HKCD0010及长版第12轨、BLACK/WHITE两面定位。
+3. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：FLOOR INFECTION22、185、HOLD旧5/9/10、350/745/911。
+4. [KONAMI：X-record活动页](https://p.eagate.573.jp/game/bemani/x_record/index.html)：2021年跨机种活动、IIDX LIGHTNING MODEL解锁本曲。
+5. [jubeat@Wiki：BLACK or WHITE?单曲页](https://w.atwiki.jp/jubeat/pages/1722.html)：仅HOLD、350/745/911及当前等级与历史分层。
+
+### 核验边界与待补
+
+四来源根达标；原始官方曲评直接可读。原档348物量/7100点详细流程未补原公告，不当作已核事实；不将三作者发言分拆计源。
+
+---
+
+**历史说明：jubeat Qubell 资料条目批次（资料行 61-72）**
+
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 61-72 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+
+<a id="arcade-70000122-shared"></a>
+## 琥珀のくちづけ
+
+- 统一曲库 ID：`arcade:70000122`
+- 原章节编号与标题：61. 琥珀のくちづけ
+
+### 曲目档案
+
+- 标题：琥珀のくちづけ
+- 艺人：日向美ビタースイーツ♪＆日向美ブルームーン。
+- 社区署名：TOMOSUKE曲编、くりむ作词；和泉一舞（津田美波）演唱。
+- Qubell：2016-11-03追加；173、1/5/8、154/411/577。
+
+### 创作与制作背景
+
+这首歌有一个必须注明为虚构的两代人传承故事。官方2015-12-24《倉野川観光課だより》将它设定为日向美ブルームーン约三十年前的作品：父母辈乐队曾把爵士与流行结合，在商店街形成热潮；到子女辈的圣诞演出，主唱由春日美沙交棒给和泉一舞，两代角色共同演奏。这是企划世界观，不是现实中发现了一首1980年代发行的旧歌。[1]
+
+同篇官方故事解释，原本带危险恋爱意味的歌曲被一舞听成了饮料Diabolo Ginger，稍改歌词后成为所公开的二世代edition。这个具体的改词缘由属于角色叙事；现实词曲署名仍是くりむ与TOMOSUKE，不能改写为角色亲手完成现实录音。[1–2]
+
+录音版本还需区别：社区记单人主唱版收于《倉野川音頭 桜まつり♪記念CD》；2017年《Home Sweet Home》目录的第15轨明确标注まり花＆一舞 duet edition，是另一种演唱配置。后者不能反向套给本条jubeat原版。[2–3]
+
+### jubeat 收录与版本
+
+总表Qubell归属保留，历史表与同期官网公告转录一致指向2016-11-03追加；不是旧稿所写3月30日稼动即开放。1/5/8为当版，原稿其他物量不沿用。[4–5]
+
+### 资料来源
+
+1. [KONAMI：倉野川観光課だより圣诞篇](https://p.eagate.573.jp/game/bemani/hinabita/p/kuranogawa/index.html?month=201512)：二世代演出、父母辈乐队与爵士流行设定、角色把危险恋爱歌改作Diabolo Ginger的故事。
+2. [RemyWiki：琥珀のくちづけ](https://remywiki.com/Kohaku_no_kuchizuke)：现实词曲与一舞独唱署名、原CD与duet版区别、11月3日游戏追加。
+3. [Felista玉光堂：Home Sweet Home发行目录](https://item.rakuten.co.jp/felista/azngfca-429/)：GFCA429专辑第15轨明列まり花＆一舞duet edition。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：11月3日追加、173、1/5/8、154/411/577。
+5. [BEAT SQUARE：2016年11月官网更新记录](https://www2u.biglobe.ne.jp/~hiro-p/headline_log/headline_log_2016_11.html)：转录11月3日Qubell官网公告，本曲与ロマンセ同时追加。
+
+### 核验边界与待补
+
+四来源根达标；官方虚构故事已读，但TOMOSUKE/くりむ本人现实作曲、录音动机访谈仍缺。不得把角色演奏人员当现实录音乐手，也不把官方设定算作者直接证词。
+
+---
+
+<a id="arcade-70000123-shared"></a>
+## そこはかとなくロマンセ
+
+- 统一曲库 ID：`arcade:70000123`
+- 原章节编号与标题：62. そこはかとなくロマンセ
+
+### 曲目档案
+
+- 标题：そこはかとなくロマンセ
+- 艺人：日向美ビタースイーツ♪；演唱角色：和泉一舞、春日咲子、東雲夏陽。
+- 社区信用：藤田淳平曲编、有里泉美词；吉他山本陽介、贝斯藤永龍太郎。
+- Qubell：2016-11-03；140、2/6/8、172/339/503。
+
+### 创作与制作背景
+
+本曲把一舞、咲子与来自ここなつ的夏陽放在同一首歌中；组合显示名没有列出ここなつ，并不等于夏陽没有参与。现实演唱署名为津田美波、山口愛、日南結里，词曲信用则指向有里泉美与藤田淳平。[2]
+
+官方2016-11-18文章以虚构镇务人员久領堤的口吻介绍这首新歌，将角色层面的创作分配给一舞作曲、咲子作词，并特别形容まり花的钢琴比平时性格更尖锐、有迫近感。这里呈现的是企划如何让角色音乐性产生反差，而非现实作曲家承认由声优现场即兴创作；官方虚构身份与现实制作人员必须并列区分。[1–2]
+
+《Home Sweet Home》在2017-03-15发行，目录同时收第12轨通常版与第19轨“練習@シャノワールver”。社区进一步将练习版本联系到企划广播第18章；本轮未实听广播，故只确认唱片确有两个明确命名的版本，不把练习场景当作真实录音室纪录。[2–3]
+
+### jubeat 收录与版本
+
+Qubell历史表为11月3日、2/6/8；同期官网公告转录亦明确同时追加本曲与琥珀のくちづけ。旧稿稼动日即收录及不同等级应纠正。[4–5]
+
+### 资料来源
+
+1. [KONAMI：まといのお便りチェック41](https://p.eagate.573.jp/game/bemani/hinabita/p/kuranogawa/index.html?month=201611)：完整配信、角色一舞作曲咲子作词与まり花尖锐钢琴的虚构叙事。
+2. [RemyWiki：そこはかとなくロマンセ](https://remywiki.com/Sokohaka_to_naku_romance)：词曲乐手与三声优、2016-11-03游戏及练习版本。
+3. [Felista玉光堂：Home Sweet Home发行目录](https://item.rakuten.co.jp/felista/azngfca-429/)：本曲通常版第12轨、練習@シャノワールver第19轨。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：11月3日追加、140、2/6/8、172/339/503。
+5. [BEAT SQUARE：2016年11月官网更新记录](https://www2u.biglobe.ne.jp/~hiro-p/headline_log/headline_log_2016_11.html)：11月3日官方公告转录两首同时加入Qubell。
+
+### 核验边界与待补
+
+四来源根达标；官方叙事已核，现实藤田淳平/有里泉美针对本曲制作采访仍缺。练习版不等于现实录音花絮，未核游戏母带及录音设备。
+
+---
+
+<a id="arcade-70000125-shared"></a>
+## エイリアンエイリアン
+
+- 统一曲库 ID：`arcade:70000125`
+- 原章节编号与标题：63. エイリアンエイリアン
+
+### 曲目档案
+
+- 标题：エイリアンエイリアン
+- 艺人、词曲：ナユタン星人；合成人声：初音ミク。
+- 公开史：资料记2016-04-05第六次投稿；专辑《ナユタン星からの物体Y》收录。
+- Qubell：2016-12-20；152、3/7/9、216/538/778。
+
+### 创作与制作背景
+
+本曲首先是网络公开的初音ミク作品，而非jubeat委约新曲。UtaTen资料记它于2016-04-05作为ナユタン星人的第六作投稿；作者经TuneCore发行的《ナユタン星からの物体Y》将它放在首轨，并直接署名词曲均由本人完成。唱片页面所列2016-12-31是该发行记录，不应代替网络初投稿日期。[1–2]
+
+可以直接读到的作者证词涉及它与真人翻唱者的关系。2019年ナユタン星人与島爺对谈中，作者说从活动初期便希望被島爺发现，写作中也有向其歌唱适性靠拢的部分；当他在2017年6月赤坂BLITZ首次听到島爺现场唱《エイリアンエイリアン》，有期待终于实现的感受。島爺则说明听众的请求促使自己在第二张专辑邀请合作。这解释了作品如何从合成人声进入真人演唱生态，却不等于本曲一开始就是島爺正式委约。[3]
+
+音乐层面，UtaTen作者荒木若干将其概括为四拍舞曲摇滚，指出轻巧吉他、留休止的贝斯以及副歌前人声音高下滑。这是评论者对成品的分析，不是ナユタン星人的工程记录或原始创作动机；文章关于《The Twilight Zone》的联想也不能在没有作者确认时升级成已核采样授权事实。[1]
+
+### jubeat 收录与版本
+
+总表Qubell位置正确；当版为3/7/9，而不是后来调整值。原谱与2025年才加入的[2]谱应分开，其他机种改编/翻唱也不套用本条。[4–5]
+
+### 资料来源
+
+1. [UtaTen荒木若干：エイリアンエイリアン音乐分析](https://utaten.com/specialArticle/index/3485)：2016-04-05第六作投稿；四拍摇滚、吉他贝斯及人声分析属于评论者。
+2. [TuneCore：ナユタン星からの物体Y](https://linkco.re/uYnHR3DX?lang=ja)：本曲首轨、本人词曲及专辑发行记录。
+3. [Real Sound原对谈经ぴあ刊载：島爺×ナユタン星人](https://lp.p.pia.jp/article/news/34317/index.html)：早期期待被島爺演唱、歌唱适性、2017年6月首次亲听现场本曲、专辑翻唱合作。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20追加、152、3/7/9、216/538/778。
+5. [RemyWiki：Alien alien版本与谱面](https://remywiki.com/Alien_alien)：初音ミク原版与其他机种改编区分；2025年[2]谱追加。
+
+### 核验边界与待补
+
+四来源根达标；真人翻唱关系有 primary_read 本人证词，原曲题意及原始作曲过程仍缺直接可读访谈。Remy所列百鬼夜行(2015)与本曲发行链不符，不采用。原MV检索可见但直接页失败，不标亲读。
+
+---
+
+<a id="arcade-70000126-shared"></a>
+## Dreamland。feat. RED RICE（from 湘南乃風）, CICO（from BENNIE K）
+
+- 统一曲库 ID：`arcade:70000126`
+- 原章节编号与标题：64. Dreamland。feat. RED RICE（from 湘南乃風）, CICO（from BENNIE K）
+
+### 曲目档案
+
+- 标题：Dreamland。feat. RED RICE（from 湘南乃風）, CICO（from BENNIE K）
+- 艺人：ハジ→；特别合作：RED RICE、CICO。
+- 版本：2016-08-17发行的正式重制，并非BENNIE K原版。
+- Qubell历史表：2016-12-20、141、3/6/8、222/456/617。
+
+### 创作与制作背景
+
+这是ハジ→主动提议重制BENNIE K的2005年作品后实现的合作。厂牌公告明确：CICO不是仅沿用旧录音，而是重新录制新的rap；RED RICE则受熟识的ハジ→邀请加入夏季歌曲企划。[1]
+
+ハジ→本人解释，原曲流行时正值他在仙台做零工、开始音乐活动的阶段；当年靠这首歌寄托成为音乐人的愿望，十一年后以专业歌手身份重制，因而觉得自己的经历形成了呼应。CICO也说，人生经验改变了自己对梦想世界的理解，所以新版不仅重复旧日情绪。[1]
+
+回到被重制的2005年原曲，BENNIE K的YUKI在组合结束活动前的Billboard JAPAN访谈中，将《Dreamland》描述为像主题公园一样，把许多享受快乐的瞬间汇聚在一起的歌曲。这是原作者对原曲表达方式的回顾，可帮助理解2016年重制承接的“梦之世界”；同一访谈随后谈到的游乐园声响重叠、Mine-Chang制作及CICO录音经历，针对的是后来的《FINALE》，不能移植到本曲。[4]
+
+影像方面有服装供应方的独立工作记录：京都きもの町为MV提供男装，ハジ→穿的是藏青十字絣甚平，RED RICE穿藏青市松浴衣。该材料说明具体视觉制作分工，不应被扩大为服装方参与作词或录音。[2]
+
+### jubeat 收录与版本
+
+本地Qubell归属与社区当版曲表吻合；2016-12-20加入。原曲、2016重制与游戏剪辑分别记录，尚未核实游戏实际使用的全部母带编辑步骤。[3]
+
+### 资料来源
+
+1. [UNIVERSAL MUSIC：Dreamland重制与三位歌手说明](https://www.universal-music.co.jp/hazzie/news/2016-06-21/)：8月17日新版、BENNIE K原曲关系、CICO新录rap、ハジ→亲述仙台经历及CICO新版理解。
+2. [京都きもの町：Dreamland MV衣装合作](https://blog.kimonomachi.co.jp/information/media_coverage/1667/)：供应方直接记ハジ→甚平与RED RICE浴衣具体款式。
+3. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、141、3/6/8、222/456/617。
+
+4. [Billboard JAPAN：BENNIE K 活动结束前最后访谈](https://www.billboard-japan.com/special/detail/3392)：YUKI回顾2005原曲；不将FINALE录音细节错配，作为原曲补充不计2016目标最低三源。
+
+### 核验边界与待补
+
+三独立来源根达标；重制动机有 primary_read。完整词曲编曲信用与母带剪辑仍需唱片内页，不以重制参与者名单替代完整署名。
+
+---
+
+<a id="arcade-70000127-shared"></a>
+## マホロバケーション
+
+- 统一曲库 ID：`arcade:70000127`
+- 原章节编号与标题：65. マホロバケーション
+
+### 曲目档案
+
+- 标题：マホロバケーション
+- 艺人：ももいろクローバーZ
+- 作词：六ツ見純代；作曲、编曲、编程：invisible manners。
+- 原发行：2016-02-17《白金の夜明け》第4轨。
+- Qubell历史谱表：2016-12-20、145、4/7/9、251/564/775。
+
+### 创作与制作背景
+
+本曲属于第四张专辑《白金の夜明け》，而非同时发行的第三张《AMARANTHUS》。公开制作名单呈现了编程与现场演奏结合的团队：invisible manners负责词以外的曲编及编程，伏見蛍吉他、ハマ・オカモト贝斯、ピエール中野鼓，铜管则由小澤篤士、竹上良成与鹿討奏分担。旧稿若把作曲归给やしきん，不能继续沿用。[1]
+
+真正参与录音的ピエール中野在CINRA访谈中点名本曲，说明团队启用当时的新锐invisible manners，而且整个录音过程气氛平和。这是可直接核查的现场回忆；它没有说谁先录、是否全员同时录，也不能从豪华乐手名单反推歌曲必然是在现场即兴形成。[2]
+
+2016-01-18公开的预告以伴奏音源和成员评论介绍本曲，同时公布其MV计划。可见乐器编制本身就是发行前让听众认识歌曲的重点，而不是游戏移植时才新增的编曲包装。MV制作被公告，不等于本轮已经观看了随碟制作纪录。[1]
+
+### jubeat 收录与版本
+
+Qubell总表对应2016-12-20加入；当版4/7/9，后续难度调整不回填原版。[3]
+
+### 资料来源
+
+1. [BARKS：マホロバケーション乐手及专辑完整信用](https://barks.jp/news/759642/)：第四专辑2016-02-17、词曲编程与全乐手、伴奏预告和MV计划。
+2. [CINRA：ピエール中野亲述偶像录音经历](https://www.cinra.net/index.php/article/interview-201611-pierrenakano)：本人点名本曲invisible manners合作且录音气氛平和。
+3. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、145、4/7/9、251/564/775。
+
+### 核验边界与待补
+
+三来源根达标；primary_read为鼓手录音回忆，词曲作者关于题意、和声及最早demo的直接证词仍缺。专辑整体概念采访不充逐曲创作来源。
+
+---
+
+<a id="arcade-70000128-shared"></a>
+## 今夜はパジャマパーティ
+
+- 统一曲库 ID：`arcade:70000128`
+- 原章节编号与标题：66. 今夜はパジャマパーティ
+
+### 曲目档案
+
+- 标题：今夜はパジャマパーティ
+- 艺人：日向美ビタースイーツ♪；まり花、一舞、咲子三角色演唱。
+- 作词、作曲：ササキトモコ本人确认；社区亦列编曲同人。
+- Qubell历史表：2017-01-12、148、3/7/8、205/405/548。
+
+### 创作与制作背景
+
+ササキトモコ本人博客明确记下委约：TOMOSUKE请她写人与人相遇的奇迹，另以1980年代和惆怅为方向。当时她尚不知道故事将发展得那么严肃，所以不能把成曲解释为她先读完所有剧情再逐场配乐。[1]
+
+她把时代感落实到大量片假名语汇、突出年代印象的英语词、突然出现的桥段以及带忧伤的和声，并用合成器取向构想编曲。歌词情境是日常聚会中忽然意识到朋友相遇难得，三个人轮流表达不同却相通的心情，而非只有热闹的睡衣派对。[1]
+
+作者还亲临津田美波的录音：TOMOSUKE特别要求感伤的唱法，津田反复寻找贴近一舞心情的表达。作者提醒，一舞情绪最集中的副歌在长版最后，故游戏短版不能代表故事情感的全部展开。以上是现实制作证词，须与企划中角色自己作歌的叙事区分。[1]
+
+发行顺序亦可核：游戏先在1月加入，官方2月8日宣布音乐配信；《Home Sweet Home》目录之后同时列通常版和“練習@サウダージver”。练习版是明确命名的另一版本，不把它直接称作声优录音室未剪花絮。[2–4]
+
+### jubeat 收录与版本
+
+Qubell曲表记录2017-01-12。社区还记录初期标题末尾多出长音符、1月31日修正；保留现标题，不因旧显示错误另造一首歌曲。[4–5]
+
+### 资料来源
+
+1. [ササキトモコ本人：ひなビタ♪今夜はパジャマパーティ](https://sasakitomoko.jp/2017/02/ひなビタ♪今夜はパジャマパーティ/)：TOMOSUKE委约相遇奇迹与80年代惆怅、词曲设计、旁听津田录音及长版末副歌。
+2. [KONAMI：今夜はパジャマパーティ音乐配信](https://p.eagate.573.jp/game/bemani/fansite/s/news/detail.html?post_id=11037205)：2月8日数字发行公告。
+3. [Felista玉光堂：Home Sweet Home发行目录](https://item.rakuten.co.jp/felista/azngfca-429/)：通常版第13轨、練習@サウダージver第20轨。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2017-01-12、148、3/7/8、205/405/548。
+5. [RemyWiki：今夜はパジャマパーティ](https://remywiki.com/Konya_wa_pajama_party)：编曲信用、三角色及声优、标题更正和练习版本。
+
+### 核验边界与待补
+
+四来源根达标，创作与录音为 primary_read。作者博客所写CD3月17日与流通目录3月15日有差异，CD日期采用目录并保留异文，不把博客当发行日期唯一凭证。游戏母带剪辑尚未亲测。
+
+---
+
+<a id="arcade-70000129-shared"></a>
+## インフェルノ
+
+- 统一曲库 ID：`arcade:70000129`
+- 原章节编号与标题：67. インフェルノ
+
+### 曲目档案
+
+- 标题：インフェルノ
+- 艺人：9mm Parabellum Bullet
+- 作词：菅原卓郎；作曲：滝善充。
+- 用途：2016年TV动画《ベルセルク》片头曲。
+- Qubell：2016-12-20、195、3/7/9、202/398/580。
+
+### 创作与制作背景
+
+本曲的短并不是游戏只截了歌曲开头：乐队就是以约90秒完成整首为目标。菅原卓郎在2016年采访中说明，动画方先提出委约，成员各带来适合片头长度的候选，而滝的demo已经有完整形态。他希望用密集的音乐动作传达战斗感；菅原则围绕ガッツ战斗中的处境和情绪写词，同时避免作品只能脱离乐队自身风格存在。[1]
+
+滝在2017年制作访谈把这个挑战更具体地说成89秒内完成全曲；他以前为《RD 潜脳調査室》尝试过却未实现，这次获得成员和动画方肯定，使自己摆脱创作低潮。他还明确，本曲先把全部鼓部写完，再加入其他乐器，不能因为他是吉他手就默认从吉他riff开始。随后大量新demo与《BABEL》的制作，是这次重新获得创作动力之后的事，不把后专辑的所有录音方法倒灌本曲。[2]
+
+MV的发光眼睛也有菅原亲述：希望保留乐队演奏的可见性，同时借人忽然变成异物的视觉与《ベルセルク》的世界呼应。这是影像设计意图，并非声称成员扮演特定角色。[1]
+
+### jubeat 收录与版本
+
+本地Qubell归属正确，历史谱表记录2016-12-20；89秒与采访概称90秒保留为来源表述，不虚构另一个完整版。[3]
+
+### 资料来源
+
+1. [アニメイトタイムズ：菅原卓郎、かみじょうちひろ谈インフェルノ](https://www.animatetimes.com/news/details.php?id=1469093686)：动画委约、约90秒成曲、ガッツ视角与乐队风格平衡、MV眼睛设计。
+2. [Sound & Recording：滝善充BABEL制作访谈](https://www.rittor-music.co.jp/pickup/detail/13682/)：89秒全曲挑战、摆脱低潮、先完成鼓部再加其他乐器。
+3. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、195、3/7/9、202/398/580。
+
+### 核验边界与待补
+
+三来源根达标；两篇不同成员/不同采访提供 primary_read 制作证词。游戏母带及具体尾音裁切未实测，不能将89秒/90秒口述差异擅判为两个录音版本。
+
+---
+
+<a id="arcade-70000130-shared"></a>
+## Ψです I LIKE YOU
+
+- 统一曲库 ID：`arcade:70000130`
+- 原章节编号与标题：68. Ψです I LIKE YOU
+
+### 曲目档案
+
+- 标题：Ψです I LIKE YOU
+- 艺人：でんぱ組.inc
+- 作词：只野菜摘；作曲：Tom-H@ck。
+- 发行资料：2016-08-08数字发行；后收入《最Ψ最好調！》。
+- Qubell：2016-12-20、220、3/6/9、251/369/663。
+
+### 创作与制作背景
+
+本曲首先属于《斉木楠雄のΨ難》的动画音乐合作。电视东京原节目页把它列为片尾主题曲，艺人并非饰演主角的声优，而是でんぱ組.inc；页面另外把剧中配乐署给斉木ックラバー，二者不应混成同一个作曲信用。[1–2]
+
+可读词作本身把超能力语境转成面向普通人的潜能和相互理解，并用多处“さい”的同音和日英混合字词制造轻快推进。这里是依据成品词文本的简短分析，不是只野菜摘或Tom-H@ck亲口解释委约意图；不能据此编造作者因某个具体角色或成员经历写成全曲。[2]
+
+发行顺序需与另一首题名相近的歌区分：UtaTen记本曲2016-08-08发行；厂牌11月2日《最Ψ最好調！》载体目录再次收本曲为第二轨。目录明确标题曲是第二季度片头、本曲是第一季度片尾，所以后续载体日期并不是本曲第一次公开的日期，两个相近的Ψ题名也不是同曲重命名。[2–3]
+
+演唱者也留下了与本曲直接对应的准备心态：藤咲彩音在宣布这首动画片尾曲时说，自己想着特殊能力与齐木这个角色演唱，并提到歌里反复出现的“さい”让人想跟着哼唱。她同时明确列出只野菜摘作词、Tom-H@ck作曲及编曲。这里是演唱成员的主题投入和署名确认，不是词曲作者交代旋律如何写出，也未披露具体录音日期、场所或分唱。[5]
+
+### jubeat 收录与版本
+
+本地Qubell归属正确，社区当版曲表记2016-12-20及3/6/9；不借太鼓等机种的谱面说明形容jubeat谱面。[4]
+
+### 资料来源
+
+1. [电视东京：斉木楠雄のΨ難音乐与工作人员](https://www.tv-tokyo.co.jp/anime/saikikusuo2016/staff/)：本曲片尾用途、表演者及与配乐署名区别。
+2. [UtaTen：Ψです I LIKE YOU词作及发行信用](https://utaten.com/lyric/sa16080509/)：只野菜摘词、Tom-H@ck曲、数字发行日期；成品用词供有限分析。
+3. [TOYS FACTORY：最Ψ最好調限定磁带目录](https://www.toysfactory.co.jp/artist/dempagumi/disco/1591)：11月2日后续载体、第二轨与第一季度片尾区别。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、220、3/6/9、251/369/663。
+
+5. [藤咲彩音本人博客：6月は一瞬](https://ameblo.jp/ayane-pinky/entry-12173783472.html)（已读；正文TVアニメ斉木楠雄段；同URL GET200）
+
+### 核验边界与待补
+
+三来源根达标，发行词作信用保守合根；原曲题意仅成品分析，已有演唱成员关于演唱时所想主题的本人证词，词曲作者逐曲写作过程仍缺。Tom-H@ck编曲信用得到同期演唱成员博客直接支持，详细录音分工仍待原始内页。
+
+---
+
+<a id="arcade-70000131-shared"></a>
+## ハイパーリアリスト
+
+- 统一曲库 ID：`arcade:70000131`
+- 原章节编号与标题：69. ハイパーリアリスト
+
+### 曲目档案
+
+- 标题：ハイパーリアリスト
+- 艺人：パスピエ
+- 创作分工：大胡田なつき谈歌词、成田ハネダ谈作曲与编配。
+- 发行：2016-07-27双A面《永すぎた春／ハイパーリアリスト》。
+- Qubell：2016-12-20、160、2/5/8、186/283/573。
+
+### 创作与制作背景
+
+大胡田なつき直接把题名联系到绘画中的超写实手法：乐队向外界送出的歌和声音虽逼近真实，终究是重新创造的表达。相较同单曲另一首的复杂情绪，她希望本曲靠近眼前的现实。此处的写实不是声称歌曲记录一件确定发生过的私人事件。[1]
+
+成田ハネダ说，结构仍是容易理解的流行歌，却在细部放入不那么直白的处理；当收到大胡田相当直率的歌词之后，他判断乐队声音也应更结实。这给出从词的表达反过来调整编配的具体因果，不能仅用“快歌适合现场”代替制作背景。[1]
+
+同期MV介绍补充另一层视觉构想：画面借屏幕并置乐队的过去与未来，完整版本在短版基础上增加细节。单曲的特典美术海报也由大胡田绘制，显示她同时承担视觉表达；不过本轮没有观看MV原片，视觉说法保持同期报道层级，不自行描述镜头。[2]
+
+### jubeat 收录与版本
+
+本地Qubell归属正确；当版曲表为2016-12-20追加2/5/8，不误用其他版本等级。[3]
+
+### 资料来源
+
+1. [Real Sound：大胡田なつき、成田ハネダ谈新单曲第二页](https://realsound.jp/2016/08/post-8638_2.html/amp)：题名与超写实、自觉表达现实、歌词促使声音骨太化。
+2. [SPICE：ハイパーリアリスト完整MV与美术特典](https://spice.eplus.jp/articles/69310)：7月27日双A面、屏幕对照过去未来的MV概念、大胡田绘制特典海报。
+3. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-12-20、160、2/5/8、186/283/573。
+
+### 核验边界与待补
+
+三来源根达标；primary_read词曲者访谈。旧官网制作对谈链接cache miss，未把检索提示当另一份已读访谈；原MV及游戏剪辑未亲测。
+
+---
+
+<a id="arcade-70000132-shared"></a>
+## NANIMONO（feat.米津玄師）
+
+- 统一曲库 ID：`arcade:70000132`
+- 原章节编号与标题：70. NANIMONO（feat.米津玄師）
+
+### 曲目档案
+
+- 标题：NANIMONO（feat.米津玄師）
+- 艺人、音乐制作：中田ヤスタカ；作词、演唱：米津玄師。
+- 用途：电影《何者》主题曲，并非jubeat新写曲。
+- Qubell历史表：2017-03-01、128、2/4/7、137/253/503；需PASS。
+
+### 创作与制作背景
+
+这次合作由电影制作人川村元気牵线。中田原本考虑过自己写词或共同写词，最终决定交给米津，认为后者更能表达SNS中的真实感；交来的歌词在节奏与声音选择上都令他满意，没有改动措辞。这并不是米津作曲后请中田单纯混音，而是明确分工的首次合作。[1]
+
+米津解释自己共感主人公拓人保持距离、斜着看世界的态度。动笔时最先想到楼梯平台：从学生走向成人的途中忽然停住，有人继续上行，有人面对自由而不知所措，由此展开尚未成为某种人的状态。它来自观看作品后的思考，不宜改写成他本人求职遭拒的经历。[1]
+
+2018年中田另一次制作访谈补充，副歌中对米津人声的切片是在实际工作中形成，并非先确定demo再只把音质提高。他强调要为过程中出现的新想法留空间。这与2016年两人所说完成版本到最后才亮相相呼应，但不能据此猜测使用的具体插件或断言所有人声都经过同样切法。[1–2]
+
+### jubeat 收录与版本
+
+Qubell当版目录记2017-03-01及PASS条件；不把电影2016年的公开时间当游戏收录日。[3]
+
+### 资料来源
+
+1. [Real Sound：中田ヤスタカ×米津玄師NANIMONO对谈（含第二页）](https://realsound.jp/2016/10/post-9508.html)：川村牵线、词曲分工、未改歌词；第二页楼梯平台意象与制作交付。
+2. [Sound & Recording：中田ヤスタカDigital Native制作访谈](https://www.rittor-music.co.jp/pickup/detail/14251/)：本曲人声切片副歌在制作中产生，不预设全部demo流程。
+3. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2017-03-01、128、2/4/7、137/253/503及PASS条件。
+
+### 核验边界与待补
+
+三来源根达标；primary_read两位作者与后续制作访谈。对谈分页同根，不重复计数；游戏剪辑和原录音工程文件未核。
+
+---
+
+<a id="arcade-70000133-shared"></a>
+## ロプノールの商隊
+
+- 统一曲库 ID：`arcade:70000133`
+- 原章节编号与标题：71. ロプノールの商隊
+
+### 曲目档案
+
+- 标题：ロプノールの商隊
+- 艺人、曲编：Akhuta；影像：アキ。
+- 历史初出：BeatStream アニムトライヴ；本地总表归Qubell。
+- Qubell历史谱表：186、4/7/9、280/514/733。
+
+### 创作与制作背景
+
+官方原曲评并没有把它介绍为现实考察罗布泊后写成的地理纪行。Akhuta描绘的是充满异国情绪的幻境：舞者、猛兽和喷火表演共同组成被观众注视的奇异景观，并推荐结合影像理解它。因此题名虽含真实地名，不能擅加实地采风、商队历史或民族乐器来源的故事。[1]
+
+影像作者アキ给出了更具体的现实灵感：与朋友看马戏时，狮子穿火圈、大象两足站立的场面使自己沉浸其中，余韵一直持续到散场后的鸭川边。制作本曲动画时，他重新调动这种体验，希望观众也感到像进入另一世界。这是影像作者的亲历，不是Akhuta对作曲过程的相同证词。[1]
+
+作品后来从BeatStream进入jubeat。官方2017年2月的乐曲月报直接点名本曲移植；另有官方移动音乐播放器目录把它列入《BeatStream アニムトライヴ ORIGINAL SOUND TRACK》。这表示原作关联与后续听歌载体，不意味着IIDX获得了可游玩谱面。[2,4]
+
+### jubeat 收录与版本
+
+社区记录2017-02-23移植Qubell；当版BASIC为4，clan降为3，当前单曲页3/7/9.6不能倒写为Qubell。旧BeatStream解禁记录和之后jubeat传导机制与新写原创概念分开。[3,5]
+
+### 资料来源
+
+1. [KONAMI BeatStream：ロプノールの商隊原始曲评与影像说明](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/lopnur.html)：Akhuta异国幻境意象、アキ看马戏及鸭川余韵的影像灵感。
+2. [BEMANI Fan Site：2017年2月乐曲月报](https://p.eagate.573.jp/game/bemani/fansite/p/music/201702)：点名ロプノールの商隊从BeatStream进入jubeat。
+3. [RemyWiki：ロプノールの商隊版本记录](https://remywiki.com/Lop_Nur_no_shoutai)：BeatStream原作、2017-02-23移植、Qubell4/7/9及clan降BSC为3。
+4. [KONAMI：BeatStream原声移动播放器目录](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)：原声曲目列表含本曲与Akhuta署名；不是IIDX谱面目录。
+5. [jubeat@Wiki：ロプノールの商隊参数与解禁](https://w.atwiki.jp/jubeat/pages/1758.html)：当前参数、原BeatStream解禁与传导机制。
+
+### 核验边界与待补
+
+四独立文献根达标；primary_read原曲评和影像创作回忆。现实地理与音乐写作的具体联系、配器工程资料仍缺；不把旧翻译及原评拆成多个来源。
+
+---
+
+<a id="arcade-70000134-shared"></a>
+## 蟲の棲む処
+
+- 统一曲库 ID：`arcade:70000134`
+- 原章节编号与标题：72. 蟲の棲む処
+
+### 曲目档案
+
+- 标题：蟲の棲む処
+- 艺人：かめりあ feat. Nana Takahashi
+- 曲作：かめりあ；歌声：Nana Takahashi；影像：なす。
+- 初出：BeatStream アニムトライヴ；本地Qubell。
+- Qubell历史谱表：161、4/8/10、255/500/684。
+
+### 创作与制作背景
+
+官方原曲评中，かめりあ明确给出了音乐配方：以Dubstep为基础加入前卫音乐、哥特和邪气眼式想象，同时突出Nana Takahashi的歌声。为找创作参考，他检索虫类照片，却被密集扭动的图像吓到；这是一条可直接追溯到作者本人的创作趣闻，而不是听众根据标题编出的录音事故。[1]
+
+歌手Nana说获邀唱他的作品时十分兴奋，尤其喜欢歌曲阴森又帅气的气质。影像作者なす则设置少女接连消失的城镇谜团，邀请玩家从影像寻找答案。三人的文字分别解释音乐、人声感受与虚构影像故事；不把少女失踪说成真实案件，也不凭文案自行剧透未观看影片的结局。[1]
+
+2020年《Xroniàl Xéro》发行另带副标题“蠕きは猶潭まる”的版本。Nana本人网站确认参与该专辑第12轨，流通目录也标明其BeatStream关联。它属于游戏原作之后的唱片展开，不应把2020年长版日期误当2017年jubeat收录日，也不在没有录音说明时宣称歌声必然全部重录。[3–4]
+
+### jubeat 收录与版本
+
+社区记录2017-03-09进入Qubell；历史4/8/10，后续10.2另记。原BeatStream游玩资料条件与之后传导机制不等于要求事先把本曲全部难度解锁。[2,5]
+
+### 资料来源
+
+1. [KONAMI BeatStream：蟲の棲む処三位创作者原曲评](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/mushi.html)：かめりあDubstep混合风格与虫照片参考、Nana演唱感想、なす虚构失踪城镇影像。
+2. [RemyWiki：蟲の棲む処历史版本](https://remywiki.com/Mushi_no_sumu_tokoro)：2017-03-09移植、Qubell4/8/10、长版关系与游戏参数。
+3. [Nana Takahashi本人：Xroniàl Xéro演唱参与](https://takahashi-nana.amebaownd.com/posts/7903657/)：2020-03-18专辑第12轨带副标题版本本人演唱。
+4. [DIVERSE DIRECT：Xroniàl Xéro唱片目录](https://www.diverse.direct/edp/pcca-04883/)：PCCA04883日期及第12轨、BeatStream关联。
+5. [jubeat@Wiki：蟲の棲む処](https://w.atwiki.jp/jubeat/pages/1773.html)：当前参数、既有BeatStream游玩资料解禁及传导。
+
+### 核验边界与待补
+
+三来源根达标；2020发行本人记录与商店同录音信用保守合根。primary_read原曲评已核，不再依赖外语译录。游戏母带与长版追加录音方法未核；原初完整词编署名待更直接内页。
+
+---
+
+**历史说明：jubeat Qubell 资料条目批次（资料行 73-84）**
+
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 73-84 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+
+<a id="arcade-70000135-shared"></a>
+## Phlox
+
+- 统一曲库 ID：`arcade:70000135`
+- 原章节编号与标题：73. Phlox
+
+### 曲目档案
+
+- 署名：Sota Fujimori 2nd Season
+- BeatStream来源曲；185BPM、原5/8/10、348/626/757音符；2017-02-23移植。[2]
+- 原声带保留完整署名。[3]
+
+### 创作与制作背景
+
+Sota Fujimori在官方曲评中给出了非常具体而简洁的灵感来源：制作这首曲子的时期，他看见芝樱并受到启发。这比从曲名猜测花语、恋爱寓意更可靠，但原文没有进一步解释和声或合成器如何对应花朵，因此不擅自补出技术过程。[1]
+
+动画作者Ray把两位妖精设定为彼此觉得对方可爱、关系亲密的伙伴，又开玩笑说她们除颜色外几乎一样，因而也像是在欣赏自己。花朵灵感是作曲者的话，妖精关系则属于影像作者的构想，应分开归属。[1] 本曲原属BeatStream，后来在Qubell移植活动及BeatStream原声带中继续传播。[2][3]
+
+### jubeat 收录与版本
+
+保留Qubell本地分组；真实来源为BeatStream，2017年移植而非Qubell首创。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：Phlox：作者与动画评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/phlox.html)（已实读；primary）
+2. [jubeat@wiki：BeatStream移植历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [KONAMI：BeatStreamアニムトライヴ原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)（已实读；primary）
+
+### 核验边界与待补
+
+原作具体首日及录音时长尚需进一步核实；不将角色化评论当作现实生平；未取得制作工程或完整技术配器说明。
+
+<a id="arcade-70000136-shared"></a>
+## Lost wing at.0
+
+- 统一曲库 ID：`arcade:70000136`
+- 原章节编号与标题：74. Lost wing at.0
+
+### 曲目档案
+
+- 署名：猫叉Master+
+- BeatStream来源曲；185BPM、原4/8/9、255/496/690音符；2017-02-23移植。[2]
+- 原声带保留完整署名。[3]
+
+### 创作与制作背景
+
+猫叉Master解释，本曲设想的是失去羽翼后落到零点，面对辽阔而美丽、又仿佛遭受冲击的平原与地平线。他要表达的不是单纯的胜利或悲伤，而是人在希望与绝望混杂的环境里会产生的感受。这是作者直接描述的音乐情境，并非只能由英文曲名推测的故事。[1]
+
+影像作者アキ另有现实生活的巧合：制作鸟的影片时，她一直从窗边观察的燕子恰好离巢，短暂离开后又落在附近栏杆。这段经历属于动画制作期间的观察，不是猫叉写曲时失去某人的隐喻。音乐情境和影像生活轶事相互呼应，却不能混成同一人的经历。[1] Qubell在2017年的BeatStream移植活动中收录本曲。[2]
+
+### jubeat 收录与版本
+
+保留Qubell本地分组；真实来源为BeatStream，2017年移植而非Qubell首创。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：Lost wing at.0：音乐与影像作者评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/lostwing.html)（已实读；primary）
+2. [jubeat@wiki：BeatStream移植历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [KONAMI：BeatStreamアニムトライヴ原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)（已实读；primary）
+
+### 核验边界与待补
+
+原作具体首日及录音时长尚需进一步核实；不将角色化评论当作现实生平；未取得制作工程或完整技术配器说明。
+
+<a id="arcade-70000138-shared"></a>
+## SPACE VILLAGE
+
+- 统一曲库 ID：`arcade:70000138`
+- 原章节编号与标题：75. SPACE VILLAGE
+
+### 曲目档案
+
+- 署名：サイバー劇レコ
+- BeatStream来源曲；170BPM、原4/8/9、274/567/751音符；2017-03-23移植。[2]
+- 原声带保留完整署名。[3]
+
+### 创作与制作背景
+
+官方介绍采用故意断开音节的机器人口吻：サイバー劇レコ扮演在遥远星球种稻、庆祝丰收的角色。这里是作品世界观及艺名的戏谑呈现，不是作者真实务农履历。[1]
+
+视觉制作分工也有直接记录。XTC负责描绘这个角色并交付插画，称赞もとこ将素材迅速做成影片；もとこ则说自己很开心能使用XTC的素材，尤其喜欢稻草人形象。两人的留言可以支持“外星乡村”视觉主题及协作流程，却不能证明乐曲某一音色来自真实农具采样。[1] 该BeatStream作品于2017年3月移入Qubell，后来也见于原作原声带曲表。[2][3]
+
+### jubeat 收录与版本
+
+保留Qubell本地分组；真实来源为BeatStream，2017年移植而非Qubell首创。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：SPACE VILLAGE：音乐与动画评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/space.html)（已实读；primary）
+2. [jubeat@wiki：BeatStream移植历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [KONAMI：BeatStreamアニムトライヴ原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)（已实读；primary）
+
+### 核验边界与待补
+
+原作具体首日及录音时长尚需进一步核实；不将角色化评论当作现实生平；未取得制作工程或完整技术配器说明。
+
+<a id="arcade-70000139-shared"></a>
+## キミとワタシのオンガク
+
+- 统一曲库 ID：`arcade:70000139`
+- 原章节编号与标题：76. キミとワタシのオンガク
+
+### 曲目档案
+
+- 署名：seiya-murai feat. ALT
+- BeatStream原创作品；160BPM、原4/7/9、266/493/667；2017-03-30移植。[1][2]
+
+### 创作与制作背景
+
+村井聖夜明确说，这次不是像《隅田川夏恋歌》那样移植旧作，而是一次完全新写的作品。Qrispy给出的委托方向十分清楚：使用ALT、带有8bit感觉，并唱出BeatStream的快乐；村井也把这种氛围写入歌词。[1]
+
+他把ALT长时间未活动戏称为感染神秘电脑病毒后的沉睡，并明确标注这是设定，而非真实软件事故。实际声音层面，他认为这次的咬字比过去更清楚，同时仍保留略带机械感的可爱。动画作者もとこ则以色彩丰富、欢乐的世界配合音乐。[1] 这些创作指向均属于原来的BeatStream项目，Qubell在2017年才移植。[2]
+
+### jubeat 收录与版本
+
+保留Qubell；来源BeatStream，2017年移植，非本地版本首创。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：音乐与影片制作评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/kimi.html)（已实读；primary）
+2. [jubeat@wiki：BeatStream移植记录](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [KONAMI：BeatStream原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)（已实读；primary）
+
+### 核验边界与待补
+
+未取得全部分轨与技术工程资料；原作具体初日和时长待另核；角色化设定不当作作者真实经历。
+
+<a id="arcade-70000141-shared"></a>
+## トキメキストリーム
+
+- 统一曲库 ID：`arcade:70000141`
+- 原章节编号与标题：77. トキメキストリーム
+
+### 曲目档案
+
+- 署名：Qrispy Joybox
+- BeatStream原创作品；164BPM、原4/8/9、236/541/669；2017-02-23移植。[1][2]
+
+### 创作与制作背景
+
+Qrispy Joybox的制作自述直接展示了音乐与游戏机制互相修改的过程。他最初想让玩家一只手持续追踪Stream、另一只手处理判定环音符，因此把扫过的噪声音效放得很突出，谱面也经常跟随它。实际尝试却比预想困难，而且并不好玩，于是降低这层声音的存在感、减少音数，只在关键位置强调Stream。[1]
+
+这不是“音效越多越好”的制作，而是以可玩性反过来调整编配。影像方面，菌类说明这是Animtribe主题曲，延续前作《ビビットストリーム》的角色故事方式；两方面共同服务于原作的系统与世界观。Qubell移植时仍应保留这段原作语境，不能将Stream解释成jubeat原生机制。[1][2]
+
+### jubeat 收录与版本
+
+保留Qubell；来源BeatStream，2017年移植，非本地版本首创。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：音乐与影片制作评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/tokimeki.html)（已实读；primary）
+2. [jubeat@wiki：BeatStream移植记录](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [KONAMI：BeatStream原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)（已实读；primary）
+
+### 核验边界与待补
+
+未取得全部分轨与技术工程资料；原作具体初日和时长待另核；角色化设定不当作作者真实经历。
+
+<a id="arcade-70000142-shared"></a>
+## 爆なな☆てすとロイヤー
+
+- 统一曲库 ID：`arcade:70000142`
+- 原章节编号与标题：78. 爆なな☆てすとロイヤー
+
+### 曲目档案
+
+- 署名：ARM feat.ななひら
+- 歌唱：ななひら；作词：狐夢想；作编曲：ARM。后续长版官方信用如此列出。[1][4]
+- 200 BPM；原版等级5/9/10，Notes322/657/736；2017-02-23移植。[3]
+
+### 创作与制作背景
+
+这首作品的分工不止游戏署名中的ARM与ななひら：IOSYS后来的官方长版目录明确列出狐夢想负责歌词，ARM负责作曲和编曲，ななひら演唱，并把初出指向BeatStream。[1][4] 社区资料将作品描述为以考试压力和夸张反应为情境的电波歌曲；这是歌曲的戏剧化设定，不足以证明歌手或词作者实际遭遇了相同考试事件。[2]
+
+它也在游戏短版之外继续流传。社区记录2017年《Confetti-Box》已收录长版；2023年IOSYS25周年精选《IOSYS RHYTHMICAL WORKS PERFECT HITS》再次把长版列为第二轨，和该团体跨多款音乐游戏的作品一同整理。因此2023年是这张纪念唱片的发行年，不能误写为歌曲或长版的首次诞生年份。[2][4]
+
+### jubeat 收录与版本
+
+保留Qubell分组；来自BeatStream，2017-02-23移植。[3]
+
+### 资料来源
+
+1. [ななひら：参加作品一覧](https://www.nanahira.jp/works.html)（已实读；primary）
+2. [BEMANI楽曲データベース：爆なな☆てすとロイヤー](https://w.atwiki.jp/asagaolabo/pages/4984.html)（已实读；secondary）
+3. [jubeat@wiki：Qubell曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+4. [IOSYS：IOSYS25周年作品介绍](https://www.iosysos.com/iosys25th/)（已实读；primary）
+
+### 核验边界与待补
+
+未找到ARM/狐夢想针对本曲的创作动机采访或录音细节；长版与游戏剪辑差异未作逐秒比对；两社区保守合组，三条证据根。
+
+<a id="arcade-70000143-shared"></a>
+## バビロニア
+
+- 统一曲库 ID：`arcade:70000143`
+- 原章节编号与标题：79. バビロニア
+
+### 曲目档案
+
+- 署名：劇団レコード
+- 164 BPM；Qubell历史表4/7/9（现行3/6/8），Notes308/492/644。初始与现行等级分列。[2][6]
+- 2017-02-02限定QUBE开始。[1][2]
+
+### 创作与制作背景
+
+《バビロニア》先在beatmania IIDX 17 SIRIUS出现，并不是为Qubell新写。[2] 2009年5月的现场测试报告已经记录它的影像：作者把画面理解为圆胖的猫踏上寻找失落王国遗迹的旅程，并特别注意到仿羊皮纸的旅行风景。这里只能把这段当作当时观众的影像印象，不能反推作曲者参照了某部电影。[5]
+
+2017年，原曲成为一个更大的跨媒介项目起点：劇団レコード与SHAMDEL共同监修QUBE，把移植曲与两首新合作曲放进同一旅程，并由SHAMDEL创作逐关开放的网页故事。[1] 因此“旅行”不再只停留于曲名和旧影像，而成为玩家推进歌曲解锁和阅读的共同结构。同期玩家日志留下2月6日实际游玩本曲的记录，提供了官方预告以外的落地使用证据。[3]
+
+### jubeat 收录与版本
+
+保留Qubell；原曲来自IIDX，后两首为本项目新合作作品。[1][2][4]
+
+### 资料来源
+
+1. [KONAMI／jubeat官方：バビロニアQUBE制作与故事公告](https://eam.573.jp/app/web/post/detail.php?post_id=10979618)（已实读；primary）
+2. [jubeat@wiki：バビロニア](https://w.atwiki.jp/jubeat/pages/1747.html)（已实读；secondary）
+3. [鎖／Log：バビロニアQUBE游玩日志](https://atchain.blog.fc2.com/blog-entry-32.html)（已实读；secondary）
+4. [KONAMI：2017年2月楽曲紹介](https://p.eagate.573.jp/game/bemani/fansite/p/music/201702)（已实读；primary）
+5. [熊花日記：SIRIUS现场测试曲目感想](https://kumahana.blog.jp/archives/51206801.html)（已实读；secondary）
+
+6. [jubeat@wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；社区）
+
+### 核验边界与待补
+
+原故事官网现仅停服公告，未读剧情正文；尚缺原始内页/作者详细编曲与动机评论；博客独立游玩与转录官宣分开：仅本人体验算独立第三根；时长及原始难度修订待核。
+
+<a id="arcade-70000144-shared"></a>
+## バビロニアの旅人たち
+
+- 统一曲库 ID：`arcade:70000144`
+- 原章节编号与标题：80. バビロニアの旅人たち
+
+### 曲目档案
+
+- 署名：Babylonian Vates
+- 175 BPM；Qubell历史表4/7/9（现行3/6/9.0），Notes342/587/751。初始与现行等级分列。[2][5]
+- 2017-02-02限定QUBE开始。[1][2]
+
+### 创作与制作背景
+
+本曲属于2017年QUBE项目的新合作曲，而不是旧《バビロニア》换一个标题。官方说明劇団レコード与SHAMDEL共同监修活动并合作两首新曲；官方月度曲表又以Babylonian Vates列出本曲。[1][4] 社区资料把这一署名明确解释为两人的合作名义。[2]
+
+它在活动中的位置也有同期实玩材料：玩家鎖的日志记录2月12日完成第六阶段本曲的BASIC挑战。歌曲因此处在原曲与最终曲之间的旅程推进位置，不宜脱离活动而编造一段与真实古巴比伦历史对应的创作缘由。[3] 官方确认配套故事由SHAMDEL写作，但本轮未读到已关闭的故事正文，歌词语言、角色经历与结局仍不能借二手摘要写成已核事实。[1]
+
+### jubeat 收录与版本
+
+保留Qubell；原曲来自IIDX，后两首为本项目新合作作品。[1][2][4]
+
+### 资料来源
+
+1. [KONAMI／jubeat官方：バビロニアQUBE制作与故事公告](https://eam.573.jp/app/web/post/detail.php?post_id=10979618)（已实读；primary）
+2. [jubeat@wiki：バビロニアの旅人たち](https://w.atwiki.jp/jubeat/pages/1748.html)（已实读；secondary）
+3. [鎖／Log：バビロニアQUBE游玩日志](https://atchain.blog.fc2.com/blog-entry-32.html)（已实读；secondary）
+4. [KONAMI：2017年2月楽曲紹介](https://p.eagate.573.jp/game/bemani/fansite/p/music/201702)（已实读；primary）
+
+5. [jubeat@wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；社区）
+
+### 核验边界与待补
+
+原故事官网现仅停服公告，未读剧情正文；尚缺原始内页/作者详细编曲与动机评论；博客独立游玩与转录官宣分开：仅本人体验算独立第三根；时长及原始难度修订待核。
+
+<a id="arcade-70000145-shared"></a>
+## 旅の終わりと祝祭の夜
+
+- 统一曲库 ID：`arcade:70000145`
+- 原章节编号与标题：81. 旅の終わりと祝祭の夜
+
+### 曲目档案
+
+- 署名：月船古書堂
+- 148 BPM；Qubell历史表5/9/10（现行5/8/10.3），Notes344/632/778。初始与现行等级分列。[2][5]
+- 2017-02-02限定QUBE开始。[1][2]
+
+### 创作与制作背景
+
+《旅の終わりと祝祭の夜》使用月船古書堂署名，官方月度曲表把它与《バビロニア》《バビロニアの旅人たち》列在同一限定QUBE下；社区资料说明这是劇団レコード与SHAMDEL的合作署名。[2][4] 这应理解为具体项目中的创作身份，不能无证据地把“古书堂”说成现实存在的店铺。
+
+同期玩家鎖记下2月17日完成本曲BASIC后达成整个QUBE COMPLETE，显示它实际承担旅程收束的功能。[3] 官方则把整个企划设计为歌曲、阶段推进与SHAMDEL故事同步展开。[1] 这些材料可以解释作品在叙事框架中的位置，但还不足以确认两位作者如何分配旋律、配器及录音，也不能由“祝祭”二字推断某种真实民族仪式。
+
+### jubeat 收录与版本
+
+保留Qubell；原曲来自IIDX，后两首为本项目新合作作品。[1][2][4]
+
+### 资料来源
+
+1. [KONAMI／jubeat官方：バビロニアQUBE制作与故事公告](https://eam.573.jp/app/web/post/detail.php?post_id=10979618)（已实读；primary）
+2. [jubeat@wiki：旅の終わりと祝祭の夜](https://w.atwiki.jp/jubeat/pages/1749.html)（已实读；secondary）
+3. [鎖／Log：バビロニアQUBE游玩日志](https://atchain.blog.fc2.com/blog-entry-32.html)（已实读；secondary）
+4. [KONAMI：2017年2月楽曲紹介](https://p.eagate.573.jp/game/bemani/fansite/p/music/201702)（已实读；primary）
+
+5. [jubeat@wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；社区）
+
+### 核验边界与待补
+
+原故事官网现仅停服公告，未读剧情正文；尚缺原始内页/作者详细编曲与动机评论；博客独立游玩与转录官宣分开：仅本人体验算独立第三根；时长及原始难度修订待核。
+
+<a id="arcade-70000146-shared"></a>
+## それは花火のような恋
+
+- 统一曲库 ID：`arcade:70000146`
+- 原章节编号与标题：82. それは花火のような恋
+
+### 曲目档案
+
+- 署名：夏色バーニングラブ☆Prim
+- 182BPM；2017-03-02；原4/7/9，232/528/840。[2]
+
+### 创作与制作背景
+
+动画作者もとこ的评论提供了本曲最具体的制作线索：她围绕名为ハルカ的角色构想一段双重生活——平日是高中生，暗地里进行偶像活动，还有不能公开的秘密；影片以卡拉OK影像、漫画和歌唱节目等不同呈现方式切换，作者强调自己拥有自由、愉快的创作空间。[1] 这些是影像角色设定，不是演唱者的真实校园经历。
+
+作品也脱离了街机画面进入现场舞台。Real Sound记录2016-03-05 EDP2016中L.E.D.与Prim登台，以本曲等高能量歌曲改变会场气氛。[3] 后来的森永真由美唱片目录收录此曲，注明词mitsu及夏色バーニングラブ☆Prim署名；目录作曲栏只写KONAMI法人，并不能代替个人作曲信用。[4]
+
+### jubeat 收录与版本
+
+保留Qubell；原BeatStream作品后续移植，不把原作影片误写为jubeat影片。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：原作音乐／影片作者评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/hanabi.html)（已实读；primary）
+2. [jubeat@wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [Real Sound：EDP2016现场报道](https://realsound.jp/2016/03/post-6789.html)（已实读；secondary）
+4. [Tower Records：All that is. Is that all?](https://tower.jp/item/4845894)（已实读；secondary）
+
+### 核验边界与待补
+
+游戏时长未重新核定；曲目创作与影像制作分开，角色设定不是歌手经历；个人作曲信用仍需原始内页确认。
+
+<a id="arcade-70000147-shared"></a>
+## 分けるな危険！モモモモモモーイズム
+
+- 统一曲库 ID：`arcade:70000147`
+- 原章节编号与标题：83. 分けるな危険！モモモモモモーイズム
+
+### 曲目档案
+
+- 署名：ARM×狐夢想 feat. 桃井はるこ
+- 200BPM；2017-03-02；原4/8/10，258/572/710。[2]
+
+### 创作与制作背景
+
+ARM明确给出了制作目标：让桃井はるこ演唱一首极致的电波歌曲；狐夢想补充，词曲中尽量装进了各种想法。[1] 桃井的录音回忆更具体：她在モモーイ和モモイ子之间切换角色、自由地进入不同声音状态，自己也在结尾感到意外的感动，并希望听者低落时能通过听歌和游玩获得精神。[1]
+
+因此，多重人格般的表演不是仅由玩家从标题猜测出来的，而有歌手亲自说明的角色切换方法。插画作者大神アキラ则把两人的欲望直接画出，同时提示外表差异下仍有细小共同点；音乐与图像都以成对人物为核心。[1] 官方原声带保留了ARM×狐夢想 feat. 桃井はるこ署名。[3]
+
+### jubeat 收录与版本
+
+保留Qubell；原BeatStream作品后续移植，不把原作影片误写为jubeat影片。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：原作音乐／影片作者评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/wakeruna.html)（已实读；primary）
+2. [jubeat@wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [KONAMI：BeatStream原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)（已实读；primary）
+
+### 核验边界与待补
+
+游戏时长未重新核定；曲目创作与影像制作分开，角色设定不是歌手经历。
+
+<a id="arcade-70000148-shared"></a>
+## 翡翠の狼
+
+- 统一曲库 ID：`arcade:70000148`
+- 原章节编号与标题：84. 翡翠の狼
+
+### 曲目档案
+
+- 署名：米津玄師
+- 原作：2017-02-15《orion》第三轨；不是该动画的ED曲。[1]
+- 游戏收录：2017-02-23 10:00。[3]
+
+### 创作与制作背景
+
+米津玄師直接把《翡翠の狼》说明为关于自己的作品，而不是评论者凭“一匹狼”联想的推论。其创作有一段明显的时间跨度：约2015年已写好一段，后来再接续完成。虽然前后仍面对相似问题，他自己却能听见两年间心境变化造成的接缝；作品由此意外呈现出走过的道路。[2]
+
+他谈到过去容易期待又失望，后来对全新经验的感受发生改变，但仍希望做出不辜负童年自己的音乐。这里应保留为2017年采访时的自述，不能将其扩写成永久的人格诊断。[2] 今井智子的同期评论则从听感指出活跃旋律、轻快编程音色及寓言感，属于与作者自述不同的评论层面。[4]
+
+发行上它是《orion》的第三轨，动画《3月のライオン》的ED关联属于表题曲，不应挪给本曲；随后才在同年2月23日加入Qubell。[1][3]
+
+### jubeat 收录与版本
+
+保留Qubell；商业单曲附加曲经2017合作加入，不是游戏委约原创。[1][3]
+
+### 资料来源
+
+1. [REISSUE RECORDS：orion唱片资料](https://reissuerecords.net/discography/orion/)（已实读；primary）
+2. [Real Sound／米津玄師：orion发行采访](https://realsound.jp/2017/02/post-11340_2.html)（已实读；primary）
+3. [REISSUE RECORDS：BEMANI合作公告](https://reissuerecords.net/2017/02/12/%E3%80%8Cbemani%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%80%8D%E3%81%A8%E3%81%AE%E5%A4%A7%E5%9E%8B%E3%82%B3%E3%83%A9%E3%83%9C%E6%B1%BA%E5%AE%9A/)（已实读；primary）
+4. [Fanplus Music／今井智子：orion唱片评论](https://music.fanplus.co.jp/news/201702092494c03f7)（已实读；secondary）
+
+### 核验边界与待补
+
+具体音色工程、演奏信用和游戏剪辑时长待核；MEETIA原访谈读取503，未借摘要补细节。
+
+**历史说明：jubeat Qubell 资料条目批次（资料行 85-96）**
+
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 85-96 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+
+<a id="arcade-70000149-shared"></a>
+## LOSER
+
+- 统一曲库 ID：`arcade:70000149`
+- 原章节编号与标题：85. LOSER
+
+### 曲目档案
+
+- 署名：米津玄師
+- 原作发行：2016-09-28《LOSER / ナンバーナイン》第一轨。[4]
+- Qubell：2017-02-23购买码先行，2017-04-01全面开放。[3]
+
+### 创作与制作背景
+
+《LOSER》的起点并不是已成名歌手扮演失败者，而是米津玄師对自身仍感到封闭、退缩一面的处理。他在J-WAVE采访中承认，公众看见排行榜成绩与成千上万观众，自己却也看见在家打游戏、似乎没有改变的日常；他想把这种落差写成音乐，推动自己离开停滞的位置，也希望哪怕一个听者的景色能略有改变。[1]
+
+MV把这一“走出去”的方向变成新的身体实践。他先向导演提出想拍出有冲击力的影像，并提供独舞视频作参照；导演反过来建议由他本人跳。为此他在辻本知彦指导下密集练习两周，后来仍继续练舞。这是2017年回顾采访中明确叙述的过程，不能把网上不同的练习时长随意拼接。[2]
+
+歌曲原属2016年双A面单曲，2017年游戏合作却把先行解禁码放进下一张《orion》中；购买码是推广方式，不代表《LOSER》首次发行在《orion》。官方还明确2017-04-01起不再需要该先行条件。[3][4]
+
+### jubeat 收录与版本
+
+保留Qubell；商业歌曲授权收录，先行与全面开放日期分列。[3][4]
+
+### 资料来源
+
+1. [J-WAVE／米津玄師：米津玄師直击采访](https://www.j-wave.co.jp/original/tokyounited/archives/the-hidden-story/2016/10/21-105014.html)（已实读；primary）
+2. [Billboard JAPAN／米津玄師：BOOTLEG采访](https://www.billboard-japan.com/special/detail/2134)（已实读；primary）
+3. [KONAMI：LOSER先行解禁活动](https://p.eagate.573.jp/game/bemani/campaign/serialcode/yonezukenshi_orion/index.html)（已实读；primary）
+4. [REISSUE RECORDS：第五张单曲发行公告](https://reissuerecords.net/2016/08/19/new-single%E3%80%8Closer-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%B3%E3%80%8D928%E7%99%BA%E5%A3%B2%E6%B1%BA%E5%AE%9A/)（已实读；primary）
+
+### 核验边界与待补
+
+完整配器/演奏信用与游戏时长尚待原始内页核对；动画orion及卢浮宫ナンバーナイン的委约不可误套LOSER。
+
+<a id="arcade-70000150-shared"></a>
+## CARNIVOROUS
+
+- 统一曲库 ID：`arcade:70000150`
+- 原章节编号与标题：86. CARNIVOROUS
+
+### 曲目档案
+
+- 署名：SOUND HOLIC feat. Nana Takahashi
+- 170BPM；2017-03-09；原3/7/9，223/455/570。[2]
+
+### 创作与制作背景
+
+SOUND HOLIC代表GUCCI说明，为了与此前偏可爱跳跃感的作品区别，这次选择高张力的Eurobeat，并把它定义为向奋斗中的女性送出的应援歌。曲名的“肉食”意味服务于主动与力量的意象，并非真的以猎食行为为主题。[1]
+
+角色设计者０７把自己害怕的蛾用作少女形象的母题：与其逃离恐惧，不如变成这种强大形象；人物外观却保持安静优雅，表达未必显露在外的内在力量。影像作者saiho用螺旋楼梯和重复出现的女性视线制造被吸入世界的感觉。[1] 这让音乐、人物与空间构成同一套应援概念，而不只是一般性“高速舞曲”标签。官方原声带后续收录此曲与Nana Takahashi署名。[3]
+
+### jubeat 收录与版本
+
+保留Qubell；原BeatStream作品后续移植，不把原作影片误写为jubeat影片。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：原作音乐／影片作者评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/carnivorous.html)（已实读；primary）
+2. [jubeat@wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [KONAMI：BeatStream原声带曲表](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)（已实读；primary）
+
+### 核验边界与待补
+
+游戏时长未重新核定；曲目创作与影像制作分开，角色设定不是歌手经历。
+
+<a id="arcade-70000151-shared"></a>
+## 月風魔伝 ～ ビーストメドレー ～
+
+- 统一曲库 ID：`arcade:70000151`
+- 原章节编号与标题：87. 月風魔伝 ～ ビーストメドレー ～
+
+### 曲目档案
+
+- 署名：Akhuta
+- 170BPM；2017-04-06；原4/7/9，326/533/823。[2]
+
+### 创作与制作背景
+
+Akhuta亲自说明这支改编串烧的组织原则：把多首原游戏音乐统一到相同速度，并以衔接是否顺畅决定排列顺序，而不是照关卡顺序机械拼贴。全曲都建立在原曲改编上，但有的段落并不直接照搬原旋律，因此不能凭不熟悉的片段就断言那里是全新原创。[1]
+
+原作影像的趣味则来自实际游戏挑战。Qrispy Joybox以自嘲方式回忆游玩失利，もとこ提到拍摄异常漫长、改走其他路线和走进毒池等现场片段。[1] 后来KBM玩家对jubeat ADV谱面的独立初见记录，注意到中段三连音及末段滑动连击的难点，属于游戏接受史，而不是编曲者对难度的自我说明。[3]
+
+### jubeat 收录与版本
+
+保留Qubell；原BeatStream作品后续移植，不把原作影片误写为jubeat影片。[1][2]
+
+### 资料来源
+
+1. [KONAMI／创作者：原作音乐／影片作者评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/geppu.html)（已实读；primary）
+2. [jubeat@wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；secondary）
+3. [慶應音ゲーサークルKBM：EXCしなくてもランキングに載ることが出来る譜面](https://kbm3556.blog.fc2.com/blog-entry-41.html)（已实读；secondary）
+
+### 核验边界与待补
+
+游戏时长未重新核定；曲目创作与影像制作分开，角色设定不是歌手经历。
+
+<a id="arcade-70000152-shared"></a>
+## がんばれゴエモン ～ ビーストメドレー ～
+
+- 统一曲库 ID：`arcade:70000152`
+- 原章节编号与标题：88. がんばれゴエモン ～ ビーストメドレー ～
+
+### 曲目档案
+
+- 曲名：がんばれゴエモン ～ ビーストメドレー ～
+- 艺人：96；这是改编版发布名义，不替代原作各段作曲信用。[1]
+- Qubell参数：BPM113–190；3/6/9；音符188/370/526（ADV异文待核）。[2]
+
+### 创作与制作背景
+
+本曲不是《がんばれゴエモン》原游戏录音直接剪接的普通游戏曲表条目，而是以“ビーストメドレー”为题发布的节奏游戏改编。官方BEMANI曲目介绍明确署名96，并说明它来自BeatStream；2018年另一份厂商公告也将这个同题版本描述为带有怀旧感、专为节奏游戏打造的特别乐曲。[1][3] 这足以确定改编与跨游戏流通的性质，却尚不能证明每段选曲、衔接编曲或某件乐器如何录制。
+
+这次改编还有音游之外的后续传播：2018-06-28《ときめきアイドル》加入本曲，同时推出与ゴエモン世界观相关的任务，玩家收集招き猫换取ゆき姫发簪，另有面具与游戏画面物品。公告将原系列介绍为现代与江户式世界交错的动作冒险；本曲因此不仅传承旋律，也被用作让另一游戏体验原作氛围的入口。[3]
+
+现已补读到96的直接评论：他称能够翻奏历史悠久的《がんばれゴエモン》系列很荣幸，并明确把其中名曲编成华丽的摇滚。这是可证的编曲方向，而不是仅从曲名或听感猜测；原作各选段、录音乐器与衔接工程仍未在这则短评中披露。[4]
+
+### jubeat 收录与版本
+
+Qubell于2017-03-16第四弹追加，官方确认来源BeatStream。[1][2] 历史表对本曲未标需解开BEAST谱，而同批GRADIUS标有该条件，故不把两曲条件混写；全组为传导对象。[2]
+
+### 资料来源
+
+1. [BEMANI官方2017年3月曲目介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201703/index.html)（实读）
+2. [jubeatWiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [4Gamer刊登KONAMI：ときめきアイドル追加本曲](https://www.4gamer.net/games/395/G039506/20180628103/)（实读）
+
+4. [BeatStream：96原作改编评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/goemon.html)（实读）
+
+### 核验边界与待补
+
+- 现为4独立文献根，新增原作者逐曲制作评论。
+- 原档ADV370与其他社区372的冲突仍待街机或谱面数据复核，不暗改为确定值。
+- 原作选段与各段作曲者、具体录音工程仍待专门核对。
+- Remy与Gamer本轮HTTP403后止；4Gamer正文已另行正常读取。
+
+<a id="arcade-70000153-shared"></a>
+## GRADIUS Ⅱ ～ ビーストメドレー ～
+
+- 统一曲库 ID：`arcade:70000153`
+- 原章节编号与标题：89. GRADIUS Ⅱ ～ ビーストメドレー ～
+
+### 曲目档案
+
+- 曲名：GRADIUS Ⅱ ～ ビーストメドレー ～
+- 艺人：Sota Fujimori。[1]
+- Qubell参数：BPM190；3/6/9；音符271/417/648。[2]
+
+### 创作与制作背景
+
+这个版本必须与《GRADIUS 2012》及其他《GRADIUS》原声组曲区分。2016-01-30幕张的BEMANI特别演出记录，将《Vampire Killer》《Twinbee's Home Town Song》、本曲和《GRADIUS 2012》分别列在同一个经典游戏音乐串烧里，演出署名为Sota Fujimori键盘、TAG担当DJ。因此至少从这份当期资料可见，本曲在进入jubeat前已经参与经典KONAMI音乐的现场呈现，不是Qubell上线时才产生的作品。[3]
+
+2017年3月官方介绍署名Sota Fujimori，并明确说明BeatStream曲目移入jubeat。[1] Sota在官方逐曲评论中给出了一条具体制作方法：本曲只使用模块合成器（Eurorack）和Alesis D4鼓音源进行改编，邀请听众体会怀旧声音。该说明使本条能够超越“现代电子编曲”的泛称，但没有逐一披露模块型号或声部设置。同页Qrispy的游玩回忆和もとこ关于无失误通关拍摄的感想，属于影像制作，不宜冒充Sota的作曲经历。[4]
+
+现场记录展示的是演出串烧次序，并不能证明街机版本与现场使用完全相同的母带，更不能把现场DJ TAG自动填成该曲共同作曲者。[3]
+
+### jubeat 收录与版本
+
+历史曲表记载2017-03-16第四弹追加，本曲与同批ゴエモン不同，标有BeatStream解锁条件；全组可传导。[2] 原档“clan调整到9.4”的具体版本归属未在此核定，撤下该断言，仅保留Qubell当期整数9。
+
+### 资料来源
+
+1. [BEMANI官方：2017年3月GRADIUSⅡ介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201703/index.html)（实读）
+2. [jubeatWiki：Qubell第四弹历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [ビーやろニュース：闘会議2016演出曲表](https://b-yaro.seesaa.net/article/433206802.html)（实读）
+
+4. [BeatStream：Sota Fujimori制作器材评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/gradius2.html)（实读）
+
+### 核验边界与待补
+
+- 已取得作者器材说明；具体选段、模块型号与原声信用仍待核。
+- 第三份有本曲具体演出记录，不把其余同台曲的创作故事移用。
+- Remy403停止；官方视频未能直接读取，亦未用于来源计数。
+
+<a id="arcade-70000156-shared"></a>
+## ちょちょいとちょいだよ夢浪漫
+
+- 统一曲库 ID：`arcade:70000156`
+- 原章节编号与标题：90. ちょちょいとちょいだよ夢浪漫
+
+### 曲目档案
+
+- 曲名：ちょちょいとちょいだよ夢浪漫
+- 演唱：A応P。[1]
+- 词曲线索：社区记述96参与、あさき作词；尚缺本曲直接作者或原盘信用。[3]
+- Qubell参数：BPM152；3/6/8；音符184/399/580。[2]
+
+### 创作与制作背景
+
+本曲有明确的商业合作背景，而不是一般流行歌曲碰巧被音游收录。KONAMI的追加公告写明jubeat×永谷園、由A応P演唱，开放日期为2017-04-27。[1] 当时AT-X向外发布的新闻稿介绍的是以永谷園三种食品为主题创作原创合作歌曲：お茶づけ海苔、松茸の味 お吸いもの和すし太郎；后两首在4月7日稿件中尚未公布题名。这份材料可以说明委托企划的范围，不能单靠它把每一首未公布标题强行配对。[4]
+
+歌曲也不是孤立广告附件：厂商发布的企划同时改变游戏背景、点击标记与机台装饰，并通过抽奖提供收录合作歌曲的CD、特别设计e-AMUSEMENT PASS及食品礼盒。音乐、游戏内视觉与实体食品被放在同一个活动中。[5] A応P当时新闻稿列四位成员，并称其为喜欢动画的女子组合；原档笼统称“女性声优团体”不宜取代该同期官方定位。[4]
+
+关于具体音乐生产，社区资料称第二弹有96参与、作词为あさき。本轮只把它保留为待一手复核的人员线索，不将其扩大为二人的重逢动机或特定编曲方法；也未找到本曲演唱录音采访。[3]
+
+具体食品对应现有更明确但属于转录层级的材料：ついふぁん保存的jubeatスタッフ2017-04-26告知，点名本曲是以“すし太郎”为意象的第二弹，并预告翌日开放。转录所连原帖为 https://twitter.com/jubeat_staff/status/857058535783268353 。本轮已读第三方页面正文，未直接核验原X；它能补足商品与题名的配对，却不提供96或あさき的创作过程。[7]
+
+### jubeat 收录与版本
+
+2017-04-27追加已由官方题头核定，不再只靠玩家排列推算日期；参数保留Qubell口径。[1][2] 另有博客保存2020-03-25官方告知：本曲等四首合作曲可玩至2020-04-02 23:59。因此不能称为永久常驻；这是后续运营历史，不是创作动机。[6]
+
+### 资料来源
+
+1. [BEMANI官方：ちょちょいとちょいだよ夢浪漫追加公告](https://p.eagate.573.jp/game/bemani/fansite/s/news/detail.html?post_id=11546810)（实读）
+2. [jubeatWiki：Qubell曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [ゲームカタログWiki：永谷園联动记述](https://w.atwiki.jp/gcmatome/pages/7415.html)（实读）
+4. [AT-X：A応P联动新闻稿](https://prtimes.jp/a/?c=2734&f=d2734-612-pdf-0.pdf&r=612)（实读）
+5. [Famitsu刊登KONAMI联动公告](https://www.famitsu.com/news/201704/06130561.html)（实读）
+
+6. [ききょう日記：音ゲーニュース3/28号（官方告知保存）](https://kikyou9drt.hatenablog.com/entry/20200328/1585357200)（实读）
+
+7. [ついふぁん保存jubeatスタッフ2017-04-26告知](https://twfan.net/user/171715340/retweet/23)（已读；列表第553条，2017-04-26 11:27:32；同URL普通GET200）
+
+### 核验边界与待补
+
+- 3个逐曲文献根：2017上线公告、社区参数/信用、2020后续停止收录公告（第三方保存）。
+- AT-X/Famitsu属于整体企划说明，虽实读相关上下文，但不凑本曲最低3源。
+- 已读食品评论博客无本曲具名细节不计；官方试聴视频读取未成功，此前读取staff转录站曾超时，本轮已成功实读。
+- 已实读staff原帖第三方转录，支持すし太郎对应；未直接核原X正文。作编曲信用、录音与创作过程继续待补。
+
+<a id="arcade-70000157-shared"></a>
+## 椀・of・Relaxation
+
+- 统一曲库 ID：`arcade:70000157`
+- 原章节编号与标题：91. 椀・of・Relaxation
+
+### 曲目档案
+
+- 曲名：椀・of・Relaxation
+- 演唱：A応P。[1]
+- Qubell参数：BPM96；3/7/9；音符215/422/739。[2]
+
+### 创作与制作背景
+
+本曲属于jubeat与永谷園的合作原创歌曲序列，而不是A応P已有动画主题曲的普通移植。官方在2017-05-16的题头明确宣布，由A応P演唱的本曲将在次日开放。[1] 企划启动时，AT-X新闻稿说将围绕お茶づけ海苔、松茸の味 お吸いもの和すし太郎制作三首歌曲；当时只有第一首题名已公布。[4] 因而这里可以核实食品品牌委托的总体背景，但不靠“椀”这个字便断定具体歌词的创作经过，也不把品牌食品的舒缓形象当成作曲者亲述。
+
+当时组合由福緒唯、巴奎依、水希蒼、広瀬ゆうき四人参加这一企划。[4] 这份同期名单比把现今成员资料倒填2017年更可靠；不过名单不是逐轨录音信用，仍不能据此确定每个人在本曲的独唱分配。
+
+合作歌曲后来并非永久留在街机。2020年3月的第三方博客保存了官方工作人员公布的四曲停止收录通知，本曲与另外三首一起列为4月2日23:59前仍可游玩的歌曲。[3] 该博客把品牌误写成另一公司，本条仅采它完整转录的官方题名和日期，不采作者误称。
+
+### jubeat 收录与版本
+
+2017-05-17开放现已有官方题头，不再维持“只见玩家资料”的旧缺口；Qubell当期参数由历史表核对。[1][2] 原档clan降为2级的说法本轮未另核，不能混入Qubell档案。
+
+### 资料来源
+
+1. [BEMANI官方：椀・of・Relaxation追加公告](https://p.eagate.573.jp/game/bemani/fansite/s/news/detail.html?post_id=11678071)（实读）
+2. [jubeatWiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [ききょう日記：音ゲーニュース3/28号（公式削除告知の保存）](https://kikyou9drt.hatenablog.com/entry/20200328/1585357200)（实读）
+4. [AT-X：A応P参加永谷園合作新闻稿](https://prtimes.jp/a/?c=2734&f=d2734-612-pdf-0.pdf&r=612)（实读）
+
+### 核验边界与待补
+
+- 3逐曲独立根：2017上线公告、社区参数、2020另一时期官方下线告知的第三方转录。
+- 第4份为整体企划背景，不参与本曲最低来源计数。
+- 具体词曲编曲人员、食品题材如何转成旋律、录音过程及作者亲述仍未取得；不保留原档“治愈曲风为设计意图”的无证断言。
+- 下线通知未直接核原X，只采用具名可读转录；不能用该博客的品牌误称覆盖永谷園官方。
+
+<a id="arcade-70000158-shared"></a>
+## マトリョシカ
+
+- 统一曲库 ID：`arcade:70000158`
+- 原章节编号与标题：92. マトリョシカ
+
+### 曲目档案
+
+- 曲名：マトリョシカ
+- 作词／作曲／编曲、绘图／视频：ハチ；原版歌声为初音ミク与GUMI，不是米津本人演唱，也不只是GUMI。[1]
+- 公开与载体：2010-08-19投稿，11月14日收录OFFICIAL ORANGE；2013年日期为再版。[2][4]
+- Qubell参数：BPM205–296；3/6/9；147/294/588。[3]
+
+### 创作与制作背景
+
+社区保留的原投稿介绍说，作者想做出有点傻气、热闹喧腾的作品。这条具体说法比事后把每个人偶、数字都解成固定寓意更接近创作时公开的定位，但本轮读到的是转录，不冒称直接观看原视频。[1] 后来作者在2017年谈《砂の惑星》时，也回头把本曲和《パンダヒーロー》形容为带着对世道不满的歌；此处依据媒体保存的旧帖，只概括他的回看，不推导出某个真实事件或人物原型。[5]
+
+本曲是音乐与视觉同由ハチ制作、两个合成声库共同呈现的作品。专辑与网络发表又是不同节点：官方列为第二张专辑《OFFICIAL ORANGE》第9轨，原版2010-11-14、再版2013-10-23；乐谱出版页另记8月19日的视频投稿日期。[1][2][4] 不能把再版日写成创作年份，更不能把艺人栏“ハチ”误读为真人演唱信用。
+
+它很早就离开纯视频播放的场景：2011年2月公开排练报道列出本曲，作者在该次采访把音与影像看作相连的一体。该段是创作方法的总体说明，并非他为本曲某一镜头作的逐项解说。[6]
+
+### jubeat 收录与版本
+
+2017-03-01开始的限定QUBE与《パンダヒーロー》《ドーナツホール》同组，历史表还注明本曲在plus先行；原档3/5/9.0属于后期数值，不能倒填Qubell整数3/6/9。[3]
+
+### 资料来源
+
+1. [初音ミクWiki：マトリョシカ（投稿介绍保存）](https://w.atwiki.jp/hmiku/pages/11574.html)（实读）
+2. [REISSUE RECORDS：OFFICIAL ORANGE](https://reissuerecords.net/discography/official-orange/)（实读）
+3. [jubeatWiki：米津玄師／ハチ限定QUBE](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [ゲッカヨ授权乐谱＠ELISE：マトリョシカ](https://www.at-elise.com/elise/JPDPGK05021/)（实读）
+5. [電ファミニコゲーマー：パンダヒーロー15周年（含作者旧帖）](https://news.denfaminicogamer.jp/news/260123v)（实读）
+6. [ガジェット通信：ハチ公开排练现场采访](https://getnews.jp/archives/99449)（实读）
+
+### 核验边界与待补
+
+- 5个保守出版根；乐谱信用与专辑目录不拆作两个独立原发行证人。
+- 作者具体介绍及2017旧帖均为可读转录；没有直读原帖，不声称一手核验。
+- 不采用“为了反驳粉丝解读而作”之无直接出处说法；MV细节、录音设备仍可深挖。
+
+<a id="arcade-70000159-shared"></a>
+## パンダヒーロー
+
+- 统一曲库 ID：`arcade:70000159`
+- 原章节编号与标题：93. パンダヒーロー
+
+### 曲目档案
+
+- 曲名：パンダヒーロー
+- 作者／原版歌声：ハチ；GUMI，不是作者本人演唱。[2]
+- 版本沿革：2010年OFFICIAL ORANGE先有专辑版本；2011-01-23发布改编不同的视频版。[1][2]
+- Qubell参数：BPM190；4/7/9；249/490/826。[3]
+
+### 创作与制作背景
+
+这首歌不是到2011年视频上传时才首次出现：官方《OFFICIAL ORANGE》目录把它放在2010-11-14专辑的开头，周年回顾则明确说明，2011-01-23上传的GUMI版本改过编曲。[1][2] 对jubeat的介绍应把“作品先有专辑形态”和“网上广为流传的版本”分开，不能只按一个日期笼统描述所有录音。
+
+题名有可追溯的小故事。周年文章保存作者2011年的旧帖，称临时标题原本是《フロッグヒーロー》，后来才成为现在的“熊猫英雄”。同文保存2017年回看，作者说本曲与《マトリョシカ》都带有对世道不满的态度。[2] 这些是实际存在的作者表述转录，却没有说明改名的具体原因；“蛙为何变成熊猫”仍不能用歌词猜测补齐。
+
+2011-02-13面向音乐节的公开排练已经演奏本曲。同期采访中，ハチ说自己听了不少乐队风格的作品，也希望做那样的音乐；这可以帮助理解当时创作的乐队取向，但并非证明本曲每件乐器都由真人现场录制。[4] 原档将反英雄、黑白正义等听感分析直接当创作意图的写法收紧到上述证据。
+
+### jubeat 收录与版本
+
+Qubell历史表将本曲列于2017-03-01至31日限定QUBE，并标plus先行。档案使用当期4/7/9；原档4/6/9.0不是同一时期的难度标法。[3]
+
+### 资料来源
+
+1. [REISSUE RECORDS：OFFICIAL ORANGE](https://reissuerecords.net/discography/official-orange/)（实读）
+2. [電ファミニコゲーマー：パンダヒーロー15周年（含作者旧帖）](https://news.denfaminicogamer.jp/news/260123v)（实读）
+3. [jubeatWiki：米津玄師／ハチ限定QUBE](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [ガジェット通信：ハチ公开排练采访](https://getnews.jp/archives/99449)（实读）
+
+### 核验边界与待补
+
+- 4文献根：专辑发行、含作者旧帖的周年回顾、游戏史、独立同期排练采访。
+- 旧帖只通过媒体保存实读，尚未直接核原X。
+- 尚缺改名原因、两个原版具体制作差异及jubeat采用母带的直接说明；不能因同题断定所有录音相同。
+
+<a id="arcade-70000160-shared"></a>
+## ドーナツホール
+
+- 统一曲库 ID：`arcade:70000160`
+- 原章节编号与标题：94. ドーナツホール
+
+### 曲目档案
+
+- 曲名：ドーナツホール
+- 原版艺人／歌声：ハチ／GUMI；2013-10-28投稿。[1]
+- 另版：米津玄師真人自翻唱收于YANKEE，勿与ハチ合成歌声版混同。[2]
+- Qubell参数：BPM252；4/6/9；223/479/704。[4]
+
+### 创作与制作背景
+
+本曲的创作可由两次作者采访互相补充。2014年米津玄師谈《YANKEE》收录的自翻唱时说，写《ドーナツホール》的过程中就已经想亲自唱它；这与以前坚决不想把旧VOCALOID作品做成真人翻唱专辑的态度不同。他把这种变化联系到两个名义之间的界线逐渐变得模糊。[2] 因此，原合成歌声版与次年的自唱版是同一创作发展过程中的不同版本，而不是“哈チ等于米津所以原版必为真人”。
+
+2024年他又说明，原作从一开始就有明确的少年漫画式图景：存在相互对抗的势力，原版切取的是故事的一角；画中的四人虽是带有反社会性质的反派，却有自己的信念。本来还想写对立阵营的歌曲，最终未完成。旧时绘画能力和时间的限制，令他一直有影像尚未充分实现的感受。[3]
+
+后来采访所称神谷导演与Production I.G制作新MV，才让旧图景以新的形式实现。他曾买来Megpoid想重做声音，随后觉得用现在的眼光升级并不合适，最终保留当年的歌曲、重新处理混音与母带。[3] 这一2024后续不能倒写成2013原MV或2017街机所用音源的制作名单。
+
+### jubeat 收录与版本
+
+三曲属于2017-03-01至31日“米津玄師／ハチ×BEMANI”限定QUBE，不是原档所称无活动条件的默认曲。历史表的Qubell值为4/6/9，旧稿4/5/8应另查其后期版本，暂不混用。[4]
+
+### 资料来源
+
+1. [ニコニコニュース：ドーナツホール投稿十周年](https://originalnews.nico/439731)（实读）
+2. [Real Sound：米津玄師YANKEE采访后篇](https://realsound.jp/2014/04/post-444.html)（实读）
+3. [Billboard JAPAN：Azalea采访中的ドーナツホール原始构思与2024MV](https://www.billboard-japan.com/special/detail/4619)（实读）
+4. [jubeatWiki：米津玄師／ハチ限定QUBE](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+
+### 核验边界与待补
+
+- 4独立文献根：平台发表史、2014原访谈、2024回顾访谈、游戏谱面史。
+- 少年漫画构思由作者直接采访支持，不依靠歌词推测或把四位画中角色等同四人合唱。
+- 游戏采用版本与2024母带差异仍待官方音源信用核对；本曲原版GUMI由平台题名核定。
+
+<a id="arcade-70000161-shared"></a>
+## 怪盗BisCoの予告状！！
+
+- 统一曲库 ID：`arcade:70000161`
+- 原章节编号与标题：95. 怪盗BisCoの予告状！！
+
+### 曲目档案
+
+- 曲名：怪盗BisCoの予告状！！
+- 艺人／影像：Qrispy Joybox；いぬごやマート×怪盗M&K。[1]
+- Qubell参数：HOLD；3/7/9；222/482/657；BPM曲目页160、历史总表200有异文，160暂优先专页。[3][4]
+
+### 创作与制作背景
+
+比泛称“角色主题曲”更具体的证据，是原作影像团队留下的制作评论。もとこ说，她一面想像BisCo扮演怪盗、努力耍帅却可能无法真正帅气收场，一面制作这个BeatStream式的“仿硬派侦探”影像；因此其重点是角色的喜剧反差，而非单纯严肃的盗宝故事。[1]
+
+这次团队邀请いぬごやマート绘图。もとこ回忆，对方交图速度很快、画面又可爱，让她与菌類都吃惊。菌類则补充，制作中曾请对方把刺激感偏强的部分稍微收敛；她还从机器人角色的身体能力、高处动作等角度谈画面。这些是实际的视觉制作分工与调整，不应误填为Qrispy的作曲方法。[1]
+
+原声目录同时收录这个题名并列Qrispy Joybox，说明它有独立曲目身份。[2] 同名跨机种活动与歌曲不能混同：并非活动里所有曲都由Qrispy创作，也不能拿活动规则当作这首乐曲的全部背景。原档关于“电子与摇滚混合风格”的概括没有逐曲作者证词，撤下其因果表述。
+
+### jubeat 收录与版本
+
+历史表列2017-02-23第一弹，与原作指定时间前解锁、其余通过传导相联系。[3][4] 专页为后期2/7/9.2，历史总表是Qubell3/7/9；原档将后期小数直接放入Qubell已纠正。
+
+### 资料来源
+
+1. [BeatStream官方：怪盗BisCo影像制作评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/kaito.html)（实读）
+2. [KONAMI音乐目录：BeatStream ORIGINAL SOUND TRACK](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=126&game_id=8)（实读）
+3. [jubeatWiki：Qubell第一弹BeatStream移植表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [jubeatWiki：怪盗BisCo曲目页](https://w.atwiki.jp/jubeat/pages/1755.html)（实读）
+
+### 核验边界与待补
+
+- 3独立文献根：原制作人员评论、原声载体目录、社区谱面史。
+- 音乐创作/编曲设备尚缺Qrispy本人逐曲说明；现有第一手故事属影像。
+- BPM历史总表200与专页160冲突明示，需音源/机台再核；不得写成多站完全一致。
+
+<a id="arcade-70000162-shared"></a>
+## びいすと！
+
+- 统一曲库 ID：`arcade:70000162`
+- 原章节编号与标题：96. びいすと！
+
+### 曲目档案
+
+- 曲名：びいすと！
+- 艺人：ビートまりおとARM；原档“两人都来自COOL&CREATE”错误，ARM为IOSYS创立成员。[1][5]
+- Qubell参数：HOLD；BPM200；4/7/10；202/376/736。[3][4]
+
+### 创作与制作背景
+
+官方影像评论明确说明，这是一首把BeatStream第一年大量内部梗集中起来的作品，而不是仅仅因标题近音才与游戏相关。菌類说，从构思到谱面，声音、程序与设计人员一起反复商量；もとこ也说，团队共同讨论该塞入哪些梗，歌词和影像都装满游戏相关内容。[1]
+
+制作流程本身很特别：通常合作时会先画影像分镜，这一次菌類交给Kaito的却更接近漫画草稿。Kaito回忆，他边听基本乐曲边画漫画，并把那些亢奋的台词代入自己的表情和姿势；团队熟悉他的画风，所以虽有细部指定，整体仍给了相当自由。由此，曲中说话式的情绪被转成连续漫画与角色夸张表情。[1]
+
+这些直接材料可以解释为什么本曲如此依赖原游戏经验，也说明“周年回顾”不仅是宣传标签，更落实到团队共选素材、漫画表现与谱面设计。原声目录保留ビートまりおとARM的合作名义。[2] 但本轮没有把两人的具体词曲分工、所有声音出演者凭社区推测补成确定信用。
+
+### jubeat 收录与版本
+
+2017-02-23第一弹移植；本曲仅HOLD，依据原作游玩资料条件而非要求NIGHTMARE解锁，未满足者可传导。[3][4] 当期最高等级10，不混后期10.0口径。
+
+### 资料来源
+
+1. [BeatStream官方：びいすと！制作团队评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/beast.html)（实读）
+2. [KONAMI音乐目录：BeatStream ORIGINAL SOUND TRACK](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=126&game_id=8)（实读）
+3. [jubeatWiki：Qubell第一弹BeatStream移植表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [jubeatWiki：びいすと！](https://w.atwiki.jp/jubeat/pages/1754.html)（实读）
+5. [IOSYS官方：ARM简介](https://www.iosysos.com/creator-arm.html)（实读）
+
+### 核验边界与待补
+
+- 3逐曲文献根：官方团队评论、音乐载体目录、社区历史。ARM履历仅纠错不凑来源。
+- 第一手材料充分支持影像/团队流程，尚未取得ビートまりお或ARM逐曲作编曲访谈。
+- 不把其他作品如ウサテイ的故事直接当本曲创作原因；是否引用与具体分工仍可继续核。
+
+**历史说明：jubeat Qubell 资料条目批次（资料行 97-108）**
+
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 97-108 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+
+<a id="arcade-70000163-shared"></a>
+## にゃんのパレードマーチ♪
+
+- 统一曲库 ID：`arcade:70000163`
+- 原章节编号与标题：97. にゃんのパレードマーチ♪
+
+### 曲目档案
+
+- 曲名：にゃんのパレードマーチ♪
+- 艺人：DJ TOTTO feat.にゃん。[1]
+- Qubell参数：BPM162；4/7/9；246/496/662。[2]
+
+### 创作与制作背景
+
+本曲有非常具体的委托起点。DJ TOTTO在官方评论中，以轻松的对话形式回忆Qrispy Joybox来请他与“にゃん”合作，要求猫叫式的chip-tune，并提到将放进测试版本。他据此把作品做成有梦幻感的游行进行曲：从前奏出现的猫声主题，会改变表情并以多种编排反复出现，希望玩家想像自己与猫们一道参加游行。[1]
+
+音乐的方向也实际影响了画面。负责影像的なす说，第一次听到那些电子音时便联想到复古游戏，所以把角色画成点阵图风格的身材比例，并有意采用一格一格、略生硬的运动方式，以配合可爱的电子声。这不是后人单看画面得出的风格猜测，而是创作者明确说明的声音到视觉的转化过程。[1]
+
+署名中的“にゃん”在评论栏仍以角色式猫叫登场；本轮没有取得真人声源身份，不能贸然替它填入声优姓名。音乐目录另收录在《BeatStream アニムトライヴ ORIGINAL SOUND TRACK》，提供了离开机台后的发行载体线索。[3]
+
+### jubeat 收录与版本
+
+Qubell历史表列2017-02-23第一弹，不是原档2月16日。[2] 同表BPM162、音符246/496/662，原档202与202/376/736明显与相邻歌曲混杂，已按本曲行纠正。
+
+### 资料来源
+
+1. [BeatStream官方：DJ TOTTO与なす制作评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/nyan.html)（实读）
+2. [jubeatWiki：Qubell第一弹BeatStream移植表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [KONAMI音乐目录：BeatStreamアニムトライヴ原声](https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8)（实读）
+
+### 核验边界与待补
+
+- 3独立文献根：官方逐曲评论、社区谱面史、官方原声目录。
+- 直接证词支持Qrispy委托、猫声主题变奏与复古画面设计，但不揭示真人声源。
+- 原档plus pack8日期尚未在本轮直接复核，不写成确定扩展史。
+
+<a id="arcade-70000164-shared"></a>
+## nostos
+
+- 统一曲库 ID：`arcade:70000164`
+- 原章节编号与标题：98. nostos
+
+### 曲目档案
+
+- 艺人：Setaria Virtuoso。[1]
+- BPM：86–144。[2]
+- Qubell谱面：BASIC 4／ADVANCED 7／EXTREME 9；Notes 226／515／700。[2]
+
+### 创作与制作背景
+
+这首作品不是从曲名推测出的泛泛“乡愁音乐”。在《ノスタルジア》稼动纪念特集中，wac明确解释：开场使用的简短音型“レミファソラー”既启动也结束本曲，并以不同形态贯穿其间，连游戏玩法的概念也被纳入其中。他把意为“归乡”的标题和这种回返结构结合，称本曲代表《ノスタルジア》本身。[1]
+
+这段说明同时保留 Setaria Virtuoso 的曲目署名，以玩笑口吻介绍这位“新锐艺人”。它足以证明创作构造和作品定位，但不是直接确认马甲实名的正式信用表，本条不依靠玩笑推导身份。[1]
+
+其后作品成为跨机种交换的一方：IIDX官方3月8日公告，3月15日10时加入本曲，同时《ピアノ協奏曲第１番”蠍火”》进入《ノスタルジア》。这是发行、交换史，不是另一次委约创作。[3]
+
+### jubeat 收录与版本
+
+据Qubell历史曲表，2017-03-15加入。历史等级为4/7/9；不把后来的小数评级回填为Qubell等级。[2]
+
+### 资料来源
+
+1. [BEMANI Fan Site：wac逐曲说明](https://p.eagate.573.jp/game/bemani/fansite/p/report/2016w/report11.html?page=2)（实读）
+2. [jubeat@Wiki：Qubell曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [IIDX SINOBUZ：2017-03-08交换公告](https://p.eagate.573.jp/game/2dx/24/p/top/info.html)（实读）
+
+### 核验边界与待补
+
+- Setaria Virtuoso实名关系未以正式署名确认；原档pop’n日期未复核，撤下。
+- 未取得录音人员、钢琴型号及实际写作日期。
+
+<a id="arcade-70000165-shared"></a>
+## Four Leaves
+
+- 统一曲库 ID：`arcade:70000165`
+- 原章节编号与标题：99. Four Leaves
+
+### 曲目档案
+
+- 艺人：Endorfin.；歌唱：藍月なくる；作曲：sky_delta。[1]
+- BPM与谱面：181；Qubell 4／7／9，Notes 216／428／623。[2]
+
+### 创作与制作背景
+
+Endorfin.是音乐组合署名，不能直接当作歌手个人姓名。藍月なくる在原曲评论中说，这是她第一次与负责作曲的sky_delta一起在录音棚录制的Endorfin.作品，因而尤其有感情；音乐给她清爽、像即将开始某件事的感觉，她便选择直接投入情绪的演唱方式。[1]
+
+sky_delta一直希望让组合进入SOUND VOLTEX。IV制作纪念公募所强调的清爽、蓝色、疾走感恰好吻合组合方向，遂积极投稿；完成后连他自己也意外于作品的直率。他认为这可能不是惯常的“ボルテ风格”，但希望为游戏带来不同的新风。因此，不能把本曲写成专为jubeat周年创作。[1]
+
+《Alt.Strato》目录将本曲列为第五轨；本次实读目录不足以确定长版剪辑差异。[3] 后来Whitelily.重混的制作人みーに公开回忆，正是本曲和Endorfin.让他进入同人音乐世界、参加即卖会并开始作曲；约六年后能够制作重混，对他有特殊意义。这是后续创作者受到影响的第一手记录，不应移作原曲作者的创作动机。[4]
+
+### jubeat 收录与版本
+
+本曲属于 FLOOR INFECTION 第24弹，而不是“FACTORY Inazuma”。该轮活动在2017-03-03至21日开放；《Four Leaves》《crêpe suzette》《veRtrageS》是这轮交换曲。三曲加上 SDVX 侧《Boss Rush》全部解禁，才是后来3月31日开放的独立曲《FLOOR INFECTION Medley》的条件，不能倒写成这三首都要先完成 Boss Rush 才能解锁。[2]
+
+### 资料来源
+
+1. [SDVX FLOOR：Four Leaves原作者评论](https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/20/index_4.html)（实读）
+2. [jubeat@Wiki：Qubell曲表及FI24](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [DIVERSE DIRECT：Alt.Strato目录](https://www.diverse.direct/endorfin/edcd-0004-2/)（实读）
+4. [SDVX FLOOR：Whitelily. remix制作人回忆](https://p.eagate.573.jp/game/sdvx/sv/p/floor/remix/11/index.html)（实读）
+
+### 核验边界与待补
+
+- 词作者及编曲细分未取得独立信用表。
+- 专辑版长度、原曲与重混母带差异待核。
+
+<a id="arcade-70000166-shared"></a>
+## crêpe suzette
+
+- 统一曲库 ID：`arcade:70000166`
+- 原章节编号与标题：100. crêpe suzette
+
+### 曲目档案
+
+- 艺人：kamome sano。[1]
+- BPM与谱面：202；Qubell历史5／8／10，Notes 370／604／744。[2]
+
+### 创作与制作背景
+
+kamome sano在SOUND VOLTEX原作者评论中，将本曲与自己此前的甜点题材作了明确区别：这次不是便利店可以买到的甜点，而是把高级感和混乱感装在一起。他还开玩笑说自己其实没有吃过，希望有人请客。因而可确认的是由甜点想象转译成声音的方向，不能补写法国旅行、真实品尝后的灵感或具体烹饪体验。[1]
+
+作品后来进入2018-04-29发行的《Pâtisserie kamome》：通常版第一张CD第11轨为本曲，第二张第3轨另有《crêpe suzette (yuigot 3時のおやつ mix)》。原题曲与重混是不同条目；目录本身不能说明原版是否重新录制，也不能把重混误认成jubeat所用版本。[3]
+
+### jubeat 收录与版本
+
+本曲属于 FLOOR INFECTION 第24弹，而不是“FACTORY Inazuma”。该轮活动在2017-03-03至21日开放；《Four Leaves》《crêpe suzette》《veRtrageS》是这轮交换曲。三曲加上 SDVX 侧《Boss Rush》全部解禁，才是后来3月31日开放的独立曲《FLOOR INFECTION Medley》的条件，不能倒写成这三首都要先完成 Boss Rush 才能解锁。[2]
+
+### 资料来源
+
+1. [SDVX FLOOR：crêpe suzette作者评论](https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/16/)（实读）
+2. [jubeat@Wiki：Qubell曲表及FI24](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [DIVERSE DIRECT：Pâtisserie kamome](https://www.diverse.direct/tatsuta-recordings/tzts-0005/)（实读）
+
+### 核验边界与待补
+
+- Qubell历史表BASIC为5；原档4及10.2不应无版本区分替代历史等级。
+- 未取得更详细乐器、采样、工程过程或专辑剪辑说明。
+
+<a id="arcade-70000167-shared"></a>
+## veRtrageS
+
+- 统一曲库 ID：`arcade:70000167`
+- 原章节编号与标题：101. veRtrageS
+
+### 曲目档案
+
+- 艺人：Riz vs. Shiron；双方均参与作曲、编曲。[1]
+- BPM与谱面：190；6／9／10，Notes 501／751／888。[2]
+
+### 创作与制作背景
+
+合作的起点有具体场景：Shiron回忆，2014年春在例大祭的SOUND VOLTEX展位遇见Riz，提出一起做一首“中二”合作曲，对方接受了邀请。Riz说明自己承担了大量管弦部分，最终作品将合唱、合成器与钢琴等材料组合起来；官方信用同时列二人为作曲、编曲，不能把“vs.”当成单纯演奏对战。[1]
+
+作者解释标题意为“契约”，并指定读作“ヴァートレイジス”。这是一项作者自己的命名说明，不需要再从大小写或对抗意象猜出故事；R、S是否逐字对应姓名，本轮未再以作者明确证词核实。[1]
+
+作品在后来的jubeat festo时期成为第8届KAC个人预选课题，与《Catch Our Fire!》《Welcome to the Mosh Pit》同列，要求EXTREME谱面。官方写明该预选课程自2018-11-29开放；这是后续竞技采用史，不是本曲的创作委约或Qubell首发背景。[3]
+
+### jubeat 收录与版本
+
+本曲属于 FLOOR INFECTION 第24弹，而不是“FACTORY Inazuma”。该轮活动在2017-03-03至21日开放；《Four Leaves》《crêpe suzette》《veRtrageS》是这轮交换曲。三曲加上 SDVX 侧《Boss Rush》全部解禁，才是后来3月31日开放的独立曲《FLOOR INFECTION Medley》的条件，不能倒写成这三首都要先完成 Boss Rush 才能解锁。[2]
+
+### 资料来源
+
+1. [SDVX FLOOR：Riz与Shiron原曲评论](https://p.eagate.573.jp/game/sdvx/sv/p/floor/original/15/index_2.html)（实读）
+2. [jubeat@Wiki：Qubell曲表及FI24](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [KONAMI：第8届KAC jubeat规则](https://p.eagate.573.jp/game/kac/kac8th/jubeat/index.html)（实读）
+
+### 核验边界与待补
+
+- 完整工程分工、原录音日期及R/S大小写命名未进一步直接核实。
+
+<a id="arcade-70000168-shared"></a>
+## Twinbee's Home Town Song
+
+- 统一曲库 ID：`arcade:70000168`
+- 原章节编号与标题：102. Twinbee's Home Town Song
+
+### 曲目档案
+
+- 艺人／改编：Sota Fujimori。[1]
+- BPM与谱面：168；Qubell 2／6／9，Notes 162／417／698。[2]
+
+### 创作与制作背景
+
+Sota Fujimori明确回忆，Qrispy先提出希望他改编往年的科乐美游戏音乐；他自己选择了喜爱的初代《ツインビー》BGM。那是他童年实际玩过、很有感情的作品，他希望让不认识原曲的听众也接触旧作声音并得到相同的感动。这比笼统称作“家乡主题”更能还原改编动机，也不支持原档限定“早期家用机版本”的说法。[1]
+
+官方同页另有Qrispy与封面作者もとこ的影像说明：主角怀着年轻时的兴奋一路前冲，却屡次失败，直到往日的操作感觉重新出现。它属于伴随影像的表演故事，不是对Sota现实生活的描述。[1]
+
+2016-01-30闘会議BEMANI特别现场的独立曲序记录，将本曲列入科乐美游戏音乐串烧，标注Sota演奏键盘、TAG负责DJ。这说明作品在jubeat移植之前已有舞台传播；现场分工不等于原曲作曲信用。[3]
+
+### jubeat 收录与版本
+
+2017-04-06随BeatStream移植第7弹加入Qubell；历史EXT为9，不回填后来的9.4。曲表注明原作解禁要求；更细个人解锁状态仍应按当时活动规则判断。[2]
+
+### 资料来源
+
+1. [BeatStream：Sota Fujimori与影像团队评论](https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/twin.html)（实读）
+2. [jubeat@Wiki：Qubell曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+3. [ビーやろニュース：闘会議2016现场曲目记录](https://b-yaro.seesaa.net/article/433206802.html)（实读）
+
+### 核验边界与待补
+
+- 原作BGM的细分曲名、原作作曲者与改编母带沿革尚待信用材料；不写成家用机独有来源。
+
+<a id="arcade-70000169-shared"></a>
+## CHERNOBOG
+
+- 统一曲库 ID：`arcade:70000169`
+- 原章节编号与标题：103. CHERNOBOG
+
+### 曲目档案
+
+- 标题：CHERNOBOG
+- 艺人：漆黒のEBONY
+- 原作：BeatStream アニムトライヴ；BPM200，社区游戏长度1:57。[1]
+- Qubell等级5/9/10，物量430/761/916；5/9.6/10.7是后期等级，不倒填Qubell。[1]
+- jubeat采用原NIGHTMARE封面。[1]
+
+### 创作与制作背景
+
+官方曲页将漆黒のEBONY署名与Qrispy Joybox的评论放在一起。作曲者这段文字主要是面对高难曲的幽默“备战”建议，并自嘲失败十余次，不能把它当作真实训练处方或完整作曲动机。[2]
+
+更具体的制作故事来自影片作者。MOTOCO说这是与KINRUI再次合作，围绕遭病毒侵袭的タカハシサン实验室展开。KINRUI说明难点在于把平时松散可爱的BeatStream角色风格改造成强大的Boss气氛；她向Qrispy询问曲子意象，得到的是暴怒的タカハシサン。最后影片却将该角色做成受困的一方，并把庄严感与可爱感结合起来。她原先并不打算做完整剧情，制作过程中才逐渐长出故事，后段程序反击至结尾交给MOTOCO完成。[2]
+
+这些是视觉制作而非把神话词源反推音乐创作。社区记第5届KAC揭晓前先出现假曲名《タカハシサンのえかきうた》，以及原作神级谱面；本轮未逐帧核验赛事视频，保留为二手发表史。官方后续数字原声目录仍以漆黒のEBONY列本曲，证明该署名被延续，不据此断言是新录音。[1][3]
+
+### jubeat 收录与版本
+
+社区记录2017-04-27第10弹移植，条件涉及此前BeatStream解锁记录。它是移植活动曲，不是Qubell原创；原作NIGHTMARE难度名称不能直接换算jubeat等级。[1]
+
+### 资料来源
+
+1. RemyWiki：CHERNOBOG：https://remywiki.com/CHERNOBOG（已读；BeatStream初出、KAC假曲名、Qubell4/27第10弹；1:57、430/761/916与历史等级；jubeat采用NIGHTMARE封面）
+2. KONAMI BeatStream：CHERNOBOG作者与影片评论：https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/chernobog.html（已读；Qrispy自嘲失败；MOTOCO/KINRUI共同制作病毒实验室影片；作曲者提供暴怒意象、影片改成受困角色；由非剧情计划变为故事与分工）
+3. KONAMI ULTIMATE MOBILE：BeatStream アニムトライヴ原声目录：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8（已读；CHERNOBOG／漆黒のEBONY列入原声目录）
+
+### 核验边界与待补
+
+- 音乐创作设备、录音流程与神名选择原因仍无作者直接解释；不把一般神话知识当作本曲动机。
+- KAC舞台假曲名及精确Qubell日期为社区证据；赛事原视频未直接观看。
+- 曲评原页、游戏社区、后续原声目录为三根；评论的社区英译不额外计。
+
+<a id="arcade-70000170-shared"></a>
+## ケンぱ！ケンぱ！拳拳ぱん打！
+
+- 统一曲库 ID：`arcade:70000170`
+- 原章节编号与标题：104. ケンぱ！ケンぱ！拳拳ぱん打！
+
+### 曲目档案
+
+- 标题：ケンぱ！ケンぱ！拳拳ぱん打！
+- 艺人：ぱんぱんぱん打
+- BeatStream アニムトライヴ移植，署名ぱんぱんぱん打；官方Qrispy Joybox自述本曲由他制作。[1]
+- BPM200；物量280/459/628，社区现等级3/5/8；EXT由旧9降8。[2]
+- Qubell历史表已核3/6/9[4]；原稿称“ADV由6降至8”显然混淆谱面，撤销。[2]
+
+### 创作与制作背景
+
+官方曲页给出了明确的作者对应：Qrispy Joybox在介绍中说明本曲是自己的作品，并把游玩重点放在开头与中段的八键同时按下，鼓励玩家在发力时配合喊声。这种武术表演式的参与感是作者直接表达的构想，但它指BeatStream原作，不是说jubeat也有同样八键配置。[1]
+
+影片作者ゆうき则把动画概括为努力修行却总是无法战胜师父的熊猫，并寄语它继续加油。因此本曲的武术、熊猫与师徒关系有制作人员依据，而不必靠标题中的“拳／ぱん”自行编造剧情。页面没有讲述最初是谁提出角色、录音中的喊声由谁提供，也没有说音乐采样来自电影，这些均暂缺。[1]
+
+官方ULTIMATE MOBILE数字原声目录在BeatStream アニムトライヴ专辑中保留本曲与ぱんぱんぱん打署名；这属于音乐听赏目录，不能将“出现在IIDX客户端的播放器”误写成已进入IIDX可玩曲库。[3]
+
+### jubeat 收录与版本
+
+社区记2017-04-13经BeatStream移植活动进入Qubell，并提到原作BEAST谱面解锁记录与传导。其EXT后来降至8，原稿将这件事说成ADV变化，应纠正。精确首日仍未以官方逐日公告独立复核。[2]
+
+### 资料来源
+
+1. KONAMI BeatStream：拳拳ぱん打／Qrispy Joybox与ゆうき评论：https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/kenken.html（已读；Qrispy明确自己作曲；原作开头中段八键同按的表演性；影片是修行仍难胜师父的熊猫故事）
+2. 읽기전용위키：ケンぱ！ケンぱ！拳拳ぱん打！：https://readonly.wiki/w/%E3%82%B1%E3%83%B3%E3%81%B1%EF%BC%81%E3%82%B1%E3%83%B3%E3%81%B1%EF%BC%81%E6%8B%B3%E6%8B%B3%E3%81%B1%E3%82%93%E6%89%93%EF%BC%81（已读；200、280/459/628、现3/5/8；EXT从9降8；2017-04-13移植及传导，原作BEAST解锁条件）
+3. KONAMI ULTIMATE MOBILE：BeatStream アニムトライヴ原声目录：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8（已读；本曲与ぱんぱんぱん打列在音乐播放器原声专辑）
+
+4. jubeat@Wiki Qubell 历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；Qubell历史难度3/6/9，音符280/459/628，移植日2017-04-13）
+
+### 核验边界与待补
+
+- 作曲者与影片故事已读日文原页；完整录音制作、喊声演者及委托过程仍缺。
+- 原稿ADV6变8不成立：8是EXT后期等级；Qubell初始三谱已由历史表核为3/6/9。[4]
+- jubeat单曲wiki与相关Fandom读取失败，未以其摘要计数；普通读取403后停止。
+
+<a id="arcade-70000171-shared"></a>
+## アキネイション
+
+- 统一曲库 ID：`arcade:70000171`
+- 原章节编号与标题：105. アキネイション
+
+### 曲目档案
+
+- 标题：アキネイション
+- 艺人：ビートまりお（COOL&CREATE）
+- 原作：BeatStream アニムトライヴ；署名ビートまりお（COOL&CREATE）。[1][2]
+- BPM185，物量304/660/769；当前社区等级4/8/10.0，不冒充Qubell当时值。[1]
+- Qubell历史表已核4/9/10；ADV9与后期8分开。[5]
+
+### 创作与制作背景
+
+本曲本身的作曲动机尚无已读的ビートまりお原话，但官方保留了相当清楚的视听制作说明。影片作者saiho从“红叶”和“秋祭”关键词联想到大和绘，决定尝试让传统绘画动起来；制作顺序不是先逐拍剪片，而是先完成图像，再匹配音乐。为了让速度感很强的乐曲与画面相对舒缓的印象相容，他反复调整。[2]
+
+封面作者KINRUI另外记述在赶制封面的间隙到红叶季京都旅行、雨中登山与浓雾，并以仿佛遇到天狗作玩笑。这是封面作者的旅行回忆，不能写成ビートまりお亲赴京都采风，也不能从该段证明音乐采样了山林声音。[2]
+
+官方数字原声目录把本曲列为ビートまりお（COOL&CREATE）的作品。后续pop’n《うさぎと猫と少年の夢》原声第四盘第11轨再次收录，体现了BeatStream作品跨平台保存的发行轨迹；目录没有明确新录音，故不写成pop’n重制。旧稿以作者普遍的人声歌曲形象介绍本曲，但没有本曲歌词／演唱证据，已撤掉这种推论。[3][4]
+
+### jubeat 收录与版本
+
+jubeat社区确认是BeatStream移植，既有BeatStream解锁记录截止2017-02-13 00:00，其他玩家可通过传导；3月23日已有玩家评论，但评论日期只证明该时已能游玩，不能替代官方首发公告。[1]
+
+### 资料来源
+
+1. jubeat@Wiki：アキネイション：https://w.atwiki.jp/jubeat/pages/1777.html（已读；185、304/660/769、当前4/8/10.0；BeatStream移植及传导条件；2017-03-23已出现游玩评论）
+2. KONAMI BeatStream：アキネイション／saiho、KINRUI评论：https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/akine.html（已读；红叶秋祭引发大和绘构思，先图后配乐，速度协调反复调整；封面作者京都旅行为其本人回忆，并非作曲者采风）
+3. KONAMI ULTIMATE MOBILE：BeatStream アニムトライヴ原声目录：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8（已读；アキネイション／ビートまりお（COOL&CREATE））
+4. 駿河屋：pop’n うさぎと猫と少年の夢原声：https://www.suruga-ya.jp/product/detail/340017172（已读；Disc4第11轨アキネイション，ビートまりお署名）
+
+5. jubeat@Wiki Qubell 历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；Qubell历史难度4/9/10，音符304/660/769，移植日2017-03-23）
+
+### 核验边界与待补
+
+- 尚无ビートまりお逐曲制作访谈或日文词源说明；影片关键词不等于已经确认曲名形成过程。
+- 历史表已核Qubell初始ADV9；当前8不倒填初始。[5]
+- 游戏移植确日和数字原声发行日期未在官方所引页面明确列示，未从数据库推定。
+
+<a id="arcade-70000172-shared"></a>
+## 秘密がーる♡乙女
+
+- 统一曲库 ID：`arcade:70000172`
+- 原章节编号与标题：106. 秘密がーる♡乙女
+
+### 曲目档案
+
+- 标题：秘密がーる♡乙女
+- 艺人：MaMiKa(松下×mitsu×T.kakuta)
+- BPM：180；Qubell难度 4／7／9，音符数 281／523／703。[2]
+
+### 创作与制作背景
+
+T.kakuta 将本曲称为 MaMiKa 的出道曲，并说明制作从一开始就以学园题材为方向。不过，交来的歌词虽然仍属校园世界，具体构想却超出了他的预期；他认为内容有趣，也与松下的角色气质相合，因此保留了合作带来的意外变化。松下的歌唱和表演最终使作品呈现出另一种青春感。这比仅由标题推测“少女秘密”更接近创作者实际说明的制作过程。[1]
+
+松下特别提到歌曲中有一人分饰两角的部分。mitsu 在同页讲了一段选美与恋爱故事，但结尾明确说这是屏幕中的故事，不能据此写成他的真实校园经历。影像方面，なす以已经完成的封面为基础加入自己的安排；这是基于既有封面的视觉协作，不应和作曲分工混为一谈。[1]
+
+### jubeat 收录与版本
+
+社区历史曲表把本曲列在 BeatStream 移植活动第 6 弹，日期为 2017-03-30。[2] 官方 BeatStream 曲评与后续原声目录都保留 MaMiKa 三人联合署名。[1][3] 原稿所称 jubeat Lab 隐藏谱面尚未取得可读出处，不作为街机官方谱面事实保留。
+
+### 资料来源
+
+1. BeatStream官方：秘密がーる♡乙女制作评论：https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/himitsu.html（已读；T.kakuta说明新组合出道及学园主题、歌词的意外变化；松下说明一人二役；mitsu故事明示屏幕中情节；なす根据已有封面制作影像）
+2. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；2017-03-30第6弹；BPM180、4/7/9、281/523/703）
+3. KONAMI音乐播放器：BeatStream アニムトライヴ ORIGINAL SOUNDTRACK：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8（已读；正式曲名与艺人署名；此页是原声音乐播放器，不证明本曲可在该IIDX产品游玩）
+
+### 核验边界与待补
+
+- 联合署名与三人评论已核；不据评论顺序擅自扩出完整词曲编曲版权表。
+- 原稿Lab隐藏谱面、plus曲包未有本轮实读证据，撤去肯定说法。
+
+<a id="arcade-70000173-shared"></a>
+## Sky High
+
+- 统一曲库 ID：`arcade:70000173`
+- 原章节编号与标题：107. Sky High
+
+### 曲目档案
+
+- 标题：Sky High
+- 艺人：Cuvelia
+- BPM：153；Qubell初期难度 4／10／10，后续社区页为 4／10.6／10.6；音符数 381／872／798，HOLD谱面。[3][4]
+
+### 创作与制作背景
+
+Cuvelia 在 BeatStream 官方曲评中说明，最初接到的是希望做出令人联想到《天空の夜明け》的音乐的委托。他不愿只做一个模糊相似的版本，于是索性按续篇的思路处理：沿用 Cuvelia 署名与相近音色，并在中段为当时新的 stream notes 机制预留有趣的音效。这是创作委托、声音连续性与原游戏玩法之间的直接联系，不是根据曲名“高空”编出的意象故事。[1]
+
+移植 IIDX 时的官方评论再次谈到这一委托，但作者明确提醒自己记忆已经有些模糊，并提及 Qrispy 的要求。因此，这份后来的回顾可补充而不应覆盖最初曲评的时间位置。GOLI 的影像评论则解释了为 BeatStream 设计的轻松、漫画式呈现；他还特意区分作曲署名 Cuvelia 与角色名字 Cubelia，不能把两种拼写混作同一名称的误字。[1][2]
+
+### jubeat 收录与版本
+
+2017-04-20以 BeatStream 移植第 9 弹进入 Qubell。[3] ADVANCED 音符数比 EXTREME 多，属于谱面统计，并不意味着音乐录音更长或创作难度更高。[4] 后续官方数字原声目录亦收录本曲；音乐播放器不是可玩曲表。[5]
+
+### 资料来源
+
+1. BeatStream官方：Sky High／Cuvelia、GOLI评论：https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/skyhigh.html（已读；委托联想天空の夜明け、续篇定位、沿用音色与新机制音效；Cuvelia作曲署名与Cubelia角色区分）
+2. IIDX SINOBUZ官方：Sky High曲评：https://p.eagate.573.jp/game/2dx/24/p/newsong/sky_high.html（已读；Cuvelia回忆Qrispy委托，并提示记忆不完全清晰；GOLI谈影片）
+3. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；2017-04-20第9弹；初始4/10/10）
+4. jubeat@Wiki：Sky High：https://w.atwiki.jp/jubeat/pages/1790.html（已读；BPM153、HOLD、381/872/798、后续4/10.6/10.6）
+5. KONAMI音乐播放器：BeatStream アニムトライヴ ORIGINAL SOUNDTRACK：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8（已读；正式曲名与艺人署名；此页是原声音乐播放器，不证明本曲可在该IIDX产品游玩）
+
+### 核验边界与待补
+
+- 两篇官方作者评论保守归同创作来源链；两社区页同游戏资料链，另有数字原声出版链，共3链。
+- 原稿小数等级不是Qubell初期显示；已分期。未由本曲页面独立确认署名背后实名，不扩写。
+
+<a id="arcade-70000174-shared"></a>
+## ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～
+
+- 统一曲库 ID：`arcade:70000174`
+- 原章节编号与标题：108. ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～
+
+### 曲目档案
+
+- 标题：ぱんだしんけん１、２、３ ～ちえ！おっしょさんにはかなわないや！～
+- 艺人：おひさまくらぶ
+- BPM：158；Qubell初期 3／6／9，后续社区页 2／5／8；音符数 236／417／618。[2][3]
+
+### 创作与制作背景
+
+官方评论中あさき介绍熊猫师徒，但其简短戏谑文字不足以支持完整作曲动机。能够明确还原的是视觉协作：きんるい负责封面与角色设计，接到音频团队希望呈现复古动画感觉的要求；之后由其他成员把这些角色做成动态影像。[1]
+
+saiho 指出，音乐听起来温和可爱，实际展开却复杂，影像需要先整理结构；因为主题是功夫，又采用了带少林电影联想的镜头组织。来自 pop’n 团队的ちっひ则以已有的复古封面为线索画熊猫，并加入相应道具。以上是动画与音乐配合的具体制作证词，不能反推为あさき选择和声或乐器的原因，也不能仅凭欢乐外观断言他有意反叛自己其他作品的严肃风格。[1]
+
+### jubeat 收录与版本
+
+社区 Qubell 历史曲表记为 2017-04-13第 8 弹，与《ケンぱ！ケンぱ！拳拳ぱん打！》同日移植。[2] 单曲页所列原活动条件是具备 BeatStream 游玩资料或传导，不能误套成所有曲都要求预先解禁该曲最高难度。[3] 官方原声目录采用おひさまくらぶ署名。[4]
+
+### 资料来源
+
+1. BeatStream官方：ぱんだしんけん１、２、３ 制作评论：https://p.eagate.573.jp/game/beatstream/animtribe/p/music/movie/panda.html（已读；あさき简短评论；きんるい封面角色及复古动画要求；saiho谈温和音乐的复杂展开与功夫镜头；ちっひ跨团队制作）
+2. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；2017-04-13第8弹；158、3/6/9、236/417/618）
+3. jubeat@Wiki：ぱんだしんけん１、２、３：https://w.atwiki.jp/jubeat/pages/1787.html（已读；后续2/5/8、HOLD、原活动游玩资料与传导条件）
+4. KONAMI音乐播放器：BeatStream アニムトライヴ ORIGINAL SOUNDTRACK：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=127&game_id=8（已读；正式曲名与艺人署名；此页是原声音乐播放器，不证明本曲可在该IIDX产品游玩）
+
+### 核验边界与待补
+
+- 两社区页面合计同一游戏资料来源链，合计3链。
+- 有直接视觉制作证词，尚无充分作曲过程或词曲完整版权表；不把角色故事当作者生平。
+
+**历史说明：jubeat Qubell 资料条目批次（资料行 109-117）**
+
+> **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 109-117 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
+
+<a id="arcade-70000177-shared"></a>
+## Qubellic Prism
+
+- 统一曲库 ID：`arcade:70000177`
+- 原章节编号与标题：109. Qubellic Prism
+
+### 曲目档案
+
+- 标题：Qubellic Prism
+- 艺人：Nazzo-Non-Heat
+- BPM：170；Qubell初期 4／7／9，后续社区页 3／7／9.7；音符数328／522／745。[2][3]
+
+### 创作与制作背景
+
+本曲的出发点不是另一首外部授权曲，而是 Qubell 的系统 BGM。官方 2017 年 3 月曲目介绍明确把它作为 Qubell 稼动一周年的庆祝作品，说明玩家熟悉的背景音乐变成了可以实际演奏的曲目。这给出了作品与周年企划的直接关系，但没有展开如何剪辑各界面音乐、使用哪些音源或为何取名 Prism。[1]
+
+Nazzo-Non-Heat 是正式出版时使用的署名。社区资料仍将其真实身份列为未知，不能把“谜之人”的谐音或全连称号推成多人合作的证明；原稿的“来自多人合作形态”应撤回。后来本曲收进《jubeat clan ORIGINAL SOUNDTRACK》，官方目录保留该署名，实体盘目录将其列为第4轨。收在 clan 原声不等于首发游戏为 clan。[2][4][5]
+
+### jubeat 收录与版本
+
+Qubell 历史曲表记载 2017-03-30起传导解禁；社区单曲页记载最初由 Akhuta、ショッチョー、SYUNN 的线上匹配活动向玩家传导，后来进入 clan SHOP。[2][3] 参与传导的工作人员姓名不能直接当成作曲版权署名。
+
+### 资料来源
+
+1. BEMANI Fan Site：2017年3月曲目介绍：https://p.eagate.573.jp/game/bemani/fansite/p/music/201703/（已读；Qubellic Prism为Qubell一周年作品，系统BGM可游玩）
+2. jubeat@Wiki：Qubellic Prism：https://w.atwiki.jp/jubeat/pages/1781.html（已读；BPM170、328/522/745、后续3/7/9.7；匿名署名、传导活动与clan SHOP）
+3. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；2017-03-30传导；初期4/7/9）
+4. KONAMI音乐播放器：jubeat clan ORIGINAL SOUNDTRACK：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=113&game_id=6（已读；Qubellic Prism署名Nazzo-Non-Heat）
+5. ARKSQUARE：jubeat clan GFCA-445：https://arksquare.net/detail.php?cdno=GFCA-445（已读；2018-02-14、GFCA-445、第4轨）
+
+### 核验边界与待补
+
+- 两社区页合游戏链；两原声目录合出版链，加官方周年介绍共3链。
+- 作者身份、具体编曲过程未有直接证词；官方新闻11365069正文此轮仅标题可见，搜索摘要不计，改用已实际读到本曲介绍的官方月档。
+
+<a id="arcade-70000178-shared"></a>
+## FLOOR INFECTION Medley from SOUND VOLTEX×jubeat
+
+- 统一曲库 ID：`arcade:70000178`
+- 原章节编号与标题：110. FLOOR INFECTION Medley from SOUND VOLTEX×jubeat
+
+### 曲目档案
+
+- 标题：FLOOR INFECTION Medley from SOUND VOLTEX×jubeat
+- 艺人：United Composers from SOUND VOLTEX
+- BPM：145–195；仅有HOLD谱面；Qubell初期 6／9／10，后续社区页 6／8／10.2；音符数 507／720／932。[1][2]
+
+### 创作与制作背景
+
+官方月度曲目介绍将本作明确定位为此前 FLOOR INFECTION 乐曲重新组成的串烧。因此它记录的是两游戏长期交换曲目的企划关系，不能仅凭联合署名认定作者曾在同一次录音中共同写出全新作品。社区单曲页辨识的六段素材是《Dynasty》《Gott》《croiX》《freaky freak》《BLACK or WHITE?》《veRtrageS》。[1][3]
+
+联合署名反映素材来自相应游戏的作曲者群，但目前读到的官方简介没有给出本串烧实际剪辑、混音或过渡段制作人员。原稿关于“贯通竞速线”或“日常舞池到高潮”的说法缺少创作者证词，不能当作制作意图；同样不能把每首原曲的创作动机自动套给这次拼接版本。后来的 KONAMI PC版曲包目录仍以同一曲名与联合署名收录它，说明这一串烧作为独立游戏曲目的后续发行，不是原六曲曲包的别称。[3][4]
+
+### jubeat 收录与版本
+
+jubeat 配信日期为2017-03-31。[2] 两首串烧采用交错配信：FLOOR INFECTION 串烧先在 jubeat 于3月31日登场，而 POLICY BREAK 串烧先在 SOUND VOLTEX 同日登场；4月7日再分别进入另一游戏。[1][2] 社区活动资料说明，2017-03-03至21日期间需要完成的是 jubeat 侧《Four Leaves》《crêpe suzette》《veRtrageS》以及 SOUND VOLTEX 侧《Boss Rush》，总计四曲，并非 SDVX 单侧四曲；原稿 FACTORY INFECTION 误名应为 FLOOR INFECTION。[5] 后续 PC版 INFINITE 曲包 vol.8 列有本曲，不与街机初发条件混淆。[4]
+
+### 资料来源
+
+1. jubeat@Wiki：FLOOR INFECTION Medley from SOUND VOLTEX×jubeat：https://w.atwiki.jp/jubeat/pages/1782.html（已读；六段素材名单、BPM145–195、音符507／720／932、后续等级；两游戏交错配信）
+2. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；2017-03-31、初期6／9／10）
+3. BEMANI Fan Site：2017年4月曲目介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201704/（已读；明确此前FLOOR INFECTION乐曲组成串烧、正式联合署名）
+4. SOUND VOLTEX III コナステ：INFINITE曲包目录：https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist_basic.html（已读；本曲列于INFINITE曲包vol.8）
+5. jubeat@Wiki：FLOOR INFECTION／POLICY BREAK活动：https://w.atwiki.jp/jubeat/pages/1207.html（已读；解锁条件是jubeat三曲和SDVX一曲，共四曲）
+
+### 核验边界与待补
+
+- 三社区页同游戏资料链；官方串烧简介与后续PC版发行目录是两份不同出版事件，共3链，并非三份制作访谈。
+- 实际串烧编排人员与剪辑过程未核；只保留已能验证的素材与企划来源。
+
+<a id="arcade-70000179-shared"></a>
+## POLICY BREAK Medley from SOUND VOLTEX×jubeat
+
+- 统一曲库 ID：`arcade:70000179`
+- 原章节编号与标题：111. POLICY BREAK Medley from SOUND VOLTEX×jubeat
+
+### 曲目档案
+
+- 标题：POLICY BREAK Medley from SOUND VOLTEX×jubeat
+- 艺人：United Composers from jubeat
+- BPM：93–311；Qubell初期 5／9／10，后续社区页 5／8／10.6；音符数 402／706／1074。[1][2]
+
+### 创作与制作背景
+
+官方月度曲目介绍将本作明确定位为此前 POLICY BREAK 乐曲重新组成的串烧。因此它记录的是两游戏长期交换曲目的企划关系，不能仅凭联合署名认定作者曾在同一次录音中共同写出全新作品。社区单曲页辨识的六段素材是《I'm so Happy》《True Blue》《ドーパミン》《Boss Rush》《JOMANDA》《量子の海のリントヴルム》。[1][3]
+
+联合署名反映素材来自相应游戏的作曲者群，但目前读到的官方简介没有给出本串烧实际剪辑、混音或过渡段制作人员。原稿关于“贯通竞速线”或“日常舞池到高潮”的说法缺少创作者证词，不能当作制作意图；同样不能把每首原曲的创作动机自动套给这次拼接版本。后来的 KONAMI PC版曲包目录仍以同一曲名与联合署名收录它，说明这一串烧作为独立游戏曲目的后续发行，不是原六曲曲包的别称。[3][4]
+
+### jubeat 收录与版本
+
+jubeat 配信日期为2017-04-07。[2] 两首串烧采用交错配信：FLOOR INFECTION 串烧先在 jubeat 于3月31日登场，而 POLICY BREAK 串烧先在 SOUND VOLTEX 同日登场；4月7日再分别进入另一游戏。[1][2] 社区活动资料说明，2017-03-03至21日期间需要完成的是 jubeat 侧《Four Leaves》《crêpe suzette》《veRtrageS》以及 SOUND VOLTEX 侧《Boss Rush》，总计四曲，并非 SDVX 单侧四曲；原稿 FACTORY INFECTION 误名应为 FLOOR INFECTION。[5] 后续 PC版 INFINITE 曲包 vol.9 列有本曲，不与街机初发条件混淆。[4]
+
+### 资料来源
+
+1. jubeat@Wiki：POLICY BREAK Medley from SOUND VOLTEX×jubeat：https://w.atwiki.jp/jubeat/pages/1786.html（已读；六段素材名单、BPM93–311、音符402／706／1074、后续等级；两游戏交错配信）
+2. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；2017-04-07、初期5／9／10）
+3. BEMANI Fan Site：2017年4月曲目介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201704/（已读；明确此前POLICY BREAK乐曲组成串烧、正式联合署名）
+4. SOUND VOLTEX III コナステ：INFINITE曲包目录：https://p.eagate.573.jp/game/eacsdvx/iii/p/common/info/sdvx_mlist_basic.html（已读；本曲列于INFINITE曲包vol.9）
+5. jubeat@Wiki：FLOOR INFECTION／POLICY BREAK活动：https://w.atwiki.jp/jubeat/pages/1207.html（已读；解锁条件是jubeat三曲和SDVX一曲，共四曲）
+
+### 核验边界与待补
+
+- 三社区页同游戏资料链；官方串烧简介与后续PC版发行目录是两份不同出版事件，共3链，并非三份制作访谈。
+- 实际串烧编排人员与剪辑过程未核；只保留已能验证的素材与企划来源。
+
+<a id="arcade-70000180-shared"></a>
+## Valanga
+
+- 统一曲库 ID：`arcade:70000180`
+- 原章节编号与标题：112. Valanga
+
+### 曲目档案
+
+- 标题：Valanga
+- 艺人：DJ TOTTO
+- BPM：186；Qubell 6／9／10，后续 6／9.1／10.5；HOLD谱面。BSC／ADV音符436／703；EXT：RemyWiki842，Qubell历史表841，差异待核。[1][2]
+
+### 创作与制作背景
+
+《Valanga》最初属于 REFLEC BEAT colette -Winter- 的“传说之山”解禁，亦是 DJ TOTTO 的 BEMANI 出道作品。后者不只有社区记载：2020 年官方刊载的かめりあ改编评论也明确这样介绍原作。社区将标题解释为意大利语“雪崩”，但尚未取得 DJ TOTTO 本人的原作曲评，不能据此编写“他用鼓组或HOLD表现雪山”的动机；HOLD是后来 jubeat 的谱面机制，不是原曲创作过程。[1][4]
+
+作为后续传播史，かめりあ的《Valanga -かめりあ's "RBc-GB" Arrangement-》设想原曲若移植到旧式掌机会是什么样子，以掌机式音色为主、保留钢琴等例外。这是2020年另一编曲的构想，绝不是本条2013年原作或2017年jubeat移植音源的说明。官方也把原名《Valanga》列入《pop’n music Sunny Park original soundtrack vol.2》目录。[4][5]
+
+### jubeat 收录与版本
+
+官方2017年4月曲目介绍确认本曲经期间限定QUBE“Valanga -伝説の山-”进入jubeat。[3] 历史游戏表给出的Qubell等级为整数，不宜把后来的9.1／10.5回填为当时显示。[2] 原作、REFLEC的Valanga 2017与其他remix分开，不因同名主干合并录音。[1]
+
+### 资料来源
+
+1. RemyWiki：Valanga：https://remywiki.com/Valanga（已读；原版REFLEC初出、Valanga2017另版本、HOLD与842音符）
+2. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；186、6/9/10、436/703/841）
+3. BEMANI Fan Site：2017年4月曲目介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201704/（已读；Valanga经限定QUBE移植）
+4. KONAMI：BEMANI 8bit collection改编者评论（2020-07-15）：https://p.eagate.573.jp/game/2dx/mobile/top/info/bemani_8bit_collection.html（已读；称原作DJ TOTTO出道曲；掌机音色创意属于2020另编曲）
+5. KONAMI音乐播放器：Sunny Park OST vol.2：https://p.eagate.573.jp/game/2dx/mobile/music/detail.html?album_id=53&game_id=2（已读；Valanga署名DJ TOTTO收录）
+
+### 核验边界与待补
+
+- 社区资料合一链；官方移植、原声目录各一链，最低3；后续改编说明作附证不用于填补原作动机。
+- EXT 841／842冲突保留，不以网页多数裁定。原作制作访谈仍待核；猜测popn曲评入口404未用。
+
+<a id="arcade-70000181-shared"></a>
+## 見習い天使と星降りの丘
+
+- 统一曲库 ID：`arcade:70000181`
+- 原章节编号与标题：113. 見習い天使と星降りの丘
+
+### 曲目档案
+
+- 标题：見習い天使と星降りの丘
+- 艺人：DJ TOTTO
+- BPM：174；Qubell初期 4／8／10，后续社区页 3／8／9.7；音符数264／553／806。[1][2]
+
+### 创作与制作背景
+
+本曲由GITADORA移植而来，2014年《GITADORA Original Soundtracks 3rd season》目录列DJ TOTTO为作曲、编曲与表演署名。不能因为后来被放入“Valanga”主题QUBE，就把它改写成专为jubeat雪山活动创作的曲子。[1][3]
+
+目前实际读到的一条早期制作线索，是玩家あきぷ2014年12月的评论：他提及96演奏吉他，并转述原声册曾要求MASTER处于较高难度区间。由于这只是读者对册页的转述，本轮没有见到相应原册，不能把具体数字或电子音、乐队配置等其他搜索摘要扩写为作者已核原话。它至少提示后续应沿原GITADORA委托与演奏人员追查，而非仅用“童话轻盈”一类听感代替故事。[4]
+
+### jubeat 收录与版本
+
+官方2017年4月月档明确将本曲与Valanga主题QUBE联系；社区页记录活动期2017-04-20至5月10日。[1][5] 原稿3／8／9.7是后续参数，历史表4／8／10是Qubell口径，两者不应当成同版互相否定。原稿阶段序号本轮未实读阶段表，暂不采用。[1][2]
+
+### 资料来源
+
+1. jubeat@Wiki：見習い天使と星降りの丘：https://w.atwiki.jp/jubeat/pages/1791.html（已读；GITADORA移植、当前3/8/9.7、264/553/806、2017-04-20至05-10）
+2. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；初期4/8/10）
+3. Tower：GITADORA Original Soundtracks 3rd season GFCA-363：https://tower.jp/item/3446866（已读；2014-03-26；DJ TOTTO作曲编曲与演奏；本曲收录）
+4. あきぷ：ギタドラ11.23%的评论（2014-12-21）：https://akp.hateblo.jp/entry/2014/12/21/011823（已读；本曲吉他96；提及原册难度委托，尚未直接核原册）
+5. BEMANI Fan Site：2017年4月曲目介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201704/（已读；本曲对应Valanga限定QUBE）
+
+### 核验边界与待补
+
+- 两社区页一根，册页转述与原声目录保守合出版根，另官方移植文献，共3根。
+- Remy与namu、BEMANICN本曲正文403，未采用搜索摘要中的完整制作故事；CAA索引只有封面，不能声称原册已读。
+
+<a id="arcade-70000182-shared"></a>
+## Ding Dong Bell
+
+- 统一曲库 ID：`arcade:70000182`
+- 原章节编号与标题：114. Ding Dong Bell
+
+### 曲目档案
+
+- 标题：Ding Dong Bell
+- 艺人：A応P
+- 作词／作曲：肥塚良彦。[1][3]
+- BPM：157；Qubell 3／6／8，音符数259／354／583。[2]
+
+### 创作与制作背景
+
+肥塚良彦在官方专访中说明，委托同时要求专辑收尾曲与《A応Pのあにむす!!》片尾主题，因此他有意写成适合结束场景的歌曲。相较自己对A応P充满活力、偶尔古灵精怪的印象，这次他刻意采用很正统的昭和偶像歌方向，想听听由她们演唱会产生何种效果。[1]
+
+相遇、共度时光、羁绊、暂别与重逢构成他设定的情境；婚礼、毕业典礼或演出尾声是他想象的适用场合，不是这首歌确实受某场婚礼委托的证据。他还认为实际歌唱仍显出鲜明的A応P特色，并将它与自己稍早的《お茶づけ☆パラダイス》视为两种不同方向。[1]
+
+作品后来也进入现场：Eventernote上署名Long_t31613f的观众回顾2018-01-01巡演终场时，记下本曲与《SMILE ON YOU》等连续演出的段落。这是一位观众的接受史记录，不能提升为官方歌单或当成作曲动机。[4]
+
+### jubeat 收录与版本
+
+官方专访确认本曲2017-04-28同时进入GITADORA Tri-Boost Re:EVOLVE与jubeat Qubell；次日发行的专辑《Y》以它作为第10轨，编号AKOAC-00004。[1] 游戏统计另由Qubell历史表核对。[2]
+
+### 资料来源
+
+1. BEMANI官方：Ding Dong Bell成员访谈与肥塚良彦制作评论（2017-04-24）：https://p.eagate.573.jp/game/bemani/fansite/p/report/2017sp/report01.html（已读；收尾与昭和偶像歌方向；情境与演唱结果；2017-04-28两游戏追加；Y翌日发行、末轨与品番）
+2. jubeat@Wiki：Qubell历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；157、3/6/8、259/354/583、4月28日）
+3. 歌ネット：Ding Dong Bell：https://www.uta-net.com/song/229100/（已读；肥塚良彦词曲、2017-04-29）
+4. Eventernote：2018-01-01 A応P巡演终场／Long_t31613f观众回顾：https://www.eventernote.com/events/118146（已读；回顾明确提本曲与SMILE ON YOU等接续演唱）
+
+### 核验边界与待补
+
+- 官方访谈含唱片发行附表，歌词信用保守并该发行根；社区游戏、观众现场各独立，共3根。
+- 访谈中的假设组乐队问答不是本曲器乐录音名单；不写成员实际演奏对应乐器。
+
+<a id="arcade-70000183-shared"></a>
+## 拙者はSAMURAI FOOD
+
+- 统一曲库 ID：`arcade:70000183`
+- 原章节编号与标题：115. 拙者はSAMURAI FOOD
+
+### 曲目档案
+
+- 标题：拙者はSAMURAI FOOD
+- 艺人：S-C-U a.k.a. Food Samurai × A応P
+- BPM：136；Qubell 难度 3／7／9，音符数 251／494／653。[2]
+
+### 创作与制作背景
+
+本曲属于 jubeat 与永谷园的跨行业合作，不是把某首已知电视广告歌曲直接移植进游戏。2017 年 6 月官方介绍明确写为合作制作的歌曲，并以「Food Samurai 也闻着饭香参上」的宣传措辞介绍 S-C-U 的角色；正式署名把 Food Samurai 与 A応P 并列。[1]
+
+它也有游戏之外的唱片记录：MusicBrainz 列在《jubeat×永谷園 オリジナル音楽集》之下，同时登记歌唱版及卡拉 OK 版，长度分别为 3:27、3:25。这是社区唱片目录，不可拿来代替街机剪辑时长，也不足以确定说唱、作词、录音各项分工。[3]
+
+现有可读材料能确认食品合作的委约环境和演唱署名，却没有 S-C-U 逐曲讲述配器或写词过程的访谈。原稿把说唱分工写成既定事实，现收束为待核，不凭武士口吻推断创作者的个人经历。
+
+### jubeat 收录与版本
+
+Qubell 历史表记为 2017-06-01 配信，与官方 6 月歌曲介绍相合。此处采用当代版本表的 EXT 9，不把后续难度调整当作原版数据。[1][2]
+
+### 资料来源
+
+1. BEMANI Fan Site 2017 年 6 月：拙者はSAMURAI FOOD：https://p.eagate.573.jp/game/bemani/fansite/s/music/201706/index.html（已读；永谷园合作制作歌曲；Food Samurai 与 A応P 署名及宣传角色）
+2. jubeat@Wiki Qubell 历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；2017-06-01配信；136 BPM，3/7/9，251/494/653）
+3. MusicBrainz S-C-U recordings：本曲两版：https://musicbrainz.org/artist/95bc0d1c-b005-4a73-b8a8-4230f39f8b3f/recordings（已读；合作音楽集收录歌唱与卡拉OK；3:27与3:25为唱片目录而非街机时长）
+
+### 核验边界与待补
+
+- 三根为官方合作介绍／社区游戏参数／合作唱片记录，不是三份作者采访。
+- 作词、具体说唱与乐器制作分工待官方信用或本人访谈。
+
+<a id="arcade-70001001-shared"></a>
+## 枝に結ぶ願い [ 2 ]
+
+- 统一曲库 ID：`arcade:70001001`
+- 原章节编号与标题：116. 枝に結ぶ願い [ 2 ]
+
+### 曲目档案
+
+- 标题：枝に結ぶ願い [ 2 ]
+- 艺人：Akhuta
+- BPM：204；Qubell 当时 HOLD 难度为 4／8／9，音符数 357／519／735；现单曲页为 4／7／9.5，不可倒填到 Qubell。[1][2]
+
+### 创作与制作背景
+
+这里首先要分清作品与谱面：《枝に結ぶ願い》本身已在 saucer fulfill 出现，是《星宿る空の下で》的续篇；2016 年新增的是 [2] HOLD 谱面。社区记录同时指出当次有轻微音源调整，所以不能简单写成完全相同的旧音源，也不能把它另立为全新创作。[1]
+
+关于原作如何形成，目前实读到的是韩文社区转录的 Akhuta 曲评，而非日文原册。该转录说，制作时作品扩展至约四分钟，作者舍不得直接删去结尾，反而切去前半；还把封面白衣女性伸出画面边缘的手臂与未展示的另一部分联系起来。这提供了分段作品和封面相互呼应的制作线索，但只能以「曲评转译如此记载」引用，不把文字游戏扩写为现实人物传记。[3]
+
+2017 年 3 月官方歌曲介绍又列出合题《星宿る空の下で　枝に結ぶ願い》，明确归入「春のLongキャンペーン」。这证明后来确有长曲形态的游戏发行节点；它与本条 2016 年 [2] 谱面不是同一个新增项目。[4]
+
+### jubeat 收录与版本
+
+历史曲表将本条放在 2016-07-07 至 07-20 的 Fables of Akhuta 活动；单曲页记录全难度全连称号为「彼の者は枝の下に立っていた」。旧通常谱面与新增 HOLD 谱面应分别登记。[1][2]
+
+### 资料来源
+
+1. jubeat@Wiki 枝に結ぶ願い：https://w.atwiki.jp/jubeat/pages/1416.html（已读；原曲saucer fulfill与2016-07-07新增HOLD分开；音源微调及当前难度/称号）
+2. jubeat@Wiki Qubell 历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；Qubell HOLD为4/8/9；2016-07-07至07-20活动）
+3. 읽기전용위키：3.3 Akhuta 曲评韩文转录：https://readonly.wiki/w/星宿る空の下で%20枝に結ぶ願い（已读；约四分钟作品切去前半的说明；封面伸手与曲目未展示部分呼应；原件未核）
+4. BEMANI Fan Site 2017 年 3 月：合题长曲：https://p.eagate.573.jp/game/bemani/fansite/p/music/201703/（已读；合题曲由Akhuta署名；春のLongキャンペーン解禁曲）
+
+### 核验边界与待补
+
+- 曲评仅实读韩文转译，未取得日文原册；不计为直接原文证据。
+- 两个游戏表同根；加原曲评转译的原文根、2017长曲公告，共三根。
+- 音源改动未逐秒比对；删除原稿未经来源支持的空灵音色推断。
+
+<a id="arcade-70001007-shared"></a>
+## Windy Fairy [ 2 ]
+
+- 统一曲库 ID：`arcade:70001007`
+- 原章节编号与标题：117. Windy Fairy [ 2 ]
+
+### 曲目档案
+
+- 标题：Windy Fairy [ 2 ]
+- 艺人：DJ TOTTO
+- BPM：180；Qubell HOLD 难度 4／7／9，音符数 278／465／690；HOLD 数 26／35／35。后期 EXT 9.3 与 Qubell 9 分开。[1][2]
+
+### 创作与制作背景
+
+原作来自 REFLEC BEAT colette 的春季版本。原官方页面保留了 2013-03-14转推活动的兑现结果：1500 次转推后公开 DJ TOTTO 新曲《Windy Fairy》的标题与试听；同页另列他制作的开场音乐，二者不是同一首。[3]
+
+真正涉及创作构想的材料，目前读到的是韩文社区的 DJ TOTTO 曲评转译：为配合 Spring，他想象宣告某种开始的温暖春风，以及在其中舞动的小妖精；他同时坦言制作并不轻松，尤其曾为采用何种音乐切入方式苦恼，最后形成不同于出道作《Valanga》、又符合自身气质的作品。这里保留转译层级，不宣称已经核对日文原稿，也不把玩家常用的其他游戏联想写成作者灵感来源。[4]
+
+Qubell 的 [2] 标识针对新增 HOLD 谱面，不等于 Cororo 后来的钢琴改编或 GITADOROCK 版。RemyWiki 把这些改编单列；本条没有证据证明为 [2] 专门重新作曲或重录。[1]
+
+### jubeat 收录与版本
+
+历史表把 [2] 列在 2017-04-20 至 05-10 的《Valanga～伝説の山～》QUBE 中。RemyWiki 补充它为第一阶段解禁。保留原作 saucer 移植史与 Qubell 新谱面两层，不将首次创作日期写为 2017 年。[1][2]
+
+### 资料来源
+
+1. RemyWiki Windy Fairy：版本与[2]表：https://remywiki.com/Windy_Fairy（已读；[2]第一阶段，278/465/690及26/35/35 HOLD；原曲与钢琴、摇滚改编分开）
+2. jubeat@Wiki Qubell 历史曲表：https://w.atwiki.jp/jubeat/pages/1607.html（已读；4/7/9及Valanga活动2017-04-20至05-10）
+3. REFLEC BEAT colette 官方 INFORMATION：3月14日活动：https://p.eagate.573.jp/game/reflec/colette/p/visitor/information.html（已读；1500RT后公开Windy Fairy试听和标题；独立于另项开场音乐）
+4. 읽기전용위키：2.1 DJ TOTTO 曲评韩文转译：https://readonly.wiki/w/Windy%20Fairy（已读；温暖春风与小妖精意象；音乐切入方式难产；与Valanga不同的本人风格）
+
+### 核验边界与待补
+
+- 两个游戏社区保守同一参数根，官方同期公告及曲评原出版根另计，共三根。
+- 创作构想仅二手韩文转译，未核原册；不拿译录与原册目录重复计数。
+- 未证明[2]专门重录，不把其他平台改编信用套到本谱面。
+
+<!-- JUBEAT_MASTER_SUPPLEMENT_START -->
+
+## 总表补齐（本轮研究）
+
+此段按00总表本地归属补齐；本地分组不等于历史首发版本，跨版本差异在每曲明确。条目为阶段草稿，研究状态见同目录说明。
+
+<a id="arcade-70000062-shared"></a>
+## キミヱゴサーチ
+
+- 统一曲库 ID：`arcade:70000062`
+- 原章节编号与标题：118. キミヱゴサーチ
+
+### 曲目档案
+
+- 艺人：ここなつ（東雲夏陽／東雲心菜）
+- 实际歌唱：日南結里／小澤亜李；本曲心菜主唱
+- 作词／作曲：sasakure.UK
+- 曲目企划：ひなビタ♪；ここなつ第二单曲
+- BPM／Qubell难度／物量：120；2/6/8；204/456/630
+
+### 创作与制作背景
+
+《キミヱゴサーチ》是《ひなビタ♪》衍生双人组合ここなつ（ここなつ）的第二支单曲；现实制作由 sasakure.UK 负责词曲，声优日南結里与小澤亜李分别演绎東雲夏陽和東雲心菜。官方特别把它与《ミライプリズム》区别：这次以心菜为主唱，音乐定位为轻柔、松软的 techno-pop。它并非声优个人名义的生活自述，而是角色与音乐共同展开的企划作品。[1][2]
+
+在虚构故事里，这首歌于银座商店街的“吐故納新フェスティバル”演出；官方剧情用ここなつ的地方偶像活动及其对商店街的影响，推动日向美商店街人物的态度变化。这个节庆与商业竞争属于作品世界，不是现实发行宣传活动的报道。歌词文本大量使用社交网络及数字通信词汇，把想传达给对方的心情写成信息交换；这是基于可读歌词的内容概述，不能进一步推断为作者个人网络经历。[1][2]
+
+录制方面目前只找到较具体的二级线索：2015 年的活动听众文章转述，sasakure.UK 自己唱过导唱，小澤听到男性唱到这个音区时十分惊讶。该记录并非本轮直接听到的小澤原采访或制作录音，所以仅作为注明出处的制作回忆线索，不提升为已独立确认的第一手证言。[3]
+
+曲目在 2014-09-12已进入 SOUND VOLTEX II；2016 年进入 jubeat 是后续收录，不能写成那时才创作。也不能将后来由かめりあ处理的独立 Remix 署名替换原曲的 sasakure.UK 词曲署名。[4][1]
+
+### jubeat 收录与版本
+
+总库Qubell与版本曲表一致；该表注明plus先行、街机2016-06-10配信。BPM120，Qubell等级2/6/8、物量204/456/630。◆在这张表表示官方归原创曲侧，不等于所有◆都必然是HOLD，本文不据符号臆断谱面类型。[5]
+
+### 资料来源
+
+1. [KONAMIひなビタ♪：キミヱゴサーチ](https://p.eagate.573.jp/game/bemani/hinabita/p/coconatsu/disco/pop_kimiego.html)（实读）
+2. [J-Lyric：キミヱゴサーチ署名与歌词](https://j-lyric.net/artist/a05b1a9/l039fb2.html)（实读）
+3. [思いのままにペンでスラスラ：ここなつ作品解说](https://leather770.hatenablog.com/entry/2015/02/17/225950)（实读）
+4. [BEATSQUARE：SOUND VOLTEX II更新记录](https://www2u.biglobe.ne.jp/~hiro-p/list/svii/update.htm)（实读）
+5. [jubeat Wiki：Qubell版本曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+
+### 核验边界与待补
+
+- 原作官方与歌词信用合根，活动听众原记另根、社区游戏资料保守一根，共3根。
+
+- 导唱细节仅为活动听众转述；待找到原访谈/活动录像核实。
+- 2014-09-24数字发行有搜索线索但本轮未核原页，未据摘要填确定发行日期。
+- 未查到sasakure.UK对本曲主题或音色选择的直接创作说明；官方曲风/剧情不是作者自述。
+
+<a id="arcade-70000063-shared"></a>
+## ミライプリズム
+
+- 统一曲库 ID：`arcade:70000063`
+- 原章节编号与标题：119. ミライプリズム
+
+### 曲目档案
+
+- 艺人：ここなつ
+- 演唱角色／声优：東雲夏陽（日南結里）、東雲心菜（小澤亜李）
+- 作词／作曲／编曲：tilt-six
+- 曲目定位：组合出道曲；非 collaboration ver.
+- BPM／Qubell难度／物量：140；2/6/8；162/433/658
+
+### 创作与制作背景
+
+《ミライプリズム》承担了《ひなビタ♪》中双胞胎偶像组合ここなつ的登场角色。官方故事把它设定为邻镇由良巨大商业区“みらいタワー・ほしゆめ”的宣传曲：夏陽和心菜在新建现场馆的地方偶像比赛中演出，并击败日向美ビタースイーツ♪。这些地点、比赛和胜负属于虚构剧情，实际歌曲由 tilt-six 负责词曲与编曲，不能误署给剧情中的偶像或整个企划的其他音乐负责人。[1][3]
+
+同期《ファミ通》报道提供了现实制作组织的背景：这里是以“新一代未来派偶像”为概念的双人单位，U/M/A/A 负责声音制作，本曲制作人为 tilt-six；计划让不同制作人的新曲同时通过音乐游戏及数字音乐平台展开。报道刊于 2014-07-03，并预告次日加入 SOUND VOLTEX II，因此这不是 2016 年为 jubeat 新写的作品。官方介绍中的摇滚、电子与EDM融合是 tilt-six 的整体音乐风格简介，不能在没有逐曲采访时进一步写成每一种元素都被有意放进本曲。[2][1]
+
+必须区分其后续录音：唱片《ここなつBEST》分别收原版和“ここなつ meets 日向美ビタースイーツ♪”演唱的 collaboration ver.，它们不是可以互换的曲目身份。另据かめりあ自己的作品表，《Hope Sound》第十三轨的重混版本改由初音ミク与GUMI歌唱，原曲声源仍明确为ここなつ；因此本条既不是VOCALOID原唱版，也不是该重混版。原版唱片音轨3:33只是完整录音长度，不代替游戏剪辑长度。[3][4]
+
+### jubeat 收录与版本
+
+对应总库Qubell原版；版本表注明plus先行、街机2016-06-09加入。Qubell数据140BPM、2/6/8、162/433/658；同页另列collaboration ver.的5/7/9、358/496/628，本文未混用。[5]
+
+### 资料来源
+
+1. [KONAMIひなビタ♪：ミライプリズム](https://p.eagate.573.jp/game/bemani/hinabita/p/coconatsu/disco/pop_mirai.html)（实读）
+2. [ファミ通：ミライプリズム加入SDVX II](https://www.famitsu.com/news/201407/03056561.html)（实读）
+3. [Tower Records：ここなつBEST完整曲表](https://tower.jp/item/5143881)（实读）
+4. [かめりあ官方网站：Activity / Hope Sound](https://cametek.jp/activity.html)（实读）
+5. [jubeat Wiki：Qubell版本曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+
+### 核验边界与待补
+
+- 未找到tilt-six逐曲旋律、配器或歌词创作动机的直接说明。
+- 现实声音制作组织与虚构商业区推广设定分开；不把剧情当现实商业合作。
+- Hope Sound原特设502，版本区分取自重混作者网站；不猜其原版创作日期。
+
+<a id="arcade-70000064-shared"></a>
+## ポメグラネイト
+
+- 统一曲库 ID：`arcade:70000064`
+- 原章节编号与标题：120. ポメグラネイト
+
+### 曲目档案
+
+- 艺人：ここなつ
+- 作词／作曲／编曲：millstones
+- 企划定位：第三单曲；《ひなビタ♪》角色歌曲
+- CD发行：2014-12-24《ミライプリズム》第三轨
+- BPM／Qubell难度／物量：130；3/7/9；222/445/668
+
+### 创作与制作背景
+
+《ポメグラネイト》是ここなつ第三支单曲，由 millstones 负责词、曲与编曲。官方曲目页没有把它包装成单纯的成名庆祝歌，而是以剧情中姐妹成名后的代价为背景：夏陽长年为心菜努力而身心俱疲，心菜也因此自责；她们被过去与地方开发计划的利益结构困住。这些是官方给出的角色叙事语境，不是对现实声优或作曲者生活的描述。[1][2]
+
+2014-11-20由 4Gamer 原样刊载的ユーマ公告，将本曲作为刚发表的新曲介绍，并列入 12 月 24 日发行的首张 CD《ミライプリズム》第三轨，同时另附伴奏轨。与已经先行在游戏和数字平台传播的前两首相对照，可确定它是组合早期三曲企划的一部分；不能把后来2021年精选集的日期当首次发表。[3]
+
+本轮找到一条明确标为二级的录制回忆：参加2015-02-08迷你专辑发售谈话活动的听众写道，本曲比此前两首更难录；前面的录音完成得较快，预订棚时已缩短，这次遂在紧张时间内完成。该听众把困难与歌曲不安的故事气质联系起来，但原活动录音未核，因果与具体时间均不再补写。这条线索比泛泛称“气氛黑暗”更接近实际制作，却仍不能当作作曲者原话。[4]
+
+2021年《ここなつBEST》所列完整版长4:23，不能代入游戏时长。网络条目另有“石榴花语对应姐妹跨越障碍”的说法，本轮未追到 millstones 本人明确解释标题的出处，故不把花语解释写成已证实创作动机。[2]
+
+### jubeat 收录与版本
+
+总库Qubell与版本表一致。该表注明plus先行及2016-06-11街机配信，Qubell历史等级3/7/9、物量222/445/668、BPM130；不拿后代3/6/8覆盖本版历史数据。[5]
+
+### 资料来源
+
+1. [KONAMIひなビタ♪：ポメグラネイト](https://p.eagate.573.jp/game/bemani/hinabita/p/coconatsu/disco/pop_pome.html)（实读）
+2. [Tower Records：ここなつBEST](https://tower.jp/item/5143881)（实读）
+3. [4Gamer刊载ユーマ发行公告：ミライプリズム](https://www.4gamer.net/games/203/G020328/20141119069/)（实读）
+4. [思いのままにペンでスラスラ：发售纪念活动听众记录](https://leather770.hatenablog.com/entry/2015/02/17/225950)（实读）
+5. [jubeat Wiki：Qubell版本曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+
+### 核验边界与待补
+
+- 未获得millstones逐曲创作访谈；花语解释未追到作者原文。
+- 录音困难仅为活动听众转述，保留二级证据标签。
+- 11月20日公告称本日发表，但未核公告时区/原发表页，因此不填精确绝对首发时刻。
+
+<a id="arcade-70000069-shared"></a>
+## ひだまりデイズ
+
+- 统一曲库 ID：`arcade:70000069`
+- 原章节编号与标题：121. ひだまりデイズ
+
+### 曲目档案
+
+- 艺人：妹S
+- 作词／作曲：真理絵／MANYO
+- 动画用途：《干物妹！うまるちゃん》第一期片尾曲
+- CD发行：2015-08-19；THCS60062
+- BPM／Qubell难度／物量：134；2/5/7；120/261/346
+
+### 创作与制作背景
+
+本曲来自动画《干物妹！うまるちゃん》第一期，由四位主要女性角色组成的妹S演唱；角色与声优分别为土間うまる／田中あいみ、海老名菜々／影山灯、本場切絵／白石晴香及橘シルフィンフォード／古川由利奈。它不是为了jubeat新写的原创歌曲，而是先作为动画片尾曲，于2015-08-19发行单曲。[1]
+
+词曲分工是真理絵作词、MANYO作曲。就已刊歌词可观察到，作品以亲近的人共同度过日常、朋友给予勇气以及成长后仍珍惜彼此为核心；这里是文本概括，不把温暖气质推断成作者未经证实的个人经历。同期塔店买手樋口翔在MANTANWEB评论中，特意以它较洗练的流行歌面貌，对照片头曲的复古8-bit高张力风格，说明该动画音乐并非全部沿用同一种电玩音色。[2][3]
+
+录音版本还需区分：官网2015-10-02曾就角色CD第三、四卷的本曲独唱版发布勘误，原因是切絵、シルフィン的部分声部混入其他角色演唱，并提供更换说明。这不等于妹S合唱单曲或jubeat音源存在同一问题；本曲条目保留合唱署名，不将独唱版直接混同。[1]
+
+### jubeat 收录与版本
+
+总库Qubell分组保留。版本攻略列本曲为うまる联动第五阶段解锁曲，并注明plus先行；历史参数134、2/5/7、120/261/346。[4]
+
+### 资料来源
+
+1. [动画官网：发行信息及勘误](https://www.umaru-ani.me/1st/news/info.html)（实读）
+2. [UtaTen：ひだまりデイズ](https://utaten.com/lyric/yt15120409/)（实读）
+3. [MANTANWEB：新宿アニソンスコープ](https://mantan-web.jp/article/20150828dog00m200028000c.html)（实读）
+4. [jubeat Wiki：dig dig Qubell](https://w.atwiki.jp/jubeat/pages/1612.html)（实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 3/3；同一原发行的官网、零售及歌词信用合并计根。
+
+- 尚未找到真理絵或MANYO谈本曲构思、作曲与录音方法的一手访谈。
+- 角色CD独唱版勘误不可推广到合唱版；未核游戏剪辑具体取段。
+
+<a id="arcade-70000070-shared"></a>
+## 勇者うまるの華麗なる生活
+
+- 统一曲库 ID：`arcade:70000070`
+- 原章节编号与标题：122. 勇者うまるの華麗なる生活
+
+### 曲目档案
+
+- 艺人：土間うまる（CV：田中あいみ）
+- 作词：久猫あむ
+- 作曲／编曲：くろかわまさきち（黒魔）
+- CD发行：2015-09-02，角色歌曲第一卷
+- BPM／Qubell难度／物量：169；4/6/9；200/349/533
+
+### 创作与制作背景
+
+本曲是《干物妹！うまるちゃん》角色歌曲第一卷中，以土間うまる身份演唱的歌曲，而非动画片头曲。官网于2015-07-27公开第一卷试听，CD于9月2日发行；演唱者是田中あいみ，久猫あむ作词，くろかわまさきち负责作曲与编曲。[1][2][3]
+
+歌词将勇者出发、收集物品和寻找伙伴的冒险框架，与便利店、零食、汽水以及向哥哥撒娇的日常并置。这是已刊文本的叙事结构，不等于作者亲口解释的创作动机。[2]
+
+同期Mikiki专题提供了较具体的音乐背景：くろかわまさきち亦以黒魔名义活动，早年从《超级马里奥兄弟》的耳扒投稿和独学制作成长。参与该篇评论的音乐人SWING-O注意到本曲169BPM的忙碌感、大胆停顿，以及方波、正弦波一类简洁合成器音色构成的游戏气氛。他联想到Hot Butter《Popcorn》是评论者的听感关联，不能倒推为黒魔的实际参考作品或采样来源。[3]
+
+本曲也进入角色舞台表演：2015-12-13“宴・THE FINAL”上，田中将它与《Beautiful Days》接续演唱。现场报道只能确认表演运用，不能替代录音棚制作访谈。[4]
+
+### jubeat 收录与版本
+
+总库Qubell保留。うまる联动第一阶段以本曲为解锁奖励，历史表注明plus先行；169BPM、4/6/9、200/349/533。[5]
+
+### 资料来源
+
+1. [动画官网：角色CD发行公告](https://www.umaru-ani.me/1st/news/info.html)（实读）
+2. [JOYSOUND：勇者うまるの華麗なる生活](https://www.joysound.com/web/search/song/535173)（实读）
+3. [Mikiki：架空のJ-Pop考第7回](https://mikiki.tokyo.jp/articles/-/8303)（实读）
+4. [Animate Times：うまる宴THE FINAL现场报道](https://www.animatetimes.com/news/details.php?id=1455239867)（实读）
+5. [jubeat Wiki：dig dig Qubell](https://w.atwiki.jp/jubeat/pages/1612.html)（实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 4/3；同一原发行的官网、零售及歌词信用合并计根。
+
+- 本轮未查到久猫あむ、黒魔或田中直接谈该曲作词、委托及录音过程。
+- Mikiki的Popcorn联想属于SWING-O乐评，不是作者自述影响。
+- Tower第一卷商品页仅搜索索引可见，未计来源；不据此填写录音时长。
+
+<a id="arcade-70000071-shared"></a>
+## T・S・F in にっぽん！
+
+- 统一曲库 ID：`arcade:70000071`
+- 原章节编号与标题：123. T・S・F in にっぽん！
+
+### 曲目档案
+
+- 艺人：橘・シルフィンフォード（CV：古川由利奈）
+- 作词／作曲：ミズノゲンキ／睦月周平
+- 企划：《干物妹！うまるちゃん》角色歌曲第四卷
+- CD发行：2015-09-16
+- BPM／Qubell难度／物量：156；3/7/8；192/391/538
+
+### 创作与制作背景
+
+《T・S・F in にっぽん！》来自动画《干物妹！うまるちゃん》的橘・シルフィンフォード角色歌曲企划，古川由利奈以角色身份演唱，ミズノゲンキ作词、睦月周平作曲。它属于角色歌曲第四卷，官网2015-08-10已发布试听公告，CD于9月16日发行，不能将后来的音游联动视为创作起点。[1][2]
+
+已刊歌词以角色口吻写出对日本文化与科技的强烈兴趣，同时把认真竞争、合作游戏和建立友谊串联起来；中英词语交错及反复呼应标题构成鲜明角色标识。这些是文本层面的可见特点，尚不能解释成作者为何选用某种乐器、具体风格或词汇的一手创作说明。标题缩写也不以未经作者确认的释义代替证据。[2]
+
+本曲还被安排进角色的现场表演：Animate Times对2015-12-13“宴・THE FINAL”的取材记载，古川在后半角色歌串烧中连唱本曲和《シュバッとNo.1》。由此可见它与角色专属舞台内容的联系，但不把现场演唱顺序当成录音制作顺序。[3]
+
+### jubeat 收录与版本
+
+保留总库Qubell。版本攻略列うまる联动第四阶段解锁本曲，plus先行；本版历史数据156、3/7/8、192/391/538。[4]
+
+### 资料来源
+
+1. [动画官网：角色CD第四卷试听公告](https://www.umaru-ani.me/1st/news/info.html)（实读）
+2. [UtaTen：T・S・F in にっぽん!](https://utaten.com/lyric/yt15120405/)（实读）
+3. [Animate Times：うまる宴THE FINAL现场报道](https://www.animatetimes.com/news/details.php?id=1455239867)（实读）
+4. [jubeat Wiki：dig dig Qubell](https://w.atwiki.jp/jubeat/pages/1612.html)（实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 3/3；同一原发行的官网、零售及歌词信用合并计根。
+
+- 未找到ミズノゲンキ、睦月周平或古川逐曲谈委托、构思、编曲与录音的一手采访。
+- 本轮编曲署名仅见未读取成功的Tower索引，暂不写入已核档案。
+- 官方第四卷详情正文为图片，本轮未OCR，未将该图片页计为来源。
+
+<a id="arcade-70000079-shared"></a>
+## SAKURAスキップ
+
+- 统一曲库 ID：`arcade:70000079`
+- 原章节编号与标题：124. SAKURAスキップ
+
+### 曲目档案
+
+- 艺人：fourfolium
+- 作词：KOCHO
+- 作曲／编曲：奥井康介
+- CD发行：2016-07-27，ZMCZ-10785
+- BPM／Qubell难度／物量：165；3/6/8；170/346/450
+
+### 创作与制作背景
+
+本曲是动画《NEW GAME!》第一期片头曲，由涼風青葉、滝本ひふみ、篠田はじめ、飯島ゆん四角色的声优高田憂希、山口愛、戸田めぐみ、竹尾歩美组成fourfolium演唱。2016-07-27单曲第一轨为本曲，第二轨为《Shake!》，两个标题不能互换。作词KOCHO，作曲、编曲奥井康介。[1][2]
+
+参与演奏的a2c留有直接制作说明：考虑到作品属于日常动画，吉他的失真刻意收得很少，用3+SE与2150直接取得有核心感的crunch音色，亦使用了wah。贝斯由工藤嶺、鼓由山内“masshoi”優负责，五反田靖率领的铜管乐手也参与录制。这使其明亮编制的说明有实际演奏者依据，而不只是听感分类。[3]
+
+高田憂希在录音采访中说，她把青葉第一次作为社会人迎接早晨的心情放进A段；最难之处不是单纯唱准，而是在保留青葉个性的同时，不让情绪过度突出而破坏四人的平衡。制作人曾指出某次演唱不像青葉，因此花时间调整。她在后续采访补充自己是第一个录音者，其余三人的表现会以她为基准，虽然因此紧张，仍以可爱、开心地唱为目标。以上属于演唱制作与角色塑造的一手回忆，不替代作曲者对旋律起源的解释。[4][5]
+
+### jubeat 收录与版本
+
+Qubell历史表列2016-08-04街机配信且plus先行；本版等级3/6/8，与后来的3/5/7分开，165BPM、170/346/450。[6]
+
+### 资料来源
+
+1. [NEW GAME!官网：第一期音乐商品](https://newgame-anime.com/product/music_s1.html)（实读）
+2. [歌ネット：SAKURAスキップ](https://www.uta-net.com/song/211929/)（实读）
+3. [吉他手a2c：SAKURAスキップ录音记录](https://mellowjamstudio.hatenablog.com/entry/20160705/1467716145)（实读）
+4. [Animate Times：高田憂希乐曲采访](https://www.animatetimes.com/news/details.php?id=1464831949)（实读）
+5. [Animate Times：高田憂希工作访谈](https://www.animatetimes.com/news/details.php?id=1472480904)（实读）
+6. [jubeat Wiki：Qubell历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 5/3；同一原发行的官网、零售及歌词信用合并计根。
+
+- 未找到KOCHO及奥井康介逐曲解释最初委托、写词或旋律构思。
+- 两篇不同日期独立访谈按各自出版文献计根，不按同媒体强行合并。
+
+<a id="arcade-70000081-shared"></a>
+## Shake!
+
+- 统一曲库 ID：`arcade:70000081`
+- 原章节编号与标题：125. Shake!
+
+### 曲目档案
+
+- 艺人：fourfolium
+- 作词／作曲／编曲：ヒゲドライバー
+- 原始发行：2016-07-27《SAKURAスキップ》第二轨
+- BPM／Qubell难度／物量：170；4/7/9；241/461/595
+
+### 创作与制作背景
+
+《Shake!》不是《NEW GAME!》片头曲本身，而是片头单曲《SAKURAスキップ》的第二轨，由fourfolium演唱，ヒゲドライバー包办词曲编。动画官网曲表及创作公司TOKYO LOGIC的工作记录能直接区分歌曲与母单曲，不应把奥井康介的片头曲署名套到本曲。[1][2]
+
+歌词以准备派对、装扮出门及尽情跳舞为情境，用反复呼应与全员参与式喊声，把昨日烦恼和明日忧虑暂时抛开。这是歌词文本可支持的题材和结构概括；尚无本曲作者说明可证明它对应哪一集故事，亦不把它解释成实际公司庆功宴实录。[3]
+
+2020年本曲入选作者的KADOKAWA动画歌曲精选《ひげこれ！》。ヒゲドライバー在采访中解释，该组选曲着重抓耳且能体现自己的作品，并在谈及《NEW GAME!》四首入选曲时，表示自己对角色同样身为社会人的这一点有感情。需要保持逐曲边界：同页把个人经历明确投射到歌词的说明实际属于《CONTINUE…？》，修改副歌的回忆属于第二期《STEP by STEP UP↑↑↑↑》，都不能挪给《Shake!》。[4]
+
+### jubeat 收录与版本
+
+Qubell的NEW GAME联动自2016-08-09开始，历史表列plus先行、170BPM、4/7/9、241/461/595。[5]
+
+### 资料来源
+
+1. [NEW GAME!官网：第一期音乐商品](https://newgame-anime.com/product/music_s1.html)（实读）
+2. [TOKYO LOGIC：SAKURAスキップ参与实绩](https://tokyologic.info/archives/works_list/2016/sakuraスキップ-fourfolium/)（实读）
+3. [歌ネット：Shake!](https://www.uta-net.com/song/211928/)（实读）
+4. [Animate Times：ヒゲドライバー2020精选集采访](https://www.animatetimes.com/news/details.php?id=1601544410&p=3)（实读）
+5. [jubeat Wiki：Qubell历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 3/3；同一原发行的官网、零售及歌词信用合并计根。
+
+- 未发现作者专门谈Shake最初构思、音色与录音细节。
+- 2020采访明确本曲为后续精选《ひげこれ！》第4曲，可支持不同载体传播；系列参与感情不能当成Shake逐曲创作动机。
+
+<a id="arcade-70000082-shared"></a>
+## ほっしーの！
+
+- 统一曲库 ID：`arcade:70000082`
+- 原章节编号与标题：126. ほっしーの！
+
+### 曲目档案
+
+- 艺人：fourfolium
+- 作词／作曲／编曲：ゆよゆっぺ
+- 原始发行：2016-07-27《Now Loading!!!!》第二轨，ZMCZ-10786
+- BPM／Qubell难度／物量：190；3/6/8；187/313/443
+
+### 创作与制作背景
+
+本曲是动画《NEW GAME!》片尾单曲《Now Loading!!!!》的搭配曲，并不是片尾主题曲的别名。官网列它为第二轨，同时收录伴奏版；CD由KADOKAWA于2016-07-27发行。演唱仍为四位角色组成的fourfolium。[1]
+
+TOKYO LOGIC的原始制作实绩明确区分两首：本曲由ゆよゆっぺ负责词、曲、编曲，母单曲第一轨的作词则为烏屋茶房。因此不能因封面相同或在同一节目音乐企划中，就将制作人员混写。[2]
+
+歌词中的渴望并非泛指想要物品，而是围绕更多干劲、耐心、勇气以及面对困难的力量展开，反复回到工作与成长、接近理想自己的愿望；这与作品的新人工作生活题材相接，但此处只是文本层面的解释，未找到作者对标题来源或具体委托要求的一手说明。应答与计数式词句具有集体演唱的表达特点，不据此宣称某个尚未证实的现场用途。[3]
+
+### jubeat 收录与版本
+
+Qubell版本表将其列入2016-08-09开始的NEW GAME联动，plus先行，190BPM、3/6/8、187/313/443。[4]
+
+同期游戏配信报道将本曲的对应平台列为 jubeat Qubell、REFLEC BEAT plus 与 jubeat plus，并预告 Qubell 联动于2016-08-09开始。它证明歌曲从动画唱片进入不同游戏载体的传播，不说明歌曲最初为游戏而写。[5]
+
+### 资料来源
+
+1. [NEW GAME!官网：第一期音乐商品](https://newgame-anime.com/product/music_s1.html)（实读）
+2. [TOKYO LOGIC：Now Loading参与实绩](https://tokyologic.info/archives/works_list/2016/now-loading-fourfolium/)（实读）
+3. [歌ネット：ほっしーの!](https://www.uta-net.com/song/211926/)（实读）
+4. [jubeat Wiki：Qubell历史表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+
+5. [INSIDE：NEW GAME!乐曲BEMANI配信报道](https://www.inside-games.jp/article/2016/08/04/100805.html)（普通HTTP正文实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 3/3：原唱片信用、游戏配信公告链、社区BPM/物量资料；同一游戏日期的转载不重复计根。
+
+- 未查到ゆよゆっぺ逐曲采访或声优对本曲录音的直接记录。
+- 检索同名人物访谈为无关结果，已排除；不移植Now Loading或SAKURA的录音故事。
+
+<a id="arcade-70000085-shared"></a>
+## 負けないよ・・・-Runners High-
+
+- 统一曲库 ID：`arcade:70000085`
+- 原章节编号与标题：127. 負けないよ・・・-Runners High-
+
+### 曲目档案
+
+- 艺人：猫大樹
+- 所属专辑：《神歌PARADE》第4轨
+- CD发行：2016-08-12；CATREE RECORD CTRE-0101
+- BPM／Qubell难度／物量：155；4/7/10；258/451/924
+
+### 创作与制作背景
+
+本曲出自猫大樹的完全原创迷你专辑《神歌PARADE》，位于第4轨。官方将这张作品定位为男女高音组合的喜剧式音乐剧场，把夸张歌声与令人发笑的戏剧表演作为整体卖点。因此本曲应放在组合原创企划下理解，不能因为同一游戏活动也有该组合的东方改编曲，就替它标注一个不存在的东方原曲。[1]
+
+实体CD由CATREE RECORD于2016-08-12发行，编号CTRE-0101；Tower的独立商品曲表与官方商店顺序相合。本曲在jubeat的登场与专辑发行处于同一天，不过日期相同只能确认发行与上线日期一致，不能据此证明协调计划，不能据此推断作者最初就是接受KONAMI委托创作。[2][3]
+
+资料校勘尤其要区分曲序：游戏Wiki个曲页把本曲写成专辑第七曲，但官方商店和Tower都列为第四曲，第七曲实际为《制作現場での出来事》。这里以原发行方曲表为准。玩家攻略确实提到台词段的节奏配置，可作为其带有表演性对白的二级观察；尚未直接核验完整歌词与演出脚本，不把标题推演成作者本人减肥或跑步经历。[1][2][4]
+
+### jubeat 收录与版本
+
+Qubell的「猫大樹 夏のパーリーピーポー」活动为2016-08-12至10-02，本曲列其解禁歌曲。当年参数为155BPM、4/7/10、258/451/924。[3]
+
+2016-09-20，官方宣布本曲随“猫大樹 pack”进入 jubeat plus，并说明包内谱面由新井大樹制作统筹。这是唱片之后的手机游戏出版记录；谱面职责不能自动扩展为本曲全部录音制作职责。[5]
+
+### 资料来源
+
+1. [猫大樹official：神歌PARADE商品及曲表](https://booth.pm/ja/items/2057354)（实读）
+2. [Tower Records：神歌PARADE曲表及盘资料](https://tower.jp/item/4324479)（实读）
+3. [jubeat Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [jubeat Wiki：負けないよ…-Runners High-个曲页](https://w.atwiki.jp/jubeat/pages/1701.html)（实读）
+
+5. [KONAMI：猫大樹 pack 配信公告](https://p.eagate.573.jp/game/bemani/fansite/s/news/detail.html?post_id=10036595)（公开正文数据实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 3/3：原唱片信用、社区谱面实测与官方后续手机曲包公告；同盘零售不重复计数。
+
+- 未找到逐曲作者访谈、初稿、录音日志；官方专辑营销定位不等于本曲创作动机。
+- 词曲编的完整署名尚待原盘内页或作者逐曲实绩核验，不以非溯源百科代替。
+- 未把神歌PARADE 2的制作说明、2019发行信息套用到本专辑。
+- 纠正Wiki曲序错误；现代3/7/10.5不回填为Qubell当年难度。
+
+<a id="arcade-70000086-shared"></a>
+## 男と女の言い合いのうた
+
+- 统一曲库 ID：`arcade:70000086`
+- 原章节编号与标题：128. 男と女の言い合いのうた
+
+### 曲目档案
+
+- 艺人：猫大樹
+- 所属专辑：《神歌PARADE》第3轨
+- CD发行：2016-08-12；CATREE RECORD CTRE-0101
+- BPM／Qubell难度／物量：160；3/6/8；154/418/693
+
+### 创作与制作背景
+
+本曲出自猫大樹的完全原创迷你专辑《神歌PARADE》，位于第3轨。官方将这张作品定位为男女高音组合的喜剧式音乐剧场，把夸张歌声与令人发笑的戏剧表演作为整体卖点。因此本曲应放在组合原创企划下理解，不能因为同一游戏活动也有该组合的东方改编曲，就替它标注一个不存在的东方原曲。[1]
+
+实体CD由CATREE RECORD于2016-08-12发行，编号CTRE-0101；Tower的独立商品曲表与官方商店顺序相合。本曲在jubeat的登场与专辑发行处于同一天，不过日期相同只能确认发行与上线日期一致，不能据此证明协调计划，不能据此推断作者最初就是接受KONAMI委托创作。[2][3]
+
+这首歌的特色不只是男女对唱：游戏资料记录其中实际穿插了言语争执，呼应题名，也符合官方对整张专辑的剧场式定位。组合由新井大樹与猫体質构成。不过角色对话不等于现实情感纠纷，目前没有证据证明歌词来自两人的真实争吵，不能把表演关系写成私人关系。[4][1]
+
+### jubeat 收录与版本
+
+Qubell历史表列2016-08-12默认配信。当年参数为160BPM、3/6/8、154/418/693。[3]
+
+2016-09-20，官方宣布本曲随“猫大樹 pack”进入 jubeat plus，并说明包内谱面由新井大樹制作统筹。这是唱片之后的手机游戏出版记录；谱面职责不能自动扩展为本曲全部录音制作职责。[5]
+
+### 资料来源
+
+1. [猫大樹official：神歌PARADE商品及曲表](https://booth.pm/ja/items/2057354)（实读）
+2. [Tower Records：神歌PARADE曲表及盘资料](https://tower.jp/item/4324479)（实读）
+3. [jubeat Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [jubeat Wiki：男と女の言い合いのうた个曲页](https://w.atwiki.jp/jubeat/pages/1694.html)（实读）
+
+5. [KONAMI：猫大樹 pack 配信公告](https://p.eagate.573.jp/game/bemani/fansite/s/news/detail.html?post_id=10036595)（公开正文数据实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 3/3：原唱片信用、社区谱面实测与官方后续手机曲包公告；同盘零售不重复计数。
+
+- 未找到逐曲作者访谈、初稿、录音日志；官方专辑营销定位不等于本曲创作动机。
+- 词曲编的完整署名尚待原盘内页或作者逐曲实绩核验，不以非溯源百科代替。
+- 未把神歌PARADE 2的制作说明、2019发行信息套用到本专辑。
+
+<a id="arcade-70000087-shared"></a>
+## 夏休み is freedom!!
+
+- 统一曲库 ID：`arcade:70000087`
+- 原章节编号与标题：129. 夏休み is freedom!!
+
+### 曲目档案
+
+- 艺人：猫大樹
+- 所属专辑：《神歌PARADE》第2轨
+- CD发行：2016-08-12；CATREE RECORD CTRE-0101
+- BPM／Qubell难度／物量：155；3/6/9；168/402/684
+
+### 创作与制作背景
+
+本曲出自猫大樹的完全原创迷你专辑《神歌PARADE》，位于第2轨。官方将这张作品定位为男女高音组合的喜剧式音乐剧场，把夸张歌声与令人发笑的戏剧表演作为整体卖点。因此本曲应放在组合原创企划下理解，不能因为同一游戏活动也有该组合的东方改编曲，就替它标注一个不存在的东方原曲。[1]
+
+实体CD由CATREE RECORD于2016-08-12发行，编号CTRE-0101；Tower的独立商品曲表与官方商店顺序相合。本曲在jubeat的登场与专辑发行处于同一天，不过日期相同只能确认发行与上线日期一致，不能据此证明协调计划，不能据此推断作者最初就是接受KONAMI委托创作。[2][3]
+
+成员新井麻里衣的经纪资料在作词实绩中直接列出本曲，因而至少可确认她参与了歌词创作；该页也记录她为《神歌PARADE》担任包括祖母在内的五种角色配音。这支持专辑以歌唱兼角色表演构成的制作形式，但资料没有逐一将五种声音分配给本曲，不应擅自断言每个角色都在本曲出现。现有证据亦不足以确定完整共同作词名单及编曲分工。[4]
+
+### jubeat 收录与版本
+
+Qubell的「猫大樹 夏のパーリーピーポー」活动为2016-08-12至10-02，本曲列其解禁歌曲。当年参数为155BPM、3/6/9、168/402/684。[3]
+
+2016-09-20，官方宣布本曲随“猫大樹 pack”进入 jubeat plus，并说明包内谱面由新井大樹制作统筹。这是唱片之后的手机游戏出版记录；谱面职责不能自动扩展为本曲全部录音制作职责。[5]
+
+### 资料来源
+
+1. [猫大樹official：神歌PARADE商品及曲表](https://booth.pm/ja/items/2057354)（实读）
+2. [Tower Records：神歌PARADE曲表及盘资料](https://tower.jp/item/4324479)（实读）
+3. [jubeat Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（实读）
+4. [ころぼっくすぷろじぇくと：新井麻里衣工作实绩](https://korobox-project.com/member/marii_arai)（实读）
+
+5. [KONAMI：猫大樹 pack 配信公告](https://p.eagate.573.jp/game/bemani/fansite/s/news/detail.html?post_id=10036595)（公开正文数据实读）
+
+### 核验边界与待补
+
+- 来源按独立文献计为 3/3：原唱片信用、社区谱面实测与官方后续手机曲包公告；同盘零售不重复计数。
+
+- 未找到逐曲作者访谈、初稿、录音日志；官方专辑营销定位不等于本曲创作动机。
+- 已核新井麻里衣的本曲作词参与；是否与新井大樹共同署名及完整词曲编仍待原盘核实。
+- 未把神歌PARADE 2的制作说明、2019发行信息套用到本专辑。
+
+<a id="arcade-70000088-shared"></a>
+## 制作現場での出来事
+
+- 统一曲库 ID：`arcade:70000088`
+- 原章节编号与标题：130. 制作現場での出来事
+
+### 曲目档案
+
+- 署名：猫大樹
+- 初出版本：jubeat Qubell（社区曲表与官方活动公告相符）
+- BPM：150 [1]
+- 时长：未核实
+- 专辑：神歌PARADE，2016-08-12；第7轨（官方曲表与Tower一致）[2][4]
+
+### 创作与制作背景
+
+猫大樹是新井大樹与猫体質组成的组合。官方介绍将本曲列为其原创作品，并放在 Qubell 的「猫大樹 夏のパーリーピーポー」企划中；后来发行的 plus 曲包同时包含本曲及另外三首，且明确说明该曲包谱面由身为 jubeat 玩家的新井大樹制作统筹。[3]
+
+录音发行方面，Tower Records 将本曲收录于 CATREE RECORD 的《神歌PARADE》（CTRE-0101，2016-08-12）。Tower将本曲列为第七轨，猫大樹官方商店曲表也列第七轨，且明确第四轨为「負けないよ…-Runners High-」。据此采用官方第七轨；jubeat Wiki第四轨的旧记载不采纳。[1][2][4] 目前读到的材料能确定作品、组合与游戏企划的联系，尚不能证明标题是否取自某一次真实录音室事件，也不能用组合其他专辑的制作谈替代本曲的创作说明。
+
+### jubeat 收录与版本
+
+Qubell 社区条目列 150 BPM、Notes 240／429／728，当前等级表为 2／5／9.5。[1] 2016-09-20 官方公布 plus 配信，明确街机活动当时已经在运行，并提示活动持续至 10 月 2 日；因此这一天是移动版曲包公告日期，不应写作街机首发日。[3]
+
+### 资料来源
+
+1. jubeat Wiki：制作現場での出来事，https://w.atwiki.jp/jubeat/pages/1698.html ：已实际读取；Qubell、150 BPM、Notes 240/429/728；称神歌PARADE第四轨
+2. Tower Records：神歌PARADE，https://tower.jp/item/4324479 ：已实际读取；CTRE-0101及2016-08-12发行；实际曲表把本曲列第七轨
+3. jubeat 官方：猫大樹 pack 配信，https://eam.573.jp/app/web/post/detail.php?post_id=10036595 ：已实际读取；新井大樹与猫体質组合；本曲属四首原创曲包，Qubell活动曲，plus同期配信；plus谱面由新井大樹统筹；Qubell活动至10月2日
+
+4. 猫大樹official：神歌PARADE，https://booth.pm/ja/items/2057354 ：已实际读取；官方曲表第7轨为本曲，第4轨为Runners High。
+
+### 核验边界与待补
+
+- 未找到本曲创作动机、作词作编曲分工的一手说明。
+- 专辑曲序冲突已据官方商店曲表裁定为第7轨；保留Wiki误记的审计记录。
+- 官方粉丝站页面只剩标题，实际正文从公开 eam 原帖普通 HTTP 200 读取，保存在 本地核验记录；Tower 正文 本地核验记录。
+
+<a id="arcade-70000140-shared"></a>
+## スカイダイバー
+
+- 统一曲库 ID：`arcade:70000140`
+- 原章节编号与标题：131. スカイダイバー
+
+### 曲目档案
+
+- 署名：ヒゲドライバー feat.ヒゲドライVAN
+- 初出游戏：BeatStream アニムトライヴ；jubeat 为 Qubell 移植 [2][4]
+- BPM：180 [2]
+- 时长：未核实
+
+### 创作与制作背景
+
+本曲最明确的创作语境是 BEMANI 的摇滚现场企划：2016 年 7 月官方曲目档案直接将它标为 BEMANI ROCK FES’16 相关作品。[1] SDVX 社区资料进一步称它为 2016-07-10该音乐节演出写成，并说明ヒゲドライVAN是ヒゲドライバー担任吉他兼主唱的乐队；后两项属于社区陈述，尚未找到作者原始谈话，不升级为作者自述。[4]
+
+需要分开的是后来的专辑版本：TOKYO LOGIC 制作实绩页列出 2019-12-31 的《SKYDIVER ヒゲドライVAN音ゲー楽曲集》，首轨明确标注「スカイダイバー(2019 ver.)」。这能证明后续版本存在，却不能证明它与 2016 年游戏音源完全相同，也不能把 2019 版录音细节反套到 Qubell。[3]
+
+### jubeat 收录与版本
+
+社区曲表记为从 BeatStream アニムトライヴ移植至 Qubell，Notes 215／408／606，当前表列 3／6／8。历史解禁条件是截至 2017-02-13 00:00 前已有 BeatStream 游玩资料，其余玩家可经传导解禁。[2] 该截止时间不是本曲在所有游戏中的首次发表日期。
+
+### 资料来源
+
+1. BEMANI Fan Site：2016 July 乐曲介绍，https://p.eagate.573.jp/game/bemani/fansite/p/music/201607/ ：已实际读取；本曲署名及BEMANI ROCK FES16关联
+2. jubeat Wiki：スカイダイバー，https://w.atwiki.jp/jubeat/pages/1789.html ：已实际读取；BeatStream移植至Qubell；180 BPM、Notes215/408/606；2017-02-13资料截止与传导解禁
+3. TOKYO LOGIC：SKYDIVER ヒゲドライVAN音ゲー楽曲集，https://tokyologic.info/archives/works_list/2019/hgdv0001/ ：已实际读取；专辑首轨为スカイダイバー2019ver，与旧版须区分
+4. SOUND VOLTEX Wiki：スカイダイバー，https://w.atwiki.jp/sdvx/pages/6204.html ：已实际读取；称为2016-07-10音乐节写作；ヒゲドライバー在乐队担任吉他主唱
+
+### 核验边界与待补
+
+- 创作缘由目前仅有音乐节关联的官方直接证据；具体写作过程/歌词意图未查到作者原述。
+- 2019 ver.不可等同2016年游戏录音。
+- 两份社区资料分别支撑jubeat参数与跨游戏背景；相同初出信息不当作两次独立佐证。
+
+<a id="arcade-70000155-shared"></a>
+## お茶づけ☆パラダイス
+
+- 统一曲库 ID：`arcade:70000155`
+- 原章节编号与标题：132. お茶づけ☆パラダイス
+
+### 曲目档案
+
+- 署名：A応P
+- 初出版本：jubeat Qubell／plus，2017-04-06 [1][2]
+- BPM／时长：未完成正文核验，暂不填定
+- 演唱：A応P [1][2][3]
+
+### 创作与制作背景
+
+这首歌不是一首既有广告歌的简单移植，而是永谷园与 jubeat 联动中制作的原创合作曲。KONAMI 的原始公告把企划起点写得很具体：ショッチョー在 JAEPO 2017 谈到自己非常喜欢茶泡饭，随后在 BEMANI 艺术家协助下制作形象歌曲，并促成了与永谷园的合作。这是官方叙述的企划缘起，不应误写成演唱者 A応P 或作曲者个人的独白。[1]
+
+本曲作为第一弹，以永谷园「お茶づけ海苔」商品为明确主题，由 A応P 演唱。AT-X 的发布稿说明该合作系列共三首原创歌曲；永谷园自己发布的资料则列出另外两种后续题材——「松茸の味お吸いもの」与「すし太郎」。因此其创作任务是把具体商品转成适用于音乐游戏的歌曲，而非仅仅在普通流行曲上加贴品牌名称。[2][3]
+
+合作还把歌曲延展为一整套游玩视觉与实体活动：专门的茶泡饭判定标记、背景与机台装饰，以及包含合作曲 CD、限定 e-AMUSEMENT PASS 和食品的抽奖组合。相关资料能说明歌曲怎样嵌入推广企划，但并未解释旋律、配器或录音分工。[1][3]
+
+另一份独立制作采访提供了有限但直接的作者线索：2017-04-24，肥塚良彦在《Ding Dong Bell》的署名评论中提到自己稍早制作了《お茶づけ☆パラダイス》，并将两曲的音乐劲头作对照。这可以确认他与本曲制作的关系，但不能把该采访针对《Ding Dong Bell》的昭和偶像曲目标、结婚式或毕业式构想挪给本曲；本曲具体词曲编各职分仍未在此逐项展开。[4]
+
+### jubeat 收录与版本
+
+官方原帖与双方发布资料均将第一首开放日期定为 2017-04-06，街机版本为 Qubell；AT-X 公告也指向 plus。[1][2][3] 永谷园 PDF 所列 2017-04-06 至 07-09 是整体春季合作活动期间，不将其自动等同于每个平台的永久收录或删除日期。[3]
+
+后续移动端迁移另有独立记录：官方 jubeat plus 升级通知把本曲列入停止配信的歌曲清单，并提示停配歌曲在升级后无法继续使用。这是移动应用更新的处理，不能据此推定街机删除日；该页未标具体生效年月日，本文不补造日期。[5]
+
+### 资料来源
+
+1. jubeat 官方：永谷園と音楽ゲームjubeatが初の異色業種コラボ，https://eam.573.jp/app/web/post/detail.php?post_id=11420437 ：已实际读取；ショッチョー喜爱茶泡饭并在BEMANI艺术家协助下制作形象曲的企划缘起；本曲以お茶づけ海苔为题材，A応P演唱，4月6日可玩
+2. AT-X：A応P、永谷園×jubeat合作原创歌曲发布，https://prtimes.jp/main/html/rd/p/000000612.000002734.html ：已实际读取；合作系列三首原创歌曲；本曲第一弹；2017-04-06起在Qubell和plus开放
+3. 永谷園：音楽ゲームjubeat Qubellと初コラボ，https://prtimes.jp/a/?f=d20257-20170404-9596.pdf ：已实际读取；活动期间2017-04-06至07-09；本曲A応P演唱以茶泡饭海苔产品为题材；后续两种产品主题；联动CD、PASS、食品礼盒与机台视觉
+
+4. KONAMI：Ding Dong Bell制作采访中的前作比较，https://p.eagate.573.jp/game/bemani/fansite/p/report/2017sp/report01.html ：已实际读取；肥塚良彦在署名评论中称稍早制作过お茶づけ☆パラダイス，并说两曲ノリ对照；本曲细部制作并未展开。
+
+5. KONAMI：jubeat plus更新及停止配信通知，https://p.eagate.573.jp/game/jubeat/festo/special/jubeat_app/index.html ：已实际读取；升级注意事项与停配清单明确列お茶づけ☆パラダイス；仅移动端升级迁移，不等同街机删除日期。
+
+### 核验边界与待补
+
+- 三份首发合作稿保守合为同一宣传根；另有肥塚独立署名评论、后续移动端停止配信通知，共三根，不宣称三份创作采访。
+- 作词作曲署名及160 BPM/1:53暂仅搜索摘要发现，jubeat Wiki正文工具失败、普通HTTP403，未计来源且未重试限制。
+- 未找到具体旋律设计、编曲、各成员录音分工的直接说明。
+- 实际读取：官方原帖 本地核验记录；永谷园PDF 本地核验记录 与提取正文。不交付完整原PDF。
+
