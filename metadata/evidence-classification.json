@@ -1,6 +1,6 @@
 {
-  "status": "prose_update_snapshot",
-  "generated_utc": "2026-11-03T15:34:00+00:00",
+  "status": "current_full_version_snapshot",
+  "generated_utc": "2026-11-05T06:29:36.488838+00:00",
   "classified_rows": 2438,
   "catalog_rows": 2438,
   "class_legend": {
@@ -84,6 +84,81 @@
             }
           ],
           "limitations": ""
+        },
+        {
+          "scope": "chart_design",
+          "labels": [
+            "A"
+          ],
+          "evidence": [
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "arcade:11000001-visual-chart-3"
+              ],
+              "fact": "谱面制作人员说明，Luna与Sol刻意在有无HOLD、交替按压与滑动配置上形成对照，并都加入少见的同时按压形状和出张配置。这段说明没有逐曲分配上述对照，不能据此判定哪首有HOLD。明确限定为EXTREME的设计则包括：Sol开头与Luna结尾呈点对称；Sol最后和Luna最初各有代表对应歌曲的六键同时按压。[1]",
+              "medium_or_attribution": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "arcade:11000001",
+                  "source_id": "S1",
+                  "title": "KONAMI jOURNAL：《Vol.2 Insanityって何だったんだろう？》，2026-10-30",
+                  "url": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html"
+                }
+              ]
+            }
+          ],
+          "limitations": "成对封面仅Luna/Sol，兔子仅Luna；两曲HOLD有无及交替/滑动对照不逐曲分配；点对称/六键联系限EXTREME。Insanity新增仅谱面过程且回答未明确难度，不称音乐创作。未采金牙归属或活动角色组。"
+        },
+        {
+          "scope": "mv_visual",
+          "labels": [
+            "A"
+          ],
+          "evidence": [
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "arcade:11000001-visual-chart-1"
+              ],
+              "fact": "封面设计方面，团队委托将Luna与Sol的封面做成一对。负责封面的设计师以月亮和太阳表现“狂气”，同时融入从音乐中感受到的欢乐、激烈和帅气，希望呈现略带喜剧感的效果。[1]",
+              "medium_or_attribution": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "arcade:11000001",
+                  "source_id": "S1",
+                  "title": "KONAMI jOURNAL：《Vol.2 Insanityって何だったんだろう？》，2026-10-30",
+                  "url": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html"
+                }
+              ]
+            },
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "arcade:11000001-visual-chart-2"
+              ],
+              "fact": "设计师还在Luna封面中藏入兔子，希望观众细看时发现这些细节。[1]",
+              "medium_or_attribution": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "arcade:11000001",
+                  "source_id": "S1",
+                  "title": "KONAMI jOURNAL：《Vol.2 Insanityって何だったんだろう？》，2026-10-30",
+                  "url": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html"
+                }
+              ]
+            }
+          ],
+          "limitations": "成对封面仅Luna/Sol，兔子仅Luna；两曲HOLD有无及交替/滑动对照不逐曲分配；点对称/六键联系限EXTREME。Insanity新增仅谱面过程且回答未明确难度，不称音乐创作。未采金牙归属或活动角色组。"
         }
       ],
       "music_story_gap": "尚可深挖具体音色与双方素材使用；HOLD分类另未核。",
@@ -157,6 +232,62 @@
             }
           ],
           "limitations": ""
+        },
+        {
+          "scope": "chart_design",
+          "labels": [
+            "A"
+          ],
+          "evidence": [
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "arcade:11000006-visual-chart-2"
+              ],
+              "fact": "谱面制作人员说明，Luna与Sol刻意在有无HOLD、交替按压与滑动配置上形成对照，并都加入少见的同时按压形状和出张配置。这段说明没有逐曲分配上述对照，不能据此判定哪首有HOLD。明确限定为EXTREME的设计则包括：Sol开头与Luna结尾呈点对称；Sol最后和Luna最初各有代表对应歌曲的六键同时按压。[1]",
+              "medium_or_attribution": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "arcade:11000006",
+                  "source_id": "S1",
+                  "title": "KONAMI jOURNAL：《Vol.2 Insanityって何だったんだろう？》，2026-10-30",
+                  "url": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html"
+                }
+              ]
+            }
+          ],
+          "limitations": "成对封面仅Luna/Sol，兔子仅Luna；两曲HOLD有无及交替/滑动对照不逐曲分配；点对称/六键联系限EXTREME。Insanity新增仅谱面过程且回答未明确难度，不称音乐创作。未采金牙归属或活动角色组。"
+        },
+        {
+          "scope": "mv_visual",
+          "labels": [
+            "A"
+          ],
+          "evidence": [
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "arcade:11000006-visual-chart-1"
+              ],
+              "fact": "封面设计方面，团队委托将Luna与Sol的封面做成一对。负责封面的设计师以月亮和太阳表现“狂气”，同时融入从音乐中感受到的欢乐、激烈和帅气，希望呈现略带喜剧感的效果。[1]",
+              "medium_or_attribution": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "arcade:11000006",
+                  "source_id": "S1",
+                  "title": "KONAMI jOURNAL：《Vol.2 Insanityって何だったんだろう？》，2026-10-30",
+                  "url": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html"
+                }
+              ]
+            }
+          ],
+          "limitations": "成对封面仅Luna/Sol，兔子仅Luna；两曲HOLD有无及交替/滑动对照不逐曲分配；点对称/六键联系限EXTREME。Insanity新增仅谱面过程且回答未明确难度，不称音乐创作。未采金牙归属或活动角色组。"
         }
       ],
       "music_story_gap": "具体音色处理仍可扩充，HOLD待核不扩写神话。",
@@ -230,9 +361,37 @@
             }
           ],
           "limitations": ""
+        },
+        {
+          "scope": "chart_design",
+          "labels": [
+            "A"
+          ],
+          "evidence": [
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "arcade:11000098-visual-chart-1"
+              ],
+              "fact": "谱面制作人员回忆，《Insanity》的谱面是在两首子曲之后隔了一段时间制作的。前段把HOLD限制在右半边；中段的释放标记向左、同时按压向右延伸。独奏段先以出张HOLD配置过渡，再随不同段落大量使用或不使用HOLD，末段则自由配置。最后一组配置按下时呈现Sol的同时按压形状，松开时呈现Luna的同时按压形状。[1] 这段回答没有明示难度，描述的是谱面设计，不是作曲或音频制作过程。",
+              "medium_or_attribution": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "arcade:11000098",
+                  "source_id": "S1",
+                  "title": "KONAMI jOURNAL：《Vol.2 Insanityって何だったんだろう？》，2026-10-30",
+                  "url": "https://p.eagate.573.jp/game/jubeat/jubeat-square/journal/log/002.html"
+                }
+              ]
+            }
+          ],
+          "limitations": "成对封面仅Luna/Sol，兔子仅Luna；两曲HOLD有无及交替/滑动对照不逐曲分配；点对称/六键联系限EXTREME。Insanity新增仅谱面过程且回答未明确难度，不称音乐创作。未采金牙归属或活动角色组。"
         }
       ],
-      "music_story_gap": "可继续细化素材去留与具体分工；本段已有实质制作证词。",
+      "music_story_gap": "可继续细化素材去留与具体分工；本段已实质制作证词。",
       "verification_limits": "本轮根据完整正文、来源及事实对应关系分类，未重新打开全部来源。",
       "needs_source_reinspection": false,
       "shared_family_id": null,
@@ -101518,7 +101677,7 @@
       },
       "music_story_class": "uncertain",
       "music_story_depth": "credit_only",
-      "original_music_story_class": "context_only",
+      "original_music_story_class": "direct",
       "game_recording_story_class": "uncertain",
       "scopes": [
         {
@@ -101532,7 +101691,7 @@
                 "S1"
               ],
               "claim_ids": [],
-              "fact": "BOF原投稿署名资料和HARMONIC SCHRANZ类型，制作环境不公开",
+              "fact": "BOF原投稿信用和HARMONIC SCHRANZ类型，制作环境不公开",
               "medium": "作者原投稿",
               "references": [
                 {
@@ -101599,9 +101758,95 @@
           ],
           "limitations": "",
           "referent": null
+        },
+        {
+          "scope": "music_original",
+          "labels": [
+            "A"
+          ],
+          "evidence": [
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "C4"
+              ],
+              "fact": "cranky说明创作前约定保留各自风格，先自由提出想法再整合；siromaru与iimo会直接提出意见。",
+              "medium_or_attribution": "cranky在BOF2011原投稿页的作者回复",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "jubeatchina:991000008",
+                  "source_id": "S1",
+                  "title": "BOF2011：conflict原始投稿页",
+                  "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=74&num=57"
+                }
+              ]
+            },
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "C5"
+              ],
+              "fact": "cranky说明原作以对立与融合为主题。",
+              "medium_or_attribution": "cranky在BOF2011原投稿页的作者回复",
+              "evidence_depth": "specific_theme",
+              "references": [
+                {
+                  "source_song_id": "jubeatchina:991000008",
+                  "source_id": "S1",
+                  "title": "BOF2011：conflict原始投稿页",
+                  "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=74&num=57"
+                }
+              ]
+            },
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "C6"
+              ],
+              "fact": "为突出副歌冲击力，其他段落刻意收敛，并拉开两次副歌的距离。",
+              "medium_or_attribution": "cranky在BOF2011原投稿页的作者回复",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "jubeatchina:991000008",
+                  "source_id": "S1",
+                  "title": "BOF2011：conflict原始投稿页",
+                  "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=74&num=57"
+                }
+              ]
+            },
+            {
+              "source_ids": [
+                "S1"
+              ],
+              "claim_ids": [
+                "C7"
+              ],
+              "fact": "cranky说明主要演唱为自创语词而非英语日语，开头及后半男性声音为英语。",
+              "medium_or_attribution": "cranky在BOF2011原投稿页的作者回复",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "jubeatchina:991000008",
+                  "source_id": "S1",
+                  "title": "BOF2011：conflict原始投稿页",
+                  "url": "https://manbow.nothing.sh/event/event.cgi?action=More_def&event=74&num=57"
+                }
+              ]
+            }
+          ],
+          "referent": "BOF2011原作",
+          "limitations": "仅原BMS作品的合作方法、主题、段落安排与语言说明；不能确定音乐魔方采用的母带。未据声音组合构想判断谁发起合作；不赋自创语词具体意义，不补推采样来源或制作环境。"
         }
       ],
-      "music_story_gap": "真实详细证词针对长版；中国采用版本未定，target制作等级不移用。",
+      "music_story_gap": "已取得BOF2011原作的合作方法、主题、段落安排与语言说明；Groundbreaking长版另有改编证词。中国版采用哪一录音仍未确定，目标版本制作等级不移用。",
       "verification_limits": "不赋拟声歌词意义，不披露作者未公开制作环境。",
       "needs_source_reinspection": false,
       "shared_family_id": null,
@@ -103027,7 +103272,7 @@
       "target_music_version": {
         "kind": "original",
         "label": "REBEL：音乐魔方中国版原创曲",
-        "identity_evidence": "S1逐曲二手表；原公告尚未读"
+        "identity_evidence": "S1二手逐曲表的原作分类；S2官方海报现可核作品署名与会员限免安排，不据此判最初收录或具体母带。"
       },
       "music_story_class": "context_only",
       "music_story_depth": "credit_only",
@@ -103087,10 +103332,39 @@
             }
           ],
           "limitations": ""
+        },
+        {
+          "scope": "reception_release",
+          "labels": [
+            "C"
+          ],
+          "evidence": [
+            {
+              "source_ids": [
+                "S2"
+              ],
+              "claim_ids": [
+                "C026-S2-C1"
+              ],
+              "fact": "官方更新海报将《REBEL》及署名 GENESA MUSIC \"MoleQ\" 列在“会员限免”栏；海报标注更新时间为2026年10月15日10:00，并说明更新后登录可直接游玩。",
+              "medium_or_attribution": "jubeat音乐魔方官方2026年10月更新海报会员限免栏",
+              "evidence_depth": "credit_only",
+              "references": [
+                {
+                  "source_song_id": "video:music-cube-20261015:C026",
+                  "source_id": "S2",
+                  "title": "jubeat音乐魔方：2026年10月上旬更新情报（官方海报）",
+                  "url": "https://www.bilibili.com/opus/1258566296982782116"
+                }
+              ]
+            }
+          ],
+          "referent": "2026年10月15日会员限免安排",
+          "limitations": "10:00是更新生效时间，不是公告发布时间或已确认最初收录日。官方署名与可玩安排不证明音乐创作或游戏母带；公告与其转述同根。旧scope未读公告说明保留为当时读取记录，本次已读完整官方原图。"
         }
       ],
-      "music_story_gap": "仅1条可读逐曲来源；缺至少两条独立来源及作者创作过程，不能由化名推真人或题名推意图。",
-      "verification_limits": "现有资料只有一条二手追加记录；B站原公告未能取得可读网页，普通请求返回HTTP 412，未绕过访问限制。本轮仅据现有记录分类，未重试。",
+      "music_story_gap": "现有资料站及其对应官方海报属于同一公告来源链，仍仅1个独立来源，缺至少两根；作者创作过程、制作分工、最初收录日与具体游戏母带仍未核，不由化名推真人或题名推意图。",
+      "verification_limits": "此前原公告正文读取遇到缓存缺失及HTTP412，未绕过；本次已阅读留存完整官方海报。仅核2026年10月15日10:00会员限免安排与署名，公告发布时间、最初收录日期、音乐制作及游戏录音未知。",
       "needs_source_reinspection": true,
       "shared_family_id": null,
       "title": "REBEL",
@@ -103529,9 +103803,38 @@
             }
           ],
           "limitations": ""
+        },
+        {
+          "scope": "music_original",
+          "labels": [
+            "A"
+          ],
+          "evidence": [
+            {
+              "source_ids": [
+                "S4"
+              ],
+              "claim_ids": [
+                "C035-S4-C1"
+              ],
+              "fact": "モリモリあつし说明PUPA先根据小说提纲作曲，再以完成的音乐推动小说完成；故事是创作的重要要素，宇崎冴香提供原案方面的帮助。",
+              "medium_or_attribution": "モリモリあつし在Groundbreaking 2014出版页的本人评论",
+              "evidence_depth": "specific_process",
+              "references": [
+                {
+                  "source_song_id": "video:music-cube-20261015:C035",
+                  "source_id": "S4",
+                  "title": "Groundbreaking 2014 - G2R2014 COMPILATION ALBUM：PUPA",
+                  "url": "https://gdbg.tv/release/2014-2-7"
+                }
+              ]
+            }
+          ],
+          "referent": "PUPA原作作曲过程",
+          "limitations": "先有小说提纲、再完成音乐、再推动小说完成；不能由小说文本推断音乐段落与情节一一对应，也不证明音乐魔方采用的母带。旧S1未读小说的记录为当时读取范围，新S4出版文本已读，不抹去旧链接404。"
         }
       ],
-      "music_story_gap": "原小说404，缺音乐段落对应及具体作曲过程，游戏采用母带未知。",
+      "music_story_gap": "旧参赛页所链小说地址返回404；本次已读Groundbreaking 2014出版页的小说与作者评论，取得提纲、作曲和小说完成之间的先后说明。音乐段落与具体情节对应、详细编配录音及游戏采用母带仍未核。",
       "verification_limits": "本轮根据完整正文、来源及事实对应关系分类，未重新打开全部来源。",
       "needs_source_reinspection": false,
       "shared_family_id": "pupa-morimori",

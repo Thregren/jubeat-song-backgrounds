@@ -1,26 +1,125 @@
 {
-  "README_阅读说明.md": "fe5d13325b8d428bc2c341f934b6a0cc14a12e0f3f817bc582f0fc5badbdd136",
-  "总曲库/00_统一曲库歌曲总表.md": "261b7475d7979a5e47b6788baec55d8072d15839826661256b6e60a0aafdf201",
-  "按版本/01_jubeat_初代歌曲背景.md": "7ac464f6dc867efca7ed60a5c4c4735129057e3365cc1ccfeb9c83c944b45ffa",
-  "按版本/02_jubeat_ripples歌曲背景.md": "b7d4438900b7648dc3fb0d49576abd96c24446eb10d0dc05604d1e0acabf2c78",
-  "按版本/03_jubeat_knit歌曲背景.md": "ebfefd9fbd6f4a207eb1a7b686818ffa4b7f45b6cdaa19017591b97ddb7a82d1",
-  "按版本/04_jubeat_copious歌曲背景.md": "b1742cc352a395a560dac9dfec57cb2c9f986c6fd8b826242ff21787365e1bb0",
-  "按版本/05_jubeat_saucer歌曲背景.md": "78914b44cf0b73d3a125427093af3684436e5e86f9aaeb824688606c7d8a5ff4",
-  "按版本/06_jubeat_saucer_fulfill歌曲背景.md": "3b8f0e0a9d30c2052ee7a3eb60307f8f759a477f4e0e2ee7ba3d7a2b2780090b",
-  "按版本/07_jubeat_prop歌曲背景.md": "12468fbf8cfdfe7d24653528963e2e1dc6d8e7d6048443f6ca37b6fe4073f858",
-  "按版本/08_jubeat_Qubell歌曲背景.md": "9cf4222e39bdd8de1eb5d605fcbd89dad49b379efb2dca2b5c40ab2562f2be6f",
-  "按版本/09_jubeat_clan歌曲背景.md": "1b327029e9daea311ecb7c455111538fa1d7dfd1ed2c2b172128ddb7b7ffe828",
-  "按版本/10_jubeat_festo歌曲背景.md": "f90c65751efe059251df09ff1323b702a8911ba85fff2dade21a41185a7a2357",
-  "按版本/11_jubeat_Ave.歌曲背景.md": "2a8db5d5b452d21410a6eefbc86fd6848f804e6c89bb658892fb3926ba0c2ddf",
-  "按版本/12_jubeat_beyond_the_Ave.歌曲背景.md": "68befd63af976145171f24517d28f856c20d16cadc57310ddd0a906e700cad2d",
-  "按版本/13_jubeat_beyond_the_Ave_20260722更新歌曲背景.md": "6def3682187d78f34d218747d799441b26a5d71644e7351b8c2cbc1c63f5b54b",
-  "按版本/14_jubeat_plus歌曲背景.md": "c813325628fee52e1241b1d3b93ccb911e4f361ce09f4f7d8b71c54314c72a5c",
-  "按版本/15_音乐魔方歌曲背景.md": "301f6c4c4d2971441dda454a7b55093b3662d537f9a1ef43866c68865c1e706a",
-  "格式与覆盖检查说明.json": "38b5476e660d7b923614767a728d4b15beef5aa284287d4297c49b58374e9be3",
-  "版本变更说明.md": "9402f1514d392a2b89e63009600a5f4db5c8e8986ebef96b88b7d08a21d9ce84",
-  "逐曲创作证据分类.json": "94eaf495a8fd7a796f4b0441880d6f0147d3508089a59ef70c200f7f77ac3207",
-  "逐曲核查状态与缺口.json": "b52c047a2d2d2a15f3bf40ee7ccf792d1ffca7af0b3f3f7a27818fa913e2cc82",
-  "重点缺口清单.md": "eb88c18e78fd095a646df21fce7f334db301c15fe5900127d53787f83be9668f",
-  "音乐魔方_29身份归类映射.json": "9438870abf1af747eff540950d6cfa3f208b0a5476048e174b46dd82dbffc9fc",
-  "音乐魔方_版本合并与重名候选说明.md": "23b776f58b5e3a5b647beecd33d173a4594e2b7884046db835b490e81f9dc3ca"
+  "算法": "SHA-256",
+  "文件": [
+    {
+      "文件": "README_阅读说明.md",
+      "字节数": 1726,
+      "sha256": "7d2f276cc539a33f051cc1e4b9faa9a9f8f234f7005aede19f30cce63f231a58"
+    },
+    {
+      "文件": "总曲库/00_统一曲库歌曲总表.md",
+      "字节数": 168743,
+      "sha256": "261b7475d7979a5e47b6788baec55d8072d15839826661256b6e60a0aafdf201"
+    },
+    {
+      "文件": "按版本/01_jubeat_初代歌曲背景.md",
+      "字节数": 205790,
+      "sha256": "7ac464f6dc867efca7ed60a5c4c4735129057e3365cc1ccfeb9c83c944b45ffa"
+    },
+    {
+      "文件": "按版本/02_jubeat_ripples歌曲背景.md",
+      "字节数": 195862,
+      "sha256": "b7d4438900b7648dc3fb0d49576abd96c24446eb10d0dc05604d1e0acabf2c78"
+    },
+    {
+      "文件": "按版本/03_jubeat_knit歌曲背景.md",
+      "字节数": 286166,
+      "sha256": "ebfefd9fbd6f4a207eb1a7b686818ffa4b7f45b6cdaa19017591b97ddb7a82d1"
+    },
+    {
+      "文件": "按版本/04_jubeat_copious歌曲背景.md",
+      "字节数": 292308,
+      "sha256": "b1742cc352a395a560dac9dfec57cb2c9f986c6fd8b826242ff21787365e1bb0"
+    },
+    {
+      "文件": "按版本/05_jubeat_saucer歌曲背景.md",
+      "字节数": 716717,
+      "sha256": "78914b44cf0b73d3a125427093af3684436e5e86f9aaeb824688606c7d8a5ff4"
+    },
+    {
+      "文件": "按版本/06_jubeat_saucer_fulfill歌曲背景.md",
+      "字节数": 265325,
+      "sha256": "3b8f0e0a9d30c2052ee7a3eb60307f8f759a477f4e0e2ee7ba3d7a2b2780090b"
+    },
+    {
+      "文件": "按版本/07_jubeat_prop歌曲背景.md",
+      "字节数": 439227,
+      "sha256": "12468fbf8cfdfe7d24653528963e2e1dc6d8e7d6048443f6ca37b6fe4073f858"
+    },
+    {
+      "文件": "按版本/08_jubeat_Qubell歌曲背景.md",
+      "字节数": 339226,
+      "sha256": "9cf4222e39bdd8de1eb5d605fcbd89dad49b379efb2dca2b5c40ab2562f2be6f"
+    },
+    {
+      "文件": "按版本/09_jubeat_clan歌曲背景.md",
+      "字节数": 454581,
+      "sha256": "1b327029e9daea311ecb7c455111538fa1d7dfd1ed2c2b172128ddb7b7ffe828"
+    },
+    {
+      "文件": "按版本/10_jubeat_festo歌曲背景.md",
+      "字节数": 642463,
+      "sha256": "f90c65751efe059251df09ff1323b702a8911ba85fff2dade21a41185a7a2357"
+    },
+    {
+      "文件": "按版本/11_jubeat_Ave.歌曲背景.md",
+      "字节数": 183734,
+      "sha256": "55a3eb6b521bfa3c30083236373db82f7cad73dc1b6e9f34c07fa73c89e79276"
+    },
+    {
+      "文件": "按版本/12_jubeat_beyond_the_Ave.歌曲背景.md",
+      "字节数": 229916,
+      "sha256": "68befd63af976145171f24517d28f856c20d16cadc57310ddd0a906e700cad2d"
+    },
+    {
+      "文件": "按版本/13_jubeat_beyond_the_Ave_20260722更新歌曲背景.md",
+      "字节数": 147963,
+      "sha256": "6def3682187d78f34d218747d799441b26a5d71644e7351b8c2cbc1c63f5b54b"
+    },
+    {
+      "文件": "按版本/14_jubeat_plus歌曲背景.md",
+      "字节数": 1873151,
+      "sha256": "c813325628fee52e1241b1d3b93ccb911e4f361ce09f4f7d8b71c54314c72a5c"
+    },
+    {
+      "文件": "按版本/15_音乐魔方歌曲背景.md",
+      "字节数": 68018,
+      "sha256": "878c02b48289eb48c437e16e0fd82e2961debaaee3abde31b2110b0dbf7f533d"
+    },
+    {
+      "文件": "本次更新说明.md",
+      "字节数": 1550,
+      "sha256": "238127d6eab196bf8de6a4545ab1231fd0454e2310de5e9d8b882f85a6e9c630"
+    },
+    {
+      "文件": "覆盖与证据统计.json",
+      "字节数": 706,
+      "sha256": "ab3d3be01805a1c0e27634c6fa73703f7dbba84fddf53b9316f66b9d50b1e7e6"
+    },
+    {
+      "文件": "逐曲创作证据分类.json",
+      "字节数": 8199906,
+      "sha256": "083bb788410e36beecd18c7df3bf6f04aed2e7acb91efe488b727b36ab11248b"
+    },
+    {
+      "文件": "逐曲核查状态与缺口.json",
+      "字节数": 1324547,
+      "sha256": "c9e08cdbd6f23de3f0b41bd09f6790c96f89aebe87bbc27098699550586d2d9e"
+    },
+    {
+      "文件": "重点缺口清单.md",
+      "字节数": 3098,
+      "sha256": "eb88c18e78fd095a646df21fce7f334db301c15fe5900127d53787f83be9668f"
+    },
+    {
+      "文件": "音乐魔方_29身份归类映射.json",
+      "字节数": 6579,
+      "sha256": "9438870abf1af747eff540950d6cfa3f208b0a5476048e174b46dd82dbffc9fc"
+    },
+    {
+      "文件": "音乐魔方_版本合并与重名候选说明.md",
+      "字节数": 1242,
+      "sha256": "23b776f58b5e3a5b647beecd33d173a4594e2b7884046db835b490e81f9dc3ca"
+    }
+  ]
 }
