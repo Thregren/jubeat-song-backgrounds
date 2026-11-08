@@ -1129,6 +1129,8 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 
 本曲来自小室哲哉与浅倉大介组成的PANDORA，并由Beverly担任客席歌手。节目官方把词、曲、编曲都列为两人共同署名，因此不能仅凭某段旋律听起来像谁，就进一步拆分未经公布的制作分工。[1]
 
+小室哲哉在2017年9月4日刊出的withnews访谈中谈到，为《Be The One》写歌时，他虽考虑到系列原有的男孩观众，却有意不把听众范围限定得太窄。他认为假面骑士已经成为亲子可以共同享受的作品，也希望仍怀有喜爱假面骑士之心的人听到这首歌。这是小室对原作受众的构想，不代表浅倉大介或Beverly的个人意图，也不是实际受众调查。[5]
+
 Beverly留下了一个具体的影像制作细节：她在ORICON访谈中回忆，MV里三人在DJ台前搭肩并排的镜头，是她主动提出想尝试的画面，两位前辈同意后才完成。她将收到这首充满力量的作品视为难忘的合作经历。这能证明她参与了MV呈现的构思，但尚不能替代两位作者对作曲过程的说明。[3]
 
 发行资料也提醒应区分不同长度的版本：单曲通常盘把全曲与TV opening size分别列出，而游戏社区说明jubeat剪辑与TV-size不同。因此原作、电视片头和游戏收录不应被视作完全相同的一份剪辑。[2][4]
@@ -1139,14 +1141,17 @@ Beverly留下了一个具体的影像制作细节：她在ORICON访谈中回忆�
 
 ### 资料来源
 
-1. [テレビ朝日：スタッフ・主題歌](https://www.tv-asahi.co.jp/build/sphone/staff/)（已实读；primary）
-2. [Beverly/avex官网：シングルBe The One](https://avex.jp/beverly/discography/detail.php?id=1015160)（已实读；primary）
-3. [ORICON（Beverly访谈）：ドラマ主題歌起用が続く新世代歌姫・Beverlyとは](https://www.oricon.co.jp/confidence/special/50817/)（已实读；primary）
-4. [jubeat@Wiki社区：Be The One](https://w.atwiki.jp/jubeat/pages/1968.html)（已实读；secondary）
+1. [テレビ朝日：スタッフ・主題歌](https://www.tv-asahi.co.jp/build/sphone/staff/)（历史记录已实读；此前核验时未重读原网页；primary）
+2. [Beverly/avex官网：シングルBe The One](https://avex.jp/beverly/discography/detail.php?id=1015160)（历史记录已实读；此前核验时未重读原网页；primary）
+3. [ORICON（Beverly访谈）：ドラマ主題歌起用が続く新世代歌姫・Beverlyとは](https://www.oricon.co.jp/confidence/special/50817/)（历史记录已实读；此前核验时未重读原网页；primary）
+4. [jubeat@Wiki社区：Be The One](https://w.atwiki.jp/jubeat/pages/1968.html)（历史记录已实读；此前核验时未重读原网页；secondary）
+5. [withnews：人工知能で音楽家は？小室哲哉さんに聞く「時々負けるかも。でも…」](https://withnews.jp/article/f0170904005qq000000000000000W00810701qq000015849A)（2017-09-04；奥山晶二郎采访小室哲哉；已核读，此前核验时离线采用；仅支持受众构想）
 
 ### 核验边界与待补
 
-未直接读取小室、浅倉针对本曲的作曲／音色访谈；2018年3月号サンレコ与Blueprint内页为后续线索，未读不引用其制作细节；ORICON后段的生乐队现场录音属于A New Day，不移入本曲；avex-management旧访谈地址重定向首页，不计已读原采访。
+已取得小室针对本曲的受众构想，但旋律、和声、音色、工具链、两位作者的具体制作分工、Beverly录唱流程、创作或录音完成日期、具体母带及各时长的对应关系、TV opening size与jubeat edit的剪辑制作动机仍未明。采访涉及的2017年8月不作为完成日期；亲子共同享受作品不等于亲子合唱或实际收听数据。2018年3月号サンレコ与Blueprint内页仍未读，不引用其制作细节；ORICON后段的生乐队现场录音属于A New Day，不移入本曲；avex-management旧访谈地址重定向首页，不计已读原采访。
+
+列出的5项出版来源不等于5个相互独立的证据根；不据此重算正式来源资格。
 
 <a id="arcade-90000036-shared"></a>
 ## ケムマキunderground
@@ -1467,6 +1472,14 @@ festo 中的对象是 04 Limited Sazabys 原曲，不是曾在 saucer fulfill �
 
 Victor明确把《魚図鑑》的本曲标作电影用版本，收在第一碟最后一轨。应保留 -movie version- 后缀，而不能与后来其他版本、开场曲及GOCOO合作曲混称。[3]
 
+#### 服装视觉对音乐的影响
+
+在2018年3月15日与本広克行的广播对谈中，山口一郎说，电影服装兼具日式风格与妖艳气质，这种视觉印象牵引了《陽炎》的音乐创作；他以ゴダイゴ及《西游记》的感觉形容这一方向。这里记录的是电影主题曲创作语境下的作者说明，不据此认定采样、翻唱，或推断后续专辑母带与游戏剪辑的制作。[5]
+
+#### 制作过程中的反复修改
+
+本広克行在同次对谈中回忆，电影主题曲的制作并非交来曲子便告结束：按他的说法，山口即使已经交来歌曲，仍会继续修改副歌。这是导演对创作过程的回忆，不代表已核定某份demo与最终发行录音的逐段差别，也不据此排列电影版与后续版本的修改先后。[5]
+
 ### jubeat 收录与版本
 
 festo 的本条目明确是サカナクション版本；copious 的星野奏子《陽炎》为不同作品。[4]
@@ -1478,10 +1491,12 @@ festo 的本条目明确是サカナクション版本；copious 的星野奏子
 3. [Victor：魚図鑑期间限定生产盘](https://www.jvcmusic.co.jp/-/Discography/A020936/VICL-64991.html)（实读）
 4. [jubeat@Wiki：陽炎 -movie version-](https://w.atwiki.jp/jubeat/pages/1957.html)（实读）
 
+5. [TOKYO FM サカナLOCKS!：本広克行导演来访（后篇）](https://www.tfm.co.jp/lock/sakana/index.php@itemid=11022&catid=17.html)（2018-03-15；浏览器原文核验，已核验）
+
 ### 核验边界与待补
 
 - 导演与作者访谈实读为官方广播文字稿，未直接收听录音。
-- Natalie对谈本轮403，已停止该页读取，未以搜索摘要补写MONKEY MAGIC等细节；FM802普通读取403亦未采用。
+- Natalie对谈此前核验时403，已停止该页读取，未以搜索摘要补写MONKEY MAGIC等细节；FM802普通读取403亦未采用。
 - 游戏剪辑母带、精确首日和默认解锁条件待核。
 
 <a id="arcade-90000045-shared"></a>
@@ -5043,25 +5058,30 @@ KONAMI同期音乐介绍把它放入Discover Mission新内容，并明确用Raws
 
 ### 创作与制作背景
 
-本曲以Lucky Vacuum名义发表，社区整理其早期收录于《DDR X3 VS 2ndMIX》和《REFLEC BEAT limelight》，风格标为HAPPY HARDCORE，并列AUK-YAM负责封面。[1] 2012-02-29发行的limelight原声第一碟第8轨列有本曲与Lucky Vacuum署名，证明它的唱片历史远早于festo移植。[2]
+本曲以Lucky Vacuum名义发表，社区整理其早期收录于《DDR X3 VS 2ndMIX》和《REFLEC BEAT limelight》，风格标为HAPPY HARDCORE，并列AUK-YAM负责封面。[1] 2012年2月29日发行的limelight原声第一碟第8轨列有本曲与Lucky Vacuum署名，证明它的唱片历史远早于festo移植。[2]
 
-Remy的逐曲资料把“原计划145 BPM”归为DJ YOSHITAKA的说法，与最终196 BPM形成明显差别；但本轮没有读到原始日文内页，因此只能作为第三方注明作者姓名的转述，不能伪称亲读作者曲评。[1] 同页还逐项记录收据封面的商品金额合计777日元。这是视觉题材线索，不足以把具体购物经历或幸运数字定为已经证实的作曲契机。[1]
+Remy曾将145 BPM的说法归于DJ YOSHITAKA；这保留为第三方署名转述，不用来扩展官方曲评的署名身份。[1]
+
+Lucky Vacuum 在 DDR X3 官方曲评中回顾，自己以145BPM提交demo，后来根据情况提高速度，并认为提速后的结果不错。[4] 这说明的是提交时的demo及其后调整，并不能确定最初构思或具体创作日期。
+
+同一曲评还把对777日元收据的敏感反应与运气相联系。[4] Remy另有封面商品金额合计777日元的整理。[1] 作者的收据／好运联想与封面金额记录各有出处，但都不足以证明某次购物直接触发作曲。
 
 ### jubeat 收录与版本
 
-本地总表归属 festo。2020-09-07至10月5日T-emo STORE提供街机版，工具9月7日记录追加。[1][3] 街机重新制作HOLD谱面，与plus旧普通谱面不同；本条不把原稿NORMAL/HYPER/HOLD当作三个难度名称。
+本地总表归属 festo。2020年9月7日至10月5日T-emo STORE提供街机版，工具9月7日记录追加。[1][3] 街机重新制作HOLD谱面，与plus旧普通谱面不同；本条不把原稿NORMAL/HYPER/HOLD当作三个难度名称。
 
 ### 资料来源
 
-1. [RemyWiki：Beautiful receipt](https://remywiki.com/Beautiful_receipt)：早期机种、风格与封面署名、145BPM注明作者姓名的转述、777收据、街机HOLD/手机版区别。
+1. [RemyWiki：Beautiful receipt](https://remywiki.com/Beautiful_receipt)：早期机种、风格与封面署名、封面金额及街机HOLD／手机版区别；亦保留其demo速度的第三方转述来源。
 2. [CDJapan：REFLEC BEAT limelight OST](https://www.cdjapan.co.jp/product/GFCA-313)：发行日期及第一碟第8轨本曲Lucky Vacuum。
 3. [jubeat statistics：festo日志](https://jubesta.net/festo/)：本曲追加对应。
+4. [KONAMI：DDR X3 NEW SONGS](https://p.eagate.573.jp/game/ddr/x3/p/music/newsong_9.html)：Lucky Vacuum署名曲评，回顾以145BPM提交demo及后来提速，并谈及777日元收据与运气的联想；页面未注明曲评发表日期。
 
 ### 核验边界与待补
 
-3个独立来源已读；145BPM故事仅第三方注明作者姓名的转述，原日文曲评未核；唱片/总曲目信息时长不当jubeat剪辑实测。
+DDR X3 官方页为未注明发表日期的署名回顾，支持demo提交速度及收据／好运联想，不是同期制作日志，也不是jubeat制作过程的说明；原声内页尚未核读。[4] 具体创作日期、提速决策人和购物触发仍未知。196 BPM及1:48沿用社区资料，不由该曲评证明，1:48亦不作为jubeat剪辑实测。[1] 曲评不能证明跨游戏使用同一音频母版或剪辑，也不能解释jubeat何时提速、HOLD谱面设计或物量与税额的关系。
 
----
+历史基线记有3个独立来源已读；新增官方曲评不据此重算正式来源资格。
 
 <a id="arcade-90000146-shared"></a>
 ## TRIUMPH
@@ -6996,33 +7016,31 @@ festo 于 2022-03-16 开放 SYMPHONY篇 Track3-6，活动至 04-12。[1] 此为�
 - 原章节编号与标题：192. starmine (BEMANI SYMPHONY Arr.)
 
 ### 曲目档案
-
 - 艺术家：Ryu☆ × デビン木下 + gaQdan
 - 交响编曲：デビン木下
 - BPM：100–164；游戏长度待核
 - BASIC / ADVANCED / EXTREME：4 / 7 / 9.3；Notes：228 / 446 / 736（谱面类型待逐曲页复核）
 
 ### 创作与制作背景
-
 官方2021年专辑把原曲Ryu☆与交响编曲デビン木下分列。[1] 这份改编不是Ryu☆2009年同名专辑，也不能把其他starmine重混的人员署名移来。
 
-原曲进入游戏的过程，Ryu☆在2016年采访里讲得很具体：他直到截止前一天，才在大学电脑室浏览IIDX官网时发现公募；回程在天神买了MC-307，因为没有时间从零开始，便决定重制已有作品，而starmine最合适。最终在2000-07-31截止当天以速递寄出。[2] 他同时解释，自己喜欢Happy Hardcore的快速节拍、易记乐句与钢琴伴奏，福冈的俱乐部经验也是重要影响；但这不等于从一开始就打算写一首游戏用Happy Hardcore。[2]
+原曲进入游戏的过程，Ryu☆在2016年采访里讲得很具体：他直到截止前一天，才在大学电脑室浏览IIDX官网时发现公募；回程在天神买了MC-307，因为没有时间从零开始，便决定重制已有作品，而starmine最合适。最终在2000年7月31日截止当天以速递寄出。[2] 他同时解释，自己喜欢Happy Hardcore的快速节拍、易记乐句与钢琴伴奏，福冈的俱乐部经验也是重要影响；但这不等于从一开始就打算写一首游戏用Happy Hardcore。[2]
+
+Ryu☆在2020年回顾《starmine》的投稿选择时，提到《beatmania IIDX 3rd style》已收录《TAKE ON ME》《S.O.S.》等Happy Hardcore重混，而五键系列的《321 STARS》虽归为Techno Pop，鲜明旋律与快速四拍也让他觉得好玩；他认为，这些体验也是选择以《starmine》投稿的原因。谈到让副歌一听就留下印象、仅凭机台播放的声音吸引初次接触者的创作想法时，他又回顾认为，《starmine》也重视了这一点，并将此与自己同样身为玩家联系起来。这是原曲作者多年后的回顾与自我评价，不是当年的创作记录，也不涉及2021年交响版的编曲过程。[4]
 
 以上是原作选曲与重制的直接回忆。デビン木下如何把电子舞曲重写为2021年管弦乐、录音时做了哪些取舍，尚未找到逐曲自述。游戏版100–164的变速区间另外按festo表核定，不使用旧原曲的182替代。[3]
 
 ### jubeat 收录与版本
-
-本地总表归属 festo，社区总表列在2021-12-22至2022-01-31的Track2-3。[3] 逐曲页本轮web cache miss及普通HTTP403，已停止该页读取；不把未读页填作已读证据。
+本地总表归属 festo，社区总表列在2021年12月22日至2022年1月31日的Track2-3。[3] 逐曲页在基线研究时出现web cache miss及普通HTTP403，已停止该页读取；不把未读页填作已读证据。
 
 ### 资料来源
-
 1. [BEMANI SYMPHONY：starmine官方署名](https://bs.edp-edp.com/)：Ryu☆原曲、デビン木下交响编曲。
 2. [Real Sound：Ryu☆谈游戏音乐平台及早期创作](https://realsound.jp/2016/03/post-6581.html)：Happy Hardcore兴趣、截止前一天发现公募、MC-307与旧作重制、截止日寄出。
 3. [jubeat Wiki：festo总表](https://w.atwiki.jp/jubeat/pages/1947.html)：Track2-3、100–164和三谱面等级/Notes。
+4. [Real Sound：Ryu☆在2020年回顾starmine原作](https://realsound.jp/2020/04/post-545659.html)：投稿选择的回顾归因与旋律目标的自我评价，仅支持原作段落，不支持2021年交响编曲。
 
 ### 核验边界与待补
-
-3个独立来源已读；原曲制作过程有本人采访证词；交响逐曲动机未得。逐曲页403，谱面类型待补读确认。
+基线记录的“3个独立来源已读”保留为当时的核验状态。本研究稿在原有3条出版记录之外，加入2020年作者访谈的已审定原作回顾补证，共列4条出版记录；这不是4个相互独立的创作证词，也不改变基线来源资格计数3或全库资格统计。原曲制作过程有本人采访证词；交响逐曲动机未得。逐曲页此前403，此前核验时未重读，谱面类型仍待补读确认。
 
 ---
 

@@ -25954,31 +25954,38 @@ KONAMI 发布文确认 2014-05-29加入 jubeat plus 的「ナオト・インテ�
 ### 曲目档案
 
 - 署名：米津玄師
-- 唱片位置：2014年《YANKEE》第1曲
-- BPM / Length：本轮可读目录未列，不推算
-- 游戏谱面：BSC 2 / ADV 5 / EXT 8（旧plus目录）
+- 唱片位置：2014年《YANKEE》第1曲 [2][6]
+- BPM / Length：历史可读目录未列，待核，不推算
+- 游戏谱面：BSC 2 / ADV 5 / EXT 8（旧plus目录）[1]
 
 ### 创作与制作背景
 
-这首歌位于《YANKEE》的开端。官方唱片目录把它排在第一曲，影像盘也收录本曲MV，因而它不仅是游戏选曲，也是该专辑的主要视觉呈现之一。[2]
+这首歌是米津玄師于2014年4月23日发行的《YANKEE》的第1曲。[2][6] 专辑影像盘也收录本曲MV，是该专辑主要视觉呈现之一。[2]
 
-关于创作缘由，KAI-YOU 2015年的回顾文章援引当年访谈，称米津在写本曲时回想起受疏离的童年和压抑的青春期。这是一条可追溯的媒体转述，而非本轮直接读到米津原访谈；不进一步写成未经核实的具体自传事件。该文讨论的《YANKEE》整体“诅咒”主题也不能自动等同每一句歌词的唯一解释。[4]
+关于创作缘由，KAI-YOU在2015年的回顾文章中援引当年访谈，称米津写本曲时回想起受疏离的童年和压抑的青春期。这是媒体转述，尚不能作为已核实的原作者自述，不进一步写成未经核实的具体自传事件。该文讨论的《YANKEE》整体“诅咒”主题也不能自动等同每一句歌词的唯一解释。[4]
+
+制作层面，工程师土岐彩香在2019年刊载的访谈中，回答《リビングデッド・ユース》的混音问题时回忆，米津已有清楚的完成形想象，她着重理解并强化他的意图，让混音接近他设想的成品。[5]
+
+她在同一答复中还谈到，作为乐器使用的声音采样及难辨来源的打击音，与普通现场录制声音的质感并不相合，因此采用较特别的音色处理，并让节奏听感更近。[5]
 
 ### jubeat 收录与版本
 
-2014-09-30米津玄師 pack；与アイネクライネ、ドーナツホール(COVER)、MAD HEAD LOVE同包。不是因进入jubeat才创作的新曲。[1][3]
+2014年9月30日，本曲随米津玄師 pack 收录于jubeat plus，与アイネクライネ、ドーナツホール(COVER)、MAD HEAD LOVE同包；当时的配信报道列有iOS、Xperia和Kindle版。[1][3] 本曲先有专辑发行，并非为jubeat新作。
 
 ### 资料来源
 
-1. jubeat@Wiki：plus 曲目表，https://w.atwiki.jp/jubeat/pages/386.html ：已实际读取；米津玄師 pack 于2014-09-30配信，含リビングデッド・ユース与MAD HEAD LOVE
-2. REISSUE RECORDS：YANKEE，https://reissuerecords.net/discography/yankee/ ：已实际读取；YANKEE 2014-04-23发行；第一曲リビングデッド・ユース，第二曲MAD HEAD LOVE
-3. gamebiz：米津玄師 pack 配信，https://gamebiz.jp/news/135139 ：已实际读取；iOS、Xperia、Kindle版推出米津玄師 pack，选取YANKEE四曲
-4. KAI-YOU：米津玄師はジブリだった（2页），https://kai-you.net/article/23774/page/2 ：已实际读取；回顾当年访谈称本曲创作回想受疏离童年与压抑青春
+1. [jubeat@Wiki：plus 曲目表](https://w.atwiki.jp/jubeat/pages/386.html)，持续更新。
+2. [REISSUE RECORDS：YANKEE](https://reissuerecords.net/discography/yankee/)，发行日期：2014-04-23；目录第1曲为本曲，第2曲为MAD HEAD LOVE。
+3. [gamebiz：米津玄師 pack 配信报道](https://gamebiz.jp/news/135139)，2014-09-30。
+4. [KAI-YOU：米津玄師はジブリだった（第2页）](https://kai-you.net/article/23774/page/2)，2015-12-18。
+5. [ぴあ音楽／ナタリー：エンジニアが明かすあのサウンドの正体 第10回 土岐彩香の仕事術（後編）](https://lp.p.pia.jp/article/news/85942/index.html)，土岐彩香访谈，中村公輔采访／撰文；页面刊载时间：2019-12-13 17:00。
+6. [Fanplus Music／EMTG：米津玄師、居場所をなくした全ての人に贈る2ndアルバム『YANKEE』インタビュー](https://music.fanplus.co.jp/news/20140403791690bb3)，米津玄師访谈，今井智子采访／撰文；2014-04-22。
 
 ### 核验边界与待补
 
-- Natalie对应原访谈403，未绕过；本曲创作缘由仅二手转述，不计直接作者证据。
-- 游戏音源剪辑时长与BPM仍待核。
+原作者关于本曲创作动机的原访谈仍未核实；土岐彩香的回忆属于制作参与者证言，不补足这一缺口，也不说明jubeat游戏音源的剪辑。游戏剪辑、BPM与时长仍待核。
+
+历史核验中Natalie对应的原作者访谈曾返回403，未绕过；不能因另有工程师访谈而视为已补足原作者创作缘由证据。
 
 <a id="16-jubeat-plus-331051404-shared"></a>
 ## MAD HEAD LOVE

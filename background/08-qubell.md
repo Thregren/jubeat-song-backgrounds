@@ -80,7 +80,7 @@ Qubell历史表记2016-12-20加入，本条采用其130与旧等级/物量，不
 
 - 标题：新宝島
 - 艺人：サカナクション
-- 原单曲：2015-09-30，NF Records／Victor，VICL-37102。
+- 原单曲：2015年9月30日，NF Records／Victor，VICL-37102。
 - 历史游戏参数：149–158、3/5/8、206/367/481。
 
 ### 创作与制作背景
@@ -89,24 +89,26 @@ Qubell历史表记2016-12-20加入，本条采用其130与旧等级/物量，不
 
 另一场2020年电台谈话的媒体引述补足写词难关：山口先从手塚治虫作品读起，以理解漫画；电影已经完成时歌曲仍是无正式歌词的哼唱。真正卡住他的不是分别写电影或写自己，而是让两种叙事结合：第一段是漫画创作者，第二段是音乐人，最后副歌必须让二者相遇。这说明反复打磨的是叙事衔接，不宜把它简化为临时赶工。[2]
 
-正式唱片将本曲列为电影主题歌，并把器乐版独立列轨，2015-09-30由NF Records发行。电台创作回忆也不能证明jubeat采用哪一份商业剪辑母带。[3]
+正式唱片将本曲列为电影主题歌，并把器乐版独立列轨，2015年9月30日由NF Records发行。电台创作回忆也不能证明jubeat采用哪一份商业剪辑母带。[3]
+
+土岐彩香在2019年访谈中回忆，《新宝島》采用了预制作阶段的前奏。[5] 这段回忆涉及原版歌曲的录音制作，不能据此确认jubeat使用的母带或剪辑。
 
 ### jubeat 收录与版本
 
-Qubell历史曲表记2016-07-18收录；保留当版149–158及3/5/8，不换成现行细分等级。[4]
+Qubell历史曲表记2016年7月18日收录；保留当版149–158及3/5/8，不换成现行细分等级。[4]
 
 ### 资料来源
 
 1. [TOKYO FM：山口一郎回顾六年创作](https://www.tfm.co.jp/lock/sakana/index.php@itemid=13184&catid=17.html)：大根仁配乐邀请与乐队由内省走向外部的转机。
 2. [マイナビ：山口谈新宝岛制作秘话](https://news.mynavi.jp/article/20201014-1410974/)：引述10月11日STV本人谈阅读漫画、迟交歌词及两段叙事难以相接。
 3. [Victor：新宝島通常盘](https://www.jvcmusic.co.jp/-/Discography/-/VICL-37102.html)：NF Records、日期、电影主题歌与器乐分轨。
-4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016-07-18、149–158、3/5/8、206/367/481。
+4. [jubeat@Wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)：2016年7月18日、149–158、3/5/8、206/367/481。
+
+5. [ぴあ：土岐彩香の仕事術（前編）](https://lp.p.pia.jp/article/news/84677/index.html)：工程师土岐彩香回忆本曲采用预制作阶段的前奏。页面显示2019年12月6日；该日期不作为首发日期的验证。
 
 ### 核验边界与待补
 
-四来源根达标，制作转机为本人节目原文，写词细节为媒体引述。游戏母带及精确时长未亲测；未用未核网络传说补MV制作动机。
-
----
+四来源根达标，制作转机为本人节目原文，写词细节为媒体引述。游戏母带及精确时长未亲测；未用未核网络传说补MV制作动机。新增访谈属于制作参与者回忆，不作为作者创作意图、具体录音take或游戏音源的证据。
 
 <a id="arcade-70000026-shared"></a>
 ## HERO
@@ -1887,9 +1889,13 @@ Ryu☆ feat.青龍并不意味着两名制作人合作：EXIT TUNES的《AO∞�
 
 ### 创作与制作背景
 
-原稿把X3 VS 2ndMIX写为原作，遗漏更早家用DDR（2010）来源。本轮游戏信用转录明确2010年Wii作品已有本曲及Hiroyoshi Kato署名；社区进一步整理同年家用版与后来X3移植，因此不能由NC underground中的字样把作者推定为NAOKI或笼统内部团队。[1][2]
+原稿把X3 VS 2ndMIX写为原作，遗漏更早家用DDR（2010）来源。此前核验时游戏信用转录明确2010年Wii作品已有本曲及Hiroyoshi Kato署名；社区进一步整理同年家用版与后来X3移植，因此不能由NC underground中的字样把作者推定为NAOKI或笼统内部团队。[1][2]
 
-本曲有A/B/C三种版本，开头相同而后续不同；社区记录jubeat采用Type A、曲名省去后缀。DDR的Type A谱面存在95至380的速度变化与停止，但jubeat标示190；这不是实际音源被改成另一首，也不能单凭谱面显示推断制作人重新录制。[1] 目前未取得加藤本人关于纽约题材、三分支设计起因或采样选择的曲评，城市旅游等背景不作补写。
+本曲有A/B/C三种版本，开头相同而后续不同；社区记录jubeat采用Type A、曲名省去后缀。DDR的Type A谱面存在95至380的速度变化与停止，但jubeat标示190；这不是实际音源被改成另一首，也不能单凭谱面显示推断制作人重新录制。[1] 这里的三种版本是原曲的三种展开，jubeat 收录的是其中的 Type A，并非将三种版本合并。[1]
+
+NC underground 在 DDR X3 官方曲评中说明，本曲承接《SOUL CRASH》《Music In The Rhythm》等作品既有的 hardstyle 路线，并借助速度进一步增强高扬感。同一曲评称，三种模式可呈现 trance、metal、psychedelic、electro、hyper techno 等多样的音乐展开。[4] 这段话描述原曲三模式的整体面貌，不能据此把所有风格都归给 jubeat 的 Type A，也不能断言每一种模式都包含这些风格。提到前作体现的是创作路线的延续，不足以证明直接采样或旋律、音源复用。
+
+这篇曲评刊载于 DDR X3 官方页面，作者署名为 NC underground；保存正文没有标注发表日期，不能当作已确定日期的原作同期材料，也不说明 jubeat 移植时的制作流程。纽约题材灵感、三分支设计起因与采样选择仍无直接说明，不作补写。[4]
 
 ### jubeat 收录与版本
 
@@ -1897,15 +1903,18 @@ Ryu☆ feat.青龍并不意味着两名制作人合作：EXIT TUNES的《AO∞�
 
 ### 资料来源
 
-1. RemyWiki：New York EVOLVED：https://remywiki.com/New_York_EVOLVED（已读；家用2010初出、后来X3移植；三版本与jubeat Type A；190及分期谱面参数；dig RUSH第1弹Stage 2）
-2. MobyGames：Dance Dance Revolution（Wii，2010）原游戏信用转录：https://www.mobygames.com/game/60392/dance-dance-revolution/credits/wii/（已读；New York EVOLVED：Hiroyoshi Kato（Performed by），©2010）
-3. BEMANI Fan Site 2016年9月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201609/（已读；New York EVOLVED为dig RUSH第1弹DDR移植曲）
+- [1] RemyWiki：New York EVOLVED：https://remywiki.com/New_York_EVOLVED（已读；家用2010初出、后来X3移植；三版本与jubeat Type A；190及分期谱面参数；dig RUSH第1弹Stage 2）
+- [2] MobyGames：Dance Dance Revolution（Wii，2010）原游戏信用转录：https://www.mobygames.com/game/60392/dance-dance-revolution/credits/wii/（已读；New York EVOLVED：Hiroyoshi Kato（Performed by），©2010）
+- [3] BEMANI Fan Site 2016年9月新曲介绍：https://p.eagate.573.jp/game/bemani/fansite/s/music/201609/（已读；New York EVOLVED为dig RUSH第1弹DDR移植曲）
+- [4] DDR X3 官方曲评：New York EVOLVED／NC underground：https://p.eagate.573.jp/game/ddr/x3/p/music/newsong_42.html（发表日期不详；作者原曲制作说明；hardstyle 路线、速度带来的高扬感及三模式整体的多样风格）
 
 ### 核验边界与待补
 
-- 作者创作评论未读；MobyGames为游戏信用转录，不等同亲看游戏片尾。
+- 已有 NC underground 署名的原曲创作说明，但不据此扩展作者法律身份或确认 NAOKI 作曲。MobyGames 仍是游戏信用转录，不等同亲看游戏片尾。
 - MusicBrainz相关原声页429，未改渠道重试，不计来源。
-- 谱面/历史、原游戏信用、2016官方移植事件三根；不得把NAOKI整作制作人职务等同本曲作曲。
+- 历史来源与资格记录保持原样；新曲评属于已有官方发行链，不自动增加独立来源根或正式资格。三模式存在是旧事实的作者直接复核，不计作新增创作事实。
+
+- 原有证据根为谱面／历史、原游戏信用、2016官方移植事件三根；不得把NAOKI整作制作人职务等同本曲作曲。
 
 <a id="arcade-70000113-shared"></a>
 ## Destiny lovers
