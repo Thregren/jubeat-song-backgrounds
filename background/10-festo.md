@@ -35,6 +35,18 @@
 - 统一曲库 ID：`arcade:50000191`
 - 原章节编号与标题：1. Silent Scream
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:50000191" -->
+### 基本信息
+
+- 标题：Silent Scream
+- 艺人：Akira Yamaoka, Mary Elizabeth McGlynn；电影信用转录记山冈创作演奏、McGlynn唱，不是实看片尾。[2]
+- 原声（原始作品发布时间）：电影关联授权曲；原作精确首次公开及完整录音发行日期待核，不以saucer删除日充首发。[1][2]
+- BPM：110。[1]
+- 谱面难度 BSC／ADV／EXT：原版3／6／8。[1]
+- 节点数 BSC／ADV／EXT：236／349／623。[1]
+- 版本性质：旧总库保留festo分组；已证saucer限定、2013-08-11 23:59删除，2014-02仍不可玩；festo复活待证。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Silent Scream
@@ -73,6 +85,18 @@ Assignment X的原声评论对本曲有独立的听感描述：评论者把它�
 - 统一曲库 ID：`arcade:70000137`
 - 原章节编号与标题：2. AC版ディズニー ツムツムメドレー
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:70000137" -->
+### 基本信息
+
+- 标题：AC版ディズニー ツムツムメドレー
+- 艺人：©Disney为署名，非个人作曲姓名；编曲者及原BGM各段未核。[1][2]
+- 原声（原始作品发布时间）：街机ツムツム BGM组曲；原BGM及组曲首次公开/完整发行待核，2017-02-27为Qubell联动启动。[1][2]
+- BPM：社区pop’n档案146，jubeat未另核。[2]
+- 谱面难度 BSC／ADV／EXT：旧稿2／6／8待核。[2]
+- 节点数 BSC／ADV／EXT：旧稿194／362／530待核。[2]
+- 版本性质：Qubell限定；02-27 10:00至04-25 23:59解锁，已解锁使用至05-25；festo分组不证复活/常驻。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：AC版ディズニー ツムツムメドレー
@@ -110,6 +134,18 @@ Assignment X的原声评论对本曲有独立的听感描述：评论者把它�
 - 统一曲库 ID：`arcade:90000001`
 - 原章节编号与标题：3. Samba Ramba
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000001" -->
+### 基本信息
+
+- 标题：Samba Ramba
+- 艺人：Y&Co. feat. Kanae Asaba；词编分工未核。[2]
+- 原声（原始作品发布时间）：2018年10月TREND SHOP游戏公开；后festo OST碟2第6轨，完整录音首次发行日待核。[1][2][4]
+- BPM：160。[1]
+- 谱面难度 BSC／ADV／EXT：3／6／9.3。[1]
+- 节点数 BSC／ADV／EXT：272／583／855。[1]
+- 版本性质：festo原创商店曲；2018/10为400 T-emo，2019/01与2020/01回归300；录音趣闻仅听众转述。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Samba Ramba
@@ -146,6 +182,18 @@ Assignment X的原声评论对本曲有独立的听感描述：评论者把它�
 - 统一曲库 ID：`arcade:90000007`
 - 原章节编号与标题：4. 恋 No リセットゲーム!!!!!
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000007" -->
+### 基本信息
+
+- 标题：恋 No リセットゲーム!!!!!
+- 艺人：DJ Genki feat. ななひら,yukacco,藍月なくる；三位歌手合作，词配器分工未核。[1][2]
+- 原声（原始作品发布时间）：2018年9月官方festo新曲介绍；完整原始录音首次发行待核，后ULTIMATE MOBILE目录不充游戏谱面清单。[2][3]
+- BPM：190。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD4／9.1／10.4。[1]
+- 节点数 BSC／ADV／EXT：305／642／979。[1]
+- 版本性质：festo原创HOLD、TARGET MUSIC TOTAL对象满20曲；不因相近阵容认作梦色续作或重混。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：恋 No リセットゲーム!!!!!
@@ -180,6 +228,18 @@ Assignment X的原声评论对本曲有独立的听感描述：评论者把它�
 
 - 统一曲库 ID：`arcade:90000008`
 - 原章节编号与标题：5. 拙者拙者拙者拙者
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000008" -->
+### 基本信息
+
+- 标题：拙者拙者拙者拙者
+- 艺人：ヒゲドライバー & ゆよゆっぺ；双人总署名，词曲歌唱分工未核。[1][3]
+- 原声（原始作品发布时间）：2018-10-25后emoSAPO解禁；完整录音首次发行待核，2019联动“新曲”不改festo初出。[1][2][3]
+- BPM：195。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD3／7／10.2。[1]
+- 节点数 BSC／ADV／EXT：188／552／820。[1]
+- 版本性质：festo原创HOLD；全体累计100万emo奖励非个人购买；水戸黄門联想不能充采样/改编证明。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -217,6 +277,18 @@ Assignment X的原声评论对本曲有独立的听感描述：评论者把它�
 - 统一曲库 ID：`arcade:90000009`
 - 原章节编号与标题：6. In Your EyEs
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000009" -->
+### 基本信息
+
+- 标题：In Your EyEs
+- 艺人：kors k。[2][3]
+- 原声（原始作品发布时间）：2018-09-13游戏开放，官方消息17:30；完整录音首发日期待核。[1][2]
+- BPM：180。[1]
+- 谱面难度 BSC／ADV／EXT：5／7／10.5。[1]
+- 节点数 BSC／ADV／EXT：386／605／981。[1]
+- 版本性质：festo原创，emoSAPO累计10万纪念；旧曲谱面相似不证采样，音乐目录非IIDX移植公告。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：In Your EyEs
@@ -251,6 +323,18 @@ emoSAPO 100000累计达成纪念开放；日期2018-09-13，非TARGET MUSIC或�
 
 - 统一曲库 ID：`arcade:90000010`
 - 原章节编号与标题：7. ROCK ju
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000010" -->
+### 基本信息
+
+- 标题：ROCK ju
+- 艺人：C-Show作编曲，制作公司履历支持，不因本名添合作者。[2]
+- 原声（原始作品发布时间）：2018-11-08 ROOM9游戏开放；完整原始录音首次发行待核，后ROCK ju (EXTEND)另版。[3][4]
+- BPM：175。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／10.6。[3]
+- 节点数 BSC／ADV／EXT：318／689／1000。[3]
+- 版本性质：festo十周年回望初代的新作，非2008旧曲；ROOM9第三点、2019-03-28转TUNE RUN，11/15仅网页更新。[1][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -289,6 +373,18 @@ C-Show所属创作公司在作品履历中明确列出本曲的Music／Arrangeme
 - 统一曲库 ID：`arcade:90000011`
 - 原章节编号与标题：8. 雨上がりの空に
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000011" -->
+### 基本信息
+
+- 标题：雨上がりの空に
+- 艺人：猫大樹＝新井大樹与猫体質；新井制谱官方确认，词曲细分社区信用待内页。[1][2]
+- 原声（原始作品发布时间）：2018-10-18 festo游戏公开；完整原始录音发行日未载，不以10/25展示更新代替。[2][3][4][5]
+- BPM：160。[2][3]
+- 谱面难度 BSC／ADV／EXT：HOLD5／9.7／10.5。[2][3]
+- 节点数 BSC／ADV／EXT：226／729／836。[2][3]
+- 版本性质：2018十周年ripples回顾新作，ROOM6；2019-03-07转TUNE RUN；社区长度1:55/1:56保留差异。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 猫大樹＝新井大樹与猫体質；160 BPM，HOLD5／9.7／10.5，Notes226／729／836。社区曲长有1:55与1:56差异，未亲测。[1][2][3]
@@ -325,6 +421,18 @@ C-Show所属创作公司在作品履历中明确列出本曲的Music／Arrangeme
 
 - 统一曲库 ID：`arcade:90000012`
 - 原章节编号与标题：9. 幸せが鳴る夜に
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000012" -->
+### 基本信息
+
+- 标题：幸せが鳴る夜に
+- 艺人：PAN；川さん词、ダイスケ曲。[1][2]
+- 原声（原始作品发布时间）：2018-09-20先游戏公开；完整歌曲2018-11-07《ムムムム》第4轨发行，二者分开。[2][4][5]
+- BPM：191。[4]
+- 谱面难度 BSC／ADV／EXT：4／7／9.7。[4]
+- 节点数 BSC／ADV／EXT：262／448／662。[4]
+- 版本性质：festo ROOM2十周年knit纪念，不是2010旧作；9/27只展示页更新，旧版权曲模仿未证。[1][3][4][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -364,6 +472,18 @@ PAN；川さん作词、ダイスケ作曲。191 BPM，4／7／9.7，Notes262／
 - 统一曲库 ID：`arcade:90000013`
 - 原章节编号与标题：10. Welcome to the Mosh Pit
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000013" -->
+### 基本信息
+
+- 标题：Welcome to the Mosh Pit
+- 艺人：lapix。[1][4]
+- 原声（原始作品发布时间）：2018-10-04游戏公开；2019-12-31 Rizing Destruction为Extended Mix及Special MushUp后改作，原始完整录音首发待核。[2][3][4]
+- BPM：172。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD5／9.6／10.6。[2]
+- 节点数 BSC／ADV／EXT：359／737／1020。[2]
+- 版本性质：festo ROOM4、2018回顾copious新作；与Roll the Dice混合版不充游戏原曲构成。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 lapix；172 BPM，HOLD5／9.6／10.6，Notes359／737／1020，社区游戏长度2:03；视觉クロサワテツ。[1][2][3]
@@ -397,6 +517,18 @@ lapix；172 BPM，HOLD5／9.6／10.6，Notes359／737／1020，社区游戏长�
 
 - 统一曲库 ID：`arcade:90000014`
 - 原章节编号与标题：11. Dream drip macchiato
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000014" -->
+### 基本信息
+
+- 标题：Dream drip macchiato
+- 艺人：BEMANI Sound Team "TAG"。[2]
+- 原声（原始作品发布时间）：2018-09-13 ROOM1游戏公开；后原声目录可核署名，完整录音发行日待核。[2][3][4]
+- BPM：160。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD5／7／9.4。[3]
+- 节点数 BSC／ADV／EXT：251／522／741。[3]
+- 版本性质：festo回顾saucer fulfill，2019-02-18转TUNE RUN；猫咖啡馆是shino视觉，不作TAG采样证言。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -432,6 +564,18 @@ BEMANI Sound Team "TAG"；160 BPM，HOLD5／7／9.4，Notes251／522／741，社
 - 统一曲库 ID：`arcade:90000015`
 - 原章节编号与标题：12. Radius
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000015" -->
+### 基本信息
+
+- 标题：Radius
+- 艺人：BEMANI Sound Team "Sota F."。[2]
+- 原声（原始作品发布时间）：2018-10-25 ROOM7游戏公开；完整录音首次发行日期待核。[3][4]
+- BPM：150。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／9.7。[3]
+- 节点数 BSC／ADV／EXT：229／535／786。[3]
+- 版本性质：festo十周年saucer回顾；跳舞食材为里本直紀视觉，不能据曲名推音乐宇宙寓意。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 BEMANI Sound Team "Sota F."；150 BPM，4／7／9.7，Notes229／535／786，社区长度1:53；里本直紀（B-SIDE LABEL）视觉。[1][2][3]
@@ -466,6 +610,18 @@ BEMANI Sound Team "Sota F."；150 BPM，4／7／9.7，Notes229／535／786，社
 - 统一曲库 ID：`arcade:90000016`
 - 原章节编号与标题：13. Pegasus
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000016" -->
+### 基本信息
+
+- 标题：Pegasus
+- 艺人：BEMANI Sound Team "Expander"；Sota Fujimori关联仅社区说明。[1][2][3]
+- 原声（原始作品发布时间）：2018-09-27 ROOM3游戏开放；完整原始录音首次发行日期待核。[3][4]
+- BPM：165。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／10.1。[3]
+- 节点数 BSC／ADV／EXT：355／505／845。[3]
+- 版本性质：festo十周年prop回顾新作；2019-02-21转TUNE RUN，祝贺留言不充神话或器材构思证言。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 BEMANI Sound Team "Expander"；165 BPM，4／7／10.1，Notes355／505／845，社区长度1:59；ホノジロトヲジ封面。[1][2][3]
@@ -499,6 +655,18 @@ BEMANI Sound Team "Expander"；165 BPM，4／7／10.1，Notes355／505／845，�
 
 - 统一曲库 ID：`arcade:90000017`
 - 原章节编号与标题：14. Glitter Cube
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000017" -->
+### 基本信息
+
+- 标题：Glitter Cube
+- 艺人：BEMANI Sound Team "dj TAKA"。[2]
+- 原声（原始作品发布时间）：2018-10-11 ROOM5游戏公开；完整原始录音首次发行日期待核。[3][4]
+- BPM：150。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD3／7／10.2。[3]
+- 节点数 BSC／ADV／EXT：152／483／814。[3]
+- 版本性质：festo十周年Qubell回顾新曲，非2016首发；首次单独名义器乐仅社区概括。[1][3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -535,6 +703,18 @@ BEMANI Sound Team "dj TAKA"；150 BPM，HOLD3／7／10.2，Notes152／483／814�
 - 统一曲库 ID：`arcade:90000018`
 - 原章节编号与标题：15. 少女、摩天楼へ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000018" -->
+### 基本信息
+
+- 标题：少女、摩天楼へ
+- 艺人：BEMANI Sound Team "U1 overground"。[2]
+- 原声（原始作品发布时间）：2018-11-01 ROOM8游戏公开；完整录音首次发行日期待核，不采用摘要11/8。[3][4]
+- BPM：150。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD3／8／10.3。[3]
+- 节点数 BSC／ADV／EXT：294／653／793。[3]
+- 版本性质：festo回顾clan，2019-03-11转TUNE RUN；初到城市兴奋是白根视觉证词非作曲家人生。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 BEMANI Sound Team "U1 overground"；150 BPM，HOLD3／8／10.3，Notes294／653／793，社区长度2:03；白根ゆたんぽ视觉。[1][2][3]
@@ -569,6 +749,18 @@ BEMANI Sound Team "U1 overground"；150 BPM，HOLD3／8／10.3，Notes294／653�
 - 统一曲库 ID：`arcade:90000019`
 - 原章节编号与标题：16. 星の小舟
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000019" -->
+### 基本信息
+
+- 标题：星の小舟
+- 艺人：BEMANI Sound Team "猫叉劇団"；官方目录与展示alt onoken冲突，依明确曲目目录保留猫叉劇団。[1][2]
+- 原声（原始作品发布时间）：festo作品；完整录音首次发行及游戏精确首次公开日期待核。[2][3]
+- BPM：173。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD3／6／9.7。[3]
+- 节点数 BSC／ADV／EXT：168／368／624。[3]
+- 版本性质：TARGET MUSIC common满10曲，非周年ROOM；魔女出嫁是ケロケロ斎藤视觉，不挪onoken别曲经历。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 BEMANI Sound Team "猫叉劇団"；173 BPM，HOLD3／6／9.7，Notes168／368／624，社区长度1:55；ケロケロ斎藤视觉。[1][2][3]
@@ -601,6 +793,18 @@ BEMANI Sound Team "猫叉劇団"；173 BPM，HOLD3／6／9.7，Notes168／368／
 
 - 统一曲库 ID：`arcade:90000020`
 - 原章节编号与标题：17. Analyse Katharsis
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000020" -->
+### 基本信息
+
+- 标题：Analyse Katharsis
+- 艺人：red glasses。[1][2]
+- 原声（原始作品发布时间）：2018年9月T-emo STORE公开，精确首日与完整录音发行待核；再入荷不作首次。[3]
+- BPM：游戏表记142；完整变速范围待核。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／9.6。[3]
+- 节点数 BSC／ADV／EXT：282／511／740。[3]
+- 版本性质：festo作品，原曲评称依既有插画配乐；不把少年幽灵玩笑接成他曲续篇。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -637,6 +841,18 @@ red glasses在原始曲评中明确说，此次是为既有插画配上音乐，
 - 统一曲库 ID：`arcade:90000021`
 - 原章节编号与标题：18. 月影小町
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000021" -->
+### 基本信息
+
+- 标题：月影小町
+- 艺人：駄々子演唱；肥塚良彦作曲为社区记录，完整词编待原册，不自动归Ms.或SYUNN。[1][2][3][4]
+- 原声（原始作品发布时间）：2018-09-05游戏配信；完整录音首次发行待核，后商店回归不改首日。[3][4]
+- BPM：182。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD3／6／9.0。[3]
+- 节点数 BSC／ADV／EXT：189／438／661。[3]
+- 版本性质：festo9月T-emo STORE；歌手秋夜欲念诠释与祀花万花筒视觉分开，不当作词者亲身经历。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 駄々子演唱；182 BPM，HOLD3／6／9.0，Notes189／438／661，社区长度2:10。社区列肥塚良彦作曲，完整词编曲信用待原册；祀花よう子视觉。[1][2][3][4]
@@ -672,6 +888,18 @@ red glasses在原始曲评中明确说，此次是为既有插画配上音乐，
 
 - 统一曲库 ID：`arcade:90000022`
 - 原章节编号与标题：19. タンポポ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000022" -->
+### 基本信息
+
+- 标题：タンポポ
+- 艺人：豚乙女；comp词曲编程吉他贝斯、ranko主唱和声、paprika钢琴仅社区信用。[2]
+- 原声（原始作品发布时间）：2016-11-18至20日GITADORA场测已列原创新曲；精确最早公开/完整发行待核，后移植festo。[1][3][4]
+- BPM：206。[1][2]
+- 谱面难度 BSC／ADV／EXT：3／7／9.8。[1][2]
+- 节点数 BSC／ADV／EXT：242／505／718。[1][2]
+- 版本性质：2018-11-05 T-emo STORE初400；不因东方改编履历认东方曲，jubeat1:41/跨机种1:44差异保留。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -710,6 +938,18 @@ red glasses在原始曲评中明确说，此次是为既有插画配上音乐，
 - 统一曲库 ID：`arcade:90000023`
 - 原章节编号与标题：20. リリーゼと炎龍レーヴァテイン
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000023" -->
+### 基本信息
+
+- 标题：リリーゼと炎龍レーヴァテイン
+- 艺人：黒猫ダンジョン。[1][2]
+- 原声（原始作品发布时间）：原作REFLEC BEAT colette -Summer-，原文称2013年原曲；精确公开/完整录音首发待核。[2][3]
+- BPM：200。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD5／9.5／10.6。[3]
+- 节点数 BSC／ADV／EXT：364／753／903。[3]
+- 版本性质：festo移植、TARGET MUSIC common30；敌方视角是虚构前史，いそにん评论属后IIDX影片非原录音。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 黒猫ダンジョン；200 BPM，HOLD5／9.5／10.6，Notes364／753／903，社区jubeat长度1:51。历史初出REFLEC BEAT colette -Summer-，并非festo新写。[2][3]
@@ -744,6 +984,18 @@ IIDX影像作者いそにん另谈到制作理想与现实的落差，并提及�
 
 - 统一曲库 ID：`arcade:90000024`
 - 原章节编号与标题：21. 泡沫、哀のまほろば
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000024" -->
+### 基本信息
+
+- 标题：泡沫、哀のまほろば
+- 艺人：幽閉サテライト；senya原唱，かませ虎词、Iceon/HiZuMi编、音霊吉他；后重唱版本分列。[1][3]
+- 原声（原始作品发布时间）：本演唱改编2012-08-13 C82第六单曲发行；两首东方素材原始作品首发日期本条未载。[1]
+- BPM：155。[4]
+- 谱面难度 BSC／ADV／EXT：街机HOLD2／5／9.3；plus普通3／6／9另列。[4]
+- 节点数 BSC／ADV／EXT：133／365／607。[4]
+- 版本性质：两首永夜抄原曲改编，幻想万華鏡为同人合作非东方官方动画；后兎明等重唱不径认jubeat母带。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -781,6 +1033,18 @@ IIDX影像作者いそにん另谈到制作理想与现实的落差，并提及�
 - 统一曲库 ID：`arcade:90000025`
 - 原章节编号与标题：22. 打上花火
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000025" -->
+### 基本信息
+
+- 标题：打上花火
+- 艺人：DAOKO×米津玄師；米津词曲/制作，不混个人独唱或翻唱身份。[1][4]
+- 原声（原始作品发布时间）：2017-08-16实体单曲发行；数字先行配信日期本轮未定，不把实体日充最早数字首发。[1]
+- BPM：表记96、末尾减速。[4]
+- 谱面难度 BSC／ADV／EXT：1／4／6。[4]
+- 节点数 BSC／ADV／EXT：66／153／308。[4]
+- 版本性质：电影主题歌，保留festo；社区2021-08-16 10:00删除待官方公告，精确AC追加日待核。[1][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：DAOKO×米津玄師
@@ -814,6 +1078,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 
 - 统一曲库 ID：`arcade:90000026`
 - 原章节编号与标题：23. タンクトップは似合わない
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000026" -->
+### 基本信息
+
+- 标题：タンクトップは似合わない
+- 艺人：ONIGAWARA，竹内サティフォ/斉藤伸也二人J-POP组合，不笼统写常规乐队。[1]
+- 原声（原始作品发布时间）：2016年6月音源附荧光棒单曲；后2017-03-22专辑第3轨，精确原单曲日待核。[1][2]
+- BPM：128。[3]
+- 谱面难度 BSC／ADV／EXT：2／6／9.0。[3]
+- 节点数 BSC／ADV／EXT：168／403／674。[3]
+- 版本性质：festo收录、2021-08-16社区删除；原编曲重做不据此推各版母带都重录，AC精确首日待核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -849,6 +1125,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 - 统一曲库 ID：`arcade:90000027`
 - 原章节编号与标题：24. MONSTER DANCE
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000027" -->
+### 基本信息
+
+- 标题：MONSTER DANCE
+- 艺人：KEYTALK；首藤義勝词曲。[2]
+- 原声（原始作品发布时间）：2014-10-22第三单曲VICL-36972发行。[2]
+- BPM：152–157。[3]
+- 谱面难度 BSC／ADV／EXT：3／6／9.2。[3]
+- 节点数 BSC／ADV／EXT：165／392／595。[3]
+- 版本性质：festo收录；社区2021-08-16删除待官方告知，原曲节奏转换不倒写音游委约，精确AC日待核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：KEYTALK
@@ -881,6 +1169,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 
 - 统一曲库 ID：`arcade:90000028`
 - 原章节编号与标题：25. Paradise Has No Border
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000028" -->
+### 基本信息
+
+- 标题：Paradise Has No Border
+- 艺人：東京スカパラダイスオーケストラ；NARGO曲、乐团编，2017专辑明确feat.さかなクン。[1][2]
+- 原声（原始作品发布时间）：2016-06-22单曲《道なき道、反骨の。》第2轨；2017-03-08同名专辑后发，不以专辑日替最初单曲。[1][2]
+- BPM：181。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／8。[4]
+- 节点数 BSC／ADV／EXT：208／491／769。[4]
+- 版本性质：festo社区关联さかなクン版，广告/游戏同母带未证；2021-08-16社区删除，原AC追加公告仍缺。[1][2][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -916,6 +1216,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 - 统一曲库 ID：`arcade:90000029`
 - 原章节编号与标题：26. デンノウス・キルズ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000029" -->
+### 基本信息
+
+- 标题：デンノウス・キルズ
+- 艺人：cosMo＠暴走P feat.初音ミク；音乐视觉cosMo制作。[1]
+- 原声（原始作品发布时间）：本版2017-10-09作者官方上传；前身《電脳スキル》最早发布日期及本版完整录音发行载体待核。[1][2]
+- BPM：217。[3][4]
+- 谱面难度 BSC／ADV／EXT：3／7／9.1。[3][4]
+- 节点数 BSC／ADV／EXT：182／430／606或609；EXT逐曲页/版本表冲突未裁。[3][4]
+- 版本性质：festo稼动时曲，作者主动标示旧作关系；重制动机为社区转录未直核原推，不作jubeat新委约。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：cosMo＠暴走P feat.初音ミク
@@ -948,6 +1260,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 
 - 统一曲库 ID：`arcade:90000030`
 - 原章节编号与标题：27. ギラメタスでんぱスターズ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000030" -->
+### 基本信息
+
+- 标题：ギラメタスでんぱスターズ
+- 艺人：でんぱ組.inc；ヒャダイン词，浅野尚志曲／编。[1]
+- 原声（原始作品发布时间）：2017-12-30大阪城ホール首次现场演出；2018-04-04双A面实体单曲第2轨。[1][2]
+- BPM：200（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／8（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：202／424／644（旧社区记录）。[4]
+- 版本性质：festo授权收录，社区记录2021-08-16移除；原始AC追加／删除公告待补。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -983,6 +1307,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 - 统一曲库 ID：`arcade:90000031`
 - 原章节编号与标题：28. POP TEAM EPIC
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000031" -->
+### 基本信息
+
+- 标题：POP TEAM EPIC
+- 艺人：上坂すみれ；吟（BUSTED ROSE）词曲编。[1]
+- 原声（原始作品发布时间）：2018-01-31原作发行（KING RECORDS目录）；动画《ポプテピピック》OP。[1]
+- BPM：142（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：2／6／10.0（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：116／351／685（旧社区记录）。[3]
+- 版本性质：festo收录；完整谱面演出未独核，具体首次AC配信日待官方公告。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：上坂すみれ
@@ -1014,6 +1350,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 
 - 统一曲库 ID：`arcade:90000032`
 - 原章节编号与标题：29. ドラマツルギー
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000032" -->
+### 基本信息
+
+- 标题：ドラマツルギー
+- 艺人：Eve词曲与本人演唱，Numa编曲；Mah映像，棚橋“UNA”信仁Mix、快晴P Vocal Mix。[1]
+- 原声（原始作品发布时间）：2017-10-11官网本人版网络公开公告；初音ミク版相邻时期、社区记先后一天，初音版精确投稿日待原视频元数据。[1][5]
+- BPM：149（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：2／6／9.2（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：140／385／631（旧社区记录）。[3]
+- 版本性质：festo采用Eve本人歌唱版；2019剧集主题歌起用为后续传播，不倒推最初委约。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1048,6 +1396,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 
 - 统一曲库 ID：`arcade:90000033`
 - 原章节编号与标题：30. ICHIDAIJI
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000033" -->
+### 基本信息
+
+- 标题：ICHIDAIJI
+- 艺人：ポルカドットスティングレイ。[1]
+- 原声（原始作品发布时间）：2018-05-09第二张mini album《一大事》第5轨。[1]
+- BPM：142（旧社区记录）。[5]
+- 谱面难度 BSC／ADV／EXT：3／6／8（旧社区记录）。[5]
+- 节点数 BSC／ADV／EXT：133／397／620（旧社区记录）。[5]
+- 版本性质：festo；社区记录2021-08-16移除。电影专用“×× ver.”与游戏剪辑／母带关系仍待核。[5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1085,6 +1445,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 - 统一曲库 ID：`arcade:90000034`
 - 原章节编号与标题：31. 高嶺の花子さん
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000034" -->
+### 基本信息
+
+- 标题：高嶺の花子さん
+- 艺人：back number；制作人蔦谷好位置。[1]
+- 原声（原始作品发布时间）：2013-06-26原作单曲发行。[1]
+- BPM：87–138（87仅序盘，其余138）（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：2／5／8（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：121／334／566（旧社区记录）。[4]
+- 版本性质：festo；游戏封面取精选《アンコール》通常盘，剪辑母带及官方AC首发日待核。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：back number
@@ -1117,6 +1489,18 @@ DAOKO原本就是以“ハチ”名义活动的米津的听众。她在另一访
 
 - 统一曲库 ID：`arcade:90000035`
 - 原章节编号与标题：32. Be The One
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000035" -->
+### 基本信息
+
+- 标题：Be The One
+- 艺人：PANDORA feat. Beverly；小室哲哉、浅倉大介共同词曲编，Beverly演唱，不拆分未公布分工。[1]
+- 原声（原始作品发布时间）：2018-01-24实体单曲，通常盘另列TV opening size；该日期不冒称此前电视公开日。[2]
+- BPM：136（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：2／5／7（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：158／274／507（旧社区记录）。[4]
+- 版本性质：festo；游戏剪辑与TV-size不同，完整原作、TV opening size及游戏录音边界分别保留。[2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1159,6 +1543,18 @@ Beverly留下了一个具体的影像制作细节：她在ORICON访谈中回忆�
 - 统一曲库 ID：`arcade:90000036`
 - 原章节编号与标题：33. ケムマキunderground
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000036" -->
+### 基本信息
+
+- 标题：ケムマキunderground
+- 艺人：t+pazolite feat. リズナ；2014 EP仅全碟编曲名单，逐曲共同分工待内页核，不强定REDALiCE单独编曲。[1][2][4]
+- 原声（原始作品发布时间）：2014-05-11例大祭《Dark Flight Dreamer. EP》第3轨；东方素材《少女さとり ～ 3rd eye》的原作首发日期本条未载。2017《t&T.》为后续收录，不径认重录。[1][2][3]
+- BPM：200（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／8／9.5（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：240／599／862（旧社区记录）。[4]
+- 版本性质：festo仅HOLD；已有2014唱片先行与SDVX IV收录，游戏剪辑和2014／2017母带关系未比对。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：t+pazolite feat. リズナ
@@ -1195,6 +1591,18 @@ Beverly留下了一个具体的影像制作细节：她在ORICON访谈中回忆�
 - 统一曲库 ID：`arcade:90000037`
 - 原章节编号与标题：34. ダンシング
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000037" -->
+### 基本信息
+
+- 标题：ダンシング
+- 艺人：佐伯ユウスケ词曲与演唱署名；宮崎誠编曲。[1]
+- 原声（原始作品发布时间）：2018-05-09第4张单曲，《弱虫ペダル GLORY LINE》第2クールOP。[1]
+- BPM：159（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：2／5／9.3（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：133／368／636（旧社区记录）。[4]
+- 版本性质：festo；游戏1:31剪辑不能直接套完整唱片结构，具体首发公告日待核。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：佐伯ユウスケ
@@ -1228,6 +1636,18 @@ Beverly留下了一个具体的影像制作细节：她在ORICON访谈中回忆�
 - 统一曲库 ID：`arcade:90000038`
 - 原章节编号与标题：35. オトモダチフィルム
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000038" -->
+### 基本信息
+
+- 标题：オトモダチフィルム
+- 艺人：オーイシマサヨシ。[1]
+- 原声（原始作品发布时间）：2018-05-23动画OP单曲发行，ZMCZ-12024。[1]
+- BPM：158（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：3／6／8（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：143／296／453（旧社区记录）。[3]
+- 版本性质：festo动画分类；摄影意象不能改写为谱面设计动机，游戏首发官方公告待补。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：オーイシマサヨシ
@@ -1259,6 +1679,18 @@ Beverly留下了一个具体的影像制作细节：她在ORICON访谈中回忆�
 
 - 统一曲库 ID：`arcade:90000039`
 - 原章节编号与标题：36. 片目で異常に恋してる
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000039" -->
+### 基本信息
+
+- 标题：片目で異常に恋してる
+- 艺人：ジェニーハイ。[1]
+- 原声（原始作品发布时间）：2018-03-15配信限定出道单曲，WPDH-10479；不以3月16日报道日期覆盖目录日期。[1]
+- BPM：132（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：3／7／9.1（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：172／374／544（旧社区记录）。[4]
+- 版本性质：festo；采用配信单曲封面；完整版现代音乐段落是否保留于1:40游戏剪辑未核。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1292,6 +1724,18 @@ Beverly留下了一个具体的影像制作细节：她在ORICON访谈中回忆�
 
 - 统一曲库 ID：`arcade:90000040`
 - 原章节编号与标题：37. 雑草
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000040" -->
+### 基本信息
+
+- 标题：雑草
+- 艺人：HIKAKIN & SEIKIN；SEIKIN词曲、TeddyLoid编曲、HIKAKIN总监修，不把共同演唱当共同作曲。[1][2]
+- 原声（原始作品发布时间）：2017-10-19原曲作品发行（UUUM目录）；本条未明确当日发行载体，2018-07-22限定实体CD仍未直接核。[1]
+- BPM：128（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／8（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：254／465／673（旧社区记录）。[4]
+- 版本性质：festo社交音乐收录；不据网络出身断言jubeat委约，精确游戏首日及默认解锁待公告。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1332,6 +1776,18 @@ Beverly留下了一个具体的影像制作细节：她在ORICON访谈中回忆�
 
 - 统一曲库 ID：`arcade:90000041`
 - 原章节编号与标题：38. Boom! Boom! ヘブン
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000041" -->
+### 基本信息
+
+- 标题：Boom! Boom! ヘブン
+- 艺人：BRADIO。[6]
+- 原声（原始作品发布时间）：2018-06-01先行配信；2018-07-04《YES》实体专辑第4轨，后者不是先行首发。[3][4]
+- BPM：182（旧社区记录）。[6]
+- 谱面难度 BSC／ADV／EXT：2／4／8（旧社区记录）。[6]
+- 节点数 BSC／ADV／EXT：112／293／496（旧社区记录）。[6]
+- 版本性质：festo Pops授权曲；不混前作BRADIO FUNKY pack批次，完整歌曲加速段是否保留于游戏未核。[6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1374,6 +1830,18 @@ festo 收录为 Pops 授权曲，艺人仍为 BRADIO；不要与此前 BRADIO �
 - 统一曲库 ID：`arcade:90000042`
 - 原章节编号与标题：39. ふめつのこころ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000042" -->
+### 基本信息
+
+- 标题：ふめつのこころ
+- 艺人：tofubeats；不因电视剧关联署游戏为西野七瀬演唱。[3][4]
+- 原声（原始作品发布时间）：2018-02-23数字单曲，WPDH-10477；原版、remix、伴奏与SLOWDOWN及未发行西野录音须分开。[2][3]
+- BPM：180（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：2／5／7（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：172／314／436（旧社区记录）。[4]
+- 版本性质：festo；游戏署名tofubeats，具体剪辑母带／工程及首日待核。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：tofubeats。[3][4]
@@ -1412,6 +1880,18 @@ jubeat 社区资料将艺人记为 tofubeats，收于 festo。曲名与电视剧
 
 - 统一曲库 ID：`arcade:90000043`
 - 原章节编号与标题：40. My HERO
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000043" -->
+### 基本信息
+
+- 标题：My HERO
+- 艺人：04 Limited Sazabys。[3][4]
+- 原声（原始作品发布时间）：2018-03-14《My HERO／夕凪》首轨，12cmCD COCA-17431。[3]
+- BPM：217（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／8（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：167／355／648（旧社区记录）。[4]
+- 版本性质：festo原曲；不是saucer fulfill chairmans同名曲复活，游戏首日／剪辑工程待核。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1452,6 +1932,18 @@ festo 中的对象是 04 Limited Sazabys 原曲，不是曾在 saucer fulfill �
 
 - 统一曲库 ID：`arcade:90000044`
 - 原章节编号与标题：41. 陽炎 -movie version-
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000044" -->
+### 基本信息
+
+- 标题：陽炎 -movie version-
+- 艺人：サカナクション。[3][4]
+- 原声（原始作品发布时间）：2018-03-28《魚図鑑》Disc1第17轨实体发行（VICL-64991～2），明确movie version；不当作所有后续版本首发。[3]
+- BPM：132（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／8（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：196／492／631（旧社区记录）。[4]
+- 版本性质：festo电影主题曲版本，保留-movie version-；与copious星野奏子同名作品区分，剪辑母带待核。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1505,6 +1997,18 @@ festo 的本条目明确是サカナクション版本；copious 的星野奏子
 - 统一曲库 ID：`arcade:90000045`
 - 原章节编号与标题：42. POSSESSION
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000045" -->
+### 基本信息
+
+- 标题：POSSESSION
+- 艺人：TAG underground；TAG作编曲（原声资料转录）。[5]
+- 原声（原始作品发布时间）：原作初出DDR X2，精确初出日待核；2011年DDR X2三碟原声Disc1第30轨是已载出版阶段，不冒称原始完整录音首发。[1][5][6]
+- BPM：185（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：5／9.7／10.6（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：488／790／904（旧社区记录）。[2]
+- 版本性质：festo移植DDR X2原创；官方2018年9月目录确认移植，不将IIDX增音色版、EDP Live Mix或DJ KOO混音替代游戏版本。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 曲名：POSSESSION
@@ -1551,6 +2055,18 @@ RemyWiki 还保存了 TAG 在 KAC2013 希望作品继续保留一段时间 DDR �
 - 统一曲库 ID：`arcade:90000046`
 - 原章节编号与标题：43. Light Shine
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000046" -->
+### 基本信息
+
+- 标题：Light Shine
+- 艺人：Ryu☆。[1][3]
+- 原声（原始作品发布时间）：原作初出IIDX 17 SIRIUS，精确初出日待核；2010-11-03《AGEHA》QWCE10028第2轨为后续个人专辑出版，不当作游戏原作首次公开。[1][3]
+- BPM：140（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／6／9.5（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：198／447／760（旧社区记录）。[2]
+- 版本性质：jubeat仅HOLD的IIDX移植；2018年10月官方目录为商店对象，不套SUNLiGHT Mix延长／改编制作史。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 曲名：Light Shine
@@ -1586,6 +2102,18 @@ Ryu☆ 官方作品栏另把《Light Shine》收入第二张个人专辑《AGEHA
 
 - 统一曲库 ID：`arcade:90000047`
 - 原章节编号与标题：44. pedigree
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000047" -->
+### 基本信息
+
+- 标题：pedigree
+- 艺人：BEMANI Sound Team "S-C-U"。[3][4]
+- 原声（原始作品发布时间）：festo十周年企划原创新曲，社区ROOM10活动2018-11-08开始；这是游戏公开记录。后收festo OST Disc2第18轨，完整音源发行日期未载。[1][2][3][4][5]
+- BPM：190（旧社区记录）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 6／9.6／10.7（旧社区记录）。[1]
+- 节点数 BSC／ADV／EXT：427／749／878（旧社区记录）。[1]
+- 版本性质：festo原创／十周年大回顧展ROOM10；2019-03-28 TUNE RUN为后续路线，2019-05-16是jbox徽章非新音源解锁。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1626,6 +2154,18 @@ Ryu☆ 官方作品栏另把《Light Shine》收入第二张个人专辑《AGEHA
 - 统一曲库 ID：`arcade:90000048`
 - 原章节编号与标题：45. 39
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000048" -->
+### 基本信息
+
+- 标题：39
+- 艺人：sasakure.UK＆DECO*27；初音ミク歌唱。sasakure.UK作曲、DECO*27词、二人编曲（投稿说明转录）。[1][2]
+- 原声（原始作品发布时间）：2012-07-27原投稿（Songrium转录，未直接播放原视频）；后用于2012年FamilyMart广告并入《memories》合辑。[2][3]
+- BPM：175（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／8（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：116／339／439（旧社区记录）。[4]
+- 版本性质：festo社交音乐常规谱；五周年纪念曲原投稿时间不等于jubeat首日，游戏精确首日仍待公告。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 曲名：39（サンキュー）[2][4]
@@ -1665,6 +2205,18 @@ DECO*27在本人访谈中明确说明，《39》为初音ミク五周年与sasak
 - 统一曲库 ID：`arcade:90000049`
 - 原章节编号与标题：46. ゴーストルール
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000049" -->
+### 基本信息
+
+- 标题：ゴーストルール
+- 艺人：DECO*27；初音ミク歌唱。[1][2]
+- 原声（原始作品发布时间）：原作精确投稿／发行日期待核；已载《GHOST》第1曲，不能以作品形成或主题曲起用推精确公开日。[2]
+- BPM：210（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：2／7／9.2（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：134／539／734（旧社区记录）。[3]
+- 版本性质：festo社交音乐；不同音游剪辑不可互代，游戏1:57不套其他机种后段转调长度，共用夹克不代表同录音。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：DECO*27；初音ミク歌唱[1][2]
@@ -1700,6 +2252,18 @@ jubeat版列festo社交音乐。社区特别指出各音游存在不同剪辑：
 
 - 统一曲库 ID：`arcade:90000050`
 - 原章节编号与标题：47. 妄想感傷代償連盟
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000050" -->
+### 基本信息
+
+- 标题：妄想感傷代償連盟
+- 艺人：DECO*27；emon(Tes.)有逐曲参与编曲信用，不能据此断言唯一编曲者或分工比例。[4]
+- 原声（原始作品发布时间）：2016-09-28《GHOST》第5轨的制作实绩记录；原投稿日待核，不把专辑记录强定为原始最早公开。[1][3][4]
+- BPM：110（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：3／7／9.3（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：152／446／650（旧社区记录）。[3]
+- 版本性质：festo既有作品／社交音乐常规谱；共用夹克不外推MV相同，精确游戏首日待核。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1741,6 +2305,18 @@ festo收录的是已有作品，社区列社交音乐及三档常规谱；共用
 - 统一曲库 ID：`arcade:90000051`
 - 原章节编号与标题：48. すきなことだけでいいです
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000051" -->
+### 基本信息
+
+- 标题：すきなことだけでいいです
+- 艺人：ピノキオピー词曲；后续DECO*27／TeddyLoid重混不作为原曲作曲分工。[2][3]
+- 原声（原始作品发布时间）：原始公开／发行日期待核；《HUMAN》第11轨已载但本条无发行日期，不用2021重混替代原作。[2][3]
+- BPM：140（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：4／8／9.5（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：192／571／773（旧社区记录）。[4]
+- 版本性质：festo社交音乐常规谱；原作、2021合作重混和jubeat短剪版分开，游戏精确首日待核。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人／词曲：ピノキオピー[3]
@@ -1778,6 +2354,18 @@ festo社区曲表将其归入ソーシャルミュージック，记录三档常
 - 统一曲库 ID：`arcade:90000052`
 - 原章节编号与标题：49. Catch Our Fire!
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000052" -->
+### 基本信息
+
+- 标题：Catch Our Fire!
+- 艺人：中島由貴演唱；后续OST词曲编栏为公司名称，不据猜测确定个人作曲身份。[1][3]
+- 原声（原始作品发布时间）：第8届KAC共同课题新作：所载部分机种2018-11-21开放，jubeat为11月29日；属游戏公开。后续pop’n peace OST Disc1第26轨2:04，完整音源首发日期未载。[1][3]
+- BPM：190（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／7／10.4（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：280／701／1026（旧社区记录）。[2]
+- 版本性质：festo仅HOLD，2018-11-29进入；第8届KAC BEMANI预选共同课题而非所有参赛游戏；2020年1月100 T-emo为后续复刻。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：中島由貴[1]
@@ -1814,6 +2402,18 @@ festo社区曲表将其归入ソーシャルミュージック，记录三档常
 - 统一曲库 ID：`arcade:90000053`
 - 原章节编号与标题：50. Apex of the World
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000053" -->
+### 基本信息
+
+- 标题：Apex of the World
+- 艺人：uma&hurirai feat.ましろ；hurirai全部吉他及部分词曲编合作，ましろ演唱，不简化成uma独作。[1]
+- 原声（原始作品发布时间）：原作SDVX III／第5届KAC公募，精确首次公开及完整音源发行日期未载，不能用2018移植月替代。[1][2][3]
+- BPM：169（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：3／6／9.2（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：229／557／761（旧社区记录）。[2]
+- 版本性质：festo经FLOOR INFECTION移植SDVX III，官方2018年11月目录确认；社区第33弹Level1，2019年9月300 T-emo是后续获取。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：uma&hurirai feat.ましろ[1]
@@ -1849,6 +2449,18 @@ uma 在官方采用评语中明确解释：自己希望写一首有明确主题�
 
 - 统一曲库 ID：`arcade:90000054`
 - 原章节编号与标题：51. 僕らの時間
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000054" -->
+### 基本信息
+
+- 标题：僕らの時間
+- 艺人：テヅカ feat. 大西あみみ。[2]
+- 原声（原始作品发布时间）：原作SDVX IV／第7届KAC公募，精确公开日期待核；作者仅计划未来完整版，不能认定已发行，也不以博客“昨日”独定首发日。[1][2][3]
+- BPM：214（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／8／10.0（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：177／605／787（旧社区记录）。[3]
+- 版本性质：jubeat移植SDVX IV，仅HOLD、采用MAXIMUM封面；2019-09-17至10-07的400 T-emo是后续获取，不是原曲首发。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1888,6 +2500,18 @@ uma 在官方采用评语中明确解释：自己希望写一首有明确主题�
 - 统一曲库 ID：`arcade:90000055`
 - 原章节编号与标题：52. Beyond the BLUE
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000055" -->
+### 基本信息
+
+- 标题：Beyond the BLUE
+- 艺人：Asato × sak × 田島千種；官方采用页写Ayato，保留异文。Ayato部分曲／编／混音／钢琴，sak主作曲，田島千種词唱，改名时间待核。[1][2]
+- 原声（原始作品发布时间）：SDVX IV第7届KAC公募原作，精确首次公开日期未载；2023-02-15原声集Disc5第1轨2:01为后续出版，不能覆盖游戏1:59或冒作原始首发。[1][2][4]
+- BPM：132（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD 2／6／10.4（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：189／461／791（旧社区记录）。[2]
+- 版本性质：festo经FLOOR INFECTION移植SDVX IV；2018年11月官方档案记录，EXHAUST封面，2019年9月商店为后续获取。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Beyond the BLUE
@@ -1925,6 +2549,18 @@ SDVX IV 移植曲。官方 2018 年 11 月音乐档案将其列在 FLOOR INFECTI
 - 统一曲库 ID：`arcade:90000056`
 - 原章节编号与标题：53. The Kingsroad
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000056" -->
+### 基本信息
+
+- 标题：The Kingsroad
+- 艺人：RINZO作编曲及演奏。[2]
+- 原声（原始作品发布时间）：原作GITADORA Matixx；OST碟1第20轨1:38，最初公开/完整录音发行日未载。[1][2]
+- BPM：150。[1]
+- 谱面难度 BSC／ADV／EXT：3／7／9.5（社区当前）。[1]
+- 节点数 BSC／ADV／EXT：166／459／729（社区当前）。[1]
+- 版本性质：festo跨游戏移植；2018-12-03至12-25圣诞联动解锁，不是为联动新写；游戏1:36与OST1:38分列。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：The Kingsroad
@@ -1958,6 +2594,18 @@ SDVX IV 移植曲。官方 2018 年 11 月音乐档案将其列在 FLOOR INFECTI
 
 - 统一曲库 ID：`arcade:90000057`
 - 原章节编号与标题：54. 1116
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000057" -->
+### 基本信息
+
+- 标题：1116
+- 艺人：BEMANI Sound Team "Dustup"；与SYUNN名义关联仅二手未核原推。[1][2][3][4]
+- 原声（原始作品发布时间）：社区2019-01-15公开预告非确定实发；首次实际公开/完整录音发行日待核，后festo音源目录不代首发。[1][2][3]
+- BPM：190。[1]
+- 谱面难度 BSC／ADV／EXT：仅HOLD7／10.2／10.9（社区当前）。[1]
+- 节点数 BSC／ADV／EXT：524／818／1116（社区当前）。[1]
+- 版本性质：festo TUNE RUN指定传导课程HARD MODE/匹配传导；不采用“1月商店首发”旧说，交稿日期故事仍二手。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1995,6 +2643,18 @@ SDVX IV 移植曲。官方 2018 年 11 月音乐档案将其列在 FLOOR INFECTI
 
 - 统一曲库 ID：`arcade:90000058`
 - 原章节编号与标题：55. スノーホワイト
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000058" -->
+### 基本信息
+
+- 标题：スノーホワイト
+- 艺人：RoughSketch。[1][2][3]
+- 原声（原始作品发布时间）：IOSYS履历记2019年2月供曲；精确首次公开/完整原录音发行待核；2020-10-25 Extended Mix是后续长版。[2][3][4]
+- BPM：214。[1]
+- 谱面难度 BSC／ADV／EXT：5／7／10.4（社区当前）。[1]
+- 节点数 BSC／ADV／EXT：276／668／900（社区当前）。[1]
+- 版本性质：festo第1回PJ MATCH400 fav；童话关系为社区二手，长版不能反推游戏制作或重录。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2035,6 +2695,18 @@ RoughSketch 在 jubeat 延续了以童话命名的作品脉络。社区资料把
 - 统一曲库 ID：`arcade:90000059`
 - 原章节编号与标题：56. Hopeful Frontier!!!
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000059" -->
+### 基本信息
+
+- 标题：Hopeful Frontier!!!
+- 艺人：cosMo＠暴走P；个人原创供曲首次仅社区记录，不等于此前未有歌曲收录。[1][3]
+- 原声（原始作品发布时间）：2019年1月官方介绍为KAC个人组冠军传导曲；具体首场日及完整原录音发行未核。[2][3]
+- BPM：298。[1]
+- 谱面难度 BSC／ADV／EXT：7／9.5／10.7（社区当前）。[1]
+- 节点数 BSC／ADV／EXT：535／786／1047（社区当前）。[1]
+- 版本性质：festo、The 8th KAC个人组冠军起点传导，不混MOTOWN团体组。[2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Hopeful Frontier!!!
@@ -2070,6 +2742,18 @@ RoughSketch 在 jubeat 延续了以童话命名的作品脉络。社区资料把
 - 统一曲库 ID：`arcade:90000060`
 - 原章节编号与标题：57. Virtual Bit
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000060" -->
+### 基本信息
+
+- 标题：Virtual Bit
+- 艺人：KAN TAKAHIKO。[2][3]
+- 原声（原始作品发布时间）：2015年12月官方MÚSECA原创介绍；精确首日/完整录音发行待核；OST第5轨2:00另为载体。[2][3]
+- BPM：152。[1]
+- 谱面难度 BSC／ADV／EXT：3／7／10.3（社区当前）。[1]
+- 节点数 BSC／ADV／EXT：209／571／852（社区当前）。[1]
+- 版本性质：MÚSECA→SDVX III→festo；2018-12-03至2019-01-07商店400，7月再入荷200，不推每次重新作曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Virtual Bit
@@ -2103,6 +2787,18 @@ Virtual Bit 的作品起点是 MÚSECA，而不是 festo。官方 2015 年 12 �
 - 统一曲库 ID：`arcade:90000061`
 - 原章节编号与标题：58. WELCOME TO MOTOWN PARK
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000061" -->
+### 基本信息
+
+- 标题：WELCOME TO MOTOWN PARK
+- 艺人：OSTER project。[3]
+- 原声（原始作品发布时间）：2019年1月官方团体组冠军传导介绍；最初实际公开/完整录音发行日期未载，后festo OST不代首发。[2][3]
+- BPM：165。[1]
+- 谱面难度 BSC／ADV／EXT：仅HOLD5／7／9.8（社区当前）。[1]
+- 节点数 BSC／ADV／EXT：275／497／798；HOLD细分未核。[1]
+- 版本性质：festo、The 8th KAC团体冠军成员起点传导；后商店/课程名仍待核。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：WELCOME TO MOTOWN PARK
@@ -2135,6 +2831,18 @@ The 8th KAC 团体冠军成员起点传导，由官方当月公告与社区解�
 
 - 统一曲库 ID：`arcade:90000062`
 - 原章节编号与标题：59. Sorrows
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000062" -->
+### 基本信息
+
+- 标题：Sorrows
+- 艺人：Asako Yoshihiro演唱，TOMOSUKE作曲；初版曲评为韩译未核日文原件。[1][2][3]
+- 原声（原始作品发布时间）：原作pop’n music16 PARTY♪；首次公开/完整录音发行日未载，Request Best第13轨为后续长版。[1][4]
+- BPM：185。[1][2]
+- 谱面难度 BSC／ADV／EXT：旧稿3／6／8待核。
+- 节点数 BSC／ADV／EXT：旧稿168／414／602待核。
+- 版本性质：festo2019-02-04移植/二月T-emo STORE；长版加强强弱反差不能移作初版细节，游戏1:58待核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2174,6 +2882,18 @@ The 8th KAC 团体冠军成员起点传导，由官方当月公告与社区解�
 - 统一曲库 ID：`arcade:90000063`
 - 原章节编号与标题：60. 廻る季節のゆく先に
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000063" -->
+### 基本信息
+
+- 标题：廻る季節のゆく先に
+- 艺人：中島由貴歌唱署名；Akhuta作曲为社区分类归属，完整信用待原册。[1][2]
+- 原声（原始作品发布时间）：2019-02-04游戏商店窗口开始；完整原录音首次发行日未载。[1][3]
+- BPM：102；背景204按社区，六八拍为推测。[1]
+- 谱面难度 BSC／ADV／EXT：2／7／8（社区当前）。[1]
+- 节点数 BSC／ADV／EXT：133／511／662（社区当前）。[1]
+- 版本性质：festo二月T-emo STORE400；前曲延续只是可能，不能认已确认续篇。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：廻る季節のゆく先に
@@ -2211,6 +2931,18 @@ The 8th KAC 团体冠军成员起点传导，由官方当月公告与社区解�
 - 统一曲库 ID：`arcade:90000064`
 - 原章节编号与标题：61. Duality
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000064" -->
+### 基本信息
+
+- 标题：Duality
+- 艺人：BEMANI Sound Team "Yvya"；后唱片列Yuya Yokoyama作曲信用。[2][3]
+- 原声（原始作品发布时间）：2019年7月官方解谜活动曲介绍；精确首日及完整原录音首发未载；2026-10-07 Ave.唱片是后续出版。[2][3]
+- BPM：190。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD6／9.3／10.8。[1]
+- 节点数 BSC／ADV／EXT：425／622／943。[1]
+- 版本性质：festo石板解谜完成全部谜题奖励；后Ave.唱片标题不能改游戏初出。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Duality
@@ -2246,6 +2978,18 @@ The 8th KAC 团体冠军成员起点传导，由官方当月公告与社区解�
 
 - 统一曲库 ID：`arcade:90000065`
 - 原章节编号与标题：62. Endless Beats ⇔ Endless Parties
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000065" -->
+### 基本信息
+
+- 标题：Endless Beats ⇔ Endless Parties
+- 艺人：かめりあ，作者履历确认festo新写委托。[2]
+- 原声（原始作品发布时间）：2019-03-04游戏商店公开；完整原始录音首次发行未载。[1][3]
+- BPM：152。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD2／7／10.3。[1]
+- 节点数 BSC／ADV／EXT：165／387／708。[1]
+- 版本性质：festo原创，首轮400 T-emo、9月回归200；邻条KAC/十周年身份不套用。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2283,6 +3027,18 @@ The 8th KAC 团体冠军成员起点传导，由官方当月公告与社区解�
 - 统一曲库 ID：`arcade:90000066`
 - 原章节编号与标题：63. Wuv U
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000066" -->
+### 基本信息
+
+- 标题：Wuv U
+- 艺人：kors k。[2]
+- 原声（原始作品发布时间）：REFLEC BEAT既有曲，原作最初公开/完整录音首发日待核；2014-06-04《Let’s Do It Now!!》为Extended后版。[1][3]
+- BPM：173。[1]
+- 谱面难度 BSC／ADV／EXT：普通4／7／10.0。[1]
+- 节点数 BSC／ADV／EXT：212／424／631。[1]
+- 版本性质：festo2019年2月商店移植；IIDX18/19记述冲突不裁定，不把后专辑企划作原曲动机。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Wuv U
@@ -2317,6 +3073,18 @@ festo 的 T-emo STORE 2019年2月公开，有官方记录。[2] 社区记录2/4�
 
 - 统一曲库 ID：`arcade:90000067`
 - 原章节编号与标题：64. MODEL FT2 Miracle Version
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000067" -->
+### 基本信息
+
+- 标题：MODEL FT2 Miracle Version
+- 艺人：Mutsuhiko Izumi；作者曲评只读英文转译未核日文原件。[2][3]
+- 原声（原始作品发布时间）：GF&DM V3初出，MODEL FT2另一编曲；原曲及本版首次公开/完整发行日期待核。[2]
+- BPM：155。[1]
+- 谱面难度 BSC／ADV／EXT：普通6／9.5／9.5，非四档HOLD。[1]
+- 节点数 BSC／ADV／EXT：412／704／588；ADV/EXT编排不同。[1]
+- 版本性质：festo2019年3月商店移植；jubeat1:41与通用录音1:42分列不合并。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2357,6 +3125,18 @@ jubeat 社区把基础谱对应鼓部、高两档对应双吉他的安排作为�
 
 - 统一曲库 ID：`arcade:90000068`
 - 原章节编号与标题：65. スイーツはとまらない♪
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000068" -->
+### 基本信息
+
+- 标题：スイーツはとまらない♪
+- 艺人：日向美ビタースイーツ♪；まり花（日高里菜）/咲子（山口愛）唱；山本真央樹编，くりむ词/TOMOSUKE曲为社区信用。[1][2][3][5]
+- 原声（原始作品发布时间）：2018-12-30 SSPP夜公演M08新曲演出；完整原录音首次发行日未载，2019-04-17是现场影像发行。[3][4]
+- BPM：204。[1]
+- 谱面难度 BSC／ADV／EXT：普通2／5／8。[1]
+- 节点数 BSC／ADV／EXT：242／376／590。[1]
+- 版本性质：festo2019-04-01商店400；官方3月汇总非上线月，演出先于游戏。[1][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2401,6 +3181,18 @@ TOMOSUKE在同期采访中解释，SSPP因准备时间和安排选择同龄三�
 - 统一曲库 ID：`arcade:90000069`
 - 原章节编号与标题：66. 熱情のサパデアード
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000069" -->
+### 基本信息
+
+- 标题：熱情のサパデアード
+- 艺人：日向美ビタースイーツ♪；一舞（津田美波）/咲子（山口愛）唱；山本真央樹曲编，朔白词为社区信用。[1][2][3][5]
+- 原声（原始作品发布时间）：2018-12-30 SSPP夜公演M09新曲演出；完整原录音首发未载，2019-04-17是现场影像发行。[3][4]
+- BPM：136。[1]
+- 谱面难度 BSC／ADV／EXT：普通3／6／8。[1]
+- 节点数 BSC／ADV／EXT：197／403／709。[1]
+- 版本性质：festo2019-04-01商店400；官方3月汇总非上线月，曲名词源仍推测。[1][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：熱情のサパデアード
@@ -2444,6 +3236,18 @@ TOMOSUKE在同期采访中解释，SSPP因准备时间和安排选择同龄三�
 - 统一曲库 ID：`arcade:90000070`
 - 原章节编号与标题：67. 革命パッショネイト
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000070" -->
+### 基本信息
+
+- 标题：革命パッショネイト
+- 艺人：日向美ビタースイーツ♪；まり花（日高里菜）/一舞（津田美波）唱；有里泉美词、藤田淳平曲编。[2][3]
+- 原声（原始作品发布时间）：2018年公演已列新曲，具体首演日本条未载；2019-03-13《Sweet Smile Pajamas Party》第3轨原唱，伴奏另列。[1][2]
+- BPM：194。[3]
+- 谱面难度 BSC／ADV／EXT：普通4／7／10.2。[3]
+- 节点数 BSC／ADV／EXT：302／580／861。[3]
+- 版本性质：festo第2回PJ MATCH1000 fav；4/15是工具对应日不是完整活动日期；虚构イブ不当现实作词人。[1][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：日向美ビタースイーツ♪；演唱角色：山形まり花（日高里菜）、和泉一舞（津田美波） [3]
@@ -2480,6 +3284,18 @@ TOMOSUKE在同期采访中解释，SSPP因准备时间和安排选择同龄三�
 
 - 统一曲库 ID：`arcade:90000071`
 - 原章节编号与标题：68. ヒカリユリイカ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000071" -->
+### 基本信息
+
+- 标题：ヒカリユリイカ
+- 艺人：ここなつ（東雲夏陽/東雲心菜）；U-ske词曲编。[1][3]
+- 原声（原始作品发布时间）：2018-12-30昼公演新曲为观众记录；2019-03-13 SSPP第4轨发行3:43，后BEST3:42不证重录。[1][2][4]
+- BPM：140。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD3／6／8。[3]
+- 节点数 BSC／ADV／EXT：175／360／565。[3]
+- 版本性质：festo第2回PJ MATCH400 fav；2019-04-15工具对应不当官方首日，游戏1:56与唱片版本分列。[1][3][4][5][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2519,6 +3335,18 @@ TOMOSUKE在同期采访中解释，SSPP因准备时间和安排选择同龄三�
 - 统一曲库 ID：`arcade:90000072`
 - 原章节编号与标题：69. ベビーステップ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000072" -->
+### 基本信息
+
+- 标题：ベビーステップ
+- 艺人：ここなつ（東雲夏陽/東雲心菜）；U-ske词曲编。[1][4]
+- 原声（原始作品发布时间）：SSPP第5轨完整演唱3:13、11轨伴奏；本条未载最初发行日/具体首演，不能借邻曲日期。[1]
+- BPM：200。[4]
+- 谱面难度 BSC／ADV／EXT：普通4／6／9.0。[4]
+- 节点数 BSC／ADV／EXT：224／404／719。[4]
+- 版本性质：festo2019-04-01商店，4/2只是工具日志；2020-03-18 U-ske Remix是后分支，不套游戏原版。[3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：ここなつ；演唱角色：東雲夏陽、東雲心菜 [4]
@@ -2555,6 +3383,18 @@ TOMOSUKE在同期采访中解释，SSPP因准备时间和安排选择同龄三�
 
 - 统一曲库 ID：`arcade:90000073`
 - 原章节编号与标题：70. [A]ddiction
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000073" -->
+### 基本信息
+
+- 标题：[A]ddiction
+- 艺人：EVO+原唱；Reol词、Giga曲编混音，MV T.H；非由合成歌声版再翻唱。[1][2]
+- 原声（原始作品发布时间）：2015-11-16官方MV；2016-02-03《EVOLUTION》第14轨唱片，两个载体分列。[1][2]
+- BPM：164。[5]
+- 谱面难度 BSC／ADV／EXT：普通4／6／9.2。[5]
+- 节点数 BSC／ADV／EXT：268／574／840。[5]
+- 版本性质：festo2019-03-19追加；KAN TAKAHIKO Remix/下载特典与原版不同制作分支，不套原版混音信用。[1][3][5][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2594,6 +3434,18 @@ TOMOSUKE在同期采访中解释，SSPP因准备时间和安排选择同龄三�
 - 统一曲库 ID：`arcade:90000074`
 - 原章节编号与标题：71. NEVER SURRENDER
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000074" -->
+### 基本信息
+
+- 标题：NEVER SURRENDER
+- 艺人：水樹奈々演唱/作词；加藤裕介曲编。[1]
+- 原声（原始作品发布时间）：2018-10-24原单曲发行；更早公开日期本条未载。[1]
+- BPM：166。[5]
+- 谱面难度 BSC／ADV／EXT：普通3／6／9.0。[5]
+- 节点数 BSC／ADV／EXT：159／369／672。[5]
+- 版本性质：电影Detonation主题歌；festo工具2019-02-26对应非精确首日证明；日本社区删除2022-02-16 00:00不外推地区。[1][5][6][7]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家/作词：水樹奈々；作曲/编曲：加藤裕介 [1]
@@ -2631,6 +3483,18 @@ TOMOSUKE在同期采访中解释，SSPP因准备时间和安排选择同龄三�
 
 - 统一曲库 ID：`arcade:90000075`
 - 原章节编号与标题：72. WARNING×WARNING×WARNING
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000075" -->
+### 基本信息
+
+- 标题：WARNING×WARNING×WARNING
+- 艺人：暁Records/Stack唱；ZUN原作曲，ACTRock改编作词。[1][2]
+- 原声（原始作品发布时间）：本演唱改编2015-12-30 C89颁布；两首东方原素材首发日未载；2017-12-25 MV上传非首发，C90异文保留。[1][2][3]
+- BPM：172。[6]
+- 谱面难度 BSC／ADV／EXT：原版普通4／6／8。[6]
+- 节点数 BSC／ADV／EXT：262／427／737。[6]
+- 版本性质：festo2019-03-19普通原版；2024 beyond [2] HOLD另分支，不移入本条。[6][7]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2672,6 +3536,18 @@ TOMOSUKE在同期采访中解释，SSPP因准备时间和安排选择同龄三�
 - 统一曲库 ID：`arcade:90000076`
 - 原章节编号与标题：73. アカリがやってきたぞっ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000076" -->
+### 基本信息
+
+- 标题：アカリがやってきたぞっ
+- 艺人：GYARI（ココアシガレットP）词曲；紲星あかり声源，整包母带なきゃむりゃ；逐曲词署不套泛广告。[2]
+- 原声（原始作品发布时间）：2018-08-10 C94《超銀河キズユカ歌合戦》插画漫画本附数字下载，非仅普通CD；2018-09-22视频后发。[2][3]
+- BPM：136。[5]
+- 谱面难度 BSC／ADV／EXT：普通3／7／9.4。[5]
+- 节点数 BSC／ADV／EXT：278／450／694。[5]
+- 版本性质：festo、2019-02-26工具对应；exVOICE与VOCALOID组合未用VOICEROID；伴奏混响修订不推全部游戏录音重做。[1][2][5][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家/词曲：GYARI（ココアシガレットP）；主唱音源：紲星あかり [2]
@@ -2710,6 +3586,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 
 - 统一曲库 ID：`arcade:90000077`
 - 原章节编号与标题：74. ただ君に晴れ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000077" -->
+### 基本信息
+
+- 标题：ただ君に晴れ
+- 艺人：ヨルシカ/suis唱，n-buna词曲编；MVぽぷりか。[1]
+- 原声（原始作品发布时间）：2018-05-04原MV公开，2018-05-09迷你专辑第7轨；不是后来VOCALOID翻唱。[1][2][3][5]
+- BPM：140。[8]
+- 谱面难度 BSC／ADV／EXT：普通1／6／8。[8]
+- 节点数 BSC／ADV／EXT：87／340／481。[8]
+- 版本性质：festo2019-02-26追加；后来Ave.分类变更不能覆盖festo历史。[6][7][8]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2753,6 +3641,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 - 统一曲库 ID：`arcade:90000078`
 - 原章节编号与标题：75. 全力ハッピーライフ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000078" -->
+### 基本信息
+
+- 标题：全力ハッピーライフ
+- 艺人：森羅万象/あやぽんず＊原唱；ZUN原作、kaztora编、waoru协力、Caral词；Pira贝斯/小坂ナオ吉他/裕木レオン鼓。[1]
+- 原声（原始作品发布时间）：本改编2018-05-06例大祭15《シンクロ2》第2轨；东方素材最初发行日未载。[1]
+- BPM：190。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD3／7／9.3。[3]
+- 节点数 BSC／ADV／EXT：283／543／853。[3]
+- 版本性质：festo2019-02-26工具对应、仅HOLD；后ONGEKI角色翻唱不当本条主唱。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：森羅万象；演唱：あやぽんず＊ [1]
@@ -2789,6 +3689,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 
 - 统一曲库 ID：`arcade:90000079`
 - 原章节编号与标题：76. 流星ダンスフロア
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000079" -->
+### 基本信息
+
+- 标题：流星ダンスフロア
+- 艺人：ORESAMA；ぽん词、小島英也曲；小島/TECHNOBOYS PULCRAFT GREEN-FUND共编。[3][4]
+- 原声（原始作品发布时间）：2017-10-25单曲发行；更早公开日未载，不以游戏对应日作原发。[1]
+- BPM：133。[6]
+- 谱面难度 BSC／ADV／EXT：3／5／7。[6]
+- 节点数 BSC／ADV／EXT：158／283／379。[6]
+- 版本性质：《魔法陣グルグル》第二季度OP；festo2019-04-22工具对应，社区2022-02-16删除；游戏旧1:32待核。[1][5][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2830,6 +3742,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 - 统一曲库 ID：`arcade:90000080`
 - 原章节编号与标题：77. 関門突破撃
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000080" -->
+### 基本信息
+
+- 标题：関門突破撃
+- 艺人：新井大樹；不能将其他轨客演搬到本曲或认作BEMANI Sound Team制作。[1][2][3]
+- 原声（原始作品发布时间）：2019-01-30《大樹侍活劇》第1轨全国发行；已有同音源活动CD，最早活动颁布日待核。[1][2]
+- BPM：160。[4]
+- 谱面难度 BSC／ADV／EXT：4／6／10.2；谱面形态待核。[4][6]
+- 节点数 BSC／ADV／EXT：社区删除表304／443／838，独立复核待补。[6]
+- 版本性质：festo2019-02-26追加；日本社区2022-02-16 00:00删除；时长/HOLD形态未核不从摘要填。[4][5][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：新井大樹
@@ -2868,6 +3792,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 - 统一曲库 ID：`arcade:90000081`
 - 原章节编号与标题：78. Over “Quartzer”
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000081" -->
+### 基本信息
+
+- 标题：Over “Quartzer”
+- 艺人：Shuta Sueyoshi feat. ISSA；Shuta/溝口貴紀词，MiNE/Atsushi Shimada曲；Atsushi/TEAM WHIM编为歌网署名。[1][2]
+- 原声（原始作品发布时间）：2019-01-23唱片，合唱、两单人版及伴奏分列；更早首次公开日未载。[2]
+- BPM：133。[4]
+- 谱面难度 BSC／ADV／EXT：普通3／7／9.7。[4][5]
+- 节点数 BSC／ADV／EXT：203／460／656。[4]
+- 版本性质：《仮面ライダージオウ》主题歌；festo2019-03-19追加，游戏剪辑不同TV-size，分别录音非同场对唱。[1][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：Shuta Sueyoshi feat. ISSA
@@ -2905,6 +3841,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 
 - 统一曲库 ID：`arcade:90000082`
 - 原章节编号与标题：79. UNION
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000082" -->
+### 基本信息
+
+- 标题：UNION
+- 艺人：OxT；大石昌良词曲，Tom-H@ck编曲。[2]
+- 原声（原始作品发布时间）：2018-11-07原单曲PCCG-70434；同盘《夢のヒーロー》是另一首翻唱，不混两曲信用。[1][2]
+- BPM：178（旧社区记录）。[4][5]
+- 谱面难度 BSC／ADV／EXT：2／5／7（旧社区记录）。[4][5]
+- 节点数 BSC／ADV／EXT：112／277／473（旧社区记录）。[4][5]
+- 版本性质：festo于2019-03-19追加，社区2022-02-16删除；游戏长度旧稿1:30仍待核，不据TV未用第二段推游戏内容。[2][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2945,6 +3893,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 - 统一曲库 ID：`arcade:90000083`
 - 原章节编号与标题：80. アンビバレント
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000083" -->
+### 基本信息
+
+- 标题：アンビバレント
+- 艺人：Eve词曲；Numa编曲。[3][4]
+- 原声（原始作品发布时间）：2018年2月动画众筹公告已有主题歌PV、同年8月独立MV；《おとぎ》2019-02-06专辑第6轨属后续收录，非最早问世。[1][2][3][4]
+- BPM：188（旧社区记录）。[6][7]
+- 谱面难度 BSC／ADV／EXT：2／6／8（旧社区记录）。[6][7]
+- 节点数 BSC／ADV／EXT：125／393／472（旧社区记录）。[6][7]
+- 版本性质：festo，2019-03-19追加；《メカウデ》动画委约，不混欅坂46同名曲或《最凶アンビバレント》，游戏长度待核。[1][6][7]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家/作词/作曲：Eve；编曲：Numa
@@ -2983,6 +3943,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 
 - 统一曲库 ID：`arcade:90000085`
 - 原章节编号与标题：81. ヒューマノイド
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000085" -->
+### 基本信息
+
+- 标题：ヒューマノイド
+- 艺人：ずっと真夜中でいいのに。；ACAね词曲，関口晶大／ラムシーニ／Naoki Itai编曲为后续专辑署名，不套他曲人员。[3]
+- 原声（原始作品发布时间）：2018-10-31官网预告MV于11-06、数字配信于11-07，属预定节点；2018-11-14实体《正しい偽りからの起床》第2轨。预告不能单独确证按日履行。[1][2]
+- BPM：159（旧社区记录）。[7]
+- 谱面难度 BSC／ADV／EXT：3／6／9.4（旧社区记录）。[7]
+- 节点数 BSC／ADV／EXT：168／332／668（旧社区记录）。[7]
+- 版本性质：festo，2019-03-19追加；2018原版、2019再收与游戏剪辑不凭同名认同母带；sakiyama为MV作者非音乐动机证词。[4][5][6][7]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3024,6 +3996,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 
 - 统一曲库 ID：`arcade:90000086`
 - 原章节编号与标题：82. されど奇術師は賽を振る
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000086" -->
+### 基本信息
+
+- 标题：されど奇術師は賽を振る
+- 艺人：嘘とカメレオン。[1]
+- 原声（原始作品发布时间）：原始早期录音公开日期待核；2018-09-12《ヲトシアナ》第11轨明确重录，不充原作首发；社区9/11与唱片/采访9/12异文保留。[2][3]
+- BPM：210（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：2／7／9.6（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：139／370／613（旧社区记录）。[4]
+- 版本性质：festo，2019-03-19追加；封面不足认游戏用2018重录，旧档2022-02-16删除未复核。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3070,6 +4054,18 @@ Nico 官方周年记录确认影片于2018-09-22投稿；2019年10月，角色�
 - 统一曲库 ID：`arcade:90000087`
 - 原章节编号与标题：83. 花ハ踊レヤいろはにほ（ハピネス mix）
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000087" -->
+### 基本信息
+
+- 标题：花ハ踊レヤいろはにほ（ハピネス mix）
+- 艺人：Remixed by BEMANI Sound Team "D.J.KOBINATA" feat.Kuroa*；原唱チーム“ハナヤマタ”，原词畑亜貴／曲编田中秀和；测试角色Remixer与Vocalist不混。[1][2][3]
+- 原声（原始作品发布时间）：原曲2014-08-27《ハナヤマタ》OP单曲；本remix先见彩響DJ测试，精确首公开/完整发行待核，2019旗帜活动不充原曲首发。[1][3]
+- BPM：174（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：3／7／9.0（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：227／464／684（旧社区记录）。[3]
+- 版本性质：festo，2019-03-25 10:00至04-07 23:59第2弹；08-05至09-02限时200 T-emo，不作永久商店；删除日未复核。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Remixed by BEMANI Sound Team "D.J.KOBINATA" feat.Kuroa*
@@ -3108,6 +4104,18 @@ jubeat收录的是另有演唱者的BEMANI remix，而非直接使用五人原�
 - 统一曲库 ID：`arcade:90000088`
 - 原章节编号与标题：84. ハム太郎とっとこうた（すーぱーとっとこみっくす）
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000088" -->
+### 基本信息
+
+- 标题：ハム太郎とっとこうた（すーぱーとっとこみっくす）
+- 艺人：Remixed by BEMANI Sound Team "DJ TOTTO" feat.ななひら；原ハムちゃんず演唱，河井リツ子词曲、岩崎元是编曲，与remix分列。[1][3]
+- 原声（原始作品发布时间）：原曲唱片精确发行日期待核；改编在彩響DJ测试先亮相，2019-03-14游戏活动不视作原曲或改编首次诞生。[1][3][4]
+- BPM：140（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：3／5／8（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：186／368／671（旧社区记录）。[4]
+- 版本性质：festo第1回フラッグラリー三旗，2019-03-14至03-24；非QMA交叉游玩联动；200 T-emo复刻仅08-05至09-02。みっくす／社区りみっくす异文保留，长度及删除待核。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Remixed by BEMANI Sound Team "DJ TOTTO" feat.ななひら
@@ -3145,6 +4153,18 @@ DJ TOTTO与ななひら的编配/录音直接证言尚缺；鼻歌轶事仅二�
 - 统一曲库 ID：`arcade:90000089`
 - 原章节编号与标题：85. JINGO JUNGLE （Big Room Mix）
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000089" -->
+### 基本信息
+
+- 标题：JINGO JUNGLE （Big Room Mix）
+- 艺人：Remixed by BEMANI Sound Team "Sota Fujimori" feat.Nana Takahashi；原版MYTH & ROID／Mayu演唱，不能把Nana当原唱。[2][3]
+- 原声（原始作品发布时间）：原版2017-02-08单曲；游戏Big Room Mix先为彩響DJ企划，精确测试首日与完整改编发行待核，不把2019追加日当原曲首发。[2][3]
+- BPM：130（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：2／5／9.0（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：206／362／620（旧社区记录）。[3]
+- 版本性质：festo，2019-03-19配信；2022-02-16删除仅依Remy，Sota/Nana改编不套Tom-H@ck原曲制作自述。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Remixed by BEMANI Sound Team "Sota Fujimori" feat.Nana Takahashi
@@ -3181,6 +4201,18 @@ Sota及Nana对本改编的直接创作证言未找到；测试时期来自社区
 - 统一曲库 ID：`arcade:90000090`
 - 原章节编号与标题：86. 50th Memorial Songs -The BEMANI History-
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000090" -->
+### 基本信息
+
+- 标题：50th Memorial Songs -The BEMANI History-
+- 艺人：BEMANI Sound Team；DJ TOTTO编曲归属来自社区所记SDVX数据，非特设页个人署名。[1][2]
+- 原声（原始作品发布时间）：2019-04-25为50周年第4曲游戏配信；所用旧系列素材的原始首发及本版完整录音发行日待核。[1]
+- BPM：136（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD 6／9.0／10.1（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：229／573／696（旧社区记录）。[2]
+- 版本性质：festo 50周年BEMANI六系列串烧；首次200 E-emo，结束5/22旧档与5/27社区冲突；11月100 T-emo为后续。游戏长1:58/1:59待核。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：BEMANI Sound Team
@@ -3214,6 +4246,18 @@ Sota及Nana对本改编的直接创作证言未找到；测试时期来自社区
 
 - 统一曲库 ID：`arcade:90000091`
 - 原章节编号与标题：87. 50th Memorial Songs -Beginning Story-
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000091" -->
+### 基本信息
+
+- 标题：50th Memorial Songs -Beginning Story-
+- 艺人：BEMANI Sound Team；肥塚良彦编曲仅社区SDVX数据记录，不把评论者吉他联想当本人理由。[3][4]
+- 原声（原始作品发布时间）：2019-03-21向包含festo的九机种追加；DDR A为03-28、家用04-03；原始素材与本串烧完整录音首发日期待核。[1][2]
+- BPM：135（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：5／7／8（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：357／573／735（旧社区记录）。[3]
+- 版本性质：festo 50周年第1曲，早期游戏音乐串烧；默认资格仍待证，游戏长度2:07/2:08异文，不据节点数字推谱师动机。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3250,6 +4294,18 @@ Beginning Story把纪念企划的开头放在KONAMI早期游戏音乐上。官�
 - 统一曲库 ID：`arcade:90000092`
 - 原章节编号与标题：88. 50th Memorial Songs -Flagship medley-
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000092" -->
+### 基本信息
+
+- 标题：50th Memorial Songs -Flagship medley-
+- 艺人：BEMANI Sound Team；劇団レコード编曲为社区SDVX记录，后pop’n原声目录公司署名不直接确证个人。[2][3]
+- 原声（原始作品发布时间）：2019-04-25本串烧游戏配信；体育/麻将/MGS素材的原始首发及本串烧完整录音发行日期待核。[1]
+- BPM：135–175（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：4／6或旧档7／9.5（ADV异文待版本复核）（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：173／473／673（旧社区记录）。[2]
+- 版本性质：festo 50周年串烧，初次200 E-emo，11月100 T-emo为后续；初售结束旧5/22与社区5/27待核。游戏1:52与唱片1:53分别记录。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：BEMANI Sound Team
@@ -3282,6 +4338,18 @@ Beginning Story把纪念企划的开头放在KONAMI早期游戏音乐上。官�
 
 - 统一曲库 ID：`arcade:90000093`
 - 原章节编号与标题：89. 50th Memorial Songs -二人の時 ～under the cherry blossoms～-
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000093" -->
+### 基本信息
+
+- 标题：50th Memorial Songs -二人の時 ～under the cherry blossoms～-
+- 艺人：BEMANI Sound Team；50周年英文版AiMEE唱，dj TAKA编曲为社区归属；原曲作者メタルユーキ与新编分开。[2][3][4]
+- 原声（原始作品发布时间）：1994《ときめきメモリアル》结局歌为原作；2019-04-25英文新编进入jubeat，原作精确日及完整录音首发日期未载。[1][2][3]
+- BPM：160（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：3／6／9.1（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：281／416／725（旧社区记录）。[2]
+- 版本性质：festo 50周年英文新编，非多曲串烧；游戏2:04/旧2:05、初售结束5/22/5/27待核，CD2:06不据差秒断重录。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3318,6 +4386,18 @@ dj TAKA的改编动机、英文改词与录音细节未核；原档2:05与社区
 - 统一曲库 ID：`arcade:90000094`
 - 原章节编号与标题：90. ネリと琥珀糖
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000094" -->
+### 基本信息
+
+- 标题：ネリと琥珀糖
+- 艺人：sasakure.UK作曲；事務員G编配及演奏限后续钢琴专辑，不回填原游戏录音人员。[1][2]
+- 原声（原始作品发布时间）：2018-09-26《ノスタルジア Op.2》原游戏公开；2019-02-27钢琴专辑为事務員G后续改编，不替代原始完整录音首发（待核）。[1][2]
+- BPM：170（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：4／8／10.3（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：225／666／885（旧社区记录）。[3]
+- 版本性质：festo移植；2019-03-27至04-16联动玩Nostalgia六次，2020-07-06至08-03为150 T-emo再提供，非2019原创。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：sasakure.UK
@@ -3351,6 +4431,18 @@ sasakure.UK原始创作动机、标题故事及编制细节尚缺；专辑确有
 
 - 统一曲库 ID：`arcade:90000095`
 - 原章节编号与标题：91. BEEF
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000095" -->
+### 基本信息
+
+- 标题：BEEF
+- 艺人：BEMANI Sound Team "牛"；wac、S-C-U、L.E.D.参与与牛主题化名为社区记录，不写成wac独包制作。[1][2]
+- 原声（原始作品发布时间）：社区2019-05-07至06-03首次商店；完整原始录音首发日期待核，不以11月复售替代。[1][2]
+- BPM：175（旧社区记录）。[1][2]
+- 谱面难度 BSC／ADV／EXT：1／7／10.5（旧社区记录）。[1][2]
+- 节点数 BSC／ADV／EXT：85／494／929（旧社区记录）。[1][2]
+- 版本性质：festo首次T400、11月T200；复售末日Remy12/03与日文12/02 09:59冲突；游戏长2:17/2:16保留，星座联系非直核原帖。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3388,6 +4480,18 @@ asagaolabo把它分析为“牛肉”与嘻哈争执用语beef的双关：以牛
 - 统一曲库 ID：`arcade:90000096`
 - 原章节编号与标题：92. LAST OATH
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000096" -->
+### 基本信息
+
+- 标题：LAST OATH
+- 艺人：BEMANI Sound Team "劇団レコード"。[1][2]
+- 原声（原始作品发布时间）：2019-07-08至09-01活动游戏解锁；2026原声选集1:48是后续出版，原始完整录音首发日期待核。[1][3][5]
+- BPM：160（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／6／10.6（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：203／408／808（旧社区记录）。[2]
+- 版本性质：festo“スミスと石版のナゾ”表面谜题奖励，非活动最终隐藏曲；新井谱师仅社区推文转引，2020/2022条件未复核；游戏1:46不以CD1:48覆盖。[1][2][3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：BEMANI Sound Team "劇団レコード"
@@ -3423,6 +4527,18 @@ LAST OATH的可核背景首先是它在festo岛谜题中的位置。官方把它
 
 - 统一曲库 ID：`arcade:90000097`
 - 原章节编号与标题：93. ATRAX
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000097" -->
+### 基本信息
+
+- 标题：ATRAX
+- 艺人：BEMANI Sound Team "HuΣeR"。[1][4]
+- 原声（原始作品发布时间）：2019年7月T-emo STORE游戏推出；后续原声选集为另一出版载体，原始完整录音首发日待核。[1][2][4]
+- BPM：128（旧社区记录）。[2][3]
+- 谱面难度 BSC／ADV／EXT：2／7／9.6（旧社区记录）。[2][3]
+- 节点数 BSC／ADV／EXT：231／498／644（旧社区记录）。[2][3]
+- 版本性质：festo初售T400，末日8/04与8/05 09:59冲突；2020复售200/300待核。游戏1:59/2:00与CD2:02分列，2026委约故事只是后续影响。[1][2][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3460,6 +4576,18 @@ HuΣeR原始作曲动机、器材、混音及封面作者待核；时间、首�
 - 统一曲库 ID：`arcade:90000098`
 - 原章节编号与标题：94. Arena Deiporta
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000098" -->
+### 基本信息
+
+- 标题：Arena Deiporta
+- 艺人：BEMANI Sound Team "Akhuta Works"。[1][2]
+- 原声（原始作品发布时间）：2019年6月官方当月游戏新曲，社区初售06-03至07-01；2026原声选集为后续出版，原始完整录音发行日待核。[1][2][3]
+- BPM：189（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：4／7／10.4（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：277／499／840（旧社区记录）。[2]
+- 版本性质：festo初次T400；12月复售T200/旧T300、游戏1:58/旧1:57待核；CD2:00不据秒差认重编。Arena续作关系仅社区，不混Arena Argenticuria。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：BEMANI Sound Team "Akhuta Works"
@@ -3496,6 +4624,18 @@ Akhuta本人作曲动机、Arena系列设定及演奏分工待核；旧稿Remy�
 - 统一曲库 ID：`arcade:90000099`
 - 原章节编号与标题：95. Midsummer Madness
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000099" -->
+### 基本信息
+
+- 标题：Midsummer Madness
+- 艺人：Hommarju；作编曲为社区记录，官方同名署名。[1][2]
+- 原声（原始作品发布时间）：2020-10-02至11-05为社区初次PHASE LINE3；2026原声选集1:59为后续正式载体，原始完整首发日待核，不因标题定盛夏首发。[1][2][4]
+- BPM：200（旧社区记录）。[2][3]
+- 谱面难度 BSC／ADV／EXT：3／6／10.1（旧社区记录）。[2][3]
+- 节点数 BSC／ADV／EXT：202／346／822（旧社区记录）。[2][3]
+- 版本性质：festo Mission Travel限时地图レインボーサマーメドレー!；2021/2022复刻仅社区记录，不把宣传气氛当作者自述。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Hommarju
@@ -3531,6 +4671,18 @@ Akhuta本人作曲动机、Arena系列设定及演奏分工待核；旧稿Remy�
 
 - 统一曲库 ID：`arcade:90000100`
 - 原章节编号与标题：96. RAISE YOUR HEADS UP
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000100" -->
+### 基本信息
+
+- 标题：RAISE YOUR HEADS UP
+- 艺人：GUHROOVY；词曲编唱均由其负责仅社区记录，原作者制作名单及采样未核。[1][2][5]
+- 原声（原始作品发布时间）：首次公开为第9届KAC个人决赛后的exhibition（非最后比赛曲）；2020-02-03至02-25为玩家解锁期。2026原声为后续出版，完整原始首发日期待核。[1][2][3][4][5]
+- BPM：230（旧社区记录）。[1][2]
+- 谱面难度 BSC／ADV／EXT：HOLD 7／9.7／10.9（旧社区记录）。[1][2]
+- 节点数 BSC／ADV／EXT：499／647／1000；HOLD分项11／26／16（不另加为总节点）（旧社区记录）。[1][2]
+- 版本性质：festo第4弹六旗；游戏2:05/2:07异文，后CD2:07不能自动当同剪辑；2022的17印章仅Remy未核公告。[1][2][3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3569,6 +4721,18 @@ GUHROOVY直接创作回忆、演唱/采样与制作名单仍待补；未观看�
 - 统一曲库 ID：`arcade:90000101`
 - 原章节编号与标题：97. Our Love
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000101" -->
+### 基本信息
+
+- 标题：Our Love
+- 艺人：lapix。[2]
+- 原声（原始作品发布时间）：2020-01-14至02-02第3弹旗帜游戏公开；2023-08-13《Flying Method》MRX-130 Disc1首轨为Extended Mix，原始完整录音首发日待核。[1][2][3]
+- BPM：190（旧社区记录）。[1]
+- 谱面难度 BSC／ADV／EXT：普通3／6／10.2（旧社区记录）。[1]
+- 节点数 BSC／ADV／EXT：236／430／906（旧社区记录）。[1]
+- 版本性质：jubeat festo初出、第3弹旗帜；官方超猜拳20印章为后续机制，不混初始旗数或别曲作者留言。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：lapix[2]
@@ -3603,6 +4767,18 @@ GUHROOVY直接创作回忆、演唱/采样与制作名单仍待补；未观看�
 
 - 统一曲库 ID：`arcade:90000104`
 - 原章节编号与标题：98. 箱庭のエチュード
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000104" -->
+### 基本信息
+
+- 标题：箱庭のエチュード
+- 艺人：Blanc Bunny Bandit；吉廻千代（CV高橋未奈美）主唱；斎藤モトキ词，飯島快雪／斎藤モトキ曲编。[1][2]
+- 原声（原始作品发布时间）：2019-03-13《漂白脱兎》收本曲3:43及本部放送ver.2:08；未据此断言更早角色歌曲公开日，游戏2:03不径认同母带。[2][4]
+- BPM：138（旧社区记录）。[4]
+- 谱面难度 BSC／ADV／EXT：普通3／6／8（旧社区记录）。[4]
+- 节点数 BSC／ADV／EXT：212／430／773（旧社区记录）。[4]
+- 版本性质：festo；2019-09-02 10:00至10-07 09:59商店300 T-emo，晚于唱片；角色钢琴故事非现实作者录音日记。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3646,6 +4822,18 @@ GUHROOVY直接创作回忆、演唱/采样与制作名单仍待补；未观看�
 - 统一曲库 ID：`arcade:90000105`
 - 原章节编号与标题：99. たたえよ！絶対覇権アリーシャ帝国
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000105" -->
+### 基本信息
+
+- 标题：たたえよ！絶対覇権アリーシャ帝国
+- 艺人：Blanc Bunny Bandit；黒川亜理紗（CV安井咲希）主唱，狐夢想词、ARM曲编。[1][2]
+- 原声（原始作品发布时间）：2019年《漂白脱兎》第4轨4:37、另第16轨本部放送ver.2:01；本条无精确原作首次公开/发行月日，不从同专辑别条借填。[2]
+- BPM：100–145（含开头低速，不用GITADORA145覆盖）（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／7／9.4（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：249／436／651（旧社区记录）。[3]
+- 版本性质：festo仅HOLD，2019-10-07至11-05商店300 T-emo；不是据Season 2倒推初创日，游戏100–145不以GITADORA145覆盖。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人 / 主唱：Blanc Bunny Bandit；黒川亜理紗（CV：安井咲希）[1]
@@ -3685,6 +4873,18 @@ jubeat社区记录2019-10-07至11-05以300 T-emo获取，且只有HOLD谱。其B
 
 - 统一曲库 ID：`arcade:90000106`
 - 原章节编号与标题：100. おにぎりディスコ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000106" -->
+### 基本信息
+
+- 标题：おにぎりディスコ
+- 艺人：Blanc Bunny Bandit；百武もなか（CV田中貴子）主唱，やぎぬまかな词曲编（唱片作ヤギヌマカナ）；仁凪吉他有作者说明。[2][3][4]
+- 原声（原始作品发布时间）：2019-03-13《漂白脱兎》3:21及本部放送ver.2:01，游戏另1:39；未据唱片日期断定此前角色歌曲最初公开日。[3][5]
+- BPM：118（旧社区记录）。[5]
+- 谱面难度 BSC／ADV／EXT：普通1／4／7（旧社区记录）。[5]
+- 节点数 BSC／ADV／EXT：100／278／584（旧社区记录）。[5]
+- 版本性质：festo；2019-11-05 10:00至12-02 09:59商店300 T-emo；厨房iPhone录音属于后作，不据此确认本曲采用。[1][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3726,6 +4926,18 @@ jubeat社区记录2019-10-07至11-05以300 T-emo获取，且只有HOLD谱。其B
 - 统一曲库 ID：`arcade:90000107`
 - 原章节编号与标题：101. めた・メタ？ひまわり＊パンチ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000107" -->
+### 基本信息
+
+- 标题：めた・メタ？ひまわり＊パンチ
+- 艺人：ひまわり＊パンチ；璃音主唱角色和声优表仅社区，真实词曲作者待核，不据RION同名确认现实歌手。[2][3]
+- 原声（原始作品发布时间）：2015年4月Tri-Boost稼动新曲；2015-07-29 GFCA-407第6轨1:47普通版、第18轨OverDrive demo1:54另录音。demo最早素材日期及原始完整首发仍待核。[1][2]
+- BPM：177（旧社区记录）。[3]
+- 谱面难度 BSC／ADV／EXT：2／5／9.2（旧社区记录）。[3]
+- 节点数 BSC／ADV／EXT：175／349／638（旧社区记录）。[3]
+- 版本性质：festo移植GITADORA普通版；2019-08-05 10:00至09-02 09:59商店400 T-emo，原作／demo／移植分开。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ひまわり＊パンチ
@@ -3762,6 +4974,18 @@ jubeat社区记录2019-10-07至11-05以300 T-emo获取，且只有HOLD谱。其B
 
 - 统一曲库 ID：`arcade:90000108`
 - 原章节编号与标题：102. ミッドナイト☆WAR
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000108" -->
+### 基本信息
+
+- 标题：ミッドナイト☆WAR
+- 艺人：いちか；MarL词、Yoshihiro Tagawa曲编仅社区，未核原声原始署名。[1][2]
+- 原声（原始作品发布时间）：2019-09-12活动解锁为社区年表；普通版与NOSTALGIA Style原声另轨均1:53，发行日未据二级目录指定；完整原始首发日期待核。[2][3]
+- BPM：156（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：4／7／10.0（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：248／445／832（旧社区记录）。[2]
+- 版本性质：festo跨机种2019投票选拔主题歌非jubeat独占；2020-06-25为后续开放，游戏1:55不套目录1:53，歌词场景不能据以认定作者经历。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3801,6 +5025,18 @@ jubeat社区记录2019-10-07至11-05以300 T-emo获取，且只有HOLD谱。其B
 - 统一曲库 ID：`arcade:90000109`
 - 原章节编号与标题：103. Trill auf G
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000109" -->
+### 基本信息
+
+- 标题：Trill auf G
+- 艺人：BEMANI Sound Team "dj TAKA"；原材料Johann Sebastian Bach《Air auf der G-Saite》，不全部署成新原创。[1][2]
+- 原声（原始作品发布时间）：古典原作精确首发及更早编曲谱系待核；本改编2019-09-12选拔战联动为社区记录，完整录音发行日未载。[1][2][3]
+- BPM：188（旧社区记录）。[1][3]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／7／10.5（旧社区记录）。[1][3]
+- 节点数 BSC／ADV／EXT：194／400／772；HOLD分项20／63／95（旧社区记录）。[1][3]
+- 版本性质：festo联动收录IIDX代表曲，自有HOLD谱；七键圆盘为IIDX意象，DANCERUSH/NOSTALGIA Style另改编不套本版。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：BEMANI Sound Team "dj TAKA" [1]
@@ -3839,6 +5075,18 @@ jubeat社区记录2019-10-07至11-05以300 T-emo获取，且只有HOLD谱。其B
 - 统一曲库 ID：`arcade:90000110`
 - 原章节编号与标题：104. おーまい！らぶりー！すうぃーてぃ！だーりん！
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000110" -->
+### 基本信息
+
+- 标题：おーまい！らぶりー！すうぃーてぃ！だーりん！
+- 艺人：BEMANI Sound Team "PON" feat.NU-KO。[2]
+- 原声（原始作品发布时间）：2019-09-12选拔战活动同步jubeat收录（社区年表）；普通/GITADORA/NOSTALGIA/DANCERUSH原声条目分开，原始完整录音首发日期待核。[3][4]
+- BPM：170（旧社区记录）。[2]
+- 谱面难度 BSC／ADV／EXT：4／7／9.6（旧社区记录）。[2]
+- 节点数 BSC／ADV／EXT：244／448／844（旧社区记录）。[2]
+- 版本性质：festo联动的pop’n music peace代表作；100票至支持者B级下一局解锁，各版母带未比对，不把宣传告别语当真实失恋。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：BEMANI Sound Team "PON" feat.NU-KO [2]
@@ -3875,6 +5123,18 @@ jubeat社区记录2019-10-07至11-05以300 T-emo获取，且只有HOLD谱。其B
 
 - 统一曲库 ID：`arcade:90000111`
 - 原章节编号与标题：105. 最小三倍完全数
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000111" -->
+### 基本信息
+
+- 标题：最小三倍完全数
+- 艺人：DJ TECHNORCH；作编及人声、Uchu★kurage切片人声为社区署名，原始制作待核。[3][4]
+- 原声（原始作品发布时间）：2019年作品，社区记jubeat2019-09-12联动；原始最早公开/完整录音首发日未载。[1][4]
+- BPM：jubeat220，不套DDR55–440。[3][4]
+- 谱面难度 BSC／ADV／EXT：5／7／10.3。[3]
+- 节点数 BSC／ADV／EXT：335／475／666。[3]
+- 版本性质：festo DDR代表曲跨机种收录，100票B级后下一局解锁；666物量不当命名意图证据。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3914,6 +5174,18 @@ jubeat festo通过2019联动活动收录，当时需要该曲100票至B级后下
 - 统一曲库 ID：`arcade:90000112`
 - 原章节编号与标题：106. Six String Proof
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000112" -->
+### 基本信息
+
+- 标题：Six String Proof
+- 艺人：BEMANI Sound Team "Yvya × Mutsuhiko Izumi"；双方作编及吉他仅社区，原始细分待核。[2][4]
+- 原声（原始作品发布时间）：2019-09-12 jubeat联动记录；原始最早公开及完整音源发行未载，活动OST另载版本。[2][3]
+- BPM：130。[2]
+- 谱面难度 BSC／ADV／EXT：4／6／9.5。[2]
+- 节点数 BSC／ADV／EXT：187／383／736。[2]
+- 版本性质：festo接收GITADORA EXCHAIN代表曲；NOSTALGIA钢琴版Yvya×Akhuta不能混作普通版主创。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：BEMANI Sound Team "Yvya × Mutsuhiko Izumi" [4]
@@ -3951,6 +5223,18 @@ jubeat festo通过2019联动活动收录，当时需要该曲100票至B级后下
 
 - 统一曲库 ID：`arcade:90000113`
 - 原章节编号与标题：107. toy boxer
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000113" -->
+### 基本信息
+
+- 标题：toy boxer
+- 艺人：BEMANI Sound Team "S-C-U & SYUNN"；双方作曲、SYUNN编曲为社区，原始署名待核。[2][4]
+- 原声（原始作品发布时间）：2019-09-12联动jubeat代表曲游戏公开；完整原录音首发未载。[1][2]
+- BPM：190。[2]
+- 谱面难度 BSC／ADV／EXT：8／9.5／10.5。[2]
+- 节点数 BSC／ADV／EXT：571／693／736。[2]
+- 版本性质：festo自身代表曲；玩具拳击是企划叙事，DANCERUSH版本评论不套原版编曲经过。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3990,6 +5274,18 @@ jubeat谱面在所查表中为8／9.5／10.5，BASIC也有571物量。可以记�
 - 统一曲库 ID：`arcade:90000114`
 - 原章节编号与标题：108. voltississimo
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000114" -->
+### 基本信息
+
+- 标题：voltississimo
+- 艺人：BEMANI Sound Team "PHQUASE"；作编为社区记录。[2]
+- 原声（原始作品发布时间）：2019选拔战SDVX VIVID WAVE代表作品；精确首日/完整原录音发行待核；2025同名唱片内页只定位未读。[1][2][3]
+- BPM：jubeat225，不套DDR速度范围。[2]
+- 谱面难度 BSC／ADV／EXT：普通4／7／10.3。[2]
+- 节点数 BSC／ADV／EXT：277／470／833。[2]
+- 版本性质：festo普通版移植；其他机种吉他/钢琴改编不合并为本版制作，2025内页不作已读证词。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：BEMANI Sound Team "PHQUASE" [2]
@@ -4027,6 +5323,18 @@ jubeat所查社区表为普通谱面4／7／10.3，物量277／470／833。移�
 
 - 统一曲库 ID：`arcade:90000115`
 - 原章节编号与标题：109. Afterimage d'automne
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000115" -->
+### 基本信息
+
+- 标题：Afterimage d'automne
+- 艺人：BEMANI Sound Team "猫叉劇団"；佐藤直之曲、佐藤/広野智章编、劇団レコード古典吉他为二级OST目录待内页。[2][4]
+- 原声（原始作品发布时间）：2019选拔战NOSTALGIA Op.2代表作；精确首日/完整原录音首发未载；2019-09-28现场为后续演出记录。[1][3][4]
+- BPM：232。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD4／6／9.6。[2]
+- 节点数 BSC／ADV／EXT：237／423／708。[2]
+- 版本性质：festo HOLD移植；游戏时长未核，OST2:00不代填；现场钢琴机台演出不作原录音方法。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4067,6 +5375,18 @@ jubeat festo对应HOLD谱面，所查社区表没有填写游戏时长。原声�
 - 统一曲库 ID：`arcade:90000116`
 - 原章节编号与标题：110. BLACK JACKAL
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000116" -->
+### 基本信息
+
+- 标题：BLACK JACKAL
+- 艺人：Akira Complex；作编曲为社区记录。[2]
+- 原声（原始作品发布时间）：社区2019-09-12联动游戏公开；原始最早公开/完整录音发行待核。[2]
+- BPM：150。[2]
+- 谱面难度 BSC／ADV／EXT：普通4／6／9.6。[2]
+- 节点数 BSC／ADV／EXT：223／402／736。[2]
+- 版本性质：festo跨机种接收DANCERUSH代表曲；DIAMOND后作关系不全部套原曲意图，访谈仅节目介绍未听。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人／作编曲：Akira Complex（作曲与编曲署名来自社区记录）[2]
@@ -4103,6 +5423,18 @@ jubeat是该活动中的跨机种收录端，所查表记录festo、150 BPM及�
 
 - 统一曲库 ID：`arcade:90000117`
 - 原章节编号与标题：111. 封隠文様
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000117" -->
+### 基本信息
+
+- 标题：封隠文様
+- 艺人：駄々子；肥塚良彦作曲仅社区艺人分类，词编及原始制作表待核。[1][2][3]
+- 原声（原始作品发布时间）：2020-12-25冬季地图开始为社区记录，逐曲初次解锁待官方；2026-10-07后OST不作首发。[1][2][3][4]
+- BPM：175。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／9.3。[2]
+- 节点数 BSC／ADV／EXT：260／419／685。[2]
+- 版本性质：festo Mission Travel冬季PHASE LINE3，非2019投票曲；游戏长度未核，不用唱片1:56填。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4143,6 +5475,18 @@ jubeat是该活动中的跨机种收录端，所查表记录festo、150 BPM及�
 - 统一曲库 ID：`arcade:90000118`
 - 原章节编号与标题：112. VIKING SHIP
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000118" -->
+### 基本信息
+
+- 标题：VIKING SHIP
+- 艺人：BEMANI Sound Team "劇団レコード"；后OST列広野智章作曲。[2][3]
+- 原声（原始作品发布时间）：社区2021-11-17至12-14地图窗口；精确原始首发/完整录音首发待核；2026-10-07 OST后发。[3][4]
+- BPM：130。[1]
+- 谱面难度 BSC／ADV／EXT：普通3／7／9.7。[1]
+- 节点数 BSC／ADV／EXT：254／414／646。[1]
+- 版本性质：festo秋季旅行地图PHASE LINE3；游戏空栏、Remy1:47/OST1:56差异不裁为剪辑差异。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：VIKING SHIP
@@ -4180,6 +5524,18 @@ jubeat是该活动中的跨机种收录端，所查表记录festo、150 BPM及�
 - 统一曲库 ID：`arcade:90000119`
 - 原章节编号与标题：113. StaRgAZER
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000119" -->
+### 基本信息
+
+- 标题：StaRgAZER
+- 艺人：BEMANI Sound Team "TAG"；后OST作曲署名TAG。[2][3]
+- 原声（原始作品发布时间）：2020年9月官方游戏介绍；精确首日/完整原录音首次发行待核，2026-10-07 OST后发。[2][3]
+- BPM：144。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD3／8／10.0。[1]
+- 节点数 BSC／ADV／EXT：188／392／660。[1]
+- 版本性质：festo Smith’s memories PHASE LINE3，非Rainbow Summer；不混其他STARGAZER/Stargazer，游戏长度空栏不填OST1:58。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：StaRgAZER
@@ -4215,6 +5571,18 @@ jubeat是该活动中的跨机种收录端，所查表记录festo、150 BPM及�
 
 - 统一曲库 ID：`arcade:90000120`
 - 原章节编号与标题：114. splash!
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000120" -->
+### 基本信息
+
+- 标题：splash!
+- 艺人：BEMANI Sound Team "Trance Liquid"；dj TAKA关联仅社区游戏分类，不作官方实名确认。[2][3][4]
+- 原声（原始作品发布时间）：2021夏季官方地图介绍；精确首次公开/完整原录音发行日未载，2026原声音轨后发。[2][3]
+- BPM：156。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／10.5。[1]
+- 节点数 BSC／ADV／EXT：223／417／715。[1]
+- 版本性质：festo限时ネイチャーサマーメドレー PHASE LINE3；游戏长度空栏，不用后原声2:00替代。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4252,6 +5620,18 @@ jubeat是该活动中的跨机种收录端，所查表记录festo、150 BPM及�
 
 - 统一曲库 ID：`arcade:90000121`
 - 原章节编号与标题：115. Life Without You
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000121" -->
+### 基本信息
+
+- 标题：Life Without You
+- 艺人：BEMANI Sound Team "Sota Fujimori"；后OST作曲署名同名。[2][3]
+- 原声（原始作品发布时间）：社区2020-09-18游戏地图PHASE LINE2开放；2026-10-07 OST后发，完整原录音首次发行仍待核。[1][2][3]
+- BPM：150。[1]
+- 谱面难度 BSC／ADV／EXT：4／7／10.1。[1]
+- 节点数 BSC／ADV／EXT：248／405／766。[1]
+- 版本性质：festo Smith’s memories；BPL2021演出不等于IIDX可玩，游戏1:54/OST1:55保留不推剪辑。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4291,6 +5671,18 @@ jubeat是该活动中的跨机种收录端，所查表记录festo、150 BPM及�
 - 统一曲库 ID：`arcade:90000122`
 - 原章节编号与标题：116. スミスえかきうた
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000122" -->
+### 基本信息
+
+- 标题：スミスえかきうた
+- 艺人：jubeat staff艺人/作词、ショッチョー作曲为2026 OST署名；具体歌者未核。[3]
+- 原声（原始作品发布时间）：社区记2019-11-21官方视频公开，未直接看视频；完整原录音首次发行日未载，2026 OST后发。[1][3]
+- BPM：114。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD1／5／8。[1]
+- 节点数 BSC／ADV／EXT：72／180／268。[1]
+- 版本性质：festo百万票主题曲企划，不沿用未经核实的きまぐれメモリーズ；具体游戏开放日待核。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：スミスえかきうた
@@ -4325,6 +5717,18 @@ festo 收录与百万票主题曲企划相连，不沿用原稿未经核实的�
 
 - 统一曲库 ID：`arcade:90000123`
 - 原章节编号与标题：117. ゆめのかなたで
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000123" -->
+### 基本信息
+
+- 标题：ゆめのかなたで
+- 艺人：かめりあ；本人履历确认festo新写及第9届KAC团体示范曲。[2]
+- 原声（原始作品发布时间）：KAC示范精确日/完整原录音首发未载；2020-02-03至25是FLAG RALLY4普遍解锁窗口，2026 OST后发。[1][2][3][4]
+- BPM：217。[1]
+- 谱面难度 BSC／ADV／EXT：普通4／7／10.6。[1]
+- 节点数 BSC／ADV／EXT：343／621／1008。[1]
+- 版本性质：festo原创；KAC示范与全玩家开放分开，游戏长度空栏不套OST2:09，冠军现场仅社区记录。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4363,6 +5767,18 @@ festo 收录与百万票主题曲企划相连，不沿用原稿未经核实的�
 - 统一曲库 ID：`arcade:90000124`
 - 原章节编号与标题：118. Hades Doll
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000124" -->
+### 基本信息
+
+- 标题：Hades Doll
+- 艺人：BEMANI Sound Team "Power Of Nature"；后OST列PON作曲。[3]
+- 原声（原始作品发布时间）：2020新机测试曾默认可玩，精确测试日/完整原录音首发待核；2021-03-31 festo正式地图开放，2026 OST后发。[1][2][3]
+- BPM：185。[1]
+- 谱面难度 BSC／ADV／EXT：4／8／10.6。[1]
+- 节点数 BSC／ADV／EXT：335／590／909。[1]
+- 版本性质：festo光に包まれてPHASE LINE1；早期测试保留，Lively/UniLab后移植不证重作；游戏1:50/OST1:56差异不猜。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Hades Doll
@@ -4399,6 +5815,18 @@ festo 收录与百万票主题曲企划相连，不沿用原稿未经核实的�
 - 统一曲库 ID：`arcade:90000125`
 - 原章节编号与标题：119. ランカーキラーガール
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000125" -->
+### 基本信息
+
+- 标题：ランカーキラーガール
+- 艺人：中島由貴 × いちか；后OST词曲编署株式会社コナミアミューズメント，个人作者与いちか身份未核。[1][3]
+- 原声（原始作品发布时间）：2019-11-27首批机种含jubeat可玩；完整原录音发行日未载，后音频专辑长版/器乐/改编分列。[1][2][3]
+- BPM：待核，本条无游戏BPM。
+- 谱面难度 BSC／ADV／EXT：待核，本条无三档等级。
+- 节点数 BSC／ADV／EXT：待核，本条无节点数。
+- 版本性质：festo第9届KAC BEMANI共通新作，非单机独占后移植；报名日不当上线日，原版与其他Style/Long分开。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：ランカーキラーガール
@@ -4434,6 +5862,18 @@ festo 是官方列出的首批可玩机种之一，2019-11-27 开始；解锁要
 
 - 统一曲库 ID：`arcade:90000126`
 - 原章节编号与标题：120. zeeros
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000126" -->
+### 基本信息
+
+- 标题：zeeros
+- 艺人：onoken；Yamaha钢琴改编由事務員G演奏，不替代原作者。[1][3]
+- 原声（原始作品发布时间）：原NOSTALGIA FORTE2017-11-08游戏开放；完整原录音首发待核；2019-02-27钢琴改编与2020 OST另分。[1][2][3]
+- BPM：146–187。[1]
+- 谱面难度 BSC／ADV／EXT：3／6／9.8。[1]
+- 节点数 BSC／ADV／EXT：181／371／735。[1]
+- 版本性质：festo2019-12-18トロッコ移植；作者推文仅二手转录，原游戏/OST混音差异不证明jubeat重混。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4472,6 +5912,18 @@ festo 是官方列出的首批可玩机种之一，2019-11-27 开始；解锁要
 - 统一曲库 ID：`arcade:90000127`
 - 原章节编号与标题：121. Agnus Dei
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000127" -->
+### 基本信息
+
+- 标题：Agnus Dei
+- 艺人：あさき；原官网/OST曲评仅英译未核原件。[2][3]
+- 原声（原始作品发布时间）：原GF10thMIX/dm9thMIX EXTRA曲；原始公开/完整录音发行日期未载，不以2019移植代首发。[1][2]
+- BPM：168。[1]
+- 谱面难度 BSC／ADV／EXT：仅HOLD4／6／9.6。[1]
+- 节点数 BSC／ADV／EXT：208／338／609。[1]
+- 版本性质：festo2019-12-18至2020-01-13トロッコ；GITADORA推进6格后jubeat，非同时完成NOSTALGIA条件。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Agnus Dei
@@ -4508,6 +5960,18 @@ festo 是官方列出的首批可玩机种之一，2019-11-27 开始；解锁要
 
 - 统一曲库 ID：`arcade:90000128`
 - 原章节编号与标题：122. Catapulted Arch
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000128" -->
+### 基本信息
+
+- 标题：Catapulted Arch
+- 艺人：BEMANI Sound Team "person09"；后OST仍person09，未明个人本名，不当Akhuta确认。[2][3]
+- 原声（原始作品发布时间）：2019-12-18三机种联动首轮开放；完整原录音首次发行日期待核，2026 OST后发。[1][2][3]
+- BPM：184。[1]
+- 谱面难度 BSC／ADV／EXT：4／7／10.3。[1]
+- 节点数 BSC／ADV／EXT：266／505／927。[1]
+- 版本性质：festo首批联动新作，非GITADORA单向搬运；NOSTALGIA略重编，1:58/旧稿及OST2:02不裁定。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4546,6 +6010,18 @@ festo 属首批联动收录机种之一。[1][2] 原稿关于先在别机种解�
 - 统一曲库 ID：`arcade:90000129`
 - 原章节编号与标题：123. Surf on the Light
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000129" -->
+### 基本信息
+
+- 标题：Surf on the Light
+- 艺人：Tomoyuki Uchida作编曲（原声二级目录）。[3]
+- 原声（原始作品发布时间）：原NOSTALGIA作品，最初精确公开/完整原录音首发日期待核；Op.1 Selection碟3第15轨是后续载体。[1][3]
+- BPM：jubeat160，不用IIDX60–160。[1]
+- 谱面难度 BSC／ADV／EXT：3／5／10.0。[1]
+- 节点数 BSC／ADV／EXT：194／349／709。[1]
+- 版本性质：festo2020-07-03至26移植；Op.3是活动对接非原作初出，游戏长度空栏不代OST2:03。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Surf on the Light
@@ -4582,6 +6058,18 @@ festo 为移植收录；活动 2020-07-03 10:00 至07-26 23:59。官方新闻转
 
 - 统一曲库 ID：`arcade:90000130`
 - 原章节编号与标题：124. キヤロラ衛星の軌跡
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000130" -->
+### 基本信息
+
+- 标题：キヤロラ衛星の軌跡
+- 艺人：工藤吉三 (ベイシスケイプ)；不把后来离开ベイシスケイプ误写成Konami退社。[1][2]
+- 原声（原始作品发布时间）：原GITADORA EXCHAIN；原始精确公开/完整录音首发未载，OST Long Version5:31不是游戏长度。[1][3]
+- BPM：150。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／10.4。[1]
+- 节点数 BSC／ADV／EXT：256／493／875。[1]
+- 版本性质：festoトロッコ2于2020-07-03至26接收；游戏长度待核，后长版/原游戏/本次移植分开。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4620,6 +6108,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 - 统一曲库 ID：`arcade:90000131`
 - 原章节编号与标题：125. COSMIC SYMPHONY
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000131" -->
+### 基本信息
+
+- 标题：COSMIC SYMPHONY
+- 艺人：OSTER project；Yuya Yokoyama吉他仅社区，未核原册。[1][2][3]
+- 原声（原始作品发布时间）：2020-07-03至26联动新作解锁窗口；完整原录音首次发行日未载，2026 OST另记。[2][3]
+- BPM：280。[1]
+- 谱面难度 BSC／ADV／EXT：3／7／10.3。[1]
+- 节点数 BSC／ADV／EXT：267／471／851。[1]
+- 版本性质：三机种同期新作，jubeat先接收キヤロラ/Surf；精神续篇仅社区线索未读FANBOX，游戏2:04/OST2:05分列。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：COSMIC SYMPHONY
@@ -4655,6 +6155,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 
 - 统一曲库 ID：`arcade:90000132`
 - 原章节编号与标题：126. Neuron
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000132" -->
+### 基本信息
+
+- 标题：Neuron
+- 艺人：BEMANI Sound Team "Expander"；后OST作曲Sota Fujimori。[3]
+- 原声（原始作品发布时间）：2020新机测试更早展示，精确日/完整原录音首发待核；2021-02-03正式地图首轮，2026 OST后发。[1][2][3]
+- BPM：174。[1]
+- 谱面难度 BSC／ADV／EXT：4／8／10.1。[1]
+- 节点数 BSC／ADV／EXT：300／513／833。[1]
+- 版本性质：festo DISC TELLER -Cybernetics- PHASE LINE1，非Hades地图；测试转上线原因未知，游戏1:52/OST1:54不猜剪辑。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4693,6 +6205,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 - 统一曲库 ID：`arcade:90000133`
 - 原章节编号与标题：127. SPACE INASAKU
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000133" -->
+### 基本信息
+
+- 标题：SPACE INASAKU
+- 艺人：BEMANI Sound Team "サイバー劇レコ"；后数字OST作曲広野智章。[1][4]
+- 原声（原始作品发布时间）：2020年11月官方地图介绍，11/6工具对应不代精确首日；完整原录音首次发行待核，2026 OST后发。[1][3][4]
+- BPM：178。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD3／7／10.4。[2]
+- 节点数 BSC／ADV／EXT：233／342／621。[2]
+- 版本性质：festo限时スペイシーオータムメドレー PHASE LINE3；前名义作品不证续作/采样，游戏长度不填OST1:50。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：BEMANI Sound Team "サイバー劇レコ"；后续数字原声作曲署名：広野智章
@@ -4728,6 +6252,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 - 统一曲库 ID：`arcade:90000135`
 - 原章节编号与标题：128. Spica
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000135" -->
+### 基本信息
+
+- 标题：Spica
+- 艺人：BEMANI Sound Team "TATSUYA"；Qrispy Joybox关联仅社区，非厂牌实名确认。[1][2]
+- 原声（原始作品发布时间）：2020年9月官方Smith’s memories介绍；精确首日/完整原录音首发待核，2026 OST后发。[1][3]
+- BPM：176。[2]
+- 谱面难度 BSC／ADV／EXT：3／7／10.2。[2]
+- 节点数 BSC／ADV／EXT：195／388／787。[2]
+- 版本性质：festo Smith’s memories PHASE LINE1，非wac IIDX同名作；游戏长度空栏不填OST1:48。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：BEMANI Sound Team "TATSUYA"
@@ -4761,6 +6297,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 
 - 统一曲库 ID：`arcade:90000136`
 - 原章节编号与标题：129. Winter Gift ～クリスピーからの贈りもの～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000136" -->
+### 基本信息
+
+- 标题：Winter Gift ～クリスピーからの贈りもの～
+- 艺人：Qrispy Joybox。[1]
+- 原声（原始作品发布时间）：2016年3月官方VOLZZA2新曲介绍；精确首日/完整原录音首发待核；2017-04-12 OST碟2第16轨是后续出版。[1][2][3]
+- BPM：178。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／9.6。[3]
+- 节点数 BSC／ADV／EXT：208／433／547。[3]
+- 版本性质：festo2019-12-02起商店移植，原作REFLEC；游戏1:50/OST1:54分列，圣诞延期说未证。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4797,6 +6345,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 - 统一曲库 ID：`arcade:90000137`
 - 原章节编号与标题：130. Super GERO GE-RO
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000137" -->
+### 基本信息
+
+- 标题：Super GERO GE-RO
+- 艺人：S-C-U；创编署名为Remy记录。[2]
+- 原声（原始作品发布时间）：社区记原REFLEC groovin’!!2014-08-21解禁；完整原录音首次发行日期未载。[2]
+- BPM：188。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD5／7／10.6。[1]
+- 节点数 BSC／ADV／EXT：224／442／767。[1]
+- 版本性质：festo2020-01-06至02-03商店移植；后HOLD不能倒推2014创作意图，蛙鸣题材不证实地采样。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：S-C-U
@@ -4831,6 +6391,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 
 - 统一曲库 ID：`arcade:90000139`
 - 原章节编号与标题：131. Pretender
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000139" -->
+### 基本信息
+
+- 标题：Pretender
+- 艺人：Official髭男dism。[3]
+- 原声（原始作品发布时间）：2019-05-15第二张单曲；标准版与Acoustic ver.分轨，不混录音。[3]
+- BPM：92（旧资料）。[4][5]
+- 谱面难度 BSC／ADV／EXT：1 / 3 / 8（旧资料）。[4][5]
+- 节点数 BSC／ADV／EXT：134 / 272 / 562（旧资料）。[4][5]
+- 版本性质：festo，2020-09-18追加；JAEPO2020公众日2月8日展示不等于街机正式实装，游戏剪辑长度待核。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4870,6 +6442,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 - 统一曲库 ID：`arcade:90000140`
 - 原章节编号与标题：132. マリーゴールド
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000140" -->
+### 基本信息
+
+- 标题：マリーゴールド
+- 艺人：あいみょん；声音制作田中ユウスケ。[1]
+- 原声（原始作品发布时间）：2018-08-08第五张单曲；原版和伴奏版分轨。2017年9月是创作时间，不充发行日期。[1][3]
+- BPM：106（旧资料）。[4][5]
+- 谱面难度 BSC／ADV／EXT：1 / 5 / 7（旧资料）。[4][5]
+- 节点数 BSC／ADV／EXT：118 / 273 / 469（旧资料）。[4][5]
+- 版本性质：festo，社区2020-09-18追加；游戏剪辑与母带来源待核，不用完整音轨时长填游戏长度。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：あいみょん；声音制作：田中ユウスケ
@@ -4905,6 +6489,18 @@ jubeat festo 于トロッコ大作戦2接收本曲；活动2020-07-03 10:00至07
 
 - 统一曲库 ID：`arcade:90000141`
 - 原章节编号与标题：133. 令和
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000141" -->
+### 基本信息
+
+- 标题：令和
+- 艺人：ゴールデンボンバー；鬼龍院翔词曲，DJ Mass (VIVID Neon*) & Arisa Fujisawa、鬼龍院翔编曲。[3]
+- 原声（原始作品发布时间）：2019-04-01年号公布后完成制作；实体安排4月10日指定渠道先行、4月17日其他全国店铺，不据安排单独确认实发履行；更早完整录音公开日待核。[1]
+- BPM：142（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：3 / 7 / 9.1（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：249 / 469 / 640（旧资料）。[4]
+- 版本性质：festo，2020-09-18追加；原曲与IIDX1991RAVE REMIX分开；DDR同长度不等于同谱，游戏长度待核。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4945,6 +6541,18 @@ TOKYO FM本身发布的节目资料另保存了鬼龍院关于无论公布何种
 - 统一曲库 ID：`arcade:90000142`
 - 原章节编号与标题：134. Pacify
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000142" -->
+### 基本信息
+
+- 标题：Pacify
+- 艺人：BEMANI Sound Team "SYUNN"；初期仅团队署名不据此推多人合作。[1][2]
+- 原声（原始作品发布时间）：社区原pop’n NAVIfes自2017-11-22解禁；完整原始录音首次发行日期待核。[1]
+- BPM：175（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 4 / 8 / 10.1（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：282 / 553 / 791（旧资料）。[3]
+- 版本性质：festo移植pop’n，2020-07-06至08-03商店300 T-emo，仅HOLD；总曲目信息1:56与jubeat1:44不归一。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：BEMANI Sound Team "SYUNN" [2]
@@ -4979,6 +6587,18 @@ TOKYO FM本身发布的节目资料另保存了鬼龍院关于无论公布何种
 
 - 统一曲库 ID：`arcade:90000143`
 - 原章节编号与标题：135. Get On The Floor
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000143" -->
+### 基本信息
+
+- 标题：Get On The Floor
+- 艺人：RoughSketch；旧档RouchSketch误字的纠正依作者方履历。[1]
+- 原声（原始作品发布时间）：IOSYS履历2019年7月已记DANCERUSH供曲；精确原作首公开日与完整原始录音首发待核。[1]
+- BPM：150（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：3 / 7 / 10.0（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：229 / 464 / 747（旧资料）。[3]
+- 版本性质：festo移植DANCERUSH，非2020新写；2020-08-03至09-07商店300 T-emo，普通谱不套原机种单双人等级，游戏长度待核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5015,6 +6635,18 @@ KONAMI同期音乐介绍把它放入Discover Mission新内容，并明确用Raws
 - 统一曲库 ID：`arcade:90000144`
 - 原章节编号与标题：136. Right Time Right Way
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000144" -->
+### 基本信息
+
+- 标题：Right Time Right Way
+- 艺人：KAN TAKAHIKO。[1]
+- 原声（原始作品发布时间）：原DDR A20于2019-05-30追加，社区及同期DDR记录；完整原始录音首次发行日期待核。[1][2]
+- BPM：174（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：5 / 7 / 9.8（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：299 / 424 / 656（旧资料）。[3]
+- 版本性质：festoののSELECTION旧曲移植，2020-06-15至08-31需20印章；普通谱，Remy1:46不自动作jubeat剪辑。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：KAN TAKAHIKO [1]
@@ -5049,6 +6681,18 @@ KONAMI同期音乐介绍把它放入Discover Mission新内容，并明确用Raws
 
 - 统一曲库 ID：`arcade:90000145`
 - 原章节编号与标题：137. ビューティフル レシート
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000145" -->
+### 基本信息
+
+- 标题：ビューティフル レシート
+- 艺人：Lucky Vacuum；不把第三方DJ YOSHITAKA转述外推官方曲评署名身份。[1][2][4]
+- 原声（原始作品发布时间）：2012-02-29 limelight原声第一碟第8轨；更早DDR X3／REFLEC游戏已有收录，精确原作最早公开与完整录音首发待核。[1][2]
+- BPM：196（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 4 / 7 / 10.1（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：288 / 451 / 740（旧资料）。[1]
+- 版本性质：festo 2020-09-07至10-05商店街机版，重新制作HOLD，与plus普通谱分开；196BPM及1:48属社区，不能据145demo曲评认跨机种同母版。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5089,6 +6733,18 @@ DDR X3 官方页为未注明发表日期的署名回顾，支持demo提交速度
 - 统一曲库 ID：`arcade:90000146`
 - 原章节编号与标题：138. TRIUMPH
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000146" -->
+### 基本信息
+
+- 标题：TRIUMPH
+- 艺人：AJURIKA；alo是原机种影像作者，不外推音乐制作角色。[1]
+- 原声（原始作品发布时间）：官方记2019年10月IIDX27收录；精确原始公开日及完整录音首次发行待核。[2]
+- BPM：183（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：3 / 8 / 9.8（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：226 / 576 / 787（旧资料）。[3]
+- 版本性质：festo移植IIDX27；2020-06-15至08-31印章20枚，普通三谱非HOLD，游戏剪辑长度待核。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：AJURIKA；原机种风格：UK HARDCORE [1]
@@ -5123,6 +6779,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 
 - 统一曲库 ID：`arcade:90000147`
 - 原章节编号与标题：139. ラブキラ☆スプラッシュ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000147" -->
+### 基本信息
+
+- 标题：ラブキラ☆スプラッシュ
+- 艺人：BEMANI Sound Team "Sota F." feat.いちか；Nana Takahashi题名、歌词，不混分工。[1]
+- 原声（原始作品发布时间）：2020-06-15游戏活动新写曲开放；完整原始录音首次发行日期待核，不以游戏剪辑替代。[1][2][3]
+- BPM：152（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：4 / 8 / 10.2（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：333 / 590 / 833（旧资料）。[2]
+- 版本性质：festo超じゃんけん2020新写，至08-31以20印章并实际游玩解禁；不混后续机种改编，时长待核。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5159,6 +6827,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 - 统一曲库 ID：`arcade:90000148`
 - 原章节编号与标题：140. 追憶のアラウカリア
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000148" -->
+### 基本信息
+
+- 标题：追憶のアラウカリア
+- 艺人：Cororo。[1]
+- 原声（原始作品发布时间）：2019年4月官方介绍已有Nostalgia Op.2原曲；非据介绍月认精确首发，完整原始录音发行待核。[1][2]
+- BPM：106（显示值；社区主体拍动212）（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：4 / 7 / 9.7（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：451 / 561 / 753（旧资料）。[2]
+- 版本性质：festo移植Nostalgia，2020-06-15至08-31需20印章；106显示值／主体212拍动并列，游戏时长待核。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：Cororo [1]
@@ -5194,6 +6874,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 - 统一曲库 ID：`arcade:90000149`
 - 原章节编号与标题：141. Sparkle Smilin'
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000149" -->
+### 基本信息
+
+- 标题：Sparkle Smilin'
+- 艺人：BEMANI Sound Team "Qrispy Joybox" feat.いちか；歌词署名待补。[1][2]
+- 原声（原始作品发布时间）：2020-07-29工具记游戏追加；活动专门新写，完整原始录音首发日待核。[1][3]
+- BPM：180（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：3 / 7 / 10.3（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：242 / 349 / 811（旧资料）。[2]
+- 版本性质：festo每周いちか2020开场曲，活动使用e-amusement pass游玩即可解禁，不套后续奖励曲先凑其他曲条件；时长待核。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：BEMANI Sound Team "Qrispy Joybox" feat.いちか [1]
@@ -5227,6 +6919,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 
 - 统一曲库 ID：`arcade:90000150`
 - 原章节编号与标题：142. Noob実況24時!
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000150" -->
+### 基本信息
+
+- 标题：Noob実況24時!
+- 艺人：ARM × かたほとり ft. ちょこ；かたほとり作词、ちょこ演唱，ARM作曲/编曲原始署名仍缺。[1][2][4]
+- 原声（原始作品发布时间）：2022-01-12 10:00冬季地图新曲；完整原始录音首次发行日期待核，不沿旧1月19日初出说。[3][4]
+- BPM：178（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／9.7（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：246／394／749（旧资料）。[4]
+- 版本性质：festo，スターティングウィンターメドレー！PHASE LINE3，非初代存量曲，时长待核。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5262,6 +6966,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 
 - 统一曲库 ID：`arcade:90000151`
 - 原章节编号与标题：143. ラプンツェル
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000151" -->
+### 基本信息
+
+- 标题：ラプンツェル
+- 艺人：RoughSketch。[2]
+- 原声（原始作品发布时间）：2020年10月DISC TELLER新作，社区10-16 10:00地图开始；2026原声第1碟22轨2:04属后续，原始完整录音首次发行待核。[1][4][5]
+- BPM：195（旧资料）。[3][4]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／6或总表8（冲突待核）／10.2（旧资料）。[3][4]
+- 节点数 BSC／ADV／EXT：248／406／856（旧资料）。[3][4]
+- 版本性质：festo DISC TELLER-Happy第一阶段，仅将童话第三作关系限定jubeat；ADV6/8冲突，2026唱片不充Ave.初出或已证重录。[1][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5299,6 +7015,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 - 统一曲库 ID：`arcade:90000152`
 - 原章节编号与标题：144. ピザが食べたくてしょうがない皆さんの気持ちを代弁しました
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000152" -->
+### 基本信息
+
+- 标题：ピザが食べたくてしょうがない皆さんの気持ちを代弁しました
+- 艺人：コバヤシユウヤ(IOSYS) feat. Miko；void／コバヤシユウヤ作编，夕野ヨシミ词，miko唱，Kouki Miura吉他/贝斯。[1][2][3]
+- 原声（原始作品发布时间）：2021-02-17演奏者文章称当日新曲，IOSYS记2月提供；完整原始录音首次发行日期待核。[1][3]
+- BPM：160（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：3／7／10.4（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：216／404／880（旧资料）。[4]
+- 版本性质：festo Kotaro’s memories PHASE LINE3；演奏者逐曲文字与转录社交文字分级，最初委约及具体录音日未核，游戏时长未核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：コバヤシユウヤ(IOSYS) feat. Miko [3]
@@ -5333,6 +7061,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 
 - 统一曲库 ID：`arcade:90000154`
 - 原章节编号与标题：145. 激闘保安官！DEMPA撲滅大作戦
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000154" -->
+### 基本信息
+
+- 标题：激闘保安官！DEMPA撲滅大作戦
+- 艺人：ARM × かたほとり ft. ななひら；かたほとり作词、ななひら唱，ARM具体曲编署名待核。[1][2][3]
+- 原声（原始作品发布时间）：2021-06-03应用原创pack1先行；完整原始录音首次发行待核，非以2022街机日替代。[3][4]
+- BPM：142（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／6／9.5（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：218／356／709（旧资料）。[3]
+- 版本性质：festo移植应用版；社区2022-04-27至05-10挑战2需7印章，三难度均HOLD不是第四难度，时长未核。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5369,6 +7109,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 - 统一曲库 ID：`arcade:90000156`
 - 原章节编号与标题：146. Underground Astronomy
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000156" -->
+### 基本信息
+
+- 标题：Underground Astronomy
+- 艺人：D.watt (IOSYS)。[1]
+- 原声（原始作品发布时间）：2021-06-03应用原创pack1先行；完整原始录音首次发行日期待核。[2][3][4]
+- BPM：155（旧资料）。[2][3]
+- 谱面难度 BSC／ADV／EXT：3／6／9.8（旧资料）。[2][3]
+- 节点数 BSC／ADV／EXT：207／420／815（旧资料）。[2][3]
+- 版本性质：festo移植应用版；社区2022-04-27至05-10挑战2需15印章，官方佐证移植但不冒称精确日期出自官方；时长待核。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：D.watt (IOSYS) [1]
@@ -5400,6 +7152,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 
 - 统一曲库 ID：`arcade:90000157`
 - 原章节编号与标题：147. No Rule Adventure
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000157" -->
+### 基本信息
+
+- 标题：No Rule Adventure
+- 艺人：nora2r；2021专辑母带署名不回填2020游戏制作岗位。[2][4]
+- 原声（原始作品发布时间）：2020年11月游戏地图登场，社区11-20；2021-10-31《FRONTIER》第13轨为后续Extended Mix，不当原始完整录音首发（待核）。[1][2][3][4][5]
+- BPM：190（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／7／10.3（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：332／497／841（旧资料）。[2]
+- 版本性质：festo“孤独的龙”地图PHASE LINE1，游戏曲与后续长版分列；构想推文摘要未作实读，游戏剪辑长度待核。[1][2][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5435,6 +7199,18 @@ AJURIKA在IIDX官网直接解释，《TRIUMPH》要做成音符密集的UK HARDC
 - 统一曲库 ID：`arcade:90000158`
 - 原章节编号与标题：148. Toy Robot Factory
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000158" -->
+### 基本信息
+
+- 标题：Toy Robot Factory
+- 艺人：MARON (IOSYS)。[1]
+- 原声（原始作品发布时间）：社区活动2020-12-28启动，最快2021-01-01可解禁；2026选集为后续出版，原始完整录音首发待核。[2][3]
+- BPM：184（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：4／7／9.8（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：303／526／854（旧资料）。[2]
+- 版本性质：festo新年20印章每日最多4，启动日不等最早可玩日；1月8日延至03-01 05:59。Toy Box Factory另曲，关系未证，不据持续更新note页首日期断首发。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：MARON (IOSYS) [1]
@@ -5468,6 +7244,18 @@ MARON本人的活动履历把《Toy Box Factory》与《Toy Robot Factory》分�
 
 - 统一曲库 ID：`arcade:90000159`
 - 原章节编号与标题：149. アモ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000159" -->
+### 基本信息
+
+- 标题：アモ
+- 艺人：八月二雪；john=hive词曲编，组合人声Qキキ。[1][3]
+- 原声（原始作品发布时间）：2021-06-03手机原创曲包先行；完整原始录音首次发行待核，不据后续街机/pop’n认初出。[2][3][4]
+- BPM：190（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：3／5／9.1（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：162／304／614；旧总表EXT616与逐曲614异文待核（旧资料）。[3]
+- 版本性质：festo应用版移植，2022-04-13至26日挑战7印章；各版重录未证，EXT节点614/旧616异文，正式标题释义待核。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5504,6 +7292,18 @@ MARON本人的活动履历把《Toy Box Factory》与《Toy Robot Factory》分�
 - 统一曲库 ID：`arcade:90000160`
 - 原章节编号与标题：150. Crazy Shuffle
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000160" -->
+### 基本信息
+
+- 标题：Crazy Shuffle
+- 艺人：Yooh；C-Show仅后续专辑重混者，不混原版人员。[1][3]
+- 原声（原始作品发布时间）：DANCERUSH原作早于2020年8月jubeat移植；2021-10-31《ALONE DANCER》长版及重混为后续，精确原始完整首发待核。[1][3]
+- BPM：128（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／8／10.5（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：251／453／727（旧资料）。[2]
+- 版本性质：festo移植DANCERUSH，2020年8月每周活动，原机种1局或jubeat10局；精确移植日/游戏时长待核，不回填重混Drum & Bass为原曲风格。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Yooh [1]
@@ -5538,6 +7338,18 @@ MARON本人的活动履历把《Toy Box Factory》与《Toy Robot Factory》分�
 
 - 统一曲库 ID：`arcade:90000161`
 - 原章节编号与标题：151. All clear!!
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000161" -->
+### 基本信息
+
+- 标题：All clear!!
+- 艺人：sky_delta。[2]
+- 原声（原始作品发布时间）：2017-11-15作者公告转录预告次日进入SDVX；官方11月页确认原项目，精确按日履行及完整录音首发待核。[1][2]
+- BPM：164（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：4／8／10.4（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：249／381／715（旧资料）。[3]
+- 版本性质：festo于2020年8月列表移植SDVX IV旧作；保留源All clear!!与官方All Clear!!大小写差异，不把移植宣传当新创作；精确追加日及母带待核。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5574,6 +7386,18 @@ MARON本人的活动履历把《Toy Box Factory》与《Toy Robot Factory》分�
 - 统一曲库 ID：`arcade:90000162`
 - 原章节编号与标题：152. 恋歌疾風！かるたクイーンいろは
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000162" -->
+### 基本信息
+
+- 标题：恋歌疾風！かるたクイーンいろは
+- 艺人：ねこまんまチーム！；未以艺名对照外推全部词曲编分工。[1]
+- 原声（原始作品发布时间）：原pop’n éclale及其原声第1碟14轨；精确原作首次公开/发行日期未载，不把2020移植追踪日代替。[1][4]
+- BPM：120–168（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：3／7／10.2（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：273／540／925（旧资料）。[2]
+- 版本性质：festo移植éclale非peace；2020跨机种，09-16统计站支持日非单独官方首开证据，时长待核。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ねこまんまチーム！
@@ -5608,6 +7432,18 @@ MARON本人的活动履历把《Toy Box Factory》与《Toy Robot Factory》分�
 
 - 统一曲库 ID：`arcade:90000163`
 - 原章节编号与标题：153. 狂水一華
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000163" -->
+### 基本信息
+
+- 标题：狂水一華
+- 艺人：BEMANI Sound Team "HuΣeR Vs. SYUNN" feat.いちか；不套GITADORA EDITION的HuΣeR×Yvya分工。[1][4]
+- 原声（原始作品发布时间）：2020-09-30活动新曲；完整原始录音首次发行日期待核。[1][3]
+- BPM：160（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：3／8／10.2（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：196／658／883（旧资料）。[2]
+- 版本性质：festo跨机种新曲，非旧曲先单机再移植；“最终”是当时宣传，后有Jetcoaster Windy；具体曲编分工和录音仍缺。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5644,6 +7480,18 @@ MARON本人的活动履历把《Toy Box Factory》与《Toy Robot Factory》分�
 - 统一曲库 ID：`arcade:90000164`
 - 原章节编号与标题：154. Floating Eternity
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000164" -->
+### 基本信息
+
+- 标题：Floating Eternity
+- 艺人：BEMANI Sound Team "Philosophy"；具体创作者身份未证，不由音色认人。[1][2]
+- 原声（原始作品发布时间）：官方2021夏季地图、统计2021-06-09支持记录；非单凭统计日认精确首发，后续原声第1碟23轨2:05不当原始完整录音首发（待核）。[1][3][4]
+- BPM：180（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：3／6／10.2（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：152／444／874（旧资料）。[2]
+- 版本性质：festo DISC TELLER-Intangible原创，PHASE LINE1依社区；匿名署名保留，后续唱片时长不外推街机长度。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：BEMANI Sound Team "Philosophy"
@@ -5678,6 +7526,18 @@ festo原创位置保留；官方地图说明与独立统计站2021-06-09的新�
 
 - 统一曲库 ID：`arcade:90000165`
 - 原章节编号与标题：155. Jetcoaster Windy
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000165" -->
+### 基本信息
+
+- 标题：Jetcoaster Windy
+- 艺人：BEMANI Sound Team "dj TAKA" feat.のの；歌词分工及歌手真实身份待核。[1]
+- 原声（原始作品发布时间）：官方2020-10-07 10:00活动新曲开放；完整原始录音首次发行日期待核，不用统计10月10日维护日替代。[1][4]
+- BPM：268（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：4／7／9.7（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：367／543／841（旧资料）。[2]
+- 版本性质：festo跨机种同时追加，非jubeat独占；268与其他机种半速拍标不证明降速重混，社区“10日后”间隔不采。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5714,6 +7574,18 @@ festo原创位置保留；官方地图说明与独立统计站2021-06-09的新�
 - 统一曲库 ID：`arcade:90000166`
 - 原章节编号与标题：156. 灼熱Beach Side Bunny
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000166" -->
+### 基本信息
+
+- 标题：灼熱Beach Side Bunny
+- 艺人：DJ Mass MAD Izm*；Minako Endo是原机种影像作者，评论仅社区英译。[1]
+- 原声（原始作品发布时间）：原作IIDX18 Resort Anthem；后续《I AM NOT A DJ》Extended ver.分开，精确原始公开与完整录音首发日期未载。[1][3]
+- BPM：153（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD 6／9.6／10.7（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：535／846／1606；EXT含667个HOLD，不当独立敲击数（旧资料）。[2]
+- 版本性质：festo移植IIDX18，社区2020-09-23 10:00ののラッシュ20印章；EXT667HOLD总1606节点，非1606独立敲击；2:04不归一其他机种计时。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：DJ Mass MAD Izm*
@@ -5748,6 +7620,18 @@ festo原创位置保留；官方地图说明与独立统计站2021-06-09的新�
 
 - 统一曲库 ID：`arcade:90000167`
 - 原章节编号与标题：157. Din Don Dan
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000167" -->
+### 基本信息
+
+- 标题：Din Don Dan
+- 艺人：Ryu☆ feat.Mayumi Morinaga；社区Ryu☆曲编，短版词作与长版森永/Ryu☆共同词署差异待核。[1][2]
+- 原声（原始作品发布时间）：社区原DDR2014-06-05加入；完整原录音首发待核，2015-02-04同名专辑首轨是3:31 Extended Mix。[1][2]
+- BPM：140。[1]
+- 谱面难度 BSC／ADV／EXT：3／7／9.1。[1]
+- 节点数 BSC／ADV／EXT：269／459／751。[1]
+- 版本性质：festo2020-08-26联动移植，原DDR原创；长版与移植、后编舞评论分开。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5785,6 +7669,18 @@ festo原创位置保留；官方地图说明与独立统计站2021-06-09的新�
 
 - 统一曲库 ID：`arcade:90000168`
 - 原章节编号与标题：158. X-Plan
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000168" -->
+### 基本信息
+
+- 标题：X-Plan
+- 艺人：Tom-H@ck feat.Nadia；Nadia词、Tom-H@ck曲编；乐器细分为社区待内页。[1][2]
+- 原声（原始作品发布时间）：GF/DM XG2原作精确初出待核；2011-05-25 OST同盘短1:53/Long3:53，不用长版代游戏。[1][2]
+- BPM：250。[2]
+- 谱面难度 BSC／ADV／EXT：2／7／9.0。[2]
+- 节点数 BSC／ADV／EXT：203／482／810。[2]
+- 版本性质：festo2020-09-09联动移植，活动至10/29；不是festo新写流行歌，原始评论未取得。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5824,6 +7720,18 @@ festo原创位置保留；官方地图说明与独立统计站2021-06-09的新�
 - 统一曲库 ID：`arcade:90000171`
 - 原章节编号与标题：159. Alba
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000171" -->
+### 基本信息
+
+- 标题：Alba
+- 艺人：須田景凪。[1][2]
+- 原声（原始作品发布时间）：2020-06-05数字单曲；厂牌新闻页头6/6不覆盖正文发行卡6/5。[2]
+- BPM：117。[3]
+- 谱面难度 BSC／ADV／EXT：2／6／8。[3]
+- 节点数 BSC／ADV／EXT：138／469／543。[3]
+- 版本性质：电影《水曜日が消えた》委约；festo社区2020-10-30加入、2023-10-27移除，非游戏原创。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：須田景凪
@@ -5861,6 +7769,18 @@ festo原创位置保留；官方地图说明与独立统计站2021-06-09的新�
 - 统一曲库 ID：`arcade:90000173`
 - 原章节编号与标题：160. X-ray binary
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000173" -->
+### 基本信息
+
+- 标题：X-ray binary
+- 艺人：BEMANI Sound Team "Trance Liquid"；后CD公司级曲编署名不确认实名。[1][3]
+- 原声（原始作品发布时间）：社区2020-11-18 MusiQ FES Vol.1游戏开放；完整原录音首发待核，后CastHour OST2:06另载。[2][3]
+- BPM：150。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD3／9.5／10.4。[2]
+- 节点数 BSC／ADV／EXT：318／754／925。[2]
+- 版本性质：跨游戏答题BGM企划而非先IIDX后jubeat；festo2021-02-17常驻，游戏2:00/后CD2:06分列。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：BEMANI Sound Team "Trance Liquid"
@@ -5896,6 +7816,18 @@ festo原创位置保留；官方地图说明与独立统计站2021-06-09的新�
 
 - 统一曲库 ID：`arcade:90000174`
 - 原章节编号与标题：161. 世界の果てに約束の凱歌を -jubeat edition-
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000174" -->
+### 基本信息
+
+- 标题：世界の果てに約束の凱歌を -jubeat edition-
+- 艺人：かめりあ为jubeat edition改编署名；原作Zutt feat.NU-KO，不混其他机种作者。[1][2][3]
+- 原声（原始作品发布时间）：本版2020-12-23游戏可玩；原作精确最早公开/本版完整音源首发待核，2026-10-07是后OST。[1][2][3]
+- BPM：201。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD7／9.2／10.6。[2]
+- 节点数 BSC／ADV／EXT：512／816／1019。[2]
+- 版本性质：festo第10届KAC跨机种改编，特指jubeat edition；游戏长度未核不填发行2:04。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5933,6 +7865,18 @@ festo原创位置保留；官方地图说明与独立统计站2021-06-09的新�
 
 - 统一曲库 ID：`arcade:90000175`
 - 原章节编号与标题：162. ここからよろしく大作戦143
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000175" -->
+### 基本信息
+
+- 标题：ここからよろしく大作戦143
+- 艺人：BEMANI Sound Team "あさき隊"；SARAH歌唱本人确认，其余社区分工与CD公司/MEG共同词署差异保留。[2][3][4]
+- 原声（原始作品发布时间）：2020-12-24武装神姫BC稼动联动游戏公开；完整原录音首次发行未载，后CastHour CD2:12另列。[1][4]
+- BPM：184。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／9.3。[3]
+- 节点数 BSC／ADV／EXT：360／680／978。[3]
+- 版本性质：festo非独占，原为武装神姫BC开场主题歌；游戏时长未核，不用CD计时代填。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5972,6 +7916,18 @@ KONAMI 同期公告明确 festo 参加 2020-12-24 至 2021-01-22 的稼动纪念
 - 统一曲库 ID：`arcade:90000176`
 - 原章节编号与标题：163. 思想犯
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000176" -->
+### 基本信息
+
+- 标题：思想犯
+- 艺人：ヨルシカ；suis演唱，n-buna制作方说明。[1]
+- 原声（原始作品发布时间）：2020-06-24《盗作》先行数字配信。[2]
+- BPM：200。[3]
+- 谱面难度 BSC／ADV／EXT：2／8／9.1。[3]
+- 节点数 BSC／ADV／EXT：157／592／786。[3]
+- 版本性质：festo收录，专辑/动画MV/游戏短版分开；精确追加日和游戏长度未核。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ヨルシカ
@@ -6006,6 +7962,18 @@ n-buna在官方专访中明确说明，标题主题来自乔治·奥威尔《198
 
 - 统一曲库 ID：`arcade:90000177`
 - 原章节编号与标题：164. ボッカデラベリタ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000177" -->
+### 基本信息
+
+- 标题：ボッカデラベリタ
+- 艺人：柊キライ；flower歌声、WOOMA影像绘画，投稿短评仅二级转录。[2]
+- 原声（原始作品发布时间）：视频2020-04-26，数字发行2020-04-27，两种发布形式分列。[1][3]
+- BPM：170。[4]
+- 谱面难度 BSC／ADV／EXT：2／7／9.0。[4]
+- 节点数 BSC／ADV／EXT：105／545／723。[4]
+- 版本性质：festo；原视频/数字发行不说明游戏剪辑过程，游戏时长未载。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6043,6 +8011,18 @@ n-buna在官方专访中明确说明，标题主题来自乔治·奥威尔《198
 - 统一曲库 ID：`arcade:90000178`
 - 原章节编号与标题：165. turn into white
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000178" -->
+### 基本信息
+
+- 标题：turn into white
+- 艺人：S-C-U & TATSUYA；S-C-U曲/双方编为社区，官方确认编曲接力。[1][2]
+- 原声（原始作品发布时间）：社区2020-12-16活动公开；完整原音源发行未落实，2021/10 PC特典非首次委约。[2][3]
+- BPM：186。[2]
+- 谱面难度 BSC／ADV／EXT：3／7／9.0。[2]
+- 节点数 BSC／ADV／EXT：242／492／687。[2]
+- 版本性质：MusiQ答题BGM与jubeat/Nostalgia跨用途；festo2021-02-17默认，不假定有同母带商业长版。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：S-C-U & TATSUYA
@@ -6075,6 +8055,18 @@ S-C-U在官方曲评中说明，这次必须兼顾问答节目的背景音乐与
 
 - 统一曲库 ID：`arcade:90000179`
 - 原章节编号与标题：166. Still Lonesome
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000179" -->
+### 基本信息
+
+- 标题：Still Lonesome
+- 艺人：PSYQUI。[1][2]
+- 原声（原始作品发布时间）：原MÚSECA NEW FACE获kz奖，精确初出/完整发行日未载；2021-01-08是后jubeat地图。[1][2][3]
+- BPM：168。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／9.9。[3]
+- 节点数 BSC／ADV／EXT：226／333／607。[3]
+- 版本性质：festo with MILK PHASE LINE1移植；SDVX PC vol.14后载不改原投稿身份。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6111,6 +8103,18 @@ kz的评选着眼于可玩性：他从想象玩家准确打中音乐时的快感
 
 - 统一曲库 ID：`arcade:90000181`
 - 原章节编号与标题：167. TOON MANIAC
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000181" -->
+### 基本信息
+
+- 标题：TOON MANIAC
+- 艺人：Theme from"TOON MANIA"；村井聖夜作曲。[2][3]
+- 原声（原始作品发布时间）：原pop’n4精确首日未载；2000-06-21 KMCA-62第8轨原声出版，不直接充最早公开。[2][3]
+- BPM：160。[3]
+- 谱面难度 BSC／ADV／EXT：2／7／9.0。[3]
+- 节点数 BSC／ADV／EXT：184／457／573。[3]
+- 版本性质：festo Kotaro’s memories PHASE LINE2移植；2020/2021日期异文保留，OST整分1:00不填游戏空栏。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6149,6 +8153,18 @@ festo经Mission Travel的Kotaro’s memories PHASE LINE 2解锁。[3]
 - 统一曲库 ID：`arcade:90000182`
 - 原章节编号与标题：168. Come to Life
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000182" -->
+### 基本信息
+
+- 标题：Come to Life
+- 艺人：ARM (IOSYS) feat. Nicole Curry；ARM曲编、Janelle Akina Hirakawa词、Nicole歌唱。[1][2]
+- 原声（原始作品发布时间）：社区原DDR A2016-09-15公开；完整原录音首发未载，2021-04-21为jubeat移植。[2]
+- BPM：jubeat180，不套DDR90–180。[2]
+- 谱面难度 BSC／ADV／EXT：3／8／9.8。[2]
+- 节点数 BSC／ADV／EXT：275／481／815。[2]
+- 版本性质：festo with SODA PHASE LINE1移植；原版与かめりあ/D.watt后混音分开。[2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ARM (IOSYS) feat. Nicole Curry
@@ -6183,6 +8199,18 @@ ARM亲述，这次首次为DDR创作，收到的创作要求是直接明快的 h
 
 - 统一曲库 ID：`arcade:90000184`
 - 原章节编号与标题：169. Fireball
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000184" -->
+### 基本信息
+
+- 标题：Fireball
+- 艺人：BEMANI Sound Team "Bumble Bee"；实名未证，不写Sota推测为确定署名。[1][2]
+- 原声（原始作品发布时间）：社区2021-09-01至28游戏地图；完整原录音首发未载，2026-10-07 OST1:55后发。[1][3]
+- BPM：180。[1]
+- 谱面难度 BSC／ADV／EXT：4／6／10.2。[1]
+- 节点数 BSC／ADV／EXT：327／429／859。[1]
+- 版本性质：festo原创DISC TELLER -Buzz- PHASE LINE1，非Sweet little30’s同名曲；游戏1:52/OST1:55不证重编。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6219,6 +8247,18 @@ Bumble Bee是谁，目前所读资料没有给出可靠实名。社区从曲风�
 - 统一曲库 ID：`arcade:90000185`
 - 原章节编号与标题：170. Boomy and The Boost
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000185" -->
+### 基本信息
+
+- 标题：Boomy and The Boost
+- 艺人：Eagle。[1]
+- 原声（原始作品发布时间）：原IIDX25 CANNON BALLERS，最初公开/完整发行日期未载；2021-08-06是jubeat移植。[1][2]
+- BPM：174。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD4／8／10.7。[2]
+- 节点数 BSC／ADV／EXT：387／714／1060。[2]
+- 版本性质：festo BPL应援First Stage移植；第10届KAC使用不当最初委约。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：Eagle
@@ -6253,6 +8293,18 @@ Eagle直接解释，灵感来自赛车或格斗场上选手与女郎并置的“
 
 - 统一曲库 ID：`arcade:90000186`
 - 原章节编号与标题：171. MA・TSU・RI
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000186" -->
+### 基本信息
+
+- 标题：MA・TSU・RI
+- 艺人：かなたん、アマギセーラ、ぁゅ by BEMANI Sound Team "藤森崇多"。[1][2]
+- 原声（原始作品发布时间）：2021-07-29 10时第一战开放；完整原录音发行日期未载，活动OST后载。[1][2]
+- BPM：160。[3]
+- 谱面难度 BSC／ADV／EXT：3／6／9.0。[3]
+- 节点数 BSC／ADV／EXT：276／409／669。[3]
+- 版本性质：festo/歌合战jubeat制作机种，RED第一战7200 YELL；原声不证各机种/长版同音轨，游戏时长未载。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6289,6 +8341,18 @@ Eagle直接解释，灵感来自赛车或格斗场上选手与女郎并置的“
 
 - 统一曲库 ID：`arcade:90000187`
 - 原章节编号与标题：172. ユメブキ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000187" -->
+### 基本信息
+
+- 标题：ユメブキ
+- 艺人：紫崎 雪,Risa Yuzuki,709sec. by BEMANI Sound Team "PHQUASE & SYUNN"；Risa仅证歌唱，不据经历推作词。[2][3][4]
+- 原声（原始作品发布时间）：jubeat社区2021-08-26，Remy8/25异文保留；歌手8/26新闻针对SDVX非jubeat交叉证明，完整发行日待核。[1][3][5]
+- BPM：200。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD3／7／10.2。[1]
+- 节点数 BSC／ADV／EXT：270／522／805。[1]
+- 版本性质：festo TEAM RED大将战7200 YELL，8/26至9/30社区窗口；非个人专辑移植，歌词及作曲细分待核。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6327,6 +8391,18 @@ Eagle直接解释，灵感来自赛车或格斗场上选手与女郎并置的“
 - 统一曲库 ID：`arcade:90000188`
 - 原章节编号与标题：173. MOVE! (We Keep It Movin')
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000188" -->
+### 基本信息
+
+- 标题：MOVE! (We Keep It Movin')
+- 艺人：Jonny Dynamite!,Lisa - paint with stars -,Rio Hiiragi by BEMANI Sound Team "U1-ASAMi"。[2][3]
+- 原声（原始作品发布时间）：2021-08-05 10时游戏活动开放；完整原录音首次发行日未载，活动后OST单独收录。[1][3]
+- BPM：142。[1]
+- 谱面难度 BSC／ADV／EXT：2／6／9.6。[1]
+- 节点数 BSC／ADV／EXT：187／433／818。[1]
+- 版本性质：歌合战TEAM BLUE次锋7200 YELL，非红组；三歌手合作非三曲串烧。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：MOVE! (We Keep It Movin')
@@ -6360,6 +8436,18 @@ Eagle直接解释，灵感来自赛车或格斗场上选手与女郎并置的“
 
 - 统一曲库 ID：`arcade:90000189`
 - 原章节编号与标题：174. 斑咲花
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000189" -->
+### 基本信息
+
+- 标题：斑咲花
+- 艺人：mami,駄々子 by BEMANI Sound Team "Akhuta Works"；制作名义不写团队，KPP仅证部分人声非指定歌者。[3][4][5]
+- 原声（原始作品发布时间）：社区2021-08-19游戏开放；完整原录音首次发行日未载，后歌合战OST另载。[1][5]
+- BPM：134–201。[1]
+- 谱面难度 BSC／ADV／EXT：4／6／9.3。[1]
+- 节点数 BSC／ADV／EXT：295／424／848。[1]
+- 版本性质：festo蓝组歌合战，参与者帖文只二手转录不称读原推，部分录音地点不证全部分工。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6399,6 +8487,18 @@ Eagle直接解释，灵感来自赛车或格斗场上选手与女郎并置的“
 - 统一曲库 ID：`arcade:90000190`
 - 原章节编号与标题：175. LIKE A VAMPIRE
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000190" -->
+### 基本信息
+
+- 标题：LIKE A VAMPIRE
+- 艺人：koyomi,星野奏子 by BEMANI Sound Team "TAKA"；双主唱未在录音等场合会面。[2][3][4]
+- 原声（原始作品发布时间）：社区2021-08-12参与机种特别企划公开；完整原录音首次发行日期未载。[1][4]
+- BPM：jubeat276，DANCERUSH另138。[1]
+- 谱面难度 BSC／ADV／EXT：3／7／9.2。[1]
+- 节点数 BSC／ADV／EXT：139／508／732。[1]
+- 版本性质：festo歌合战特别企划，星野本人RED队；双唱成品不等于同室面对面合唱。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：LIKE A VAMPIRE
@@ -6434,6 +8534,18 @@ Eagle直接解释，灵感来自赛车或格斗场上选手与女郎并置的“
 
 - 统一曲库 ID：`arcade:90000191`
 - 原章节编号与标题：176. スーパー戦湯ババンバーン
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000191" -->
+### 基本信息
+
+- 标题：スーパー戦湯ババンバーン
+- 艺人：すわひでお,秋成,かぼちゃ,藍月なくる,NU-KO by BEMANI Sound Team "八戸亀生羅"；不加未列歌者/别名。[3][4]
+- 原声（原始作品发布时间）：社区2021-08-12 10时特别企划开放；完整原录音首次发行日未载，后活动OST分列。[1][4]
+- BPM：现187；旧188显示错误、Ave.更新修正（社区）。[1]
+- 谱面难度 BSC／ADV／EXT：4／8／10.3。[1]
+- 节点数 BSC／ADV／EXT：393／610／997。[1]
+- 版本性质：festo BLUE侧3200 YELL非RED；KPP部分录音不证五人同时或具体歌者。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6472,6 +8584,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 - 统一曲库 ID：`arcade:90000192`
 - 原章节编号与标题：177. Catch Me
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000192" -->
+### 基本信息
+
+- 标题：Catch Me
+- 艺人：DJ Yoshitaka feat. Eri；曲评仅英译，原日文未得。[1]
+- 原声（原始作品发布时间）：原IIDX12 HAPPY SKY，精确原始公开/完整录音发行未载；2021-09-13是jubeat移植。[1][3]
+- BPM：115（原曲档案）。[1]
+- 谱面难度 BSC／ADV／EXT：2／6／9.0。[2]
+- 节点数 BSC／ADV／EXT：138／418／561。[2]
+- 版本性质：festo BPL第二阶段全7章、新封面；IIDX转盘衔接设计不套jubeat操作。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Catch Me
@@ -6508,6 +8632,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 
 - 统一曲库 ID：`arcade:90000193`
 - 原章节编号与标题：178. 茶渋シンドローム
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000193" -->
+### 基本信息
+
+- 标题：茶渋シンドローム
+- 艺人：みゅい词/唱本人确认；后OST Takayuki Ishikawa作曲，社区dj TAKA曲编。[1][2][3]
+- 原声（原始作品发布时间）：社区2022-03-30初次地图开放；完整原录音首发待核，2026 OST后发；动态履历页日期不套全部条目。[1][3]
+- BPM：185。[1]
+- 谱面难度 BSC／ADV／EXT：2／6／9.0。[1]
+- 节点数 BSC／ADV／EXT：209／376／650。[1]
+- 版本性质：festo DISC TELLER -Conflict- PHASE1；3/31适配不推翻3/30；游戏2:04/OST2:09不假定同剪辑。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6546,6 +8682,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 - 统一曲库 ID：`arcade:90000194`
 - 原章节编号与标题：179. December in Strasbourg
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000194" -->
+### 基本信息
+
+- 标题：December in Strasbourg
+- 艺人：nana(Sevencolors) feat. Mana；社区nana曲编/mana萨克斯，非由feat.推歌手，原始署名待核。[1]
+- 原声（原始作品发布时间）：社区DANCERUSH2019-12-16至2020-01-05原开放；完整录音首次发行未载。[1][2]
+- BPM：115。[1]
+- 谱面难度 BSC／ADV／EXT：3／7／10.2。[1]
+- 节点数 BSC／ADV／EXT：194／332／610。[1]
+- 版本性质：festo2021-12-15 CAPCCINO PHASE1移植、2022/6复开；不写2021/6复开，不从城市名编旅行。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：December in Strasbourg
@@ -6582,6 +8730,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 
 - 统一曲库 ID：`arcade:90000195`
 - 原章节编号与标题：180. Triple Cross
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000195" -->
+### 基本信息
+
+- 标题：Triple Cross
+- 艺人：BEMANI Sound Team"dj TAKA & DJ YOSHITAKA & SYUNN"；三人细分未核。[2]
+- 原声（原始作品发布时间）：社区最早SDVX/NOSTALGIA2021-10-07，jubeat10-28；完整原录音首次发行日未载。[1][3]
+- BPM：196。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD4／8／10.3。[1]
+- 节点数 BSC／ADV／EXT：214／515／819。[1]
+- 版本性质：festo歌合战RED胜利BONUS无需另解锁；其他机种另版/附钢琴不视同录音，10/28非全机种首发。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6620,6 +8780,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 - 统一曲库 ID：`arcade:90000197`
 - 原章节编号与标题：181. FLOWER (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000197" -->
+### 基本信息
+
+- 标题：FLOWER (BEMANI SYMPHONY Arr.)
+- 艺人：DJ YOSHITAKA × onoken + gaQdan；原曲DJ YOSHITAKA，onoken编、gaQdan管弦乐。[2]
+- 原声（原始作品发布时间）：原曲/2021交响录音精确首发日期本条未载；2021-11-02游戏旗标开放，2022-06-12现场后续，不推游戏取自现场。[1][2][3]
+- BPM：158。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD5／9.1／10.5。[1]
+- 节点数 BSC／ADV／EXT：429／725／910。[1]
+- 版本性质：festo既存FLOWER交响改编、SYMPHONY Track1-3三旗；与原版配置/2022现场分开。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：FLOWER (BEMANI SYMPHONY Arr.)
@@ -6653,6 +8825,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 
 - 统一曲库 ID：`arcade:90000198`
 - 原章节编号与标题：182. Timepiece phase II (BEMANI SYMPHONY Arr.)
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000198" -->
+### 基本信息
+
+- 标题：Timepiece phase II (BEMANI SYMPHONY Arr.)
+- 艺人：佐々木博史 × bermei.inazawa + gaQdan；佐々木原曲，bermei编，ぜろいち钢琴，gaQdan乐团。[2]
+- 原声（原始作品发布时间）：原GF10/dm9《Timepiece phase II》及本交响录音精确首发日未载；2021-11-02游戏旗标开放，2022现场后续。[1][2][3]
+- BPM：140。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD3／8／9.6。[1]
+- 节点数 BSC／ADV／EXT：152／441／684。[1]
+- 版本性质：交响改编非佐々木重弹原版；festo Track1-2三旗；旧原曲评论英译不套2021编曲者。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6689,6 +8873,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 - 统一曲库 ID：`arcade:90000199`
 - 原章节编号与标题：183. 海神 (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000199" -->
+### 基本信息
+
+- 标题：海神 (BEMANI SYMPHONY Arr.)
+- 艺人：兎々 Arranged by ござ；本版钢琴独奏编曲、演奏均ござ，不套gaQdan。[2]
+- 原声（原始作品发布时间）：原作REFLEC colette-Summer；改编载体为限定特典独奏CD首轨《海神 (Piano Arr.)》，本条未载两版精确首发日期。[1][2][3]
+- BPM：160（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：2／7／10.0（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：138／511／799（旧资料）。[1]
+- 版本性质：festo，2021-11-11 Track1-4三旗，非整期11-02登场；SYMPHONY题名下实际钢琴独奏。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：海神 (BEMANI SYMPHONY Arr.)
@@ -6722,6 +8918,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 
 - 统一曲库 ID：`arcade:90000200`
 - 原章节编号与标题：184. バッドエンド・シンドローム (BEMANI SYMPHONY Arr.)
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000200" -->
+### 基本信息
+
+- 标题：バッドエンド・シンドローム (BEMANI SYMPHONY Arr.)
+- 艺人：アリスシャッハと魔法の楽団原作，onoken编曲，gaQdan管弦演奏，不合写共同原作。[1][2]
+- 原声（原始作品发布时间）：原Nostalgia Op.2，交响唱片Disc2第8曲；两版精确原始公开/完整发行日期未载。[1][2]
+- BPM：125（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 2／7／9.3（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：119／452／638（旧资料）。[1]
+- 版本性质：festo SYMPHONY Track1-5于2021-11-11开放，非11-02；听后乐器观察不当录音轨道清单。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6759,6 +8967,18 @@ jubeat社区记为特别企划BLUE侧，3,200 YELL，2021-08-12 10:00至9月30�
 - 统一曲库 ID：`arcade:90000201`
 - 原章节编号与标题：185. Lisa-RICCIA (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000201" -->
+### 基本信息
+
+- 标题：Lisa-RICCIA (BEMANI SYMPHONY Arr.)
+- 艺人：DJ YOSHITAKA × onoken + gaQdan；组曲onoken编、ぜろいち钢琴；不认每位乐手在切片每小节均出声。[1][2]
+- 原声（原始作品发布时间）：唱片为JOMANDA/VALLIS-NERIA/Lisa三曲特别组曲非独立同名轨；原曲及本组曲完整音源首发日期未载，2022-06-12为后续演出。[1][2][3]
+- BPM：178（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 5／8／10.2（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：391／714／839（旧资料）。[1]
+- 版本性质：festo从组曲截出Lisa部分，2022-03-16 Track3-6至04-12，非整轮03-02；不把后续现场当游戏音源。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Lisa-RICCIA (BEMANI SYMPHONY Arr.)
@@ -6792,6 +9012,18 @@ festo 于 2022-03-16 开放 SYMPHONY篇 Track3-6，活动至 04-12。[1] 此为�
 
 - 统一曲库 ID：`arcade:90000202`
 - 原章节编号与标题：186. 朧 (BEMANI SYMPHONY Arr.)
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000202" -->
+### 基本信息
+
+- 标题：朧 (BEMANI SYMPHONY Arr.)
+- 艺人：HHH×MM×ST原作；浦木裕太交响编曲，gaQdan乐团；Mayumi后续演出期待不当改编录音说明。[2][3]
+- 原声（原始作品发布时间）：原pop’n20 fantasia《朧》后入saucer，本次另交响录音；原曲/改编完整录音发行日未载，2022年1月演出预告不代首发。[1][2][3]
+- BPM：149（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：3／6／9.8（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：234／385／844（旧资料）。[1]
+- 版本性质：festo新交响版，2021-11-11 Track1-6三旗至12-17，不重复旧saucer移植记账。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6829,6 +9061,18 @@ festo 于 2022-03-16 开放 SYMPHONY篇 Track3-6，活动至 04-12。[1] 此为�
 - 统一曲库 ID：`arcade:90000203`
 - 原章节编号与标题：187. 天空の夜明け (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000203" -->
+### 基本信息
+
+- 标题：天空の夜明け (BEMANI SYMPHONY Arr.)
+- 艺人：Cuvelia原曲，Nagiha交响编曲，瀬戸一王钢琴，gaQdan乐团名义；不混角色。[1]
+- 原声（原始作品发布时间）：原IIDX19录音与2021交响改编分开；精确原曲及完整改编首次发行日未载。[1]
+- BPM：150（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／6／9.1（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：165／372／578（旧资料）。[3]
+- 版本性质：festo全HOLD，2021-11-02至12-17 Track1-1三旗；原曲曲评不当交响编配自述，不径认Nostalgia mix同剪辑。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：Cuvelia × Nagiha + gaQdan
@@ -6865,6 +9109,18 @@ festo 于 2022-03-16 开放 SYMPHONY篇 Track3-6，活动至 04-12。[1] 此为�
 
 - 统一曲库 ID：`arcade:90000204`
 - 原章节编号与标题：188. サヨナラ・ヘヴン (BEMANI SYMPHONY Arr.)
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000204" -->
+### 基本信息
+
+- 标题：サヨナラ・ヘヴン (BEMANI SYMPHONY Arr.)
+- 艺人：猫叉Master × Morrigan feat.Lily + gaQdan；原作与改编名义分列。[1]
+- 原声（原始作品发布时间）：原曲初出专页CS pop’n11与交响页CS12异文保留；交响唱片/限定音乐盒/旧游戏音源分列，精确首次发行日待核。[1][4][5]
+- BPM：111（旧资料）。[5]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／7／9.3（旧资料）。[5]
+- 节点数 BSC／ADV／EXT：129／408／739（旧资料）。[5]
+- 版本性质：festo Track2-2，2021-12-22至2022-01-31三旗，全难度HOLD；结构压缩仅听者比较，剪辑时长待核。[3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6904,6 +9160,18 @@ festo 于 2022-03-16 开放 SYMPHONY篇 Track3-6，活动至 04-12。[1] 此为�
 - 统一曲库 ID：`arcade:90000205`
 - 原章节编号与标题：189. Lachryma《Re:Queen’M》 (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000205" -->
+### 基本信息
+
+- 标题：Lachryma《Re:Queen’M》 (BEMANI SYMPHONY Arr.)
+- 艺人：かねこちはる原作，Morrigan交响编曲，瀬戸一王钢琴；gaQdan乐团名义，不写共同作曲。[1]
+- 原声（原始作品发布时间）：原SDVX第五届KAC公募与后续交响改编分开；原作及本版完整首发日期未载。[1][2]
+- BPM：200（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 6／8／10.3（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：432／717／1079（旧资料）。[3]
+- 版本性质：festo全HOLD，Track2-6于2022-01-05追加至01-31三旗，非整轮12-22；命名原评不作改编证词。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：かねこちはる × Morrigan + gaQdan
@@ -6940,6 +9208,18 @@ festo 于 2022-03-16 开放 SYMPHONY篇 Track3-6，活动至 04-12。[1] 此为�
 
 - 统一曲库 ID：`arcade:90000206`
 - 原章节编号与标题：190. Idola (BEMANI SYMPHONY Arr.)
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000206" -->
+### 基本信息
+
+- 标题：Idola (BEMANI SYMPHONY Arr.)
+- 艺人：iconoclasm原作；wac原词曲、dj TAKA节奏制作；原口大交响编曲，gaQdan名义，角色分列。[1][2]
+- 原声（原始作品发布时间）：2014原曲与2021交响专辑分列；精确原作公开/完整改编首发日待核，不混旧GUMI录音。[1][2]
+- BPM：140–176（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／8／9.7（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：253／509／782（旧资料）。[3]
+- 版本性质：festo Track2-1，2021-12-22至2022-01-31三旗，全HOLD；是否沿用原录音素材仍未核。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6978,6 +9258,18 @@ festo 于 2022-03-16 开放 SYMPHONY篇 Track3-6，活动至 04-12。[1] 此为�
 - 统一曲库 ID：`arcade:90000207`
 - 原章节编号与标题：191. Everlasting Message (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000207" -->
+### 基本信息
+
+- 标题：Everlasting Message (BEMANI SYMPHONY Arr.)
+- 艺人：ぺのれり原作，Osamu Kubota交响编曲，ぜろいち钢琴，gaQdan名义，不倒置作者。[1]
+- 原声（原始作品发布时间）：原曲第四届KAC公募与后来交响录音分列；精确原作/本版完整音源首发日待核。[1][2]
+- BPM：92–214（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 5／8／10.1（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：335／606／854（旧资料）。[3]
+- 版本性质：festo Track3-5于2022-03-16追加至04-12三旗，非03-02整期首日；原曲协奏构想不径认改编取舍。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：ぺのれり × Osamu Kubota + gaQdan
@@ -7015,6 +9307,18 @@ festo 于 2022-03-16 开放 SYMPHONY篇 Track3-6，活动至 04-12。[1] 此为�
 - 统一曲库 ID：`arcade:90000208`
 - 原章节编号与标题：192. starmine (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000208" -->
+### 基本信息
+
+- 标题：starmine (BEMANI SYMPHONY Arr.)
+- 艺人：Ryu☆原曲，デビン木下交响编曲，gaQdan名义。[1]
+- 原声（原始作品发布时间）：已有作品重制投稿，2000-07-31截止日寄出，非据投稿日认公开发行；2021交响专辑与2009同名专辑分开，精确完整首发待核。[1][2]
+- BPM：100–164（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／9.3（谱面类型仍待逐曲页复核）（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：228／446／736（旧资料）。[3]
+- 版本性质：festo Track2-3于2021-12-22至2022-01-31；100–164不套原曲182，谱面类型仍待逐曲页复核，作者原曲回顾不当交响制作证词。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 - 艺术家：Ryu☆ × デビン木下 + gaQdan
 - 交响编曲：デビン木下
@@ -7049,6 +9353,18 @@ Ryu☆在2020年回顾《starmine》的投稿选择时，提到《beatmania IIDX
 
 - 统一曲库 ID：`arcade:90000209`
 - 原章节编号与标题：193. Colorful Cookie (BEMANI SYMPHONY Arr.)
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000209" -->
+### 基本信息
+
+- 标题：Colorful Cookie (BEMANI SYMPHONY Arr.)
+- 艺人：Lucky Vacuum原作，デビン木下编曲，gaQdan名义。[1][2]
+- 原声（原始作品发布时间）：原IIDX16 EMPRESS原声与交响唱片分别发行，精确原作/完整改编首发日未载。[1][2]
+- BPM：168（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／8／9.6（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：365／620／815（旧资料）。[4]
+- 版本性质：festo全HOLD Track2-5，2022-01-05追加至01-31三旗，非整期12-22；原作评论仅二级英译。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7087,6 +9403,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 
 - 统一曲库 ID：`arcade:90000210`
 - 原章节编号与标题：194. POSSESSION (BEMANI SYMPHONY Arr.)
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000210" -->
+### 基本信息
+
+- 标题：POSSESSION (BEMANI SYMPHONY Arr.)
+- 艺人：TAG underground原作，中村康隆交响编曲，gaQdan名义，不套其他重混人员。[1][2]
+- 原声（原始作品发布时间）：DDR X2原作与2021交响专辑分开；两版精确完整首发日未载，2022日场影像为后续现场不径认游戏音源。[1][2][3]
+- BPM：180（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：6／8／10.2（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：406／632／841（旧资料）。[4]
+- 版本性质：festo普通谱，2022-03-16 Track3-4至04-12三旗；Aoi转引TAG仅原作背景非交响制作自述。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7130,6 +9458,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 - 统一曲库 ID：`arcade:90000211`
 - 原章节编号与标题：195. Element of SPADA (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000211" -->
+### 基本信息
+
+- 标题：Element of SPADA (BEMANI SYMPHONY Arr.)
+- 艺人：猫叉Master feat.霜月はるか原作名义；大嶋啓之交响编曲，gaQdan；本版社区记器乐，不能凭feat.断定含歌声。[1][4]
+- 原声（原始作品发布时间）：原SPADA主题歌与2021器乐改编分开；原始公开/完整录音首发日未载。[2][3]
+- BPM：170（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：4／7／9.1（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：344／538／767（旧资料）。[4]
+- 版本性质：festo普通谱 Track3-1，2022-03-02至04-12三旗；原唱合作采访不作交响编曲过程。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：猫叉Master feat.霜月はるか × 大嶋 啓之 + gaQdan
@@ -7167,6 +9507,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 
 - 统一曲库 ID：`arcade:90000212`
 - 原章节编号与标题：196. 嘆きの樹 (BEMANI SYMPHONY Arr.)
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000212" -->
+### 基本信息
+
+- 标题：嘆きの樹 (BEMANI SYMPHONY Arr.)
+- 艺人：金獅子原作，Nagiha编曲，Osamu Kubota管弦编配，ぜろいち钢琴，gaQdan；不以Cuvelia替金獅子。[1][2]
+- 原声（原始作品发布时间）：原DistorteD目录署金獅子，2021交响版另编；原作及完整改编精确发行日未载。[1][2]
+- BPM：61–156（旧资料）。[4][5]
+- 谱面难度 BSC／ADV／EXT：HOLD 5／8／9.7（旧资料）。[4][5]
+- 节点数 BSC／ADV／EXT：BSC354、EXT834；ADV总表646与逐曲页656异文未定（旧资料）。[4][5]
+- 版本性质：festo全HOLD Track3-3，2022-03-02至04-12三旗；ADV节点646/656异文不裁，原曲评论仅英译。[3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7207,6 +9559,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 - 统一曲库 ID：`arcade:90000213`
 - 原章节编号与标题：197. 流砂の嵐 (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000213" -->
+### 基本信息
+
+- 标题：流砂の嵐 (BEMANI SYMPHONY Arr.)
+- 艺人：劇団レコード原作；ござ钢琴独奏编曲/演奏，不署成gaQdan管弦录音。[1]
+- 原声（原始作品发布时间）：原copious与APPEND长版、2021限定独奏CD第2轨为不同支线；精确原作/完整独奏发行日待核。[1][2][3]
+- BPM：142（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：3／7／9.2（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：277／491／761（旧资料）。[4]
+- 版本性质：festo普通谱 Track2-4于2022-01-05追加至01-31三旗，非12-22；原曲意象仅韩译，不套钢琴改编动机。[2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：劇団レコード Arranged by ござ
@@ -7245,6 +9609,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 - 统一曲库 ID：`arcade:90000214`
 - 原章节编号与标题：198. さよなら世界 (BEMANI SYMPHONY Arr.)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000214" -->
+### 基本信息
+
+- 标题：さよなら世界 (BEMANI SYMPHONY Arr.)
+- 艺人：猫叉Master原作，原唱Sana；ござ独奏编曲和演奏，不把钢琴版当Sana重唱。[1][2][3]
+- 原声（原始作品发布时间）：原曲曾先作iTunes单曲、后2011同名专辑；2021独奏CD第3轨另版；原曲首次公开及完整独奏精确发行日未载。[1][2]
+- BPM：104–120（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：2／6／9.2（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：198／401／633（旧资料）。[3]
+- 版本性质：festo普通谱 Track3-2，2022-03-02至04-12三旗；专辑整体生命主题不当逐曲动机，非标准双CD乐团录音。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：猫叉Master Arranged by ござ
@@ -7282,6 +9658,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 - 统一曲库 ID：`arcade:90000215`
 - 原章节编号与标题：199. Hero Revealed
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000215" -->
+### 基本信息
+
+- 标题：Hero Revealed
+- 艺人：Yooh。[1]
+- 原声（原始作品发布时间）：2022-07-06地图追加及工具记录；本曲PHASE LINE3，完整原始录音首次发行日待核。[1][2][3]
+- BPM：170（旧资料）。[2]
+- 谱面难度 BSC／ADV／EXT：6／8／10.6（旧资料）。[2]
+- 节点数 BSC／ADV／EXT：408／541／923（旧资料）。[2]
+- 版本性质：festo限定festo島ライブカメラ，普通谱；首支个人新写jubeat不等于此前没有移植，末期追加及鸟封面观察不当创作原因。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：Yooh
@@ -7318,6 +9706,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 - 统一曲库 ID：`arcade:90000229`
 - 原章节编号与标题：200. XENOViA
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000229" -->
+### 基本信息
+
+- 标题：XENOViA
+- 艺人：BlackY；5to3为封面工作者，不把后作视觉动机混音乐分工。[2]
+- 原声（原始作品发布时间）：2022-02-17工具记追加，另有第十届KAC展示；精确最早公开及完整录音首发日待核。[1][3]
+- BPM：208（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 7／10.2／10.9（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：576／923／1149（旧资料）。[1]
+- 版本性质：festo全HOLD；正式EXT10.9非宣传10.99999…即新11制，旧TUNE RUN/传导不套现行；Dahlia委托不能代原曲创作过程。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：BlackY
@@ -7353,6 +9753,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 
 - 统一曲库 ID：`arcade:90000232`
 - 原章节编号与标题：201. ↑↑↓↓←→←→BA
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000232" -->
+### 基本信息
+
+- 标题：↑↑↓↓←→←→BA
+- 艺人：meiyo词曲；TOMOSUKE制作，不猜全部编曲录音分工。[1]
+- 原声（原始作品发布时间）：2021指令35周年主题曲，5月已有评论，10月官方上传不当最早公开；精确原始首发日待核，不以周年纪念日代作品实发。[1][2][3]
+- BPM：124（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：3／7／9.0（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：276／680／763（旧资料）。[3]
+- 版本性质：festo 2022-02-17追加，晚于周年企划；普通谱、游戏长度待核，非专为jubeat首写。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7392,6 +9804,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 - 统一曲库 ID：`arcade:90000233`
 - 原章节编号与标题：202. YONA YONA DANCE
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000233" -->
+### 基本信息
+
+- 标题：YONA YONA DANCE
+- 艺人：和田アキ子原唱，フレデリック制作；后乐队self-cover独立区分。[1][3]
+- 原声（原始作品发布时间）：2021-09-02原作配信；后《フレデリズム3》乐队自翻唱非同一录音。[1][3]
+- BPM：145（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：4／8／9.5（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：220／431／618（旧资料）。[4]
+- 版本性质：festo社区2022-02-17追加，原唱先于游戏、非jubeat委约；游戏母带剪辑和时长未核。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：和田アキ子
@@ -7427,6 +9851,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 - 统一曲库 ID：`arcade:90000234`
 - 原章节编号与标题：203. シル・ヴ・プレジデント
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000234" -->
+### 基本信息
+
+- 标题：シル・ヴ・プレジデント
+- 艺人：P丸様。；ナナホシ管弦楽団词及编曲，岩見陸作曲。[1]
+- 原声（原始作品发布时间）：2021-03-17《Sunny!!》第6轨并公开MV；不凭作者VOCALOID身份认更早ミク原唱。[1]
+- BPM：176（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：3／7／9.3（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：221／401／591（旧资料）。[3]
+- 版本性质：festo社区2022-02-17追加，P丸様。人声版；作者YouTubeミク版本未读，游戏剪辑时长待核。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：P丸様。
@@ -7461,6 +9897,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 
 - 统一曲库 ID：`arcade:90000235`
 - 原章节编号与标题：204. 最凶アンビバレント
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000235" -->
+### 基本信息
+
+- 标题：最凶アンビバレント
+- 艺人：森羅万象；kaztora、清水"カルロス"宥人改编，あやぽんず＊/あよ歌唱，みゅい词。[3][4]
+- 原声（原始作品发布时间）：本改编2021-08-14《東方オトハナビ》碟1第6轨；素材《今宵は飄逸なエゴイスト(Live ver) ～ Egoistic Flowers.》原始发行日未载。[1][2]
+- BPM：178（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：3／6／9.6（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：232／336／614（旧资料）。[3]
+- 版本性质：festo作者官网2022-02-17收录；先合辑后街机，非零起原创旋律；共同企划缘起不作逐曲制作证词，游戏时长未核。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7498,6 +9946,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 - 统一曲库 ID：`arcade:90000236`
 - 原章节编号与标题：205. ルナティックモンスター
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000236" -->
+### 基本信息
+
+- 标题：ルナティックモンスター
+- 艺人：フーリンキャットマーク；鳴紗演唱为社区记录，专辑吉他总署名不拆填本曲。[2][4]
+- 原声（原始作品发布时间）：原合辑《東方オトハナビ》碟1第8轨，2022《アタシマニア》碟第2轨为后收；双东方原曲及本改编精确首发日未载。[1][2]
+- BPM：136（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／7／9.3（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：228／428／597（旧资料）。[4]
+- 版本性质：festo官方2022-02-17追加，全HOLD；双原曲改编，后收未证重录不自行认新母带，游戏时长未核。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：フーリンキャットマーク
@@ -7533,6 +9993,18 @@ jubeat交响版速度168、三难度全HOLD。该版社区玩家特别提醒结�
 
 - 统一曲库 ID：`arcade:90000237`
 - 原章节编号与标题：206. DEATH WORMHOLE
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000237" -->
+### 基本信息
+
+- 标题：DEATH WORMHOLE
+- 艺人：SOUND HOLIC feat.Nana Takahashi；GUCCI/MasKaleido编曲，高橋菜々/GUCCI词，Nana歌唱。[2][4]
+- 原声（原始作品发布时间）：原《東方オトハナビ》碟2第4轨《ネクロファンタジア》改编；素材与本改编精确首次发行待核，2022-05-08《NANA HOLIC V》是后续精选。[1][2][3]
+- BPM：137（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：4／7／9.2（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：264／446／730（旧资料）。[4]
+- 版本性质：festo官方2022-02-17追加；NANA HOLIC V再收不据另一首新录标签认本曲重录，游戏时长未核。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7572,6 +10044,18 @@ S2原未复现的颁布日期现已恢复读取，2026-11-03独立复读已补�
 - 统一曲库 ID：`arcade:90000238`
 - 原章节编号与标题：207. マツヨイナイトバグ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000238" -->
+### 基本信息
+
+- 标题：マツヨイナイトバグ
+- 艺人：ビートまりおとまろん；まりお主唱，二人词编，テラ吉他，あまね间奏语音；不抹去ZUN原作。[2][5]
+- 原声（原始作品发布时间）：《蠢々秋月 ～ Mooned Insect》东方改编并有弹幕神乐关联；原材料/本版最早公开日期未载，后C100唱片Game Size不代首次完整录音。[1][2][5]
+- BPM：190（旧资料）。[5]
+- 谱面难度 BSC／ADV／EXT：5／9.1／10.4（旧资料）。[5]
+- 节点数 BSC／ADV／EXT：386／910／1064（旧资料）。[5]
+- 版本性质：festo官方2022-02-17追加，非jubeat原创；完整/唱片Game Size/实际游戏音源不径认相同，命名文字仅内页第三方转录。[2][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ビートまりおとまろん [2]
@@ -7609,6 +10093,18 @@ S2原未复现的颁布日期现已恢复读取，2026-11-03独立复读已补�
 - 统一曲库 ID：`arcade:90000239`
 - 原章节编号与标题：208. ワールズエンド・ダンスホール
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000239" -->
+### 基本信息
+
+- 标题：ワールズエンド・ダンスホール
+- 艺人：wowaka；初音ミク与巡音ルカ双声部。[1][2]
+- 原声（原始作品发布时间）：社区记2010-05-18 niconico发表；非2017上传首出，原视频本轮未核；完整原始录音首次发行日未单独核定。[4]
+- BPM：171（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：3／7／10.2（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：157／456／818（旧资料）。[4]
+- 版本性质：festo AC官方2022-02-17，plus2013-06-25 pack03先行；2011现场不当初版创作条件，后现场不径认游戏录音。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：wowaka [1]
@@ -7645,6 +10141,18 @@ jubeat街机收录还晚得多。社区记其2013年已进入plus，而厂商于
 - 统一曲库 ID：`arcade:90000241`
 - 原章节编号与标题：209. みくみくにしてあげる♪【してやんよ】
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000241" -->
+### 基本信息
+
+- 标题：みくみくにしてあげる♪【してやんよ】
+- 艺人：ika即鶴田加茂。[1][2]
+- 原声（原始作品发布时间）：2007-09-20早期投稿发表（历史回顾）；2009《みんなみくみくにしてあげる♪》是后续完整展开合作版，不混游戏母带。[1][2][3]
+- BPM：160。[3]
+- 谱面难度 BSC／ADV／EXT：1／5／9.2。[3]
+- 节点数 BSC／ADV／EXT：101／340／594。[3]
+- 版本性质：festo街机2022-02-17追加；plus2013-06-25 pack03先行；游戏时长及母带未核，不据同旋律认2009录音。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ika [1]
@@ -7679,6 +10187,18 @@ jubeat街机收录还晚得多。社区记其2013年已进入plus，而厂商于
 
 - 统一曲库 ID：`arcade:90000242`
 - 原章节编号与标题：210. リカーシブ・ファンクション
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000242" -->
+### 基本信息
+
+- 标题：リカーシブ・ファンクション
+- 艺人：OSTER Project；OSTER project作编，96-chan吉他仅社区未亲见原册。[5]
+- 原声（原始作品发布时间）：社区原REFLEC groovin’2014-07-08 Reflec Shop；2015夏季联动OST第13轨后载，完整原录音首发待核。[3][4][5]
+- BPM：145。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／9.5。[3]
+- 节点数 BSC／ADV／EXT：233／377／610。[3]
+- 版本性质：festo移植；手机2022-03-30、街机06-22挑战13印章；1:49社区，Recursive Call不是据此认长版。[2][3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7716,6 +10236,18 @@ jubeat方面，社区记录2022-03-30手机端先收录；官方另明确宣布6
 - 统一曲库 ID：`arcade:90000243`
 - 原章节编号与标题：211. Juicy
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000243" -->
+### 基本信息
+
+- 标题：Juicy
+- 艺人：kors k Lovers DJ Yoshitaka；具体人声/制作分工未落实。[1][2]
+- 原声（原始作品发布时间）：社区《Ways For Liberation》2010-03-24第二碟4轨，官方曲表确认出版署名；唱片先于初代REFLEC。[1][2]
+- BPM：125。[2]
+- 谱面难度 BSC／ADV／EXT：3／5／8。[2]
+- 节点数 BSC／ADV／EXT：171／301／521。[2]
+- 版本性质：festo；手机2022-03-30、街机06-22挑战，1:35；L.E.D.现场合作设想非已参与原作或改编公告。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：kors k Lovers DJ Yoshitaka [1]
@@ -7751,6 +10283,18 @@ jubeat方面，社区记录2022-03-30手机端先收录；官方另明确宣布6
 
 - 统一曲库 ID：`arcade:90000244`
 - 原章节编号与标题：212. 海神
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000244" -->
+### 基本信息
+
+- 标题：海神
+- 艺人：兎々；DJ TOTTO别名仅社区，Qrispy现场键盘不据此认原作编曲。[1][2][5]
+- 原声（原始作品发布时间）：原REFLEC colette -Summer-，精确原始公开/完整录音首发未载；2021ござ钢琴独奏是后改编，2022移植另记。[1][3][5]
+- BPM：159。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD5／8／10.4。[1]
+- 节点数 BSC／ADV／EXT：329／643／872。[1]
+- 版本性质：festo原曲移植，手机2022-03-30、街机06-22挑战；2:08；舞台鼓状物不能证明录音用同实体乐器。[1][2][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7788,6 +10332,18 @@ jubeat方面，社区记录2022-03-30手机端先收录；官方另明确宣布6
 - 统一曲库 ID：`arcade:90000245`
 - 原章节编号与标题：213. Chippin Break
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000245" -->
+### 基本信息
+
+- 标题：Chippin Break
+- 艺人：あるふぁ。[1]
+- 原声（原始作品发布时间）：原MÚSECA公募曲，原始精确公开/完整录音首发未载；APP2021-12-22及街机2022-06-01为后移植。[1][2][3]
+- BPM：190。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD4／8／9.6；EXT旧9.3/9.6异文不强定版本。[3][4]
+- 节点数 BSC／ADV／EXT：BSC370/旧汇总340待核／637／807。[3][4]
+- 版本性质：festo移植，街机挑战5印章；时长未载，不据芯片音色推复古硬件录音。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：あるふぁ [1]
@@ -7821,6 +10377,18 @@ jubeat方面，社区记录2022-03-30手机端先收录；官方另明确宣布6
 - 统一曲库 ID：`arcade:90000246`
 - 原章节编号与标题：214. Laughin' Muffin
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000246" -->
+### 基本信息
+
+- 标题：Laughin' Muffin
+- 艺人：Gowrock。[1]
+- 原声（原始作品发布时间）：原MÚSECA公募曲，精确原始公开/完整录音首发未载；APP2021-12-22、街机2022-06-01后移植。[1][2][3]
+- BPM：182。[3]
+- 谱面难度 BSC／ADV／EXT：3／7／10.2。[3]
+- 节点数 BSC／ADV／EXT：342／529／884。[3]
+- 版本性质：festo移植挑战13印章，时长待核；点心曲传统自述不证具体前曲改编/点心采样。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Gowrock [1]
@@ -7851,6 +10419,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 - 统一曲库 ID：`arcade:90000247`
 - 原章节编号与标题：215. Metsysralos
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000247" -->
+### 基本信息
+
+- 标题：Metsysralos
+- 艺人：庭師。[1]
+- 原声（原始作品发布时间）：原MÚSECA公募曲，精确原始公开/完整录音首发未载；APP2021-12-22、街机2022-06-01后移植。[1][2][3]
+- BPM：190。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD5／8／10.3。[3]
+- 节点数 BSC／ADV／EXT：289／508／766。[3]
+- 版本性质：festo移植挑战20印章；时长待核，曲名逆拼/读音仅社区未得所称作者原话。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：庭師 [1]
@@ -7880,6 +10460,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 
 - 统一曲库 ID：`arcade:90000250`
 - 原章节编号与标题：216. 鋳鉄の檻
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000250" -->
+### 基本信息
+
+- 标题：鋳鉄の檻
+- 艺人：小寺可南子,ランコ,SARAH by BEMANI Sound Team "Yvya"；歌手证词仅第三方转录。[1][2]
+- 原声（原始作品发布时间）：2021夏季歌合战首轮已出现；精确原始公开/完整录音首发待核，不用2022街机/2025 APP日替代。[1][3][4]
+- BPM：200。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／9.2。[3]
+- 节点数 BSC／ADV／EXT：335／556／830。[3]
+- 版本性质：festo社区2022-06-29 10时首张旗标地图三旗；2025-09-19 plus pack3后载，时长空缺不套另一游戏编曲。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7913,6 +10505,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 
 - 统一曲库 ID：`arcade:90000251`
 - 原章节编号与标题：217. チュッチュ♪マチュピチュ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000251" -->
+### 基本信息
+
+- 标题：チュッチュ♪マチュピチュ
+- 艺人：ななひら,Nana Takahashi,猫体質 by BEMANI Sound Team "劇ダンサーレコード"；保留变体署名不照误字改。[1][4]
+- 原声（原始作品发布时间）：2021歌合战次锋及活动原声已列，精确原作首日/完整录音首次发行待核；早于2022 jubeat追加。[1][3][4]
+- BPM：130。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD3／7／9.8。[3]
+- 节点数 BSC／ADV／EXT：272／463／882。[3]
+- 版本性质：festo2022-06-29 10时至07-25 23:59第二张地图三旗，仅HOLD；时长未列，不把乐评当制作自述。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -7949,6 +10553,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 - 统一曲库 ID：`arcade:90000253`
 - 原章节编号与标题：218. DUAL STRIKER
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000253" -->
+### 基本信息
+
+- 标题：DUAL STRIKER
+- 艺人：Mayumi Morinaga,Fernweh by BEMANI Sound Team "L.E.D. & HuΣeR"；HuΣeR亦演唱仅歌手帖转录支持，原X未核。[1][2][4]
+- 原声（原始作品发布时间）：2021歌合战大将战原曲及活动OST；精确原始公开/完整录音首发日期未载，2022 jubeat是后续。[1][2][3]
+- BPM：185。[3]
+- 谱面难度 BSC／ADV／EXT：4／7／10.4。[3]
+- 节点数 BSC／ADV／EXT：324／525／913。[3]
+- 版本性质：festo社区2022-06-29至07-25旗标；2:04，不套Yvya其他机种摇滚编曲，旧素材创作意图待本人。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：Mayumi Morinaga,Fernweh by BEMANI Sound Team "L.E.D. & HuΣeR"。[1][2]
@@ -7984,6 +10600,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 - 统一曲库 ID：`arcade:90001001`
 - 原章节编号与标题：219. Proof of the existence [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001001" -->
+### 基本信息
+
+- 标题：Proof of the existence [ 2 ]
+- 艺人：猫叉Master+。[1][3]
+- 原声（原始作品发布时间）：原曲IIDX背景及《Sho & Hoshiko》原名音源已出版；精确原作公开/完整首发日期本条未载。[1][3]
+- BPM：170。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD5／8／10.5。[2]
+- 节点数 BSC／ADV／EXT：387／651／796；HOLD82／93／102。[2]
+- 版本性质：festo新增HOLD，2018-11-05至12-03商店200 T-emo，2:10；无新编/重录证据，不移用旧剧情为新增故事。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：猫叉Master+。[1][3]
@@ -8018,6 +10646,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 
 - 统一曲库 ID：`arcade:90001002`
 - 原章节编号与标题：220. Life Connection [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001002" -->
+### 基本信息
+
+- 标题：Life Connection [ 2 ]
+- 艺人：world sequence；村井聖夜作曲编曲。[1]
+- 原声（原始作品发布时间）：原曲CD及2013-11-08 saucer pack21早于HOLD；精确原作最初公开/完整发行日期未载。[1][3]
+- BPM：200。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／9.6。[2]
+- 节点数 BSC／ADV／EXT：182／369／632；HOLD41／71／70。[2]
+- 版本性质：festo2018-10-01至11-05商店100 T-emo；游戏1:48/1:50冲突、CD1:50不裁定；未证重编。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8056,6 +10696,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 - 统一曲库 ID：`arcade:90001003`
 - 原章节编号与标题：221. つぼみ [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001003" -->
+### 基本信息
+
+- 标题：つぼみ [ 2 ]
+- 艺人：達見 恵 featured by 佐野宏晃；不是パーキッツ同名作。[1][3]
+- 原声（原始作品发布时间）：原曲2012年XG3作品；精确原作首发日未载，2013唱片真人鼓重录不能证2018 HOLD用了该录音。[1][2][3]
+- BPM：184。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD3／6／9.1。[3]
+- 节点数 BSC／ADV／EXT：188／399／603；HOLD33／46／56。[3]
+- 版本性质：festo2018-11-05至12-03商店100 T-emo，1:46；追加谱面不证重新作词/录音，录音是否完全相同未核。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：達見 恵 featured by 佐野宏晃。[1][3]
@@ -8090,6 +10742,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 
 - 统一曲库 ID：`arcade:90001004`
 - 原章节编号与标题：222. SigSig [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001004" -->
+### 基本信息
+
+- 标题：SigSig [ 2 ]
+- 艺人：kors k。[1][2]
+- 原声（原始作品发布时间）：原曲精确最早公开/完整录音首发未载；2006 original extended/Raver Rose remix及后SigSig2023等另名版本分开。[2][3]
+- BPM：179。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD3／7／9.6。[1]
+- 节点数 BSC／ADV／EXT：283／656／939；HOLD22／58／54。[1]
+- 版本性质：festo2018-12-03至2019-01-07商店200 T-emo，后150复刻，2:05；未证新增音乐/录音，不凭[2]认重混。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8128,6 +10792,18 @@ Gowrock在官方入选感言中把作品放在音游“点心曲”的趣味传�
 - 统一曲库 ID：`arcade:90001005`
 - 原章节编号与标题：223. True Blue [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001005" -->
+### 基本信息
+
+- 标题：True Blue [ 2 ]
+- 艺人：dj TAKA feat.AiMEE；AiMEE词、TAKA曲编。[1][3]
+- 原声（原始作品发布时间）：原作2013年；精确首次公开/完整录音发行未载，专辑命名反响不等于HOLD新录。[2]
+- BPM：164。[1][4]
+- 谱面难度 BSC／ADV／EXT：HOLD5／8／10.5。[1][4]
+- 节点数 BSC／ADV／EXT：221／562／908；HOLD29／52／59。[1][4]
+- 版本性质：festo TUNE RUN OSHAKO CUP三曲HARD各970000或传导，不套T-emo；游戏2:03/2:02异文CD不裁定，追加日待核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：dj TAKA feat.AiMEE；AiMEE作词、TAKA作曲编曲。[1][3]
@@ -8165,6 +10841,18 @@ TAKA在访谈中谈到原曲推出后的玩家热情，以及这种反应对专�
 - 统一曲库 ID：`arcade:90001006`
 - 原章节编号与标题：224. sola [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001006" -->
+### 基本信息
+
+- 标题：sola [ 2 ]
+- 艺人：小野秀幸，CD列作曲编曲。[1][2]
+- 原声（原始作品发布时间）：原曲CD存在但精确原始公开/完整录音首发日期本条未载；[2]不是据编号能定的新编曲。[1][2]
+- BPM：135。[1][2]
+- 谱面难度 BSC／ADV／EXT：HOLD3／6／10.4。[1][2]
+- 节点数 BSC／ADV／EXT：175／342／594；HOLD34／58／98。[1][2]
+- 版本性质：festo2019-01-07至02-04商店200 T-emo；Remy游戏1:51/CD1:50分开，不混GITADORA版。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：小野秀幸；CD署名列作曲、编曲。[1][2]
@@ -8199,6 +10887,18 @@ festo的[2]是独立列出的HOLD谱面，而不是仅凭编号就能认定的�
 
 - 统一曲库 ID：`arcade:90001007`
 - 原章节编号与标题：225. サヨナラ・ヘヴン [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001007" -->
+### 基本信息
+
+- 标题：サヨナラ・ヘヴン [ 2 ]
+- 艺人：猫叉Master。[1][2][3]
+- 原声（原始作品发布时间）：2006原声短版及4:58 original long ver.分列，最早原作公开/完整首发未载；HOLD身份不能认采用长版。[1][3]
+- BPM：111。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD3／8／10.4。[1]
+- 节点数 BSC／ADV／EXT：241／566／911。[1]
+- 版本性质：festo TUNE RUN SAZAE CUP“天国の舞踏会”三曲合计2800000，非T-emo；游戏2:05/CD短2:03分列，精确追加日待核。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8235,6 +10935,18 @@ festo TUNE RUN的SAZAE CUP课程“天国の舞踏会”要求天空の華ADV、
 - 统一曲库 ID：`arcade:90001008`
 - 原章节编号与标题：226. 虚空と光明のディスクール [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001008" -->
+### 基本信息
+
+- 标题：虚空と光明のディスクール [ 2 ]
+- 艺人：日向美ビタースイーツ♪／霜月凛（CV水原薫）；あさき词、TOMOSUKE曲，虚构角色不替代现实署名。[1][3]
+- 原声（原始作品发布时间）：精确原作首次公开/完整录音发行本条未载；festo HOLD未有声优另录证据。[3]
+- BPM：140。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD2／6／8。[3]
+- 节点数 BSC／ADV／EXT：156／305／538。[3]
+- 版本性质：festo TUNE RUN KISAGO CUP“孤高の少女は破滅を願う”三课题各850000以上，2:05；HOLD人员/重录声明未核。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：日向美ビタースイーツ♪；霜月凛（CV：水原薫）。[3]
@@ -8269,6 +10981,18 @@ festo的TUNE RUN选择KISAGO CUP课程“孤高の少女は破滅を願う”，
 
 - 统一曲库 ID：`arcade:90001009`
 - 原章节编号与标题：227. unisonote [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001009" -->
+### 基本信息
+
+- 标题：unisonote [ 2 ]
+- 艺人：onoken。[1][2][3]
+- 原声（原始作品发布时间）：2014《Gourzaemon》原声已收；精确原作最初公开/完整首发日期未载，后委托评论不挪用别曲细节。[2][3]
+- BPM：168。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD2／6／9.7。[1]
+- 节点数 BSC／ADV／EXT：226／559／807；HOLD44／73／70。[1]
+- 版本性质：festo2018-12-03至2019-01-07商店100 T-emo，后50复刻；2:05，追加HOLD不据[2]认新编曲。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8305,6 +11029,18 @@ festo的TUNE RUN选择KISAGO CUP课程“孤高の少女は破滅を願う”，
 - 统一曲库 ID：`arcade:90001010`
 - 原章节编号与标题：228. ツーマンライブ [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001010" -->
+### 基本信息
+
+- 标题：ツーマンライブ [ 2 ]
+- 艺人：東雲夏陽 meets 日向美ビタースイーツ♪；夏陽CV日南結里，DECO*27词曲，DECO*27/Michica Yo编曲。[1][3]
+- 原声（原始作品发布时间）：2015《Chocolate Smile Girls!!》已收原作；精确原始公开/完整首发日期未载，不以2019 HOLD充新创作。[1][2]
+- BPM：174。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD2／6／8。[3]
+- 节点数 BSC／ADV／EXT：150／442／562；HOLD10／16／22。[3]
+- 版本性质：festo2019-01-07至02-04商店100 T-emo，2020年50复刻；1:53，未有为HOLD重录/换音乐的直接说明。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：東雲夏陽 meets 日向美ビタースイーツ♪；夏陽CV日南結里。[3]
@@ -8339,6 +11075,18 @@ festo的TUNE RUN选择KISAGO CUP课程“孤高の少女は破滅を願う”，
 
 - 统一曲库 ID：`arcade:90001011`
 - 原章节编号与标题：229. Snow Goose [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001011" -->
+### 基本信息
+
+- 标题：Snow Goose [ 2 ]
+- 艺人：Mutsuhiko Izumi（泉陸奥彦）。[1][2]
+- 原声（原始作品发布时间）：原曲初代jubeat构想；精确原作首次公开/完整发行日期未载，长版/GFDM重混/追加HOLD分开。[1][2][3]
+- BPM：200。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／10.4。[3]
+- 节点数 BSC／ADV／EXT：247／414／741；HOLD35／46／68。[3]
+- 版本性质：festo2019-02-04至03-04商店100 T-emo，后50复刻，1:41；暂无此次重编音乐证据，不混GFDM ver.。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8375,6 +11123,18 @@ Lincle LINK官网还能核实音乐曾进入跨机种联动。之后的festo[2]�
 - 统一曲库 ID：`arcade:90001012`
 - 原章节编号与标题：230. cloche [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001012" -->
+### 基本信息
+
+- 标题：cloche [ 2 ]
+- 艺人：Qrispy Joybox；MUSCLE普通谱署名不能移作HOLD谱师。[1][2]
+- 原声（原始作品发布时间）：2012原声已有原曲；精确原始公开/完整录音首发未载，coTatsu重混与HOLD另分。[2][3]
+- BPM：182。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD3／6／8。[1]
+- 节点数 BSC／ADV／EXT：182／406／529；HOLD31／34／54。[1]
+- 版本性质：festo2019-02-04至03-04商店100 T-emo，1:54；HOLD非coTatsu重混，谱师未核。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：Qrispy Joybox。[1][2]
@@ -8409,6 +11169,18 @@ Lincle LINK官网还能核实音乐曾进入跨机种联动。之后的festo[2]�
 
 - 统一曲库 ID：`arcade:90001013`
 - 原章节编号与标题：231. I'm so Happy [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001013" -->
+### 基本信息
+
+- 标题：I'm so Happy [ 2 ]
+- 艺人：Ryu☆；女性声部身份未给，不擅署歌手。[1][2][3]
+- 原声（原始作品发布时间）：原曲knit boss曲，精确原作公开/完整首发未载；Extended Mix／Extended RRver.／feat.Lucky Vacuum长版各分列。[2][3]
+- BPM：181。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／10.1。[1]
+- 节点数 BSC／ADV／EXT：243／426／771。[1]
+- 版本性质：festo2019-03-04 10时至04-01 09:59商店200 T-emo，9月100复刻；1:40，编号不自动对应长版或重录。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8445,6 +11217,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001014`
 - 原章节编号与标题：232. Queen's Paradise [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001014" -->
+### 基本信息
+
+- 标题：Queen's Paradise [ 2 ]
+- 艺人：Nanako；旧普通谱肥塚/T田不能署给2019 HOLD。[2][3]
+- 原声（原始作品发布时间）：原曲ripples、原声第5轨已出版；精确原作公开/完整录音首发日期未载。[1][2]
+- BPM：157。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD4／6／9.2。[1]
+- 节点数 BSC／ADV／EXT：289／448／693；不混普通317／408／629。[1]
+- 版本性质：festo2019-03-04 10时至04-01 09:59商店100 T-emo，9月50复刻；1:57，新增HOLD不是新编/重录证据。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Queen's Paradise [ 2 ]
@@ -8478,6 +11262,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001015`
 - 原章节编号与标题：233. Icicles [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001015" -->
+### 基本信息
+
+- 标题：Icicles [ 2 ]
+- 艺人：Jimmy Weckl；GFDM另版96吉他不回填本HOLD。[2][3]
+- 原声（原始作品发布时间）：原作初代，精确原始公开/完整发行日期本条未载；GFDM加吉他与festo追加谱分开。[1][3]
+- BPM：158。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD4／7／9.3。[1]
+- 节点数 BSC／ADV／EXT：211／404／681。[1]
+- 版本性质：festo2019-05-07 10时至06-03 09:59商店200 T-emo、11月100复刻，非初代Class；HOLD人员未核。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8513,6 +11309,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001016`
 - 原章节编号与标题：234. スペースカーニバル [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001016" -->
+### 基本信息
+
+- 标题：スペースカーニバル [ 2 ]
+- 艺人：shooting star；HEAVEN词、泉陸奥彦曲编，不未经核对认同名商业乐队。[2][3]
+- 原声（原始作品发布时间）：原作ripples APPEND，精确最早公开/完整首发日期本条未载；原曲置knit文档只是整理归属。[2][3]
+- BPM：160。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD4／6／9.1。[1]
+- 节点数 BSC／ADV／EXT：289／448／641（jubeat Wiki口径）；原曲两wiki冲突未裁，不称双源一致。[1]
+- 版本性质：festo2019-05-07 10时至06-03 09:59首100 T-emo、11月50复刻；追加谱不套原曲节点，CD1:54非本谱时长实测。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：スペースカーニバル [ 2 ]
@@ -8546,6 +11354,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001017`
 - 原章节编号与标题：235. [E] [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001017" -->
+### 基本信息
+
+- 标题：[E] [ 2 ]
+- 艺人：dj MAX STEROID。[1][2]
+- 原声（原始作品发布时间）：原copious作品，2011-09-28原声CD第12轨；是否最早完整录音发行仍待核，2014现场非首发。[2][3]
+- BPM：152（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／7／9.7（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：339／502／782（旧资料）。[1]
+- 版本性质：festo新增HOLD，2019-06-03至07-01首轮T100；未获新录音公告，不据新增谱认新编曲。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8581,6 +11401,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001018`
 - 原章节编号与标题：236. Sakura Sunrise [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001018" -->
+### 基本信息
+
+- 标题：Sakura Sunrise [ 2 ]
+- 艺人：Ryu☆。[1][2]
+- 原声（原始作品发布时间）：原DDR X2作品，精确原始公开/完整录音首发日未载；2019-03-20 nonstop合辑为后续载体。[1][2][3]
+- BPM：181（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 5／8／9.5（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：258／482／636（旧资料）。[1]
+- 版本性质：festo 2019新增HOLD，06-03至07-01首轮T200；非GITADORA版或DJ KOO混音的同义名。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Sakura Sunrise [ 2 ]
@@ -8614,6 +11446,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001019`
 - 原章节编号与标题：237. ALL MY HEART -この恋に、わたしの全てを賭ける- [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001019" -->
+### 基本信息
+
+- 标题：ALL MY HEART -この恋に、わたしの全てを賭ける- [ 2 ]
+- 艺人：SUPER HEROINE 彩香-AYAKA-。[1][2]
+- 原声（原始作品发布时间）：原knit OST第4轨，CD2010-09-22；2011-02-23 ONLY ONE ACT为后收，原始完整首发仍待核。[2][3]
+- BPM：160（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／7／9.2（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：235／428／702（旧资料）。[1]
+- 版本性质：festo新增HOLD，2019-07-01至08-05首轮T200，与旧普通谱分列。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8649,6 +11493,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001020`
 - 原章节编号与标题：238. 創世ノート [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001020" -->
+### 基本信息
+
+- 标题：創世ノート [ 2 ]
+- 艺人：PON+wac。[1][2][3]
+- 原声（原始作品发布时间）：原BEMANI学园作品，精确原始发行日未载；访谈所述专辑长版重构不能代2019新HOLD录音。[1][2][3]
+- BPM：200（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／8／10.4（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：260／547／765（旧资料）。[1]
+- 版本性质：festo新增HOLD，2019-09-02至10-07首轮T200；普通谱221／465／645与本卡分列。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：創世ノート [ 2 ]
@@ -8682,6 +11538,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001021`
 - 原章节编号与标题：239. Chronos [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001021" -->
+### 基本信息
+
+- 标题：Chronos [ 2 ]
+- 艺人：TAG。[1][2]
+- 原声（原始作品发布时间）：原GFDM V6，2013 saucer OST是后续唱片载体；精确原始完整首发日未载。[1][3]
+- BPM：128（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 5／8／9.7（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：301／484／734（旧资料）。[1]
+- 版本性质：saucer普通谱后festo追加HOLD，2019-08-05至09-02首轮T200；唱片1:58与游戏1:55分开，新谱不径认新音乐。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8717,6 +11585,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001023`
 - 原章节编号与标题：240. Polaris [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001023" -->
+### 基本信息
+
+- 标题：Polaris [ 2 ]
+- 艺人：Mutsuhiko Izumi；2012现场人员不代原录音信用。[1][2][3]
+- 原声（原始作品发布时间）：初代jubeat原作，旧文记2008录音，精确完整首发日待核；2012现场与2019新谱分列。[1][2][3]
+- BPM：180（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／6／9.0（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：204／346／558（旧资料）。[1]
+- 版本性质：festo新增HOLD，2019-09-02至10-07首轮T300；旧长度1:53／1:54冲突保留，不混普通谱。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Polaris [ 2 ]
@@ -8750,6 +11630,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001024`
 - 原章节编号与标题：241. VALLIS-NERIA [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001024" -->
+### 基本信息
+
+- 标题：VALLIS-NERIA [ 2 ]
+- 艺人：DJ YOSHITAKA；后续交响组曲编曲onoken，不倒置本原作署名。[1][2]
+- 原声（原始作品发布时间）：原REFLEC limelight，原始完整首发日未载；2021交响组曲与2022现场不是2019HOLD原声。[1][2][3]
+- BPM：185（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 5／8／10.4（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：381／705／896（旧资料）。[1]
+- 版本性质：festo新增HOLD，2019-12-02至2020-01-06首轮T300；不把后续三曲套曲倒推为原作共同构思。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8785,6 +11677,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001025`
 - 原章节编号与标题：242. Our Faith [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001025" -->
+### 基本信息
+
+- 标题：Our Faith [ 2 ]
+- 艺人：kors k。[1][2]
+- 原声（原始作品发布时间）：原REFLEC colette-Winter，原始完整发行日未载；DOUBLE HELIX的Remix是另一版本。[1][2][3]
+- BPM：175（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／9.2／10.6（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：278／540／739（旧资料）。[1]
+- 版本性质：festo新增HOLD，2019-10-07至11-05首轮T300；不能套后续重混的金属制作目标。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Our Faith [ 2 ]
@@ -8818,6 +11722,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001026`
 - 原章节编号与标题：243. いーあるふぁんくらぶ [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001026" -->
+### 基本信息
+
+- 标题：いーあるふぁんくらぶ [ 2 ]
+- 艺人：みきとP；原声GUMI、鏡音リン，不套其他翻唱。[1]
+- 原声（原始作品发布时间）：原始作品公开/完整发行日期未载，2017/2021采访年份不代首发。[2][3]
+- BPM：145（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 2／6／8（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：159／361／501（旧资料）。[1]
+- 版本性质：festo新增HOLD，GIRLS NIGHT PHASE LINE1；精确初配日待核，普通街机/plus谱分列。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8853,6 +11769,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001027`
 - 原章节编号与标题：244. Scarlet Moon [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001027" -->
+### 基本信息
+
+- 标题：Scarlet Moon [ 2 ]
+- 艺人：REDALiCE feat. Ayumi Nomiya。[1][2]
+- 原声（原始作品发布时间）：《亡き王女の為のセプテット》东方改编，2015-07-01合辑第4轨为已载出版；原旋律及改编最早完整发行待核。[2][3]
+- BPM：180（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／7／9.5（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：246／504／765（旧资料）。[1]
+- 版本性质：festo新增HOLD，GIRLS NIGHT PHASE LINE3，精确初配日待核；不能以新谱认另一首改编。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Scarlet Moon [ 2 ]
@@ -8886,6 +11814,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001029`
 - 原章节编号与标题：245. 眼光 [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001029" -->
+### 基本信息
+
+- 标题：眼光 [ 2 ]
+- 艺人：猫大樹。[1][2][3]
+- 原声（原始作品发布时间）：《信仰は儚き人間の為に》改编，NH-STYLE2第3轨声乐、第9轨带引导旋律器乐；精确原始发行日未载。[2]
+- BPM：165（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 2／7／9.1（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：134／399／592（旧资料）。[1]
+- 版本性质：festo新增HOLD，BURNING UP PHASE LINE2；[2]不等于唱片器乐版，后作分表不证新增录音人员。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8921,6 +11861,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001030`
 - 原章节编号与标题：246. 情熱大陸 [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001030" -->
+### 基本信息
+
+- 标题：情熱大陸 [ 2 ]
+- 艺人：原作葉加瀬太郎；官方游戏艺人“-”，游戏演奏者及母带待核。[1]
+- 原声（原始作品发布时间）：原节目音乐与2021重录分开，精确原始完整发行日未载；2026是创作回顾报道非作曲年代。[2][3]
+- BPM：128仅检索摘要，未核。
+- 谱面难度 BSC／ADV／EXT：HOLD 4／8／9.5。[1]
+- 节点数 BSC／ADV／EXT：193／489／830仅检索摘要，未核。
+- 版本性质：保留festo新增HOLD；后作官方两谱分表，BURNING UP阶段3仅摘要未核，不据此认初配日。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：情熱大陸 [ 2 ]
@@ -8955,6 +11907,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001031`
 - 原章节编号与标题：247. HOT LIMIT [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001031" -->
+### 基本信息
+
+- 标题：HOT LIMIT [ 2 ]
+- 艺人：表记(HIGH and MIGHTY COLOR)，游戏再次翻唱演唱者待核；原词井上秋緒、曲浅倉大介。[1]
+- 原声（原始作品发布时间）：T.M.Revolution原作精确发行日未载；2008-06-25是HIGH and MIGHTY COLOR商业翻唱，不代游戏翻唱母带。[1][2][3]
+- BPM：139（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／6／8（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：170／385／547（旧资料）。[1]
+- 版本性质：festo 2021-06-30至07-27 BURNING UP PHASE LINE1追加HOLD，普通谱原ripples；未获重录证据也不能排除母带变化。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -8994,6 +11958,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001032`
 - 原章节编号与标题：248. LANA - キロクノカケラ - [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001032" -->
+### 基本信息
+
+- 标题：LANA - キロクノカケラ - [ 2 ]
+- 艺人：TOMOSUKE×Jazzin’park；原唱村上来渚。[1][2][3]
+- 原声（原始作品发布时间）：LANA六个月连续配信项目原歌，精确原始公开/完整录音发行日未载。[2]
+- BPM：84–168（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 2／5／7（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：91／322／485（旧资料）。[1]
+- 版本性质：festo新增HOLD，FEEL SORROW PHASE LINE1，普通saucer分列；[2]本身不证Remix或2021重录。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：TOMOSUKE×Jazzin’park；原唱：村上来渚
@@ -9031,6 +12007,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 - 统一曲库 ID：`arcade:90001033`
 - 原章节编号与标题：249. ロストワンの号哭 [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001033" -->
+### 基本信息
+
+- 标题：ロストワンの号哭 [ 2 ]
+- 艺人：Neru原词曲；鏡音リン原声，不套松下翻唱。[1]
+- 原声（原始作品发布时间）：2013《世界征服》新写三曲之一，精确原始首发日未载；2015/2021/2025后续重混节目改编新录分开。[2][3]
+- BPM：162（旧资料）。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／8／9.5（旧资料）。[1]
+- 节点数 BSC／ADV／EXT：372／672／984（旧资料）。[1]
+- 版本性质：festo FEEL SORROW PHASE LINE2追加HOLD；普通saucer与plus独立参数，不能凭2021同年认NHK版入游戏。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家/原词曲：Neru；原声：鏡音リン
@@ -9066,6 +12054,18 @@ Ryu☆的官方说明把原曲定位为knit的boss曲，以女性声部为核心
 
 - 统一曲库 ID：`arcade:90001034`
 - 原章节编号与标题：250. 取り残された美術(Arranged:HiZuMi) [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001034" -->
+### 基本信息
+
+- 标题：取り残された美術(Arranged:HiZuMi) [ 2 ]
+- 艺人：幽閉サテライト feat. senya；Arranged:HiZuMi限定。[1]
+- 原声（原始作品发布时间）：原旋律《遠野幻想物語》；本改编2015-04-30联动配信、07-01合辑第6轨，原旋律首次发行及唱片/游戏录音关系待核。[1][2]
+- BPM：160（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 4／7／9.3（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：318／499／744（旧资料）。[3]
+- 版本性质：festo 2021-10-13 FEEL SORROW PHASE LINE3新增HOLD，普通prop；未得2021重编重录证据不猜。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9104,6 +12104,18 @@ festo已确认新增HOLD谱；尚未取得2021年重编或重新录音的证据�
 
 - 统一曲库 ID：`arcade:90001035`
 - 原章节编号与标题：251. Lava Flow [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001035" -->
+### 基本信息
+
+- 标题：Lava Flow [ 2 ]
+- 艺人：BEMANI Sound Team "S-C-U & SYUNN"；两人具体作曲分工待核。[1][2][3]
+- 原声（原始作品发布时间）：2021-04-07普通与HOLD同日游戏公开；2026配信1:38为后续载体，原始完整录音首次发行仍待核。[3][4]
+- BPM：190（旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／7／10.2（旧资料）。[3]
+- 节点数 BSC／ADV／EXT：241／383／683（旧资料）。[3]
+- 版本性质：festo玩家参与企划完成曲；首轮2021-04-07至06-29普通1章/HOLD20章，本卡HOLD不作隔年重混。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9148,6 +12160,18 @@ festo已确认新增HOLD谱；尚未取得2021年重编或重新录音的证据�
 - 统一曲库 ID：`arcade:60000029`
 - 原章节编号与标题：252. I miss you baby / Wizard
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:60000029" -->
+### 基本信息
+
+- 标题：I miss you baby / Wizard
+- 艺人：加藤浩義；KONAMI负责jubeat混合切换，人声素材与演唱者待核。[1][2][3]
+- 原声（原始作品发布时间）：《消滅都市》两段原作与混合剪辑分开，精确原始完整发行日期未载；不以同名OST认同一母带。[1][2][3]
+- BPM：待核。
+- 谱面难度 BSC／ADV／EXT：待核。
+- 节点数 BSC／ADV／EXT：待核。
+- 版本性质：总表festo保留历史冲突；2015年2月plus已先行，街机prop 2015-03-05 10:00，不写festo首出。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：加藤浩義
@@ -9186,6 +12210,18 @@ jubeat 里的斜线标题不是两位作者或歌手署名，而是混合编排�
 
 - 统一曲库 ID：`arcade:60000030`
 - 原章节编号与标题：253. You and Me / Punk
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:60000030" -->
+### 基本信息
+
+- 标题：You and Me / Punk
+- 艺人：加藤浩義；KONAMI负责jubeat普通战斗/Boss混合切换。[1][2]
+- 原声（原始作品发布时间）：原声vol.2两首分列2/3轨另有Extended Mix，精确原曲/混合版完整首发日未载，不据同名认同母带。[2][4]
+- BPM：待核。
+- 谱面难度 BSC／ADV／EXT：待核。
+- 节点数 BSC／ADV／EXT：待核。
+- 版本性质：总表festo保留冲突；2015年2月plus先行、prop 03-05 10:00开放，不写festo初出。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9226,6 +12262,18 @@ jubeat 里的斜线标题不是两位作者或歌手署名，而是混合编排�
 - 统一曲库 ID：`arcade:60000031`
 - 原章节编号与标题：254. Stay with Me
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:60000031" -->
+### 基本信息
+
+- 标题：Stay with Me
+- 艺人：加藤浩義作曲；SAK.作品层面词/唱，未认定本条jubeat母带演唱全信用。[3][6]
+- 原声（原始作品发布时间）：原《消滅都市》第5章；2015-11-25 CD重制母带并调整展开，非据此认原始游戏完整首发日；Arrange Version另列。[1][2][5]
+- BPM：待核。
+- 谱面难度 BSC／ADV／EXT：待核。
+- 节点数 BSC／ADV／EXT：待核。
+- 版本性质：总表festo保留，历史prop 2015-03-05；兑换结束不当删曲日，游戏录音与参数待核。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：加藤浩義
@@ -9263,6 +12311,18 @@ SAK.参与属作品层面；jubeat录音版本、歌词及人声来源待明确�
 - 统一曲库 ID：`arcade:60000032`
 - 原章节编号与标题：255. Reflection
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:60000032" -->
+### 基本信息
+
+- 标题：Reflection
+- 艺人：加藤浩義作曲，具体演奏者待核，后续音乐会名单不反推录音。[2][3][4]
+- 原声（原始作品发布时间）：原《消滅都市》第5章，2015-11-25 CD重制并加结尾；关卡循环/CD/jubeat剪辑分开，原始完整首发日待核。[1][2][4]
+- BPM：待核。
+- 谱面难度 BSC／ADV／EXT：待核。
+- 节点数 BSC／ADV／EXT：待核。
+- 版本性质：总表festo保留，历史prop 2015-03-05 10:00；不是festo首次出现，参数待核。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家／作曲：加藤浩義
@@ -9297,6 +12357,18 @@ SAK.参与属作品层面；jubeat录音版本、歌词及人声来源待明确�
 
 - 统一曲库 ID：`arcade:70000124`
 - 原章节编号与标题：256. ペンパイナッポーアッポーペン
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:70000124" -->
+### 基本信息
+
+- 标题：ペンパイナッポーアッポーペン
+- 艺人：ピコ太郎（古坂大魔王表演角色）；古坂制作。[1][2]
+- 原声（原始作品发布时间）：原作约45秒，2016-08-25网络上传；2011旧现场不能径认与2016录音为同一母带，独立商业发行日仍待核。[1][2]
+- BPM：136（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／6／8（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：92／137／227（旧资料）。[4]
+- 版本性质：总表festo保留，历史Qubell 2016-10-25追加，全HOLD；2019社区参数不认现行，短曲不据此认游戏删主歌。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9336,6 +12408,18 @@ KONAMI于2016-10-25宣布歌曲进入Qubell。社区历史表记录约45秒、�
 - 统一曲库 ID：`arcade:70000154`
 - 原章节编号与标题：257. Bonjour, The World!!
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:70000154" -->
+### 基本信息
+
+- 标题：Bonjour, The World!!
+- 艺人：中島由貴演唱；Akhuta词、S-C-U曲、dj TAKA编，不把现场同台者全认录音伴唱。[1][2][3]
+- 原声（原始作品发布时间）：2016-12-22企划阵容公告，2017-02-09完成曲游戏公开；原始完整录音发行日未载，后现场不代首发。[1][2][3]
+- BPM：158（旧资料）。[5]
+- 谱面难度 BSC／ADV／EXT：3／7／9.0（旧资料）。[5]
+- 节点数 BSC／ADV／EXT：273／507／708（旧资料）。[5]
+- 版本性质：总表festo保留，历史Qubell 2017-02-09；事务所clan标签不覆盖初出，社区小数等级不当Qubell原等级。[2][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：中島由貴 feat. dj TAKA with S-C-U meets Akhuta
@@ -9371,6 +12455,18 @@ KONAMI于2016-10-25宣布歌曲进入Qubell。社区历史表记录约45秒、�
 
 - 统一曲库 ID：`arcade:90000102`
 - 原章节编号与标题：258. ビター・エスケープ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000102" -->
+### 基本信息
+
+- 标题：ビター・エスケープ
+- 艺人：やぎぬまかな词曲编唱；qurosawa吉他为访谈关联说明，不认全部录音名单。[1][2]
+- 原声（原始作品发布时间）：2018-04-12预告片、07-09完整片头主题公开分列；不混后角色演唱版，独立完整录音发行日未核。[3][4]
+- BPM：152（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／8（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：288／559／745（旧资料）。[4]
+- 版本性质：festo 2019-07-01至08-05 T-emo首轮，原故事片头委托先于jubeat，后再上架不代初次。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9408,6 +12504,18 @@ festo归属与社区历史记录一致：2019-07-01至8月5日的T-emo STORE首�
 - 统一曲库 ID：`arcade:90000103`
 - 原章节编号与标题：259. シンクロフィッシュ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000103" -->
+### 基本信息
+
+- 标题：シンクロフィッシュ
+- 艺人：Blanc Bunny Bandit；栗花落夜風（楠木ともり）个人演唱，やぎぬまかな词曲，不认四人共同主唱。[1][2][4]
+- 原声（原始作品发布时间）：官方目录单曲日期2018-10-24，非2019游戏商店首创；录音完整人员仍待核。[3][4]
+- BPM：182（旧资料）。[4]
+- 谱面难度 BSC／ADV／EXT：2／5／8（旧资料）。[4]
+- 节点数 BSC／ADV／EXT：194／402／666（旧资料）。[4]
+- 版本性质：festo 2019-08-05 10:00至09-02 09:59 T-emo首轮；不借ROOM的和弦、录音技术填本曲。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：Blanc Bunny Bandit
@@ -9444,6 +12552,18 @@ festo归属与社区历史记录一致：2019-07-01至8月5日的T-emo STORE首�
 
 - 统一曲库 ID：`arcade:90000134`
 - 原章节编号与标题：260. Ghost Clock
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000134" -->
+### 基本信息
+
+- 标题：Ghost Clock
+- 艺人：BEMANI Sound Team "Yvya"。[1][3]
+- 原声（原始作品发布时间）：社区本曲与官方活动对照为2022-01-19游戏追加；2026-10-07配信1:55是后续原声，完整原始首发日未核。[2][3][4][5]
+- BPM：190（社区旧资料）。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD 5／8／10.5。[1][3]
+- 节点数 BSC／ADV／EXT：BSC 425／351冲突待核；ADV 657；EXT 885。[3][4]
+- 版本性质：festo第3回PJ MATCH个人400fav，后Ave收录不改初出；BSC425/351及游戏1:53/配信1:55区别保留，不据活动主题猜创作动机。[1][2][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9483,6 +12603,18 @@ BASIC Notes冲突明示保留，不凭多数来源裁定；游戏与配信时长
 - 统一曲库 ID：`arcade:90000153`
 - 原章节编号与标题：261. Brawl
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000153" -->
+### 基本信息
+
+- 标题：Brawl
+- 艺人：東京アクティブNEETs；完整制作人员待核，不用成员表填录音乐手。[1][5]
+- 原声（原始作品发布时间）：2021春季地图作品，05-06只是统计新曲支持；精确首公开/完整原录音首发未核，2026原声1:59是后载。[1][3][4]
+- BPM：待核；原表未取得。
+- 谱面难度 BSC／ADV／EXT：4／6／9.6（Ave官方口径，不倒填festo历史等级）。[2]
+- 节点数 BSC／ADV／EXT：待核；原表未取得。
+- 版本性质：本地festo、ウキウキスプリングメドレー！限时地图；后Ave/beyond题名OST不改历史创作时期，游戏长度不据后1:59定。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：東京アクティブNEETs [1]
@@ -9519,6 +12651,18 @@ BPM、Note数量仍待可靠可读曲表；atwiki原页访问403，搜索摘要�
 
 - 统一曲库 ID：`arcade:90000155`
 - 原章节编号与标题：262. 太陽の滴
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000155" -->
+### 基本信息
+
+- 标题：太陽の滴
+- 艺人：CANVAS feat. Quimär；CANVAS为uno/RoughSketch名义，Quimär分工未证，不凭feat.定歌手。[2][6]
+- 原声（原始作品发布时间）：原手机先行但首配信日待核；2024-04-28《CRYSTAL BREATH》CNVS-003第五轨是Extended Mix，2026原声1:58后载，不代原录音首发。[1][3][6]
+- BPM：160（社区）。[4]
+- 谱面难度 BSC／ADV／EXT：BSC／ADV待核；EXT9.7（社区）。[4]
+- 节点数 BSC／ADV／EXT：BSC／ADV待核；EXT823（社区）。[4]
+- 版本性质：festo2022春从应用版经Stamp Challenge移植；04-13统计支持非原公告，游戏长度/原版完整署名待核。[1][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9560,6 +12704,18 @@ CANVAS并非与RoughSketch毫无关系的新作者：IOSYS官方履历把CANVAS�
 - 统一曲库 ID：`arcade:90000170`
 - 原章节编号与标题：263. 変じゃない!!
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000170" -->
+### 基本信息
+
+- 标题：変じゃない!!
+- 艺人：good-cool ft. すわひでお；CD feat.与ft.为同合作署名，不新认翻唱者。[1][3]
+- 原声（原始作品发布时间）：2016年4月官方Qubell/dig dig档案已有本曲；2017-01-11 GFCA-428第6轨后OST，精确最早公开及完整原录音首发待核。[1][3]
+- BPM：本ID待核；引用区旧曲页记116，不套未核技术对应。[2]
+- 谱面难度 BSC／ADV／EXT：本ID待核，不套另一ID参数。[2]
+- 节点数 BSC／ADV／EXT：本ID待核，不套另一ID参数。[2]
+- 版本性质：保留90000170本地festo与历史Qubell；70000003同名同署名另ID不合并，不据ID变动认重录/替换谱。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：good-cool ft. すわひでお
@@ -9597,6 +12753,18 @@ CANVAS并非与RoughSketch毫无关系的新作者：IOSYS官方履历把CANVAS�
 
 - 统一曲库 ID：`arcade:90000172`
 - 原章节编号与标题：264. MATATABISTEP
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000172" -->
+### 基本信息
+
+- 标题：MATATABISTEP
+- 艺人：パスピエ；大胡田なつき词、成田ハネダ曲。[4]
+- 原声（原始作品发布时间）：2014-03-26《MATATABISTEP／あの青と青と青》双A面单曲；原商业发表早于游戏。[3]
+- BPM：待核，本条未载可靠BPM。
+- 谱面难度 BSC／ADV／EXT：本ID全难度待核；社区prop旧BSC2仅历史参考不覆盖90000172。[5]
+- 节点数 BSC／ADV／EXT：本ID待核，未载节点数。
+- 版本性质：本地festo原主键保留，历史prop与本ID技术关系待核；具体游戏剪辑/首日未核，不移用他ID或零散日期。[5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9638,6 +12806,18 @@ HMV采访403；NeoL中篇普通HTTP403停止；Meetia超时及503未采纳。Neo
 - 统一曲库 ID：`arcade:90000180`
 - 原章节编号与标题：265. Lava Flow
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000180" -->
+### 基本信息
+
+- 标题：Lava Flow
+- 艺人：BEMANI Sound Team "S-C-U & SYUNN"；具体曲编分工待本人材料。[1]
+- 原声（原始作品发布时间）：社区2021-04-07普通与HOLD同时游戏发表；完整原始录音首发未载，2026原声1:38是后出版。[3][4]
+- BPM：190（社区）。[3]
+- 谱面难度 BSC／ADV／EXT：普通3／7／10.1。[3]
+- 节点数 BSC／ADV／EXT：普通196／375／637。[3]
+- 版本性质：本地festo90000180只普通；另[2]3/7/10.2、241/383/683不覆盖；首期普通1章/HOLD20章，玩法差异非另录音。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：BEMANI Sound Team "S-C-U & SYUNN"
@@ -9676,6 +12856,18 @@ festo归属保留，普通版90000180单独记载；[2]仅作关联背景，不�
 - 统一曲库 ID：`arcade:90000196`
 - 原章节编号与标题：266. Aftermath
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000196" -->
+### 基本信息
+
+- 标题：Aftermath
+- 艺人：BEMANI Sound Team "猫叉Master & あさき & Yvya"；猫叉曲/钢琴、あさき编/词/唱/贝斯、Yvya吉他仅社区，完整原内页待核。[1][2]
+- 原声（原始作品发布时间）：官方2021-12-10公开TEAM BLUE曲目；社区12-13 GITADORA最早游戏、12-16 jubeat分事件；完整原录音首次发行待核。[1][2][4]
+- BPM：200（社区）。[2]
+- 谱面难度 BSC／ADV／EXT：HOLD4／8／10.2。[2]
+- 节点数 BSC／ADV／EXT：327／596／887。[2]
+- 版本性质：festo跨机种BLUE奖励曲，无需活动网页解锁；jubeat社区2021-12-16、2:13，不套别机种BPM/钢琴编曲，六亿原因仅社区。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺术家：BEMANI Sound Team "猫叉Master & あさき & Yvya"
@@ -9713,6 +12905,18 @@ RemyWiki把最早游戏出现放在2021-12-13 GITADORA，jubeat则为12月16日�
 
 - 统一曲库 ID：`arcade:90000216`
 - 原章节编号与标题：267. Fly Above
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000216" -->
+### 基本信息
+
+- 标题：Fly Above
+- 艺人：Sota Fujimori作曲；AiMEE词/唱由Sota后曲官方追述确认。[1][2]
+- 原声（原始作品发布时间）：2008年原作、IIDX16；同期资料记《SYNTHESIZED》8月29日发行，Album Extended与后续重混/钢琴分列，精确原始录音首发仍待核。[1][3][5]
+- BPM：150（社区）。[4]
+- 谱面难度 BSC／ADV／EXT：3／6／9.3。[4]
+- 节点数 BSC／ADV／EXT：307／491／824。[4]
+- 版本性质：本地festo原ID保持；历史手机2022-01-06、AC Ave2022-10-19至11-08 FROM IIDX-01 LIGHT CHAT；原录音时长未核，后曲情歌解释不倒套。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9753,6 +12957,18 @@ SYNTHESIZED 4采访的ES2音色、母带流程谈的是2012年专辑，不作为
 
 - 统一曲库 ID：`arcade:90000240`
 - 原章节编号与标题：268. メランコリック
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000240" -->
+### 基本信息
+
+- 标题：メランコリック
+- 艺人：Junky词曲编；鏡音リン歌唱音源，ちほP原PV为社区署名。[3]
+- 原声（原始作品发布时间）：评论记2010年4月原作投稿，原视频未可读；不以2012 YouTube代首发，精确日期/完整录音发行待核。[2][3]
+- BPM：140（beyond旧曲表）。[6]
+- 谱面难度 BSC／ADV／EXT：3／6／8（beyond旧曲表）。[6]
+- 节点数 BSC／ADV／EXT：151／364／686（beyond旧曲表）。[6]
+- 版本性质：festo AC2022-02-17追加，plus先行但首日及两版谱一致性未核；2014小说与2023他曲采访不当原作录音细节。[1][4][5][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9797,6 +13013,18 @@ SYNTHESIZED 4采访的ES2音色、母带流程谈的是2012年专辑，不作为
 - 统一曲库 ID：`arcade:90000248`
 - 原章节编号与标题：269. 「Sweet Love」
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000248" -->
+### 基本信息
+
+- 标题：「Sweet Love」
+- 艺人：总表署ときめきメモリアル Girl's Side 4th Heart；原唱大多和孝治，柳澤奈緒樹词曲、佐々木聡作编曲，游戏名非歌手。[1][2][3]
+- 原声（原始作品发布时间）：2022-02-16原声专辑含Game ver/Full ver/音乐盒版；不当游戏本体发行日，原作最早公开及jubeat音源同一性未核。[1]
+- BPM：135。[3]
+- 谱面难度 BSC／ADV／EXT：2／5／7.0。[3]
+- 节点数 BSC／ADV／EXT：165／305／427。[3]
+- 版本性质：festo APP社区2022-02-16、AC官方02-17追加；长度及是否OST Game ver同录音待核。[3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ときめきメモリアル Girl's Side 4th Heart [3]
@@ -9835,6 +13063,18 @@ SYNTHESIZED 4采访的ES2音色、母带流程谈的是2012年专辑，不作为
 - 统一曲库 ID：`arcade:90000252`
 - 原章节编号与标题：270. Globe Glitter
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000252" -->
+### 基本信息
+
+- 标题：Globe Glitter
+- 艺人：Sana,ATSUMI UEDA by BEMANI Sound Team "PON"；双歌手与制作署名不外推详细录音分工。[1][2]
+- 原声（原始作品发布时间）：原2021歌合战2021-08-19副将战，完整原始录音发行日未载；非festo首次创作。[1][3]
+- BPM：190（来源所记IIDX曲风资料）。[2]
+- 谱面难度 BSC／ADV／EXT：待核。
+- 节点数 BSC／ADV／EXT：待核。
+- 版本性质：总表festo保留；社区2022-06-29活动起、另7月6日线索，精确本曲开放待核，不拿整期起日代单曲解锁。[2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Sana,ATSUMI UEDA by BEMANI Sound Team "PON" [1]
@@ -9870,6 +13110,18 @@ SYNTHESIZED 4采访的ES2音色、母带流程谈的是2012年专辑，不作为
 
 - 统一曲库 ID：`arcade:90000254`
 - 原章节编号与标题：271. ピアノ独奏無言歌 "灰燼"
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000254" -->
+### 基本信息
+
+- 标题：ピアノ独奏無言歌 "灰燼"
+- 艺人：BEMANI Sound Team "Virkato Wakhmaninov"；wac对应仅社区，Keiko为首演钢琴独奏，不据此认游戏录音演奏者。[1][2][3]
+- 原声（原始作品发布时间）：2022-06-12日场Keiko钢琴独奏世界初演；非管弦首演，游戏录音是否同现场及完整音源首发待核。[2][3]
+- BPM：100–200。[3]
+- 谱面难度 BSC／ADV／EXT：5／8／10.7。[3]
+- 节点数 BSC／ADV／EXT：408／659／1109。[3]
+- 版本性质：festo官方2022-06-13 Afterglow of symphony地图；长度待核，后辈旧数码琴写作帖仅二级转录，未核型号或共同署名。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -9911,6 +13163,18 @@ SYNTHESIZED 4采访的ES2音色、母带流程谈的是2012年专辑，不作为
 - 统一曲库 ID：`arcade:90001022`
 - 原章节编号与标题：272. Daily Lunch Special [ 2 ]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001022" -->
+### 基本信息
+
+- 标题：Daily Lunch Special [ 2 ]
+- 艺人：Lucky Vacuum作编曲；DJ YOSHITAKA对应仅社区。[1][2]
+- 原声（原始作品发布时间）：原REFLEC colette，2012 jubeat普通谱与2023 HOLD分列；精确原作公开/完整录音首发日未载，CD2:11不代游戏长度。[1][2]
+- BPM：205。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD 5／7／10.4。[1]
+- 节点数 BSC／ADV／EXT：303／493／943。[1]
+- 版本性质：保留festo归档冲突；社区[2]为Ave.2023-02-08 STAR RECORD，待官方二读；非据[2]认新混音，不借tpz独立改编动机。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Lucky Vacuum
@@ -9946,6 +13210,18 @@ SYNTHESIZED 4采访的ES2音色、母带流程谈的是2012年专辑，不作为
 
 - 统一曲库 ID：`arcade:90001028`
 - 原章节编号与标题：273. ETERNAL BLAZE [ 2 ]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90001028" -->
+### 基本信息
+
+- 标题：ETERNAL BLAZE [ 2 ]
+- 艺人：表记(水樹奈々)；原唱及词水樹奈々、曲编上松範康；游戏翻唱歌手/团队待核。[1][4]
+- 原声（原始作品发布时间）：原作单曲2005-10-19发行，动画A’s片头；原唱制作回顾与游戏翻唱录音过程分开。[1][2][3][4]
+- BPM：105–155。[4]
+- 谱面难度 BSC／ADV／EXT：HOLD 3／6／8。[4]
+- 节点数 BSC／ADV／EXT：209／372／471。[4]
+- 版本性质：festo翻唱音源追加HOLD，普通saucer；GIRLS NIGHT PHASE LINE2，精确追加日待核，游戏长度1:49。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 

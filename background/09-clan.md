@@ -35,6 +35,18 @@
 - 统一曲库 ID：`arcade:80000003`
 - 原章节编号与标题：1. トキメキメカニクス
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000003" -->
+### 基本信息
+
+- 标题：トキメキメカニクス
+- 艺人：ARM × 狐夢想 feat. nomico；社区分工ARM作编曲、狐夢想词、nomico唱。[1][2]
+- 原声（原始作品发布时间）：2017年8月官方目录已介绍游戏原创；完整录音首发待核，8月3日活动开始不等于可立即取得七天奖励。[2][3]
+- BPM：175。[2]
+- 谱面难度 BSC／ADV／EXT：clan 3／7／10；现10.0不回填。[2]
+- 节点数 BSC／ADV／EXT：235／470／746。[2]
+- 版本性质：clan原创歌唱曲；夏季活动七天奖励，非12月21日稼动首发。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ARM × 狐夢想 feat. nomico
@@ -77,6 +89,18 @@ IOSYS的ARM官方履历将本曲列为其jubeat提供作品，社区曲目档则
 - 统一曲库 ID：`arcade:80000007`
 - 原章节编号与标题：2. Blue Sky
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000007" -->
+### 基本信息
+
+- 标题：Blue Sky
+- 艺人：Sota F.；细分制作信用未核。[1]
+- 原声（原始作品发布时间）：2017年7月clan初期SHOP新曲；2018-02-14原声CD第9轨为后续载体，不足证明长版或新混音；完整录音最早首发待核。[1][3]
+- BPM：142。[2][4]
+- 谱面难度 BSC／ADV／EXT：clan 4／8／10；后期4／8／10.2。[2][4]
+- 节点数 BSC／ADV／EXT：320／702／799。[2]
+- 版本性质：clan初期原创非DDR旧作移植；PACKAGE03，Cyanttle主题为社区记载。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：Sota F.
@@ -116,6 +140,18 @@ Cyanttle主题曲为已读社区记载，尚待原始委约材料核准；原始
 
 - 统一曲库 ID：`arcade:80000008`
 - 原章节编号与标题：3. レゾンデートル、前線より
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000008" -->
+### 基本信息
+
+- 标题：レゾンデートル、前線より
+- 艺人：中島由貴演唱；Akhuta词曲为社区信用。[1][2]
+- 原声（原始作品发布时间）：2017年7月SHOP新曲；2018-02-14 CD第8轨原题、第20轨Long.ver分列，不将后期长版作游戏初出或最早完整录音首发。[3][4][5]
+- BPM：207。[2]
+- 谱面难度 BSC／ADV／EXT：历史3／7／9；现4／7／9.0异文，调整时间/错录未核。[2][6]
+- 节点数 BSC／ADV／EXT：209／419／680。[2]
+- 版本性质：clan初期PACKAGE01、仅HOLD；歌手亦担任系统语音，Be a Hero!感想不能套本曲。[1][2][5][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -163,6 +199,18 @@ Cyanttle主题曲为已读社区记载，尚待原始委约材料核准；原始
 - 统一曲库 ID：`arcade:80000009`
 - 原章节编号与标题：4. Wandering Gravity
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000009" -->
+### 基本信息
+
+- 标题：Wandering Gravity
+- 艺人：Nazzo-Non-Heat；真实身份不据猜测定案。[1][4]
+- 原声（原始作品发布时间）：2017年7月SHOP新曲；2018-02-14原声CD第11轨为后续载体，最早完整录音发行待核。[1][4]
+- BPM：170。[3][5]
+- 谱面难度 BSC／ADV／EXT：clan 4／8／10；现EXT10.4。[3][5]
+- 节点数 BSC／ADV／EXT：327／704／888。[3]
+- 版本性质：PACKAGE03；Plumpark主题为社区定位，与Qubellic Prism同名义不证明旋律续作。[1][2][3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：Nazzo-Non-Heat
@@ -204,6 +252,18 @@ Cyanttle主题曲为已读社区记载，尚待原始委约材料核准；原始
 - 统一曲库 ID：`arcade:80000010`
 - 原章节编号与标题：5. Passion
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000010" -->
+### 基本信息
+
+- 标题：Passion
+- 艺人：KAN TAKAHIKO。[1]
+- 原声（原始作品发布时间）：2017年7月clan初期新曲；2018-02-14原声CD第10轨为后续发行，最早完整录音日期待核。[1][4]
+- BPM：105–120。[2][3]
+- 谱面难度 BSC／ADV／EXT：clan 3／8／10；后期5／8／9.7。[2][3]
+- 节点数 BSC／ADV／EXT：281／573／808。[3]
+- 版本性质：clan原创PACKAGE03，非KUMIKO同名GF/DM曲；Greenesia主题为社区记载。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：KAN TAKAHIKO[1]
@@ -243,6 +303,18 @@ Cyanttle主题曲为已读社区记载，尚待原始委约材料核准；原始
 
 - 统一曲库 ID：`arcade:80000013`
 - 原章节编号与标题：6. 星を飛び越えて
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000013" -->
+### 基本信息
+
+- 标题：星を飛び越えて
+- 艺人：Liz Triangle；lily-an唱、青時词、kaztora编曲为社区转录。[2]
+- 原声（原始作品发布时间）：ZUN原曲G Free记2006年创作、原集第7轨；本改编载于ヒミツパビリオン，原曲与本版精确首次发行日期仍待核。[1][2]
+- BPM：167；旧160不沿用。[3][4]
+- 谱面难度 BSC／ADV／EXT：clan HOLD 2／6／8。[3][4]
+- 节点数 BSC／ADV／EXT：112／270／431。[3][4]
+- 版本性质：东方G Free歌唱改编，非同集第8轨大空魔術；社区2017-08-03追加，仅HOLD。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -284,6 +356,18 @@ Cyanttle主题曲为已读社区记载，尚待原始委约材料核准；原始
 - 统一曲库 ID：`arcade:80000014`
 - 原章节编号与标题：7. Paranoia
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000014" -->
+### 基本信息
+
+- 标题：Paranoia
+- 艺人：DiGiTAL WiNG feat. 花たん；FN2编曲、sumijun词。[1]
+- 原声（原始作品发布时间）：RAVER’S NEST 1原版与DJ katsu CLUB EDIT分列；2025-12-31为复刻非诞生日期，原始作品/本改编首发日期待核。[1]
+- BPM：150。[4][5]
+- 谱面难度 BSC／ADV／EXT：clan 4／8／9；现9.0另列。[4][5]
+- 节点数 BSC／ADV／EXT：389／733／965。[4]
+- 版本性质：ハルトマンの妖怪少女改编，社区2017-08-03入clan；后续空音/ふうか及SDVX GAME REMIX不倒填jubeat母带。[1][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：DiGiTAL WiNG feat. 花たん；编曲FN2，作词sumijun[1]
@@ -324,6 +408,18 @@ jubeat剪辑不由后续SDVX或其他歌手版本反推；2025年复刻不是初
 
 - 统一曲库 ID：`arcade:80000015`
 - 原章节编号与标题：8. 超人ひじりのエアマッソー
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000015" -->
+### 基本信息
+
+- 标题：超人ひじりのエアマッソー
+- 艺人：IOSYS feat. ビートまりお；ARM编曲、七条レタス词，歌手不兼作词曲署名。[1]
+- 原声（原始作品发布时间）：本改编2011-08-13专辑東方プレシャス流星少女第2轨；原曲感情の摩天楼最初发行日期未落实。2017合集仅确认再收录，不断言新唱母带。[1][3]
+- BPM：210。[4][5]
+- 谱面难度 BSC／ADV／EXT：clan HOLD 4／7／9；后期4／7／9.3。[4][5]
+- 节点数 BSC／ADV／EXT：178／367／607。[4][5]
+- 版本性质：东方改编；社区2017-08-03入clan仅HOLD，2017合集整体重录说明不能套定本曲或游戏母带。[1][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -368,6 +464,18 @@ jubeat端记录为HOLD专用谱面，210 BPM。它的游戏版本归属与2011�
 - 统一曲库 ID：`arcade:80000016`
 - 原章节编号与标题：9. ガヴリールドロップキック
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000016" -->
+### 基本信息
+
+- 标题：ガヴリールドロップキック
+- 艺人：富田美憂／大西沙織／大空直美／花澤香菜饰四角色演唱；前山田健一词曲编。[1]
+- 原声（原始作品发布时间）：2017-02-22单曲ZMCZ-10930发行，动画OP原作而非游戏首发日。[1][3][4]
+- BPM：168。[4]
+- 谱面难度 BSC／ADV／EXT：clan 3／7／9。[4]
+- 节点数 BSC／ADV／EXT：208／365／537。[4]
+- 版本性质：ガヴリールドロップアウト角色合唱OP；clan初期已可玩，游戏长度未核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 歌唱：ガヴリール（富田美憂）、ヴィーネ（大西沙織）、サターニャ（大空直美）、ラフィエル（花澤香菜）[1]
@@ -407,6 +515,18 @@ jubeat端记录为HOLD专用谱面，210 BPM。它的游戏版本归属与2011�
 
 - 统一曲库 ID：`arcade:80000017`
 - 原章节编号与标题：10. Morning Glory
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000017" -->
+### 基本信息
+
+- 标题：Morning Glory
+- 艺人：(K)NoW_NAME；NIKIIE唱、eNu词、Makoto Miyazaki作编曲。[2][4]
+- 原声（原始作品发布时间）：2017-06-07单曲发行，サクラクエストOP；游戏母带处理未核。[4]
+- BPM：220。[5]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／8。[5]
+- 节点数 BSC／ADV／EXT：127／289／549。[5]
+- 版本性质：动画OP后入clan初期；不推断游戏另有重录。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -450,6 +570,18 @@ NIKIIE在2020年回顾本曲时还谈到半音旋律的难度：那些出乎习�
 
 - 统一曲库 ID：`arcade:80000018`
 - 原章节编号与标题：11. STEP by STEP UP↑↑↑↑
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000018" -->
+### 基本信息
+
+- 标题：STEP by STEP UP↑↑↑↑
+- 艺人：fourfolium四声优；烏屋茶房/篠崎あやと词、篠崎/ヒゲドライバー曲，编曲细分未直核。[4][5]
+- 原声（原始作品发布时间）：2017-07-26单曲ZMCZ-11295发行，NEW GAME!!第二季OP；TVsize卡拉OK不证游戏同剪辑。[4][5]
+- BPM：175。[6]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／8。[6]
+- 节点数 BSC／ADV／EXT：116／285／482。[6]
+- 版本性质：2017-07-26官方联动入clan；动画原唱名义，游戏长度/另剪母带未核，不混REFLEC日期。[6][7]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -496,6 +628,18 @@ TVsize卡拉OK不能证明jubeat剪辑与其相同；编曲细分原始信用未
 
 - 统一曲库 ID：`arcade:80000019`
 - 原章节编号与标题：12. JUMPin' JUMP UP!!!!
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000019" -->
+### 基本信息
+
+- 标题：JUMPin' JUMP UP!!!!
+- 艺人：fourfolium四声优；烏屋茶房词，eba作编曲。[1][2]
+- 原声（原始作品发布时间）：2017-07-26单曲ZMCZ-11296主打，NEW GAME!!前期ED，非搭配曲ユメイロコンパス。[1][2]
+- BPM：168。[5]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／8。[5]
+- 节点数 BSC／ADV／EXT：206／380／523。[5]
+- 版本性质：官方2017-07-26入clan；沿原唱名义，未有为街机另录歌唱证据。[5][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -548,6 +692,18 @@ jubeat社区初期记录为168 BPM、3/6/8与206/380/523。游戏收录延续动
 - 统一曲库 ID：`arcade:80000020`
 - 原章节编号与标题：13. ススメRunner!!
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000020" -->
+### 基本信息
+
+- 标题：ススメRunner!!
+- 艺人：fourfolium四声优；KOCHO与eba共同词，eba作编曲。[1][2]
+- 原声（原始作品发布时间）：2017-07-26 OP单曲ZMCZ-11295第2轨，另列伴奏第4轨；非OP主打。[1]
+- BPM：176。[5]
+- 谱面难度 BSC／ADV／EXT：clan 2／5／8。[5]
+- 节点数 BSC／ADV／EXT：130／323／510。[5]
+- 版本性质：官方同日2017-07-26入clan；不能从联动宣传推断REFLEC也同时可玩，游戏剪辑长度待核。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 演唱：fourfolium（高田憂希／山口愛／戸田めぐみ／竹尾歩美）[1]
@@ -589,6 +745,18 @@ jubeat社区初期记录为168 BPM、3/6/8与206/380/523。游戏收录延续动
 
 - 统一曲库 ID：`arcade:80000021`
 - 原章节编号与标题：14. パピポペピプペパ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000021" -->
+### 基本信息
+
+- 标题：パピポペピプペパ
+- 艺人：P*Light；歌唱者未知，不按声线推认mow*2。[1][2]
+- 原声（原始作品发布时间）：2018年2月已公开，2月11日日记记录KAC表演发布；精确首日及完整录音发行待核。实体clan原声未列，后期数字原声列有。[1][3][4][5]
+- BPM：187。[2]
+- 谱面难度 BSC／ADV／EXT：clan HOLD 5／9／10；现5／9.0／10.5。[2][6]
+- 节点数 BSC／ADV／EXT：467／817／961。[2][6]
+- 版本性质：第7届KAC个人冠军传导，社区起点A7STA4A.；非稼动首发，不混团体Diastrophism。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -634,6 +802,18 @@ PACKAGE05替换方案与确定首日尚待原始活动资料。
 - 统一曲库 ID：`arcade:80000022`
 - 原章节编号与标题：15. Wowie Zowie!
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000022" -->
+### 基本信息
+
+- 标题：Wowie Zowie!
+- 艺人：Hommarju。[1][4]
+- 原声（原始作品发布时间）：2017年11月活动新曲；2018-02-14原声CD第14轨为后续发行，完整录音最早发行待核。[1][2][4]
+- BPM：128。[2][3]
+- 谱面难度 BSC／ADV／EXT：clan 5／9／10；现5／9.8／10.7。[2][3]
+- 节点数 BSC／ADV／EXT：349／715／854。[2][3]
+- 版本性质：第一回街対抗戦1000pow奖励，社区活动2017-11-02至22日；不是稼动首发。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：Hommarju[1]
@@ -677,6 +857,18 @@ PACKAGE05替换方案与确定首日尚待原始活动资料。
 - 统一曲库 ID：`arcade:80000023`
 - 原章节编号与标题：16. Midnight City Warfare
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000023" -->
+### 基本信息
+
+- 标题：Midnight City Warfare
+- 艺人：sky_delta；本人告知仅第三方转录，原推未直核。[1]
+- 原声（原始作品发布时间）：2017-10-02作者告知转录已介绍游戏作品；2018原声第13轨为后续载体，精确首次公开/完整录音发行待核。[1][3]
+- BPM：180。[2]
+- 谱面难度 BSC／ADV／EXT：clan HOLD 6／9／10；现6／9.2／10.6。[2][4]
+- 节点数 BSC／ADV／EXT：476／788／951。[2]
+- 版本性质：clan原创PACKAGE04，四档RAINBOW MIYAGE 5／3／1／1；非把歌名推成战争故事。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：sky_delta
@@ -710,6 +902,18 @@ sky_delta 对这首作品的说明不是抽象的“电子战”：2017-10-02的
 
 - 统一曲库 ID：`arcade:80000024`
 - 原章节编号与标题：17. アドレナリン
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000024" -->
+### 基本信息
+
+- 标题：アドレナリン
+- 艺人：U1 overground。[1]
+- 原声（原始作品发布时间）：原作ミライダガッキVer.2于2014-01-23 10:00游戏开放；完整录音首次发行待核。不能据JAEPO现场Mix认定jubeat采用同一现场混音。[1][2]
+- BPM：140。[4][5]
+- 谱面难度 BSC／ADV／EXT：clan 4／8／10。[4][5]
+- 节点数 BSC／ADV／EXT：333／592／661；旧Basic377不符，采用333。[4][5]
+- 版本性质：原作早于clan，clan RECORDS移植；具体PACKAGE交换规则缺证。[1][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -745,6 +949,18 @@ sky_delta 对这首作品的说明不是抽象的“电子战”：2017-10-02的
 - 统一曲库 ID：`arcade:80000025`
 - 原章节编号与标题：18. Jazz is Rad
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000025" -->
+### 基本信息
+
+- 标题：Jazz is Rad
+- 艺人：ARM (IOSYS) + Brasscapsule；具体乐器录音分工未取得一手说明。[1][2]
+- 原声（原始作品发布时间）：IOSYS履历记2017年7月jubeat供曲；原声第7轨为后续载体，精确公开/完整录音首次发行待核。[1][3]
+- BPM：160。[2]
+- 谱面难度 BSC／ADV／EXT：clan 6／9／10；现6／9.3／10.5。[2][4]
+- 节点数 BSC／ADV／EXT：406／761／874。[2]
+- 版本性质：clan原创；Redbelk主题及PACKAGE03属社区定位，不据合作推断全部声部一次实奏。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ARM (IOSYS) + Brasscapsule
@@ -778,6 +994,18 @@ IOSYS 的供曲年表确认这项 ARM＋Brasscapsule 合作在2017年7月进入 
 
 - 统一曲库 ID：`arcade:80000026`
 - 原章节编号与标题：19. Welcome!!
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000026" -->
+### 基本信息
+
+- 标题：Welcome!!
+- 艺人：kors k。[1][3]
+- 原声（原始作品发布时间）：2016年面向JAEPO的おといろは制作团队访谈已介绍新曲；精确首次公开及完整录音发行待核，不将2017clan收录作原始首发。[1][2][3]
+- BPM：180。[5]
+- 谱面难度 BSC／ADV／EXT：clan HOLD 3／6／9。[3][5]
+- 节点数 BSC／ADV／EXT：239／589／810。[5]
+- 版本性质：おといろは原企划后入clan SHOP PACKAGE01，仅HOLD；预览与游戏剪辑是否相同未核。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -813,6 +1041,18 @@ IOSYS 的供曲年表确认这项 ARM＋Brasscapsule 合作在2017年7月进入 
 - 统一曲库 ID：`arcade:80000027`
 - 原章节编号与标题：20. みたらしプラトニック (feat. nicamoq)
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000027" -->
+### 基本信息
+
+- 标题：みたらしプラトニック (feat. nicamoq)
+- 艺人：Yunomi；nicamoq演唱。[1][2]
+- 原声（原始作品发布时间）：2016-11-02 MÚSECA 1+1/2新增委约曲；完整原始录音最早发行待核，后期原声与街机剪辑差异未核。[1][3]
+- BPM：160。[2]
+- 谱面难度 BSC／ADV／EXT：clan 3／7／9；现EXT9.0。[2]
+- 节点数 BSC／ADV／EXT：216／482／663。[2]
+- 版本性质：MÚSECA先行新写曲，许可分类不等于公募入选；后入clan SHOP PACKAGE01，不称重录。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Yunomi
@@ -846,6 +1086,18 @@ IOSYS 的供曲年表确认这项 ARM＋Brasscapsule 合作在2017年7月进入 
 
 - 统一曲库 ID：`arcade:80000028`
 - 原章节编号与标题：21. Sulk
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000028" -->
+### 基本信息
+
+- 标题：Sulk
+- 艺人：SYUNN。[1][2][3]
+- 原声（原始作品发布时间）：clan原作，2017年7月月报确认SHOP曲；原声第5轨及系统主题独立分轨，精确最早公开/完整录音发行待核。[1][3][4]
+- BPM：150。[1][2]
+- 谱面难度 BSC／ADV／EXT：clan HOLD 4／7／9；现4／7／9.6。[2][5]
+- 节点数 BSC／ADV／EXT：311／645／1000。[1][2]
+- 版本性质：社区称系统BGM可玩化，PACKAGE03 SPECIAL；不能视作结果界面或主题轨完全相同音频。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -881,6 +1133,18 @@ Sulk 的重要背景是它与 clan 整体音乐设计的联系，而不是将英
 - 统一曲库 ID：`arcade:80000029`
 - 原章节编号与标题：22. 現世の彼方
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000029" -->
+### 基本信息
+
+- 标题：現世の彼方
+- 艺人：猫大樹；词猫体質（现新井麻里衣），编曲及演唱细分待核。[1][2]
+- 原声（原始作品发布时间）：本改编社区追溯2016年10月現世の彼方/Bon courage!!；精确发行日与东方原曲首次发行日期未落实。[2]
+- BPM：176。[2][4]
+- 谱面难度 BSC／ADV／EXT：clan 3／5／10；现EXT10.4另记。[2][4]
+- 节点数 BSC／ADV／EXT：199／344／773。[2][4]
+- 版本性质：ピュアヒューリーズ～心の在処东方改编，先plus猫大樹东方pack2后clan，非clan首次创作。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：猫大樹
@@ -914,6 +1178,18 @@ KONAMI公开曲目页同时标示CATREE RECORD及上海アリス幻樂団，提�
 
 - 统一曲库 ID：`arcade:80000030`
 - 原章节编号与标题：23. Claidheamh Soluis-光の剣- feat.はるの
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000030" -->
+### 基本信息
+
+- 标题：Claidheamh Soluis-光の剣- feat.はるの
+- 艺人：猫大樹；猫体質词、新井大樹编曲，猫体質/新井大樹/はるの三人唱。[1]
+- 原声（原始作品发布时间）：本改编与Escape from…同盘，社区记2017年5月；精确颁布日、预购展会先后及东方原作首次发行仍待核。[1][2]
+- BPM：160。[2][4]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／9；现EXT9.1另记。[2][4]
+- 节点数 BSC／ADV／EXT：309／502／806。[2][4]
+- 版本性质：有頂天変～Wonderful Heaven改编，非新井大樹原曲作曲；游戏/唱片未逐段比对，SDVX2017-08-31是后续移植。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -950,6 +1226,18 @@ KONAMI公开曲目页同时标示CATREE RECORD及上海アリス幻樂団，提�
 
 - 统一曲库 ID：`arcade:80000032`
 - 原章节编号与标题：24. ようこそジャパリパークへ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000032" -->
+### 基本信息
+
+- 标题：ようこそジャパリパークへ
+- 艺人：どうぶつビスケッツ×PPP；词曲编大石昌良。[1][2]
+- 原声（原始作品发布时间）：2017-02-08动画けものフレンズ片头单曲；角色版、作者自唱及游戏剪辑不混。[1][2][4]
+- BPM：170。[4]
+- 谱面难度 BSC／ADV／EXT：clan 1／5／8。[4]
+- 节点数 BSC／ADV／EXT：96／244／494。[4]
+- 版本性质：动画原曲后收clan，非jubeat委约；游戏剪辑与单曲母带未逐段比对。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -991,6 +1279,18 @@ KONAMI公开曲目页同时标示CATREE RECORD及上海アリス幻樂団，提�
 - 统一曲库 ID：`arcade:80000033`
 - 原章节编号与标题：25. Shadow and Truth
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000033" -->
+### 基本信息
+
+- 标题：Shadow and Truth
+- 艺人：ONE III NOTES：高橋諒、PON、Foggy-D；词Konnie Aoki，PON非BEMANI同名男性作者。[2]
+- 原声（原始作品发布时间）：2017-02-22 ACCA13区監察課OP主题歌CD。[1]
+- BPM：121。[3]
+- 谱面难度 BSC／ADV／EXT：clan 3／7／9。[3]
+- 节点数 BSC／ADV／EXT：171／360／544。[3]
+- 版本性质：动画项目原曲后收clan，游戏/TV-size/单曲完整版对应未逐段比对。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ONE III NOTES
@@ -1023,6 +1323,18 @@ jubeat剪辑与动画TV-size、单曲完整版的对应尚未逐段比对；组�
 
 - 统一曲库 ID：`arcade:80000034`
 - 原章节编号与标题：26. Glorious days
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000034" -->
+### 基本信息
+
+- 标题：Glorious days
+- 艺人：GRANRODEO演唱。[1]
+- 原声（原始作品发布时间）：2017-03-22 Glorious days单曲第一轨，剧场版黒子のバスケLAST GAME主题歌。[1]
+- BPM：135。[3]
+- 谱面难度 BSC／ADV／EXT：clan 2／5／9。[3]
+- 节点数 BSC／ADV／EXT：200／514／832。[3]
+- 版本性质：电影原曲收clan；原作与街机剪辑分开，精确开放日及剪辑待核。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1059,6 +1371,18 @@ KISHOW在2020年回顾《黑子的篮球》系列合作时解释，写完《メ�
 - 统一曲库 ID：`arcade:80000035`
 - 原章节编号与标题：27. 脱法ロック
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000035" -->
+### 基本信息
+
+- 标题：脱法ロック
+- 艺人：Neru词曲，鏡音レン原声部；合唱東京非リアフィルハーモニー，不把全声音当VOCALOID。[1]
+- 原声（原始作品发布时间）：原作Neru官方网络投稿，精确日期未载；后续歌手/音游角色翻唱另版。[1]
+- BPM：155。[3]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／8。[3]
+- 节点数 BSC／ADV／EXT：185／408／632。[3]
+- 版本性质：原网络作品后收clan，游戏剪辑待核，不混后来翻唱。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Neru
@@ -1091,6 +1415,18 @@ MV作者2024访谈本轮503，未采用搜索摘要作已读证据；歌词具�
 
 - 统一曲库 ID：`arcade:80000036`
 - 原章节编号与标题：28. ユメイロコンパス
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000036" -->
+### 基本信息
+
+- 标题：ユメイロコンパス
+- 艺人：fourfolium角色声优演唱；词KOCHO、曲奥井康介，不反推声优创作。[1][2]
+- 原声（原始作品发布时间）：2017-07-26 JUMPin’ JUMP UP!!!!第二轨，另有伴奏；非同名单曲。[1]
+- BPM：130。[4]
+- 谱面难度 BSC／ADV／EXT：clan 2／4／7。[4]
+- 节点数 BSC／ADV／EXT：134／276／439。[4]
+- 版本性质：NEW GAME!!相关原曲后收clan；游戏剪辑/精确开放日待核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1126,6 +1462,18 @@ FMF制作官网本轮503、masshoi内页转录403，未采用未读的编配演�
 - 统一曲库 ID：`arcade:80000037`
 - 原章节编号与标题：29. 千本桜
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000037" -->
+### 基本信息
+
+- 标题：千本桜
+- 艺人：黒うさP词曲、初音ミク原唱，非和楽器バンド版。[1][3]
+- 原声（原始作品发布时间）：网络原创；初投稿精确日期未核，2011作曲在震灾前、歌词之后不当发行日。[1][3]
+- BPM：154。[3]
+- 谱面难度 BSC／ADV／EXT：现行3／7／9.0；clan历史整数待核。[3]
+- 节点数 BSC／ADV／EXT：225／449／678。[3]
+- 版本性质：按旧表clan恢复分组，非首次收录：plus先行，saucer2012-09-25至10-14曾收；恢复/删除原因待核。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：黒うさP
@@ -1159,6 +1507,18 @@ FMF制作官网本轮503、masshoi内页转录403，未采用未读的编配演�
 
 - 统一曲库 ID：`arcade:80000038`
 - 原章节编号与标题：30. CandyPop★Showcase
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000038" -->
+### 基本信息
+
+- 标题：CandyPop★Showcase
+- 艺人：OSTER project器乐曲，无主唱署名。[1][3]
+- 原声（原始作品发布时间）：2015冬C89 HAPPYNATION #03（HNCD-003）第2轨；精确日未载，2017-07-26个人专辑为后收。[1][2][3]
+- BPM：170。[4][5]
+- 谱面难度 BSC／ADV／EXT：clan3／6／8；当前BASIC4差异保留。[4][5]
+- 节点数 BSC／ADV／EXT：283／430／701。[4][5]
+- 版本性质：2015同人合辑既存曲，2017个人专辑关联clan商店PACKAGE01版权曲；版本重录/重混未核。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1196,6 +1556,18 @@ OSTER本人2015年的作品页已记录向pichnopop主办合辑提供本曲，�
 - 统一曲库 ID：`arcade:80000039`
 - 原章节编号与标题：31. Don't Break Me Down
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000039" -->
+### 基本信息
+
+- 标题：Don't Break Me Down
+- 艺人：A-One：AXEL.K演唱、ELEMENTAS词、DJ Command改编，非原旋律作者。[1]
+- 原声（原始作品发布时间）：此改编原版2010-08-14 C78 TOHO EUROBEAT VOL.1 AONE-0006第8轨；东方素材原作日期未载，后重制/EDIT不混。[1][2]
+- BPM：163。[3]
+- 谱面难度 BSC／ADV／EXT：现行3／7／9.0，clan当期待核。[3]
+- 节点数 BSC／ADV／EXT：206／425／707。[3]
+- 版本性质：U.N.オーエンは彼女なのか？人声改编收clan；原版/REMASTER/EDIT三层分开，游戏母带关系未核。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：A-One；演唱AXEL.K，作词ELEMENTAS，编曲DJ Command。[1]
@@ -1230,6 +1602,18 @@ A-One并非本曲的个人歌手名。官方重制版页面给出的制作分工
 
 - 统一曲库 ID：`arcade:80000040`
 - 原章节编号与标题：32. PF flowing
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000040" -->
+### 基本信息
+
+- 标题：PF flowing
+- 艺人：dj TAKA；实际钢琴录音人员待核。[2][3]
+- 原声（原始作品发布时间）：原ノスタルジア2017-03-01稼动故事第11首解禁曲；完整原录音发行日未载。[1]
+- BPM：150。[2]
+- 谱面难度 BSC／ADV／EXT：clan4／8／10；现行4／8／10.2，HOLD。[2][5]
+- 节点数 BSC／ADV／EXT：270／582／819。[2]
+- 版本性质：两机种交换移植：活动2017-08-07起、结束20/21日异文，次周二10时解锁非起日即得；2019再开放非初出。[2][3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1270,6 +1654,18 @@ A-One并非本曲的个人歌手名。官方重制版页面给出的制作分工
 - 统一曲库 ID：`arcade:80000041`
 - 原章节编号与标题：33. ミラクル・スイート・スイーツ・マジック！！
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000041" -->
+### 基本信息
+
+- 标题：ミラクル・スイート・スイーツ・マジック！！
+- 艺人：山形まり花（CV日高里菜）；cosMo@暴走P词曲。[1][3]
+- 原声（原始作品发布时间）：2017-11-15 SWEET SMILE♡HEROES第1轨；练习版、instrumental、专辑完整版与先行游戏剪辑分开。[2][3]
+- BPM：88–206。[2]
+- 谱面难度 BSC／ADV／EXT：clan 3／7／9。[2]
+- 节点数 BSC／ADV／EXT：207／451／717。[2]
+- 版本性质：clan SWEET SMILE HEROES，2017-09-28至10-29，限定SHOP；唱片后发，不能径认与游戏剪辑相同。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 演唱角色：山形まり花（CV：日高里菜）。[1,3]
@@ -1303,6 +1699,18 @@ clan历史曲表将本曲列入2017-09-28至10月29日的SWEET SMILE HEROES活�
 
 - 统一曲库 ID：`arcade:80000043`
 - 原章节编号与标题：34. Drizzly Venom
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000043" -->
+### 基本信息
+
+- 标题：Drizzly Venom
+- 艺人：春日咲子（CV山口愛）；あさき官方Sound署名。[1][3]
+- 原声（原始作品发布时间）：2017-11-15 SWEET SMILE♡HEROES第4轨；练习版、instrumental、专辑完整版与先行游戏剪辑分开。[2][3]
+- BPM：168。[2]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／9。[2]
+- 节点数 BSC／ADV／EXT：152／391／613。[2]
+- 版本性质：clan SWEET SMILE HEROES，2017-09-28至10-29，限定SHOP；唱片后发，不能径认与游戏剪辑相同。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1340,6 +1748,18 @@ clan历史曲表将本曲列入2017-09-28至10月29日的SWEET SMILE HEROES活�
 - 统一曲库 ID：`arcade:80000044`
 - 原章节编号与标题：35. けもののおうじゃ★めうめう
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000044" -->
+### 基本信息
+
+- 标题：けもののおうじゃ★めうめう
+- 艺人：芽兎めう（CV五十嵐裕美）；ARM曲、夕野ヨシミ词、ジュクチョー吉他。[1][3]
+- 原声（原始作品发布时间）：2017-11-15 SWEET SMILE♡HEROES第3轨；练习版、instrumental、专辑完整版与先行游戏剪辑分开。[2][3]
+- BPM：162。[2]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／8。[2]
+- 节点数 BSC／ADV／EXT：206／450／697。[2]
+- 版本性质：clan SWEET SMILE HEROES，2017-09-28至10-29，每日奖励第1天；唱片后发，不能径认与游戏剪辑相同。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 演唱角色：芽兎めう（CV：五十嵐裕美）。[1,3]
@@ -1375,6 +1795,18 @@ clan历史曲表将本曲列入2017-09-28至10月29日的SWEET SMILE HEROES活�
 
 - 统一曲库 ID：`arcade:80000045`
 - 原章节编号与标题：36. 銃弾は解を撃ち抜いて
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000045" -->
+### 基本信息
+
+- 标题：銃弾は解を撃ち抜いて
+- 艺人：霜月凛（CV水原薫）；Akhuta官方Sound署名。[1][3]
+- 原声（原始作品发布时间）：2017-11-15 SWEET SMILE♡HEROES第5轨；练习版、instrumental、专辑完整版与先行游戏剪辑分开。[2][3]
+- BPM：171。[2]
+- 谱面难度 BSC／ADV／EXT：clan 4／6／9。[2]
+- 节点数 BSC／ADV／EXT：326／509／782。[2]
+- 版本性质：clan SWEET SMILE HEROES，2017-09-28至10-29，限定SHOP；唱片后发，不能径认与游戏剪辑相同。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1416,6 +1848,18 @@ clan历史曲表将本曲列入2017-09-28至10月29日的SWEET SMILE HEROES活�
 - 统一曲库 ID：`arcade:80000046`
 - 原章节编号与标题：37. キリステゴメン
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000046" -->
+### 基本信息
+
+- 标题：キリステゴメン
+- 艺人：東雲夏陽（CV日南結里）；制作はるなば。[1][3]
+- 原声（原始作品发布时间）：2017-11-15 SWEET SMILE♡HEROES第6轨；练习版、instrumental、专辑完整版与先行游戏剪辑分开。[2][3]
+- BPM：156。[2]
+- 谱面难度 BSC／ADV／EXT：clan 5／7／9。[2]
+- 节点数 BSC／ADV／EXT：436／555／755。[2]
+- 版本性质：clan SWEET SMILE HEROES，2017-09-28至10-29，每日奖励第5天；唱片后发，不能径认与游戏剪辑相同。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 演唱角色：東雲夏陽（CV：日南結里）。[1,3]
@@ -1452,6 +1896,18 @@ clan历史曲表将本曲列入2017-09-28至10月29日的SWEET SMILE HEROES活�
 
 - 统一曲库 ID：`arcade:80000047`
 - 原章节编号与标题：38. シノビシノノメ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000047" -->
+### 基本信息
+
+- 标题：シノビシノノメ
+- 艺人：東雲心菜（CV小澤亜李）；Qrispy Joybox作曲方向、狐夢想词；角色页alt误标不采，CV按具体曲目信用。[1][3]
+- 原声（原始作品发布时间）：2017-11-15 SWEET SMILE♡HEROES第7轨；练习版、instrumental、专辑完整版与先行游戏剪辑分开。[2][3]
+- BPM：174。[2]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／9。[2]
+- 节点数 BSC／ADV／EXT：214／506／762。[2]
+- 版本性质：clan SWEET SMILE HEROES，2017-09-28至10-29，每日奖励第3天；唱片后发，不能径认与游戏剪辑相同。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1490,6 +1946,18 @@ clan历史曲表将本曲列入2017-09-28至10月29日的SWEET SMILE HEROES活�
 - 统一曲库 ID：`arcade:80000048`
 - 原章节编号与标题：39. 水槽のクジラ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000048" -->
+### 基本信息
+
+- 标题：水槽のクジラ
+- 艺人：テヅカ feat. 大西あみみ。[1]
+- 原声（原始作品发布时间）：原作SOUND VOLTEX IV HEAVENLY HAVEN，首次精确公开/完整录音发行日期未载。[2]
+- BPM：206。[2]
+- 谱面难度 BSC／ADV／EXT：现行3／7／9.1；clan历史三档待核。[2]
+- 节点数 BSC／ADV／EXT：141／433／625，总音符非HOLD数量。[2]
+- 版本性质：SDVX移植clan，第29弹2017-09-07至09-25感染槽解锁；2018-11-15 festo emo MART为后续再开放。[2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：テヅカ feat. 大西あみみ [1]
@@ -1527,6 +1995,18 @@ clan历史曲表将本曲列入2017-09-28至10月29日的SWEET SMILE HEROES活�
 - 统一曲库 ID：`arcade:80000049`
 - 原章节编号与标题：40. Fox4-Raize-
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000049" -->
+### 基本信息
+
+- 标题：Fox4-Raize-
+- 艺人：Getty vs. DJ DiA。[1]
+- 原声（原始作品发布时间）：原SDVX III；精确原作公开/完整录音首发待核，后ANTiFRONT GEARS第6轨Extended Mix不是游戏剪辑。[2][3]
+- BPM：50–200。[2]
+- 谱面难度 BSC／ADV／EXT：现行3／8／9.9；clan历史三档待核。[2]
+- 节点数 BSC／ADV／EXT：321／725／897。[2]
+- 版本性质：SDVX移植clan，第29弹2017-09-07至09-25感染槽解锁；2018-11-15 festo emo MART为后续再开放。[2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：Getty vs. DJ DiA [1]
@@ -1562,6 +2042,18 @@ DJ DiA附上的短句以由X、Y轴构成的天空和向自己呼叫为意象，
 
 - 统一曲库 ID：`arcade:80000050`
 - 原章节编号与标题：41. Prayer
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000050" -->
+### 基本信息
+
+- 标题：Prayer
+- 艺人：ぺのれり。[1]
+- 原声（原始作品发布时间）：原SDVX III第5届KAC公募；后Legend of KAC with Ω disc3收录，但精确原作/完整录音首发日期未载。[1][2][3]
+- BPM：144。[2]
+- 谱面难度 BSC／ADV／EXT：现行5／8／10.8；clan历史三档待核。[2]
+- 节点数 BSC／ADV／EXT：447／601／803。[2]
+- 版本性质：SDVX移植clan，第29弹2017-09-07至09-25感染槽解锁；2018-11-15 festo emo MART为后续再开放。[2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1599,6 +2091,18 @@ DJ DiA附上的短句以由X、Y轴构成的天空和向自己呼叫为意象，
 
 - 统一曲库 ID：`arcade:80000051`
 - 原章节编号与标题：42. DREAMING-ING!!
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000051" -->
+### 基本信息
+
+- 标题：DREAMING-ING!!
+- 艺人：ときめきアイドル project15角色单元；高瀬愛虹词、no_my曲编。[2][3][4]
+- 原声（原始作品发布时间）：2018-01-17双碟单曲，完整/Game Ver./Off Vocal及15角色版分别收录，不混jubeat剪辑。[2]
+- BPM：180。[3]
+- 谱面难度 BSC／ADV／EXT：clan 3／5／8。[3]
+- 节点数 BSC／ADV／EXT：177／393／516。[3]
+- 版本性质：项目主主题曲进入clan早于2018-03-20应用正式配信；精确追加日待核，不用服务预定年作实发。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1650,6 +2154,18 @@ DJ DiA附上的短句以由X、Y轴构成的天空和向自己呼叫为意象，
 - 统一曲库 ID：`arcade:80000052`
 - 原章节编号与标题：43. 向日葵サンセット
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000052" -->
+### 基本信息
+
+- 标题：向日葵サンセット
+- 艺人：ARM・まろん(IOSYS)×ランコ・パプリカ(豚乙女)：ARM/パプリカ编曲、まろん词、ランコ唱、パプリカ钢琴，非四人共同作原曲。[1][2]
+- 原声（原始作品发布时间）：此改编2017-10-15東方氷雪大感謝第4轨为唱片长版；おてんば恋娘原作日期未载，不把前日游戏剪辑当完整首发。[1][3]
+- BPM：135。[2]
+- 谱面难度 BSC／ADV／EXT：现行3／6／9.1，clan历史待核。[2]
+- 节点数 BSC／ADV／EXT：172／457／647。[2]
+- 版本性质：东方改编，2017-10-14入clan；次日唱片长版不同剪辑不可径认相同。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ARM・まろん (IOSYS) × ランコ・パプリカ (豚乙女) [2]
@@ -1686,6 +2202,18 @@ DJ DiA附上的短句以由X、Y轴构成的天空和向自己呼叫为意象，
 - 统一曲库 ID：`arcade:80000053`
 - 原章节编号与标题：44. EXUSIA
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000053" -->
+### 基本信息
+
+- 标题：EXUSIA
+- 艺人：L.E.D.-G，HARDCORE。[1][2]
+- 原声（原始作品发布时间）：原IIDX17 SIRIUS，2010-03-24 GFCA217–218 OST碟1第33轨有出版；更早游戏公开/完整首发待核。[1][2]
+- BPM：188。[1]
+- 谱面难度 BSC／ADV／EXT：clan4／8／10；festo后10.4分开。[1]
+- 节点数 BSC／ADV／EXT：357／722／860。[1]
+- 版本性质：IIDX17隐藏EXTRA旧曲移植，官方2017年9月档案确认TORIDORI交换，非clan新作。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人／风格：L.E.D.-G／HARDCORE [1][2]
@@ -1720,6 +2248,18 @@ KONAMI 2017年9月音乐档案明确本曲是新商店TORIDORI by clan RECORDS�
 
 - 统一曲库 ID：`arcade:80000054`
 - 原章节编号与标题：45. Another Phase
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000054" -->
+### 基本信息
+
+- 标题：Another Phase
+- 艺人：TAG。[1]
+- 原声（原始作品发布时间）：原DDR2013；2014-10-08 REFLEC OST碟4第11轨是后收，2013年9月曲评归档非游戏初出，完整首发待核。[2][3]
+- BPM：160。[2]
+- 谱面难度 BSC／ADV／EXT：clan3／7／9；festo后9.7分开。[2]
+- 节点数 BSC／ADV／EXT：248／432／693。[2]
+- 版本性质：DDR原曲经REFLEC后入clan；官方2017年9月档案确认TORIDORI交换，非当月即认精确首发。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1757,6 +2297,18 @@ KONAMI 2017年9月音乐档案把本曲列为TORIDORI by clan RECORDS的新交�
 - 统一曲库 ID：`arcade:80000055`
 - 原章节编号与标题：46. In The Ruins
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000055" -->
+### 基本信息
+
+- 标题：In The Ruins
+- 艺人：Good-cool feat.CHiCO；CHiCO歌唱与拟古念白过程仅韩译曲评，非已识别古语言。[2]
+- 原声（原始作品发布时间）：原pop’n music15 ADVENTURE，精确公开/完整原始录音发行日期未载。[1]
+- BPM：156。[1]
+- 谱面难度 BSC／ADV／EXT：clan5／8／10；festo后EXT10.2。[1]
+- 节点数 BSC／ADV／EXT：待核。
+- 版本性质：pop’n15旧曲移植；2017年9月官方档案确认TORIDORI，后续house remix不当本次街机录音。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：In The Ruins
@@ -1792,6 +2344,18 @@ clan 的 TORIDORI 收录由 KONAMI 2017 年 9 月歌曲档案直接确认；社�
 - 统一曲库 ID：`arcade:80000056`
 - 原章节编号与标题：47. 羽根亡キ少女唄
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000056" -->
+### 基本信息
+
+- 标题：羽根亡キ少女唄
+- 艺人：純情ディスコード；社区あさき曲、Mayumi Morinaga唱；词编细分待核。[1]
+- 原声（原始作品发布时间）：GITADORA原作，精确首次公开/完整录音发行待核。[1]
+- BPM：174。[1]
+- 谱面难度 BSC／ADV／EXT：现3／6／9.0；clan初期等级待核。[1]
+- 节点数 BSC／ADV／EXT：213／482／734。[1]
+- 版本性质：GITADORA移植，官方2017年9月TORIDORI；PACKAGE01完成后解锁，后BEAT ARENA另记。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：羽根亡キ少女唄
@@ -1826,6 +2390,18 @@ clan 的 TORIDORI 收录由 KONAMI 2017 年 9 月歌曲档案直接确认；社�
 
 - 统一曲库 ID：`arcade:80000057`
 - 原章节编号与标题：48. 虹の先に何があるか
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000057" -->
+### 基本信息
+
+- 标题：虹の先に何があるか
+- 艺人：あさき词曲编唱。[1]
+- 原声（原始作品发布时间）：REFLEC原作，2011-11-13 plus说明会已列MUSIC PACK02；最初公开及完整录音发行待核，不用后重制日期替代。[1][2]
+- BPM：216。[1]
+- 谱面难度 BSC／ADV／EXT：clan4／7／9；festo4／7／9.6。[1]
+- 节点数 BSC／ADV／EXT：总283／409／646；HOLD36／44／46，二者不混。[1]
+- 版本性质：2017年9月官方档案确认clan TORIDORI；原游戏剪辑、原声延长结尾、GITADORA重制分开。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1868,6 +2444,18 @@ clan 的 TORIDORI 收录由 KONAMI 2017 年 9 月歌曲档案直接确认；社�
 - 统一曲库 ID：`arcade:80000058`
 - 原章节编号与标题：49. From⑨Girl
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000058" -->
+### 基本信息
+
+- 标题：From⑨Girl
+- 艺人：uno(IOSYS)×越田Rute隆人&あき(A-One)；uno词编，两人合唱。[1]
+- 原声（原始作品发布时间）：本改编2017-10-15東方氷雪大感謝第7轨；两东方素材原作首发日期未载，不用前日游戏日期覆盖唱片。[1][2]
+- BPM：113。[2]
+- 谱面难度 BSC／ADV／EXT：clan2／5／8。[2]
+- 节点数 BSC／ADV／EXT：138／319／530。[2]
+- 版本性质：おてんば恋娘与春の氷精改编，非原さんすう教室重新署名；2017-10-14入clan。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：From⑨Girl
@@ -1906,6 +2494,18 @@ clan 的 TORIDORI 收录由 KONAMI 2017 年 9 月歌曲档案直接确认；社�
 - 统一曲库 ID：`arcade:80000059`
 - 原章节编号与标题：50. 君氏危うくも近うよれ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000059" -->
+### 基本信息
+
+- 标题：君氏危うくも近うよれ
+- 艺人：A応P；あさき词、まふまふ曲。[1]
+- 原声（原始作品发布时间）：官方2017-08-06公告列单曲2017-11-21；该预告不能单独证实如期发行，实际完整录音首发待核。[1]
+- BPM：162。[3]
+- 谱面难度 BSC／ADV／EXT：clan3／6／8。[3]
+- 节点数 BSC／ADV／EXT：162／381／581。[3]
+- 版本性质：おそ松さん第二期OP非jubeat委约；社区2017-10-03收录、10-31换正式封面。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：君氏危うくも近うよれ
@@ -1939,6 +2539,18 @@ A応P 在官方公布的演唱者评论中，把本曲形容为同时包含帅�
 
 - 统一曲库 ID：`arcade:80000060`
 - 原章节编号与标题：51. にめんせい☆ウラオモテライフ！
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000060" -->
+### 基本信息
+
+- 标题：にめんせい☆ウラオモテライフ！
+- 艺人：土間うまる(CV田中あいみ)；篠崎あやと、橘亮祐共同词曲编，不混副曲作者。[1]
+- 原声（原始作品发布时间）：2017-11-15 OP单曲THCS-60166；游戏2017-10-16先入，不将游戏日当完整录音发行。[1][2]
+- BPM：170–225。[2]
+- 谱面难度 BSC／ADV／EXT：clan3／7／9。[2]
+- 节点数 BSC／ADV／EXT：231／474／645。[2]
+- 版本性质：干物妹！うまるちゃんR角色OP，clan2017-10-16追加；不搬其他游戏计拍。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -1975,6 +2587,18 @@ clan历史曲表记录2017-10-16加入，早于CD。这里列jubeat的170–225�
 
 - 统一曲库 ID：`arcade:80000061`
 - 原章节编号与标题：52. うまるん体操
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000061" -->
+### 基本信息
+
+- 标题：うまるん体操
+- 艺人：妹S四声优田中あいみ/影山灯/白石晴香/古川由利奈；ヒゲドライバー词曲、ゆよゆっぺ编。[1]
+- 原声（原始作品发布时间）：2017-11-15 ED单曲THCS-60167；clan先于CD，12月3日现场报道仅预告。[1][2][4]
+- BPM：170。[2]
+- 谱面难度 BSC／ADV／EXT：clan3／6／8。[2]
+- 节点数 BSC／ADV／EXT：191／344／506。[2]
+- 版本性质：干物妹！うまるちゃんR ED；2017-10-16入clan，与OP非同制作组合。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2013,6 +2637,18 @@ clan 历史表列2017-10-16收录，早于CD11-15；歌唱角色名和声优名�
 - 统一曲库 ID：`arcade:80000062`
 - 原章节编号与标题：53. 変わりゆく時間とノスタルジアと
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000062" -->
+### 基本信息
+
+- 标题：変わりゆく時間とノスタルジアと
+- 艺人：あずときだしゅんすけ；あず唱、きだしゅんすけ制作，加藤侑作Rec&Mix，词作完整信用待核。[2][3]
+- 原声（原始作品发布时间）：2017-02-24官方曲评已介绍ノスタルジア原作；精确首配信/完整录音发行待核，工程履历无录音日期。[2][3]
+- BPM：105–141。[1]
+- 谱面难度 BSC／ADV／EXT：2／5／8。[1]
+- 节点数 BSC／ADV／EXT：214／264／632；不挪原机种273／530／806。[1]
+- 版本性质：ノスタルジア原作，jubeat plus先行后clan import SHOP Tic-Tac。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：変わりゆく時間とノスタルジアと
@@ -2050,6 +2686,18 @@ jubeat社区列明以import SHOP Tic-Tac解锁，并注明plus初出。游戏参
 - 统一曲库 ID：`arcade:80000063`
 - 原章节编号与标题：54. Fly far bounce
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000063" -->
+### 基本信息
+
+- 标题：Fly far bounce
+- 艺人：猫叉Master作编曲。[1]
+- 原声（原始作品发布时间）：ノスタルジア原作，2017-03-03对谈已谈制作；精确首次公开/完整录音发行待核，后GITADOROCK与钢琴专辑另版。[1][2]
+- BPM：163。[1]
+- 谱面难度 BSC／ADV／EXT：clan3／6／9；festo后EXT9.5。[1]
+- 节点数 BSC／ADV／EXT：154／382／532。[1]
+- 版本性质：2017-10-26移植clan限时SHOP；不将项目级钢琴采样当本曲专属录音。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Fly far bounce
@@ -2085,6 +2733,18 @@ wac把这种差异解释为：前作重在和声与少量琴音所打开的世�
 
 - 统一曲库 ID：`arcade:80000064`
 - 原章节编号与标题：55. Pee-wee Boogie
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000064" -->
+### 基本信息
+
+- 标题：Pee-wee Boogie
+- 艺人：ARM／原声ARM(IOSYS)；小紺ココscat及ARM编曲仅社区唱片信用未核原册。[2][3][6]
+- 原声（原始作品发布时间）：IOSYS履历2017年5月供ノスタルジア；精确原始公开/完整录音发行日未载，后数字轨2:08不充街机时长。[2][3][6]
+- BPM：45–180。[1]
+- 谱面难度 BSC／ADV／EXT：现5／7／9.8；clan初期待核。[1]
+- 节点数 BSC／ADV／EXT：277／567／793。[1]
+- 版本性质：ノスタルジア原创，2017-07-19 plus先行、10-26 clan Tic-Tac SHOP。[1][2][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2126,6 +2786,18 @@ wac把这种差异解释为：前作重在和声与少量琴音所打开的世�
 
 - 统一曲库 ID：`arcade:80000065`
 - 原章节编号与标题：56. Evans ～NOSTALGIA Ver. ～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000065" -->
+### 基本信息
+
+- 标题：Evans ～NOSTALGIA Ver. ～
+- 艺人：DJ YOSHITAKA原曲；まらしぃ钢琴改编。[1][2]
+- 原声（原始作品发布时间）：JAEPO2017已有现场改编，原作/游戏钢琴版精确首发待核；2018-10-24 piano world X全曲新录，不证2017游戏同母带。[3][5]
+- BPM：112–182；原版185另记。[1]
+- 谱面难度 BSC／ADV／EXT：现4／7／9.7；clan旧标待核。[1]
+- 节点数 BSC／ADV／EXT：292／582／718。[1]
+- 版本性质：ノスタルジア钢琴重演逆移植，jubeat plus先行；2017-10-26 clan Tic-Tac，不套原版谱面与制作故事。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2172,6 +2844,18 @@ wac把这种差异解释为：前作重在和声与少量琴音所打开的世�
 - 统一曲库 ID：`arcade:80000066`
 - 原章节编号与标题：57. エレシュキガル
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000066" -->
+### 基本信息
+
+- 标题：エレシュキガル
+- 艺人：音乐：Noah；插画：Ray。[2]
+- 原声（原始作品发布时间）：MÚSECA原作；精确首次公开及完整录音发行日期待核，不借デュナミス的命名说明。[2][3]
+- BPM：162。[1][4]
+- 谱面难度 BSC／ADV／EXT：clan3／6／9，非MÚSECA3／7／14。[1][2][4]
+- 节点数 BSC／ADV／EXT：街机205／352／705；plus191／331／602另列。[1][4]
+- 版本性质：plus先行后clan，2017-12-14至2018-01-03 Nuli-Nuli，街机谱面与plus有差别。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：エレシュキガル
@@ -2209,6 +2893,18 @@ Noah 在另一首《デュナミス》的官方获奖感言开头，亲自回顾
 
 - 统一曲库 ID：`arcade:80000067`
 - 原章节编号与标题：58. birth
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000067" -->
+### 基本信息
+
+- 标题：birth
+- 艺人：Yu_Asahina。[1]
+- 原声（原始作品发布时间）：2015-09-11厂商公告称已在MÚSECA场测公开；精确最早公开/完整录音首发仍待核。[1]
+- BPM：200–220。[2]
+- 谱面难度 BSC／ADV／EXT：clan HOLD5／9／10；后ADV8/EXT10.5不回填。[2][3]
+- 节点数 BSC／ADV／EXT：486／814／902。[2]
+- 版本性质：MÚSECA原创移植，plus先行，2017-12-14至2018-01-03 Nuli-Nuli；不推断作者做jubeat HOLD谱。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2248,6 +2944,18 @@ clan历史表记载import SHOP Nuli-Nuli于2017-12-14至2018-01-03开放；官�
 - 统一曲库 ID：`arcade:80000068`
 - 原章节编号与标题：59. If
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000068" -->
+### 基本信息
+
+- 标题：If
+- 艺人：Pa's Lam System。[3]
+- 原声（原始作品发布时间）：2016年8月官方介绍MÚSECA委约新曲；精确首次公开/完整录音发行日期待核，JAEPO2017现场曲序不证重混首演。[3][4]
+- BPM：170。[1]
+- 谱面难度 BSC／ADV／EXT：clan3／7／10；后EXT9.8。[1][2]
+- 节点数 BSC／ADV／EXT：203／481／685。[1]
+- 版本性质：MÚSECA1+1/2原作，plus先行；2017-12-14至2018-01-03 clan Nuli-Nuli非制作日。[1][2][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：If
@@ -2286,6 +2994,18 @@ clan历史表记载import SHOP Nuli-Nuli于2017-12-14至2018-01-03开放；官�
 
 - 统一曲库 ID：`arcade:80000069`
 - 原章节编号与标题：60. たからもの
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000069" -->
+### 基本信息
+
+- 标题：たからもの
+- 艺人：セリカ&エリカ（中原麻衣/佐藤利奈）；星野奏子词、DJ YOSHITAKA曲、木之下慶行编。[1]
+- 原声（原始作品发布时间）：2009-09-11资讯转述已介绍Roots26S[suite]Vol.1广播剧OP；精确实际首发/完整录音发行日期待核，不用公告日代发行。[1]
+- BPM：182。[2]
+- 谱面难度 BSC／ADV／EXT：clan3／7／9。[2]
+- 节点数 BSC／ADV／EXT：304／652／804。[2]
+- 版本性质：IIDX17角色企划原曲，plus后进clan TORIDORI；2018年1月公告，PACKAGE01全解条件。角色曲评不当声优采访。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2330,6 +3050,18 @@ clan历史表记载import SHOP Nuli-Nuli于2017-12-14至2018-01-03开放；官�
 - 统一曲库 ID：`arcade:80000070`
 - 原章节编号与标题：61. STAR SHIP☆HERO
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000070" -->
+### 基本信息
+
+- 标题：STAR SHIP☆HERO
+- 艺人：Lucky Vacuum，保留原声拼法。[1][3]
+- 原声（原始作品发布时间）：2009-07-24 popn17原声LC1773/1774碟2第28轨；更早游戏公开及完整录音首次发行待核。[2][3]
+- BPM：190。[1]
+- 谱面难度 BSC／ADV／EXT：clan3／6／9。[1]
+- 节点数 BSC／ADV／EXT：324／554／747。[1]
+- 版本性质：popn17旧作，2018-01-25 plus转TORIDORI；虚构电影非真实电影委约，Colorful Cookie2非正式副题。[1][2][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 Lucky Vacuum；BPM 190；clan 当版 3／6／9，Notes 324／554／747。原声目录所核为 LC1773／LC1774 版第二碟第28轨，1:54；不是整套唱片的单一“第28轨”。[1][3]
@@ -2367,6 +3099,18 @@ Lucky Vacuum；BPM 190；clan 当版 3／6／9，Notes 324／554／747。原声�
 - 统一曲库 ID：`arcade:80000071`
 - 原章节编号与标题：62. ヤマトなでなで♡かぐや姫
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000071" -->
+### 基本信息
+
+- 标题：ヤマトなでなで♡かぐや姫
+- 艺人：ロマンチック♡Prim姫；T.Kakuta曲评、Prim歌唱，不擅补歌手实名。[1][2][3]
+- 原声（原始作品发布时间）：DDR2014原作，精确公开及完整录音首发待核；2012圣诞美术委托不是配信日，DDRA网页目录不改初出。[1][2]
+- BPM：160。[2][3]
+- 谱面难度 BSC／ADV／EXT：clan4／7／9；后EXT9.5另记。[2][3]
+- 节点数 BSC／ADV／EXT：263／501／670。[2][3]
+- 版本性质：plus先行，2018-01-25 clan TORIDORI；PACKAGE01完成后出现，不代表包内曲或自动取得。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 名义：ロマンチック♡Prim姫；BPM 160。clan 当版等级 4／7／9，Notes 263／501／670；后期单曲页 EXT 9.5 不倒填初收。[2][3]
@@ -2400,6 +3144,18 @@ NATSU 的封面设计回忆则把委托追溯到 2012 年圣诞：要求混合�
 
 - 统一曲库 ID：`arcade:80000072`
 - 原章节编号与标题：63. Shout!!
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000072" -->
+### 基本信息
+
+- 标题：Shout!!
+- 艺人：Qrispy Joybox feat.mao；吉他/贝斯与主唱/和声为社区唱片信用未核原册。[1][2][3]
+- 原声（原始作品发布时间）：XG3原作，2012-03-21 GFCA317原声第3轨；更早原作公开/完整录音首发待核，1:58为目录轨长非实测游戏。[1][2][3]
+- BPM：175。[1][4]
+- 谱面难度 BSC／ADV／EXT：clan2／5／8。[1][4]
+- 节点数 BSC／ADV／EXT：200／398／659。[1][4]
+- 版本性质：2018-01-25 plus转clan TORIDORI，非PACKAGE01包内新曲。[4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2435,6 +3191,18 @@ NATSU 的封面设计回忆则把委托追溯到 2012 年圣诞：要求混合�
 
 - 统一曲库 ID：`arcade:80000073`
 - 原章节编号与标题：64. Aerial Skydive
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000073" -->
+### 基本信息
+
+- 标题：Aerial Skydive
+- 艺人：Dirty Androids作编曲。[1]
+- 原声（原始作品发布时间）：REFLEC colette-Winter-原作；VOL.1 OST碟1第6轨为载体，原作精确公开/完整录音发行日期未载。[1][4]
+- BPM：175。[2]
+- 谱面难度 BSC／ADV／EXT：clan3／7／9，不倒填后EXT9.0。[2]
+- 节点数 BSC／ADV／EXT：319／455／693。[2]
+- 版本性质：原REFLEC首作，plus后2018-01-25转TORIDORI；PACKAGE01为前置非所属包。作者曲评仅韩译。[1][2][3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2472,6 +3240,18 @@ Dirty Androids 作编曲；BPM 175；clan 当版 3／7／9，Notes 319／455／6
 
 - 统一曲库 ID：`arcade:80000074`
 - 原章节编号与标题：65. 恋のパズルマジック
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000074" -->
+### 基本信息
+
+- 标题：恋のパズルマジック
+- 艺人：ときめきアイドル project Rhythmixxx；銀ノ介词，Konami Amusement(Sota Fujimori)曲；三角色声优合唱。[1][2][3]
+- 原声（原始作品发布时间）：2017-12-07游戏追加；Song Collection碟1第6轨3:39为唱片全长，完整录音最早发行日期待核。[1][3][4]
+- BPM：140。[1][2]
+- 谱面难度 BSC／ADV／EXT：2／5／8。[1][2]
+- 节点数 BSC／ADV／EXT：147／329／591。[1][2]
+- 版本性质：手游企划但先入BEMANI，2017-12-07 clan追加非IP首批，DREAMING-ING!!已10/19先入。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2511,6 +3291,18 @@ Song Collection 把本曲列为第一碟第6轨、3:39，说明唱片全长与�
 - 统一曲库 ID：`arcade:80000075`
 - 原章节编号与标题：66. Strawberry Chu♡Chu♡
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000075" -->
+### 基本信息
+
+- 标题：Strawberry Chu♡Chu♡
+- 艺人：ときめきアイドル project クッキーパラダイス；T.Kakuta曲、昆真由美词；角色组合不等同每版完整录音名单。[1][2][3]
+- 原声（原始作品发布时间）：2017-12-07游戏追加；Song Collection碟1第7轨2:55，完整原始录音首次发行日期待核。[2][4]
+- BPM：137。[3]
+- 谱面难度 BSC／ADV／EXT：clan4／6／8。[3]
+- 节点数 BSC／ADV／EXT：304／535／719。[3]
+- 版本性质：2017-12-07与popn/DDR同入、REFLEC12/28；非IP首批，不套わがままパーリナイ制作细节。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 名义：ときめきアイドル project クッキーパラダイス；T.Kakuta作曲、昆真由美作词。jubeat BPM137，clan等级4／6／8、Notes304／535／719；唱片全长2:55与游戏段落分开。[S1–S3]
@@ -2546,6 +3338,18 @@ Song Collection 收录为第一碟第7轨，2:55。游戏名义“クッキー�
 
 - 统一曲库 ID：`arcade:80000076`
 - 原章节编号与标题：67. Be a Hero!
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000076" -->
+### 基本信息
+
+- 标题：Be a Hero!
+- 艺人：中島由貴唱；dj TAKA作编曲、肥塚良彦贝斯仅社区署名，作词未知。[2][3][5]
+- 原声（原始作品发布时间）：2017-11-30 jubeat等机种先配信，IIDX/popn12-21；完整原始录音发行日期待核，不作2018现场首作。[1][4]
+- BPM：190。[2][3][5]
+- 谱面难度 BSC／ADV／EXT：clan4／9／10；后4／8／10.3。[2][3][5]
+- 节点数 BSC／ADV／EXT：314／793／1043；时长2:07/2:06测量口径未核。[2][3][5]
+- 版本性质：第7届KAC预赛共通课题新作；Enjoy Entry+指定游玩，2月13日29:00即2018-02-14日本05:00截止。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2584,6 +3388,18 @@ Song Collection 收录为第一碟第7轨，2:55。游戏名义“クッキー�
 - 统一曲库 ID：`arcade:80000078`
 - 原章节编号与标题：68. 闘え！ダダンダーンV
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000078" -->
+### 基本信息
+
+- 标题：闘え！ダダンダーンV
+- 艺人：ときめきアイドル project；矩形波倶楽部词曲、佐々木聡作编，五声优新唱；肥塚个人署名仅社区。[1][2]
+- 原声（原始作品发布时间）：原歌1993街机究極戦隊ダダンダーン、子門真人唱；本V新编新唱，Song Collection碟2第1轨；精确首次公开/完整录音首发未全部落实。[1][2][4]
+- BPM：176。[1][2]
+- 谱面难度 BSC／ADV／EXT：2／6／8。[1][2]
+- 节点数 BSC／ADV／EXT：170／529／668。[1][2]
+- 版本性质：旧歌新录改编非原唱母带；2017-12-20官方预告12-28进clan/DDR，不把手游2018上线日代用。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 名义：ときめきアイドル project；发行信用为コナミ矩形波倶楽部词曲、佐々木聡作编曲。BPM176，2／6／8，Notes170／529／668；Song Collection第二碟第1轨3:29。[S1–S2]
@@ -2620,6 +3436,18 @@ Song Collection 收录为第一碟第7轨，2:55。游戏名义“クッキー�
 - 统一曲库 ID：`arcade:80000079`
 - 原章节编号与标题：69. しゃかりきリレーション
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000079" -->
+### 基本信息
+
+- 标题：しゃかりきリレーション
+- 艺人：ときめきアイドル project 結城秋葉；日岡なつみ独唱、押田誠词曲、高橋浩平/押田編。[1][2][3]
+- 原声（原始作品发布时间）：2016仅demo文件日期，非公开发行；2017-12-20预告12-28进jubeat/DDR，完整原始录音首发日期待核。[1][4]
+- BPM：167。[3]
+- 谱面难度 BSC／ADV／EXT：3／5／7。[3]
+- 节点数 BSC／ADV／EXT：244／405／469。[3]
+- 版本性质：企划角色独唱后入clan；不把手游2018-03-20上线当BEMANI首收，不将歌词当作者自传。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 名义：ときめきアイドル project 結城秋葉；歌唱日岡なつみ，押田誠词曲，高橋浩平与押田誠编曲。BPM167，3／5／7，Notes244／405／469；唱片3:40。[S1–S3]
@@ -2655,6 +3483,18 @@ Song Collection 收录为第一碟第7轨，2:55。游戏名义“クッキー�
 
 - 统一曲库 ID：`arcade:80000080`
 - 原章节编号与标题：70. ルミナスデイズ
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000080" -->
+### 基本信息
+
+- 标题：ルミナスデイズ
+- 艺人：ここなつ（夏陽＝日南結里、心菜＝小澤亜李）；MarL词、猫叉Master曲。[1]
+- 原声（原始作品发布时间）：2017-12-20公告预告次日起BEMANI陆续提供；完整原始录音首发待核，2021-03-17 BEST碟2第5轨4:00为后收。[3][4]
+- BPM：jubeat145；末尾渐慢，其他机种96–145分列。[2][3]
+- 谱面难度 BSC／ADV／EXT：2／4／7。[2]
+- 节点数 BSC／ADV／EXT：140／272／430。[2]
+- 版本性质：clanここなつ圣诞企划曲，非各机种同日；游戏2:14与BEST4:00分开。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2694,6 +3534,18 @@ jubeat显示145 BPM，而社区说明末尾实际渐慢，其他机种可标96�
 - 统一曲库 ID：`arcade:80000081`
 - 原章节编号与标题：71. AI
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000081" -->
+### 基本信息
+
+- 标题：AI
+- 艺人：BEMANI Sound Team "Sota F."；社区列Sota Fujimori作编曲。[1][2]
+- 原声（原始作品发布时间）：2017-12-21 KAC报名游戏解禁；原始完整录音首发待核，clan数字原声仅载体线索。[1][3][4]
+- BPM：190。[1][2]
+- 谱面难度 BSC／ADV／EXT：clan5／8／10，festo后EXT10.5。[1][2]
+- 节点数 BSC／ADV／EXT：340／691／853。[1][2]
+- 版本性质：第7届KAC jubeat个人第二阶段课题，非共同主题Be a Hero!；2018-03-15入SHOP，长度1:37/1:38异文未测。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 BEMANI Sound Team "Sota F."；社区列Sota Fujimori作编曲。190 BPM，clan等级5／8／10，Notes340／691／853；社区长度1:37与Remy1:38有差异，未亲测。[S1–S2]
@@ -2729,6 +3581,18 @@ BEMANI Sound Team "Sota F."；社区列Sota Fujimori作编曲。190 BPM，clan�
 
 - 统一曲库 ID：`arcade:80000082`
 - 原章节编号与标题：72. Necroxis Girl
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000082" -->
+### 基本信息
+
+- 标题：Necroxis Girl
+- 艺人：BEMANI Sound Team "HuΣeR"。[1][2]
+- 原声（原始作品发布时间）：clan2018-01-09至01-29第二回街对抗战；完整录音首发日期未载，数字原声为载体线索。[1][2][3][4]
+- BPM：150。[1][2]
+- 谱面难度 BSC／ADV／EXT：HOLD clan4／8／10；后期EXT10.6。[1][2]
+- 节点数 BSC／ADV／EXT：264／507／717。[1][2]
+- 版本性质：jubeat原创第二回街对抗战个人2000pow；后IIDX移植及Dance With The Dead混合版不混原作。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2770,6 +3634,18 @@ BEMANI Sound Team "HuΣeR"；150 BPM；HOLD谱面，clan旧4／8／10、Notes264
 - 统一曲库 ID：`arcade:80000083`
 - 原章节编号与标题：73. 狂髪天を撫でて綴れ雲の綻び　五体北風に散りて痕も無し
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000083" -->
+### 基本信息
+
+- 标题：狂髪天を撫でて綴れ雲の綻び　五体北風に散りて痕も無し
+- 艺人：BEMANI Sound Team "Akhuta Works"。[1][4]
+- 原声（原始作品发布时间）：2018-01-01至15日FUKUFUKU累计6天，按规则最早01-06解禁非01-01即得；完整原录音发行待核。[1]
+- BPM：200。[1][4]
+- 谱面难度 BSC／ADV／EXT：clan4／8／9；后期EXT9.8不倒填。[1][4]
+- 节点数 BSC／ADV／EXT：238／718／811。[1][4]
+- 版本性质：clan FUKUFUKU第6日奖励非第二回街对抗战；官方短宣传非完整剧情。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 BEMANI Sound Team "Akhuta Works"；BPM200；clan旧4／8／9，Notes238／718／811，社区游戏长度1:53。后期EXT9.8不倒填。[S1、S4]
@@ -2804,6 +3680,18 @@ BEMANI Sound Team "Akhuta Works"；BPM200；clan旧4／8／9，Notes238／718／
 
 - 统一曲库 ID：`arcade:80000084`
 - 原章节编号与标题：74. No One Can Reach The Truth
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000084" -->
+### 基本信息
+
+- 标题：No One Can Reach The Truth
+- 艺人：BEMANI Sound Team "TAG"。[1]
+- 原声（原始作品发布时间）：clan第三回街对抗战2018-04-19至05-09；完整原录音首发日期未载，数字原声只确认收录。[1][3][4]
+- BPM：155。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD3／6／8。[1]
+- 节点数 BSC／ADV／EXT：285／423／664。[1]
+- 版本性质：clan原创第三回街对抗战个人1000pow，非第二回；标题直译不当创作动机。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2840,6 +3728,18 @@ BEMANI Sound Team "TAG"；BPM155；HOLD3／6／8，Notes285／423／664，社区
 - 统一曲库 ID：`arcade:80000085`
 - 原章节编号与标题：75. Never See You Again
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000085" -->
+### 基本信息
+
+- 标题：Never See You Again
+- 艺人：BEMANI Sound Team "U1 overground"；社区列U1-ASAMi作编曲。[1][2]
+- 原声（原始作品发布时间）：2018-02-10 clan PACKAGE05；完整原录音首发待核，数字clan原声为收录线索。[1][2][4]
+- BPM：jubeat160；2020DDR80–160分列。[1]
+- 谱面难度 BSC／ADV／EXT：HOLD clan5／8／10；festo场测EXT10.7、正式10.6分期。[1][2]
+- 节点数 BSC／ADV／EXT：413／707／906。[1][2]
+- 版本性质：原出clan PACKAGE05，非DDR移植；2020-12-21 DDR为后续用途。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 BEMANI Sound Team "U1 overground"，社区列U1-ASAMi作编曲；jubeat BPM160、长度2:05；HOLD旧5／8／10，Notes413／707／906。[S1–S2]
@@ -2875,6 +3775,18 @@ BEMANI Sound Team "U1 overground"，社区列U1-ASAMi作编曲；jubeat BPM160�
 - 统一曲库 ID：`arcade:80000086`
 - 原章节编号与标题：76. Diastrophism
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000086" -->
+### 基本信息
+
+- 标题：Diastrophism
+- 艺人：かめりあ。[3]
+- 原声（原始作品发布时间）：2018年2月官方追加记为KAC冠军传导；精确初出/完整原录音首发待核，2020-03-18 Xroniàl Xéro第9轨Anamorphism为后续长版。[1][3]
+- BPM：228。[2]
+- 谱面难度 BSC／ADV／EXT：现行9.4／9.6／10.3；BASIC初定9，旧其余档待核。[2]
+- 节点数 BSC／ADV／EXT：797／816／1005。[2]
+- 版本性质：clan第7届KAC团体冠军起点传导非一般商店曲；专辑长版结构不充游戏参数。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：かめりあ
@@ -2907,6 +3819,18 @@ BEMANI Sound Team "U1 overground"，社区列U1-ASAMi作编曲；jubeat BPM160�
 - 统一曲库 ID：`arcade:80000087`
 - 原章节编号与标题：77. Roll the Dice
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000087" -->
+### 基本信息
+
+- 标题：Roll the Dice
+- 艺人：lapix；USAO仅后续Remix不作原曲作者。[2]
+- 原声（原始作品发布时间）：原clan，精确公开/完整录音首发待核；Jazz Funktion收Extended Mix及USAO Remix，非原短版首发日期。[1][2]
+- BPM：原165；USAO Remix185另版。[1][2]
+- 谱面难度 BSC／ADV／EXT：现行HOLD5／9.1／10.6；clan旧三档待核。[1]
+- 节点数 BSC／ADV／EXT：487／757／1033。[1]
+- 版本性质：clan NOBOLOT隐藏Calorest课程三曲EXT HARD合计2960000解禁；后DDR2026试炼不是原制作原因。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：lapix
@@ -2937,6 +3861,18 @@ BEMANI Sound Team "U1 overground"，社区列U1-ASAMi作编曲；jubeat BPM160�
 
 - 统一曲库 ID：`arcade:80000088`
 - 原章节编号与标题：78. Last Dress
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000088" -->
+### 基本信息
+
+- 标题：Last Dress
+- 艺人：はるなば。[1]
+- 原声（原始作品发布时间）：官方2018年2月目录确认clan PACKAGE05；精确首日/完整原录音发行待核。[1]
+- BPM：160。[2]
+- 谱面难度 BSC／ADV／EXT：现行HOLD4／9.1／10.7，clan初始三档待核。[2]
+- 节点数 BSC／ADV／EXT：381／728／891。[2]
+- 版本性质：clan PACKAGE05原作；后festo第9届KAC准决赛使用非初收，死装束释义原推未核。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -2969,6 +3905,18 @@ BEMANI Sound Team "U1 overground"，社区列U1-ASAMi作编曲；jubeat BPM160�
 - 统一曲库 ID：`arcade:80000089`
 - 原章节编号与标题：79. ヘンゼルとグレーテル
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000089" -->
+### 基本信息
+
+- 标题：ヘンゼルとグレーテル
+- 艺人：RoughSketch ft.Aikapin & Chiyoko；后Extended Mix信用列RoughSketch制作、两位演唱，作词未核。[1][3]
+- 原声（原始作品发布时间）：clan PACKAGE05；精确首日/完整原录音首发未载，2019-04-28 STORYTELLER VOLUME2首轨为CD Bonus Extended Mix。[1][3]
+- BPM：190。[2]
+- 谱面难度 BSC／ADV／EXT：现行HOLD4／8／10.3，clan旧三档待核。[2]
+- 节点数 BSC／ADV／EXT：306／556／759。[2]
+- 版本性质：clan PACKAGE05；2019实体加长版不当所有流媒体版本，童话连续谱系属社区推测。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：RoughSketch ft.Aikapin & Chiyoko
@@ -2999,6 +3947,18 @@ BEMANI Sound Team "U1 overground"，社区列U1-ASAMi作编曲；jubeat BPM160�
 
 - 统一曲库 ID：`arcade:80000090`
 - 原章节编号与标题：80. Couleur=Blanche
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000090" -->
+### 基本信息
+
+- 标题：Couleur=Blanche
+- 艺人：#FFFFFF；Ryu☆与DJ YOSHITAKA合作身份仅社区记录，原推未核。[2]
+- 原声（原始作品发布时间）：社区记2018-03-29最终解锁、前一周ADV先行；原作完整录音发行未载，4月档案不当首次开放日。[1][2]
+- BPM：jubeat90–185，不跨用DDR数值。[2]
+- 谱面难度 BSC／ADV／EXT：现行HOLD6／10.3／10.6，clan旧三档待核。[2]
+- 节点数 BSC／ADV／EXT：548／849／898。[2]
+- 版本性质：clan RECORDS PACKAGE F终点，汇入此前四曲乐句；2025DDR特典为后续传播，作者分工未知。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3035,6 +3995,18 @@ Ryu原推文980097216177086464本轮不可读，合作身份注明社区来源�
 - 统一曲库 ID：`arcade:80000091`
 - 原章节编号与标题：81. ハッピーウェディング前ソング
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000091" -->
+### 基本信息
+
+- 标题：ハッピーウェディング前ソング
+- 艺人：ヤバイTシャツ屋さん；2018舞蹈视频しばなん翻唱不混原作。[1][4]
+- 原声（原始作品发布时间）：2017-09-20《パイナップルせんぱい》收录。[1]
+- BPM：183。[3]
+- 谱面难度 BSC／ADV／EXT：clan 4／7／9。[3]
+- 节点数 BSC／ADV／EXT：227／511／649。[3]
+- 版本性质：2018-03-01 clan默认追加非PACKAGE05；后舞蹈传播为翻唱与编舞另版。[3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ヤバイTシャツ屋さん
@@ -3069,6 +4041,18 @@ Ryu原推文980097216177086464本轮不可读，合作身份注明社区来源�
 
 - 统一曲库 ID：`arcade:80000092`
 - 原章节编号与标题：82. Initial song
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000092" -->
+### 基本信息
+
+- 标题：Initial song
+- 艺人：40mP；初音ミク演唱，游戏声库引擎未定。[1]
+- 原声（原始作品发布时间）：2017-08-30 Re:Start碟1第4轨十周年新作；2018-12-30个人同人专辑为后收。[1][3]
+- BPM：90。[4]
+- 谱面难度 BSC／ADV／EXT：clan 1／3／6。[4]
+- 节点数 BSC／ADV／EXT：73／158／295。[4]
+- 版本性质：2017-12-21 clan默认追加非稼动首日；制作访谈现有英译，未直核日文。[2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3105,6 +4089,18 @@ Ryu原推文980097216177086464本轮不可读，合作身份注明社区来源�
 - 统一曲库 ID：`arcade:80000093`
 - 原章节编号与标题：83. リバースユニバース
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000093" -->
+### 基本信息
+
+- 标题：リバースユニバース
+- 艺人：ナユタン星人／初音ミク。[1]
+- 原声（原始作品发布时间）：Re:Start碟1第6轨；本条正文未明列发行日，不从URL推日；投稿前改词版与CD版分开。[1][2]
+- BPM：139。[3]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／8（后续3／7／9.1另计）。[3]
+- 节点数 BSC／ADV／EXT：336／613／872。[3]
+- 版本性质：2017-12-21 clan默认追加；CD/投稿歌词游戏采用哪版未逐句核，不把整曲诞生说成反驳砂の惑星。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ナユタン星人[1]
@@ -3136,6 +4132,18 @@ Ryu原推文980097216177086464本轮不可读，合作身份注明社区来源�
 
 - 统一曲库 ID：`arcade:80000094`
 - 原章节编号与标题：84. 快晴
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000094" -->
+### 基本信息
+
+- 标题：快晴
+- 艺人：Orangestar；合辑初音ミク、MV IA，早期现场めありー为听众回忆，游戏演唱仍待核。[1][2][3]
+- 原声（原始作品发布时间）：2017年4月现场版仅听众回忆；2017-08-30 Re:Start合辑初音版，IA投稿精确日未载，各录音首发需分开。[1][2][3]
+- BPM：172。[4][6]
+- 谱面难度 BSC／ADV／EXT：HOLD现3／6／9.2，clan历史EXT9；不倒填9.2。[4][6]
+- 节点数 BSC／ADV／EXT：169／404／701。[4][6]
+- 版本性质：2017-12-21 clan追加；单曲页指Re:Start第7轨但未逐音核两个声库，不能径定全为IA。[1][2][4][6]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3178,6 +4186,18 @@ Ryu原推文980097216177086464本轮不可读，合作身份注明社区来源�
 - 统一曲库 ID：`arcade:80000095`
 - 原章节编号与标题：85. フレーフレーわたし
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000095" -->
+### 基本信息
+
+- 标题：フレーフレーわたし
+- 艺人：足立佳奈；kobasolo协助扩写有采访，完整版权词曲署名待内页。[1][3]
+- 原声（原始作品发布时间）：2017-11-22单曲SECL-2248；更早Twitter15秒片段发布日期未载，与完整作品区分。[1][3]
+- BPM：87。[4]
+- 谱面难度 BSC／ADV／EXT：clan 1／3／5。[4]
+- 节点数 BSC／ADV／EXT：58／142／262。[4]
+- 版本性质：2018-03-01 clan默认追加，非旧稿08-16 SUMMER GREETINGS；不承未核OST/KAC说法。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：足立佳奈[3]
@@ -3210,6 +4230,18 @@ Ryu原推文980097216177086464本轮不可读，合作身份注明社区来源�
 
 - 统一曲库 ID：`arcade:80000096`
 - 原章节编号与标题：86. Spring Rouge
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000096" -->
+### 基本信息
+
+- 标题：Spring Rouge
+- 艺人：izna（IZMIZM）编曲、ZUN原旋律，ShibayanRecords是厂牌；非Shibayan作唱。[1]
+- 原声（原始作品发布时间）：此改编2013-12-30 C85 RETRO FUTURE GIRLS第6轨；东方星莲船春の湊に原作日期未载。[1][2]
+- BPM：125。[1][2]
+- 谱面难度 BSC／ADV／EXT：clan 2／6／8。[1][2]
+- 节点数 BSC／ADV／EXT：133／357／546。[1][2]
+- 版本性质：东方NuDisco改编，2018-03-08 clan默认追加；izna不与东方事变IZNA混同。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3244,6 +4276,18 @@ Ryu原推文980097216177086464本轮不可读，合作身份注明社区来源�
 - 统一曲库 ID：`arcade:80000097`
 - 原章节编号与标题：87. ロールプレイングゲーム
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000097" -->
+### 基本信息
+
+- 标题：ロールプレイングゲーム
+- 艺人：そらまふうらさか四人演唱；まふまふ词曲编/Vo Mix、そらるInst Mix；うらたぬき/あほの坂田台词剧本。[1]
+- 原声（原始作品发布时间）：2017-12-02 Nico公开，日期据署名报道，未直接打开原投稿。[2]
+- BPM：162。[4]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／9。[4]
+- 节点数 BSC／ADV／EXT：278／526／732。[4]
+- 版本性质：四位游戏伙伴原创合作，2018-03-08 clan默认追加；后舞台角色造型非歌词已证人生寓言。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：そらまふうらさか[1]
@@ -3276,6 +4320,18 @@ Nico原投稿未能直接打开，公开日采用署名报道，官方YouTube说
 
 - 统一曲库 ID：`arcade:80000098`
 - 原章节编号与标题：88. まぼろしウインク
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000098" -->
+### 基本信息
+
+- 标题：まぼろしウインク
+- 艺人：A応P；原录音预告A応P ZERO同参与共11人，词鈴木おさむ、曲トキメーカーズ・村井大、编キタニタツヤ。[1][2]
+- 原声（原始作品发布时间）：2018-02-20单曲AKOSC-00012；Animate盘多TV Version，完整/TV/游戏剪辑不能径认相同。[1]
+- BPM：141。[1][4]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／9。[1][4]
+- 节点数 BSC／ADV／EXT：147／375／568。[1][4]
+- 版本性质：おそ松さん二期后半OP，2018-03-01 clan默认追加；11人完整录音与游戏切段未实比。[2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3312,6 +4368,18 @@ Nico原投稿未能直接打开，公开日采用署名报道，官方YouTube说
 - 统一曲库 ID：`arcade:80000099`
 - 原章节编号与标题：89. 問答無用でGo！！
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000099" -->
+### 基本信息
+
+- 标题：問答無用でGo！！
+- 艺人：A応P；Haggy Rock词曲、佐々木裕编。[1]
+- 原声（原始作品发布时间）：2018-02-20まぼろしウインク单曲第2轨；2021-03-31 BEST第8轨为后收，不证重录。[1][3]
+- BPM：147。[4]
+- 谱面难度 BSC／ADV／EXT：clan 3／6／8。[4]
+- 节点数 BSC／ADV／EXT：232／495／637。[4]
+- 版本性质：独立附加曲非主打别名，不能仅凭同盘判动画OP；2018-03-01 clan追加。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：A応P[1]
@@ -3344,6 +4412,18 @@ Nico原投稿未能直接打开，公开日采用署名报道，官方YouTube说
 
 - 统一曲库 ID：`arcade:80000101`
 - 原章节编号与标题：90. Everybody's Rich
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000101" -->
+### 基本信息
+
+- 标题：Everybody's Rich
+- 艺人：REMO-CON。[1]
+- 原声（原始作品发布时间）：2018-06-07起clan第四回街对抗战；完整原始录音发行日期待核，未采旧OST断言。[4]
+- BPM：160。[1][2]
+- 谱面难度 BSC／ADV／EXT：HOLD clan5／8／10，后EXT10.6。[1][2][4]
+- 节点数 BSC／ADV／EXT：434／561／809。[1][2]
+- 版本性质：十周年Cyanttle男角色原创，第四回个人2000pow；Buddy Rich命名仅二手直播听记，不混aran曲评。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3379,6 +4459,18 @@ Nico原投稿未能直接打开，公开日采用署名报道，官方YouTube说
 
 - 统一曲库 ID：`arcade:80000102`
 - 原章节编号与标题：91. One More Reason
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000102" -->
+### 基本信息
+
+- 标题：One More Reason
+- 艺人：GUHROOVY。[1]
+- 原声（原始作品发布时间）：2018-06-07至07-11街对抗战；后实体festo OST碟1第11轨日期未载，完整原作发行待核。[2][3]
+- BPM：220。[2]
+- 谱面难度 BSC／ADV／EXT：clan5／8／10，festo后EXT10.6。[2]
+- 节点数 BSC／ADV／EXT：373／675／895。[2]
+- 版本性质：clan十周年Greenesia BOYS；实体festo原声不是clan实体原声，目录整理不等已读附册。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3418,6 +4510,18 @@ GUHROOVY在十周年官方曲评中把它称为自己第六次向jubeat供曲、
 - 统一曲库 ID：`arcade:80000106`
 - 原章节编号与标题：92. Rampage☆Rag
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000106" -->
+### 基本信息
+
+- 标题：Rampage☆Rag
+- 艺人：かめりあ。[1]
+- 原声（原始作品发布时间）：clan2018-06-07至07-11可解锁；后实体festo OST碟1第9轨出版日未载，完整原作发行待核。[2][3]
+- BPM：334。[2]
+- 谱面难度 BSC／ADV／EXT：clan6／8／10，festo后EXT10.5；旧BASIC5已纠正为6。[2]
+- 节点数 BSC／ADV／EXT：447／724／970。[2]
+- 版本性质：clan十周年Plumpark BOYS；后NOSTALGIA Style重新编排音源，不当相同录音。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：かめりあ [1]
@@ -3455,6 +4559,18 @@ GUHROOVY在十周年官方曲评中把它称为自己第六次向jubeat供曲、
 
 - 统一曲库 ID：`arcade:80000110`
 - 原章节编号与标题：93. Fairy Fair
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000110" -->
+### 基本信息
+
+- 标题：Fairy Fair
+- 艺人：ぺのれり。[1]
+- 原声（原始作品发布时间）：2018-06-07至27日终局第1弹第4日奖励，非起日即得；后festo实体OST碟1第13轨，完整录音首发日待核。[2][3]
+- BPM：157。[2]
+- 谱面难度 BSC／ADV／EXT：clan4／7／9；festo后EXT9.7。[2]
+- 节点数 BSC／ADV／EXT：302／561／875。[2]
+- 版本性质：clan十周年Plumpark GIRLS；实体festo曲表整理不能当已读附册或clan实体OST。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3494,6 +4610,18 @@ GUHROOVY在十周年官方曲评中把它称为自己第六次向jubeat供曲、
 - 统一曲库 ID：`arcade:80000112`
 - 原章节编号与标题：94. Northern Wind
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000112" -->
+### 基本信息
+
+- 标题：Northern Wind
+- 艺人：Nhato。[1]
+- 原声（原始作品发布时间）：2018-06-21至07-11终局第2弹第4日奖励；后festo实体OST碟1第15轨，完整录音首次发行待核。[2][3]
+- BPM：150。[2]
+- 谱面难度 BSC／ADV／EXT：clan HOLD5／7／10；festo后EXT10.5。[2]
+- 节点数 BSC／ADV／EXT：总327／567／884；HOLD18／21／25另列。[2]
+- 版本性质：clan十周年Cyanttle GIRLS；作者受界面机台启发，后实体festo收录不改游戏初出。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：Nhato [1]
@@ -3532,6 +4660,18 @@ Nhato首次参加jubeat时，直接受到游戏界面与机台的启发，因而
 - 统一曲库 ID：`arcade:80000113`
 - 原章节编号与标题：95. Alive in my Soul
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000113" -->
+### 基本信息
+
+- 标题：Alive in my Soul
+- 艺人：aran。[1]
+- 原声（原始作品发布时间）：2018-06-07至27日终局第1弹第1日奖励；后festo实体OST碟1第12轨，完整录音首发日期未载。[2][3]
+- BPM：135；委约约130不作游戏值。[1][2]
+- 谱面难度 BSC／ADV／EXT：clan3／6／8；festo后EXT8。[2]
+- 节点数 BSC／ADV／EXT：211／479／746。[2]
+- 版本性质：clan十周年Greenesia GIRLS，不取误录Redbelk；NuDisco委约后取French House方向。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：aran [1]
@@ -3569,6 +4709,18 @@ aran高中时经常玩jubeat，能为它提供作品使他很高兴。这是本�
 
 - 统一曲库 ID：`arcade:80000117`
 - 原章节编号与标题：96. Pale Garden
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000117" -->
+### 基本信息
+
+- 标题：Pale Garden
+- 艺人：Dirty Androids。[1]
+- 原声（原始作品发布时间）：2018-06-21至07-11终局第2弹第1日奖励；后festo实体OST碟1第14轨，完整录音首发待核。[2][3]
+- BPM：160。[2]
+- 谱面难度 BSC／ADV／EXT：clan HOLD4／7／9；festo后EXT9.8。[2]
+- 节点数 BSC／ADV／EXT：总247／619／873；HOLD13／106／132，非全音符长押。[2]
+- 版本性质：clan十周年Redbelk GIRLS；首次为jubeat写新曲，音乐庭园与绘者红玫瑰叙述分别保留。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3612,6 +4764,18 @@ Dirty Androids首次为jubeat写新曲时，希望保留游戏简练的世界观
 - 统一曲库 ID：`arcade:80000118`
 - 原章节编号与标题：97. Singularity
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000118" -->
+### 基本信息
+
+- 标题：Singularity
+- 艺人：xi。[1]
+- 原声（原始作品发布时间）：2018-06-07至07-11街对抗战；后festo实体OST碟1第8轨，完整录音首发待核。[2][3][4]
+- BPM：197。[2]
+- 谱面难度 BSC／ADV／EXT：clan HOLD4／8／10；festo正式EXT10.5、测试10.6分开。[2]
+- 节点数 BSC／ADV／EXT：总295／625／958；HOLD29／46／71。[2]
+- 版本性质：clan十周年Redbelk BOYS；技术奇点为作者设定，不能推成AI生成音乐。[1][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：xi [1]
@@ -3650,6 +4814,18 @@ xi明确把曲名解释为技术奇点，并以人工智能超越人类智力、
 - 统一曲库 ID：`arcade:80000119`
 - 原章节编号与标题：98. 飽和世界
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000119" -->
+### 基本信息
+
+- 标题：飽和世界
+- 艺人：猫叉Master；读作Saturated World。[1][3]
+- 原声（原始作品发布时间）：ノスタルジア原作，JAEPO2016已展示；精确首次公开/完整录音发行待核。[1]
+- BPM：70–118。[3]
+- 谱面难度 BSC／ADV／EXT：clan HOLD3／5／9；后EXT9.1。[3]
+- 节点数 BSC／ADV／EXT：总186／335／541；HOLD40／53／60。[3]
+- 版本性质：2018-03-01至31日交换移植；wac称后纳剧情、猫叉称创作时考虑故事，两证词关系未明。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人／读音：猫叉Master；Saturated World（サチュレイテッドワールド）。[1][3]
@@ -3684,6 +4860,18 @@ xi明确把曲名解释为技术奇点，并以人工智能超越人类智力、
 
 - 统一曲库 ID：`arcade:80000120`
 - 原章节编号与标题：99. セカイがカフェになっちゃった！
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000120" -->
+### 基本信息
+
+- 标题：セカイがカフェになっちゃった！
+- 艺人：Petit Rabbit’s with beans七人，玛雅/梅格加入；畑亜貴词、大久保薫曲。[1]
+- 原声（原始作品发布时间）：2017-11-11单曲发行；七人原版/角色单唱/五人版不能混记同录音。[1]
+- BPM：158。[4]
+- 谱面难度 BSC／ADV／EXT：2／6／8。[4]
+- 节点数 BSC／ADV／EXT：155／422／575。[4]
+- 版本性质：Dear My Sister主题歌由原拟OP改为结尾，clan精确追加日待核，旧2018-03-08不升级。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3723,6 +4911,18 @@ xi明确把曲名解释为技术奇点，并以人工智能超越人类智力、
 - 统一曲库 ID：`arcade:80000121`
 - 原章节编号与标题：100. 脳みそ夫体操メインテーマ
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000121" -->
+### 基本信息
+
+- 标题：脳みそ夫体操メインテーマ
+- 艺人：脳みそ夫词曲唱，青木多果编；采访青木タ果为字形异文。[2]
+- 原声（原始作品发布时间）：CD2018-03-07 PCCA04636第1轨；官方1月公告已有配信，最早公开/实际完整首发仍待核，不以CD出道覆盖。[2][3]
+- BPM：130–228；构想约120非游戏值。[1][3]
+- 谱面难度 BSC／ADV／EXT：现3／7／9.2；clan旧三档待核。[3]
+- 节点数 BSC／ADV／EXT：166／452／566。[3]
+- 版本性质：主主题非玉屋2060%混音；游戏先于CD，旧精确2018-03-01仍待公告复核。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 词曲／演唱：脳みそ夫；编曲青木多果。[2]
@@ -3757,6 +4957,18 @@ CD出道来自累计与一千人跳该套路后可签唱片约的挑战。2018-0
 
 - 统一曲库 ID：`arcade:80000122`
 - 原章节编号与标题：101. フィクサー
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000122" -->
+### 基本信息
+
+- 标题：フィクサー
+- 艺人：ぬゆり；flower具体版本未核。[1][2][3]
+- 原声（原始作品发布时间）：AWA目录plotoplan第2轨4:07、2017-12-29，仅该目录口径；原投稿首发/全部实体发售日未核。[2]
+- BPM：136。[3]
+- 谱面难度 BSC／ADV／EXT：现3／7／9.6，clan初期快照待核。[3]
+- 节点数 BSC／ADV／EXT：174／554／763。[3]
+- 版本性质：clan社交音乐分类；4:07不充游戏长，旧2018-03-22追加日未载仍待核。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3793,6 +5005,18 @@ CD出道来自累计与一千人跳该套路后可签唱片约的挑战。2018-0
 
 - 统一曲库 ID：`arcade:80000123`
 - 原章节编号与标题：102. 恋時雨
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000123" -->
+### 基本信息
+
+- 标题：恋時雨
+- 艺人：ときめきアイドル project；鈴木みのり/月島美奈都、稲川英里/片桐奈々菜；松本健词曲编仅社区信用。[1][2][3]
+- 原声（原始作品发布时间）：2018-03-14 GFCA436标题曲；完整/Game Ver./Off Vocal分列，不径认各载体剪辑一致。[2]
+- BPM：185。[3]
+- 谱面难度 BSC／ADV／EXT：clan3／6／9；后EXT9.3。[3]
+- 节点数 BSC／ADV／EXT：168／306／577。[3]
+- 版本性质：企划第二CD标题曲，社区2018-03-15与DDR A同入；活动报道声优话语非实听录音。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3831,6 +5055,18 @@ GFCA-436于2018-03-14发行，曲目表把完整曲、Game Ver.和Off Vocal分�
 - 统一曲库 ID：`arcade:80000124`
 - 原章节编号与标题：103. 花のやくそく
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000124" -->
+### 基本信息
+
+- 标题：花のやくそく
+- 艺人：日向美ビタースイーツ♪；完整词曲演奏信用未核纸本。[2][3]
+- 原声（原始作品发布时间）：社区记2018-03-30至31日SWEET SMILE PARADE手册附CD；精确首次公开/完整录音首发与引用原曲日期未全落实。[1][2][3]
+- BPM：显示85。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD2／5／7。[3]
+- 节点数 BSC／ADV／EXT：104／405／525。[3]
+- 版本性质：官方2018-04-02入jubeat/ノスタルジア；TOMOSUKE制作说明仅第三方帖文转录，非本轮直核原推。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：日向美ビタースイーツ♪ [2][3]
@@ -3867,6 +5103,18 @@ GFCA-436于2018-03-14发行，曲目表把完整曲、Game Ver.和Off Vocal分�
 - 统一曲库 ID：`arcade:80000125`
 - 原章节编号与标题：104. ピースサイン
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000125" -->
+### 基本信息
+
+- 标题：ピースサイン
+- 艺人：米津玄師；完整录音分工待核。[1][2][3]
+- 原声（原始作品发布时间）：2017-06-21 CD发行；demo约前一年春已写不当发表日期。[1][2]
+- BPM：200。[3]
+- 谱面难度 BSC／ADV／EXT：clan4／6／8。[3]
+- 节点数 BSC／ADV／EXT：157／410／569。[3]
+- 版本性质：僕のヒーローアカデミア第二季前期OP，2018-03-22社区记入clan；母带合同/剪辑未取，不擅称翻唱。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：米津玄師 [1][2][3]
@@ -3900,6 +5148,18 @@ GFCA-436于2018-03-14发行，曲目表把完整曲、Game Ver.和Off Vocal分�
 
 - 统一曲库 ID：`arcade:80000126`
 - 原章节编号与标题：105. 砂の惑星 feat.初音ミク
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000126" -->
+### 基本信息
+
+- 标题：砂の惑星 feat.初音ミク
+- 艺人：ハチ词曲编，初音ミク歌声，南方研究所影像。[1]
+- 原声（原始作品发布时间）：マジカルミライ2017主题曲；初音版精确首次公开/完整发行日待核，米津自唱BOOTLEG版分别记录。[1][2]
+- BPM：95。[3]
+- 谱面难度 BSC／ADV／EXT：clan2／4／8。[3]
+- 节点数 BSC／ADV／EXT：76／171／475。[3]
+- 版本性质：clan收录；2018-04-10将feat.初音ミク从艺人移到题名仅游戏元数据，旧03-22首日待核。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3936,6 +5196,18 @@ GFCA-436于2018-03-14发行，曲目表把完整曲、Game Ver.和Off Vocal分�
 
 - 统一曲库 ID：`arcade:80000128`
 - 原章节编号与标题：106. ミカヅキ:コネクト
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000128" -->
+### 基本信息
+
+- 标题：ミカヅキ:コネクト
+- 艺人：かゆき作编曲；唱片列演奏者但无各乐器细分。[2][4]
+- 原声（原始作品发布时间）：GITADORA Matixx原作；OST第7轨2:00为载体，原作精确公开/完整录音首发日期未载。[1][2][4]
+- BPM：160。[1][5]
+- 谱面难度 BSC／ADV／EXT：clan HOLD4／7／9；后EXT9.7。[1][5]
+- 节点数 BSC／ADV／EXT：294／511／671。[1][5]
+- 版本性质：2018-03-22至04-19 OMIYAGE移植，官方03-19预告与社区历史分列；2021复刻/2022商店非初出。[1][3][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -3976,6 +5248,18 @@ GFCA-436于2018-03-14发行，曲目表把完整曲、Game Ver.和Off Vocal分�
 - 统一曲库 ID：`arcade:80000129`
 - 原章节编号与标题：107. Chocolate Planet
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000129" -->
+### 基本信息
+
+- 标题：Chocolate Planet
+- 艺人：Freezer曲、mippai词、妃苺唱。[1]
+- 原声（原始作品发布时间）：SDVX IV纪念征集第一轮配信；原作精确首发待核，2018专辑长版当时限CD，新增人声另录不充原游戏录音。[1][2]
+- BPM：185。[3]
+- 谱面难度 BSC／ADV／EXT：clan4／7／9。[3]
+- 节点数 BSC／ADV／EXT：250／579／800。[3]
+- 版本性质：2018年4月FLOOR INFECTION31移植；无证jubeat采用长版/新录段，不混いるちょこRemix。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Chocolate Planet
@@ -4013,6 +5297,18 @@ GFCA-436于2018-03-14发行，曲目表把完整曲、Game Ver.和Off Vocal分�
 
 - 统一曲库 ID：`arcade:80000130`
 - 原章节编号与标题：108. Spirit of the Beast
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000130" -->
+### 基本信息
+
+- 标题：Spirit of the Beast
+- 艺人：ikaruga_nex fw.tcheb；tcheb旋律贡献，モリあつ建议不自动添联名。[1]
+- 原声（原始作品发布时间）：SOUND VOLTEX IV第6届KAC征集作品；精确首次公开/完整录音发行待核。[1][2]
+- BPM：195。[1][2]
+- 谱面难度 BSC／ADV／EXT：clan5／9／10；后ADV8不倒填。[2]
+- 节点数 BSC／ADV／EXT：总353／779／996；HOLD4／13／12。[2]
+- 版本性质：2018年4月FLOOR INFECTION31移植；竞逐山路为作者音乐想象非现实经历。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4054,6 +5350,18 @@ GFCA-436于2018-03-14发行，曲目表把完整曲、Game Ver.和Off Vocal分�
 - 统一曲库 ID：`arcade:80000131`
 - 原章节编号与标题：109. Xibercannon
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000131" -->
+### 基本信息
+
+- 标题：Xibercannon
+- 艺人：隣の庭は青い(庭師+Aoi)；Aoi底稿、庭師展开、Hyuji混音。[1]
+- 原声（原始作品发布时间）：SDVX第6届KAC征集作；精确首次公开及完整录音发行日期待核。[1][2][3]
+- BPM：190。[2]
+- 谱面难度 BSC／ADV／EXT：clan5／8／10。[2]
+- 节点数 BSC／ADV／EXT：283／640／807。[2]
+- 版本性质：2018年4月FLOOR INFECTION31，SDVX跨机种非clan独占委约。[2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Xibercannon
@@ -4089,6 +5397,18 @@ Aoi直接给出了作品主题：电子世界的炮火，并不断追问什么�
 
 - 统一曲库 ID：`arcade:80000132`
 - 原章节编号与标题：110. 星座が恋した瞬間を。
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000132" -->
+### 基本信息
+
+- 标题：星座が恋した瞬間を。
+- 艺人：BEMANI Sound Team "DJ TOTTO feat.MarL"；内页词MarL、曲编DJ TOTTO，全部演唱/演奏分工未齐。[1][6]
+- 原声（原始作品发布时间）：2018-08-16至09-05夏日游戏活动；2019-03-20 DDR A OST碟1第31轨为后续载体，完整录音最早发行待核。[2][5]
+- BPM：186。[2]
+- 谱面难度 BSC／ADV／EXT：clan3／7／9。[2]
+- 节点数 BSC／ADV／EXT：192／570／724。[2]
+- 版本性质：SUMMER GREETINGS七首新作，10pow解禁；2023现场仅DJ播放不证MarL现场唱。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4133,6 +5453,18 @@ clan历史表列活动期2018-08-16至09-05，本曲以10pow解禁，是该活�
 - 统一曲库 ID：`arcade:80000133`
 - 原章节编号与标题：111. Puberty Dysthymia
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000133" -->
+### 基本信息
+
+- 标题：Puberty Dysthymia
+- 艺人：BEMANI Sound Team "person09"；本曲内页Music & Arrangement为Akhuta，不扩到名义全部作品。[1][4]
+- 原声（原始作品发布时间）：2018-08-16至09-05活动；2019-03-20 DDR A OST碟1第32轨为后续唱片，完整录音首次发行待核。[2][3]
+- BPM：70–210。[2]
+- 谱面难度 BSC／ADV／EXT：clan4／7／10。[2]
+- 节点数 BSC／ADV／EXT：202／520／840。[2]
+- 版本性质：SUMMER GREETINGS七首新作、200pow；不由曲名或速度推作者精神状态。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Puberty Dysthymia
@@ -4171,6 +5503,18 @@ clan历史表把本曲安排在夏日企划200pow位置，活动期2018-08-16至
 
 - 统一曲库 ID：`arcade:80000134`
 - 原章节编号与标题：112. Life is beautiful
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000134" -->
+### 基本信息
+
+- 标题：Life is beautiful
+- 艺人：BEMANI Sound Team "猫叉Master"；本曲原声内页曲编Naoyuki Sato，非全部演奏工程信用。[1][5]
+- 原声（原始作品发布时间）：2018-08-16至09-05活动；2019-03-20 DDR A OST碟1第33轨为后续，完整录音首发待核。[2][3]
+- BPM：155。[2]
+- 谱面难度 BSC／ADV／EXT：clan4／8／10。[2]
+- 节点数 BSC／ADV／EXT：247／616／833。[2]
+- 版本性质：SUMMER GREETINGS七首新作、400pow；不从后DDR唱片认DDR独占或CD/游戏同剪辑。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4214,6 +5558,18 @@ clan历史表把本曲安排在夏日企划200pow位置，活动期2018-08-16至
 - 统一曲库 ID：`arcade:80000135`
 - 原章节编号与标题：113. SUPER SUMMER SALE
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000135" -->
+### 基本信息
+
+- 标题：SUPER SUMMER SALE
+- 艺人：BEMANI Sound Team "U1 overground"；内页词曲编Konami Amusement(U1-ASAMi)，演唱工程未全明。[1][5]
+- 原声（原始作品发布时间）：2018-08-16至09-05活动；2019-03-20 DDR A OST碟1第34轨为后续，完整录音首次发行待核。[2][3]
+- BPM：155。[2]
+- 谱面难度 BSC／ADV／EXT：clan5／7／9。[2]
+- 节点数 BSC／ADV／EXT：404／535／781。[2]
+- 版本性质：SUMMER GREETINGS七首新作、700pow；后DDR唱片不证独占或与游戏剪辑相同。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：SUPER SUMMER SALE
@@ -4255,6 +5611,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000136`
 - 原章节编号与标题：114. 風鈴花火
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000136" -->
+### 基本信息
+
+- 标题：風鈴花火
+- 艺人：BEMANI Sound Team "劇団レコード"feat.結良まり；内页词曲编劇団レコード，全部演奏工程未齐。[1][5]
+- 原声（原始作品发布时间）：2018-08-16至09-05活动；2019-03-20 DDR A OST碟1第35轨为后续载体，完整录音首发待核。[2][3]
+- BPM：150。[2]
+- 谱面难度 BSC／ADV／EXT：clan2／5／8。[2]
+- 节点数 BSC／ADV／EXT：168／261／634。[2]
+- 版本性质：SUMMER GREETINGS七首新作、1000pow；后DDR唱片不证独占或游戏/CD剪辑相同。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4298,6 +5666,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000137`
 - 原章节编号与标题：115. Prey
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000137" -->
+### 基本信息
+
+- 标题：Prey
+- 艺人：BEMANI Sound Team "Dustup"；改编版吉他/贝斯演者仍未知，不移填原版。[1][4]
+- 原声（原始作品发布时间）：2018-08-16至09-05活动；2019-03-20 DDR A OST碟1第36轨为后续载体，完整录音首次发行待核。[2][3]
+- BPM：原版210；GITADOROCK200另版。[2][4]
+- 谱面难度 BSC／ADV／EXT：clan6／9／10。[2]
+- 节点数 BSC／ADV／EXT：382／623／733。[2]
+- 版本性质：SUMMER GREETINGS七首新作、1500pow；GITADOROCK改编与原版分开，后DDR唱片不证原本独占。[1][2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Prey
@@ -4335,6 +5715,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000138`
 - 原章节编号与标题：116. Rejoin
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000138" -->
+### 基本信息
+
+- 标题：Rejoin
+- 艺人：BEMANI Sound Team "HuΣeR feat.PON"；词曲编内页Aritomo Hamada，PON/Hamada唱及PON吉他仍社区信用。[1][4][5]
+- 原声（原始作品发布时间）：2018 SUMMER GREETINGS游戏新曲；2019-03-20 DDR A OST碟1第37轨为后续发行，完整录音最早首发仍待核。[1][3]
+- BPM：135。[2]
+- 谱面难度 BSC／ADV／EXT：clan旧6／10／10。[2]
+- 节点数 BSC／ADV／EXT：556／873／853。[2]
+- 版本性质：七首夏季企划新曲之一；jubeat活动2018-08-16至09-05、2000pow；不以别机种日期或唱片时长充游戏剪辑。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4378,6 +5770,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000300`
 - 原章节编号与标题：117. やんややんやNight ～踊ろよ日本～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000300" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ日本～
+- 艺人：ゴールデンボンバー；鬼龍院翔词曲。[5]
+- 原声（原始作品发布时间）：日本版版权页登记发行日2018-01-31；非2017年47地区实体单曲之一，具体录音及完整母带首发仍待核。[2][5]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：现社区3／6／9.0；clan初期显示待核。[4]
+- 节点数 BSC／ADV／EXT：178／427／481；BASIC比地区版多3，ADV/EXT有日本图形。[4]
+- 版本性质：全国名称奖励版，游玩五地区后解禁；不挪地区实体编号，不机械复制地区谱面数。[3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：やんややんやNight ～踊ろよ日本～
@@ -4415,6 +5819,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000301`
 - 原章节编号与标题：118. やんややんやNight ～踊ろよ北海道～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000301" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ北海道～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08地区单曲EAZZ-0201；具体地域母带录制日期及游戏剪辑人员仍待核。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：现社区3／6／9.0；clan初期显示待核。[4]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，不按图形推算。[4]
+- 版本性质：换唱地名版本非独立地方民谣；2018 GW按机台地区提供音源和谱面、成绩分记，五地区后解日本版。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：やんややんやNight ～踊ろよ北海道～
@@ -4450,6 +5866,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000302`
 - 原章节编号与标题：119. やんややんやNight ～踊ろよ青森～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000302" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ青森～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08地区单曲EAZZ-0202；具体地域母带录制日期及游戏剪辑人员仍待核。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：现社区3／6／9.0；clan初期显示待核。[4]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，不按图形推算。[4]
+- 版本性质：换唱地名版本非独立地方民谣；2018 GW按机台地区提供音源和谱面、成绩分记，五地区后解日本版。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：やんややんやNight ～踊ろよ青森～
@@ -4484,6 +5912,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000303`
 - 原章节编号与标题：120. やんややんやNight ～踊ろよ岩手～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000303" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ岩手～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08地区单曲EAZZ-0203；具体地域母带录制日期及游戏剪辑人员仍待核。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：现社区3／6／9.0；clan初期显示待核。[4]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，不按图形推算。[4]
+- 版本性质：换唱地名版本非独立地方民谣；2018 GW按机台地区提供音源和谱面、成绩分记，五地区后解日本版。[2][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4524,6 +5964,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000304`
 - 原章节编号与标题：121. やんややんやNight ～踊ろよ宮城～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000304" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ宮城～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0204，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：145。[4][5]
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9；现社区EXT9.0另记。[4][5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT因地区而异，待核，不按图形公式推算。[4][5]
+- 版本性质：换唱地区同曲家族，clan按机台设定地区而非籍贯选曲；2018-04-26追加，五地区解日本版，成绩分记。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 ゴールデンボンバー；本地总表归属clan。宮城版单曲编号EAZZ-0204。[2]共通游戏参数：145 BPM、1:54、BASIC175；clan当版3／6／9，现社区EXT9.0；ADV／EXT总Notes因地区而异，不凭基础公式忽略例外。[4][5]
@@ -4559,6 +6011,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000305`
 - 原章节编号与标题：122. やんややんやNight ～踊ろよ秋田～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000305" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ秋田～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0205，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4596,6 +6060,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000306`
 - 原章节编号与标题：123. やんややんやNight ～踊ろよ山形～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000306" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ山形～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0206，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 ゴールデンボンバー；本地总表归属clan。山形版单曲编号EAZZ-0206。[2]共通参数见本文件宮城版（arcade_80000304），本条不复制一套未独立核完的ADV／EXT总Notes。
@@ -4631,6 +6107,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000307`
 - 原章节编号与标题：124. やんややんやNight ～踊ろよ福島～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000307" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ福島～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0207，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4668,6 +6156,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000308`
 - 原章节编号与标题：125. やんややんやNight ～踊ろよ茨城～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000308" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ茨城～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0208，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 ゴールデンボンバー；本地总表归属clan。茨城版单曲编号EAZZ-0208。[2]共通参数见本文件宮城版（arcade_80000304），本条不复制一套未独立核完的ADV／EXT总Notes。
@@ -4703,6 +6203,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000309`
 - 原章节编号与标题：126. やんややんやNight ～踊ろよ栃木～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000309" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ栃木～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0209，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4740,6 +6252,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000310`
 - 原章节编号与标题：127. やんややんやNight ～踊ろよ群馬～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000310" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ群馬～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0210，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 ゴールデンボンバー；本地总表归属clan。群馬版单曲编号EAZZ-0210。[2]共通参数见本文件宮城版（arcade_80000304），本条不复制一套未独立核完的ADV／EXT总Notes。
@@ -4775,6 +6299,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000311`
 - 原章节编号与标题：128. やんややんやNight ～踊ろよ埼玉～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000311" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ埼玉～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0211，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4812,6 +6348,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000312`
 - 原章节编号与标题：129. やんややんやNight ～踊ろよ千葉～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000312" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ千葉～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0212，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 ゴールデンボンバー；本地总表归属clan。千葉版单曲编号EAZZ-0212。[2]共通参数见本文件宮城版（arcade_80000304），本条不复制一套未独立核完的ADV／EXT总Notes。
@@ -4847,6 +6395,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000313`
 - 原章节编号与标题：130. やんややんやNight ～踊ろよ東京～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000313" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ東京～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0213，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4884,6 +6444,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000314`
 - 原章节编号与标题：131. やんややんやNight ～踊ろよ神奈川～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000314" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ神奈川～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0214，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 ゴールデンボンバー；本地总表归属clan。神奈川版单曲编号EAZZ-0214。[2]共通参数见本文件宮城版（arcade_80000304），本条不复制一套未独立核完的ADV／EXT总Notes。
@@ -4919,6 +6491,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000315`
 - 原章节编号与标题：132. やんややんやNight ～踊ろよ新潟～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000315" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ新潟～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0215，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -4960,6 +6544,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000316`
 - 原章节编号与标题：133. やんややんやNight ～踊ろよ富山～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000316" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ富山～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0216，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 ゴールデンボンバー；本地总表归属clan。富山版单曲编号EAZZ-0216。[2]共通参数见本文件宮城版（arcade_80000304），本条不复制一套未独立核完的ADV／EXT总Notes。
@@ -4995,6 +6591,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000317`
 - 原章节编号与标题：134. やんややんやNight ～踊ろよ石川～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000317" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ石川～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0217，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5032,6 +6640,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000318`
 - 原章节编号与标题：135. やんややんやNight ～踊ろよ福井～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000318" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ福井～
+- 艺人：ゴールデンボンバー；家族词曲鬼龍院翔、共同编曲tatsuo，信用页实为东京版；不能由广告方身份认定音乐制作信用。[2][6]
+- 原声（原始作品发布时间）：地区单曲EAZZ-0218，本条未明列原始发行日期；2018-04-26为游戏地区机制节点，不冒充唱片首发。[2][3]
+- BPM：待核；本条只指向宮城共通参数，未明列BPM。
+- 谱面难度 BSC／ADV／EXT：clan当版3／6／9。[5]
+- 节点数 BSC／ADV／EXT：BASIC175；ADV／EXT总Notes待核，地区图形面板数不等于整曲Notes。[4][5]
+- 版本性质：clan地区换唱版，适用地区机台规则；图形面板数不等于整曲Notes，共通故事不算独立采访。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 ゴールデンボンバー；本地总表归属clan。福井版单曲编号EAZZ-0218。[2]共通参数见本文件宮城版（arcade_80000304），本条不复制一套未独立核完的ADV／EXT总Notes。
@@ -5067,6 +6687,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000319`
 - 原章节编号与标题：136. やんややんやNight ～踊ろよ山梨～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000319" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ山梨～
+- 艺人：ゴールデンボンバー；家族鬼龍院翔词曲、鬼龍院翔/tatsuo编曲，原信用页为东京版，地域关系据发行页。[1][6]
+- 原声（原始作品发布时间）：2017-11-08本地区单曲EAZZ-0219；不与后来的游戏剪辑日期混同。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区3／6／9.0；clan初始显示待核，不以小数倒填。[5]
+- 节点数 BSC／ADV／EXT：待核；各难度Notes未逐地区独立核，不套其他地域或日本版。
+- 版本性质：山梨地域录音，系列共同创作不分拆独立故事；2018-04-26 clan依机台地域选曲、五地域解日本版。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5107,6 +6739,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000320`
 - 原章节编号与标题：137. やんややんやNight ～踊ろよ長野～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000320" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ長野～
+- 艺人：ゴールデンボンバー；家族鬼龍院翔词曲、鬼龍院翔/tatsuo编曲，原信用页为东京版，地域关系据发行页。[1][6]
+- 原声（原始作品发布时间）：2017-11-08本地区单曲EAZZ-0220；不与后来的游戏剪辑日期混同。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区3／6／9.0；clan初始显示待核，不以小数倒填。[5]
+- 节点数 BSC／ADV／EXT：待核；各难度Notes未逐地区独立核，不套其他地域或日本版。
+- 版本性质：地域录音，系列共同创作不算另一次作曲；2018-04-26 clan按筐体地域选曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ゴールデンボンバー
@@ -5141,6 +6785,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000321`
 - 原章节编号与标题：138. やんややんやNight ～踊ろよ岐阜～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000321" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ岐阜～
+- 艺人：ゴールデンボンバー；家族鬼龍院翔词曲、鬼龍院翔/tatsuo编曲，原信用页为东京版，地域关系据发行页。[1][6]
+- 原声（原始作品发布时间）：2017-11-08本地区单曲EAZZ-0221；不与后来的游戏剪辑日期混同。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区3／6／9.0；clan初始显示待核，不以小数倒填。[5]
+- 节点数 BSC／ADV／EXT：待核；各难度Notes未逐地区独立核，不套其他地域或日本版。
+- 版本性质：地域录音，系列共同创作不算另一次作曲；2018-04-26 clan按筐体地域选曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5177,6 +6833,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000322`
 - 原章节编号与标题：139. やんややんやNight ～踊ろよ静岡～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000322" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ静岡～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；静岡盘 EAZZ-0222。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：静岡地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ゴールデンボンバー
@@ -5211,6 +6879,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000323`
 - 原章节编号与标题：140. やんややんやNight ～踊ろよ愛知～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000323" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ愛知～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；愛知盘 EAZZ-0223。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：愛知地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5247,6 +6927,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000324`
 - 原章节编号与标题：141. やんややんやNight ～踊ろよ三重～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000324" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ三重～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；三重盘 EAZZ-0224。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：三重地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ゴールデンボンバー
@@ -5281,6 +6973,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000325`
 - 原章节编号与标题：142. やんややんやNight ～踊ろよ滋賀～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000325" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ滋賀～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；滋賀盘 EAZZ-0225。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：滋賀地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5317,6 +7021,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000326`
 - 原章节编号与标题：143. やんややんやNight ～踊ろよ京都～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000326" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ京都～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；京都盘 EAZZ-0226。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：京都地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ゴールデンボンバー
@@ -5351,6 +7067,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000327`
 - 原章节编号与标题：144. やんややんやNight ～踊ろよ大阪～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000327" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ大阪～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；大阪盘 EAZZ-0227。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：大阪地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5394,6 +7122,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000328`
 - 原章节编号与标题：145. やんややんやNight ～踊ろよ兵庫～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000328" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ兵庫～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；兵庫盘 EAZZ-0228。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：兵庫地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ゴールデンボンバー
@@ -5428,6 +7168,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000329`
 - 原章节编号与标题：146. やんややんやNight ～踊ろよ奈良～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000329" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ奈良～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；奈良盘 EAZZ-0229。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：奈良地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5464,6 +7216,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000330`
 - 原章节编号与标题：147. やんややんやNight ～踊ろよ和歌山～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000330" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ和歌山～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；和歌山盘 EAZZ-0230。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：和歌山地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ゴールデンボンバー
@@ -5498,6 +7262,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000331`
 - 原章节编号与标题：148. やんややんやNight ～踊ろよ鳥取～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000331" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ鳥取～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；鳥取盘 EAZZ-0231。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：鳥取地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5537,6 +7313,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000332`
 - 原章节编号与标题：149. やんややんやNight ～踊ろよ島根～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000332" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ島根～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；島根盘 EAZZ-0232。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：島根地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ゴールデンボンバー
@@ -5572,6 +7360,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000333`
 - 原章节编号与标题：150. やんややんやNight ～踊ろよ岡山～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000333" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ岡山～
+- 艺人：ゴールデンボンバー；系列词曲鬼龍院翔、编曲鬼龍院翔／tatsuo的官方歌词页为东京版，地域关系依发行页，不虚构本地域独立编曲。[1][6]
+- 原声（原始作品发布时间）：2017-11-08；岡山盘 EAZZ-0233。[1]
+- BPM：145。[5]
+- 谱面难度 BSC／ADV／EXT：后续社区表3／6／9.0；clan首发等级显示待核。[5]
+- 节点数 BSC／ADV／EXT：BSC／ADV／EXT待核；未逐版独立复核，不套其他地域或日本版数字。
+- 版本性质：岡山地域录音；clan于2018-04-26追加的47地域企划，按筐体地域提供，不把地域换名解作再次作曲。[1][2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：ゴールデンボンバー
@@ -5606,6 +7406,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000334`
 - 原章节编号与标题：151. やんややんやNight ～踊ろよ広島～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000334" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ広島～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，広島地域CD EAZZ-0234发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的広島录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5643,6 +7455,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000335`
 - 原章节编号与标题：152. やんややんやNight ～踊ろよ山口～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000335" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ山口～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，山口地域CD EAZZ-0235发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的山口录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ゴールデンボンバー [2]
@@ -5678,6 +7502,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000336`
 - 原章节编号与标题：153. やんややんやNight ～踊ろよ徳島～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000336" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ徳島～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，徳島地域CD EAZZ-0236发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的徳島录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5715,6 +7551,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000337`
 - 原章节编号与标题：154. やんややんやNight ～踊ろよ香川～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000337" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ香川～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，香川地域CD EAZZ-0237发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的香川录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ゴールデンボンバー [2]
@@ -5751,6 +7599,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000338`
 - 原章节编号与标题：155. やんややんやNight ～踊ろよ愛媛～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000338" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ愛媛～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，愛媛地域CD EAZZ-0238发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的愛媛录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ゴールデンボンバー [2]
@@ -5786,6 +7646,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000339`
 - 原章节编号与标题：156. やんややんやNight ～踊ろよ高知～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000339" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ高知～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，高知地域CD EAZZ-0239发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的高知录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5827,6 +7699,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000340`
 - 原章节编号与标题：157. やんややんやNight ～踊ろよ福岡～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000340" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ福岡～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，福岡地域CD EAZZ-0240发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的福岡录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ゴールデンボンバー [2]
@@ -5862,6 +7746,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000341`
 - 原章节编号与标题：158. やんややんやNight ～踊ろよ佐賀～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000341" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ佐賀～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，佐賀地域CD EAZZ-0241发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的佐賀录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5899,6 +7795,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000342`
 - 原章节编号与标题：159. やんややんやNight ～踊ろよ長崎～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000342" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ長崎～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，長崎地域CD EAZZ-0242发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的長崎录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ゴールデンボンバー [2]
@@ -5934,6 +7842,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000343`
 - 原章节编号与标题：160. やんややんやNight ～踊ろよ熊本～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000343" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ熊本～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，熊本地域CD EAZZ-0243发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的熊本录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -5971,6 +7891,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000344`
 - 原章节编号与标题：161. やんややんやNight ～踊ろよ大分～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000344" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ大分～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08，大分地域CD EAZZ-0244发行；不以2018年游戏追加日充原作发行。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：所读社区表3／6／9.0；clan最早整数评级另待核。[4]
+- 节点数 BSC／ADV／EXT：175／待核／待核；不以EXT地形键数推算ADV总节点数。[4]
+- 版本性质：47地域企划的大分录音，2018-04-26追加；按机台设定地域提供，五个不同地域游玩可解锁日本版；不冒称另谱全新曲。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ゴールデンボンバー [2]
@@ -6006,6 +7938,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80000345`
 - 原章节编号与标题：162. やんややんやNight ～踊ろよ宮崎～
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000345" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ宮崎～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08 宮崎地区CD EAZZ-0245；与2018游戏追加分开。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：现3／6／9.0；clan初始整数评级待核。[4]
+- 节点数 BSC／ADV／EXT：BSC175；ADV／EXT总Notes待核，不从地形造型推算。[4]
+- 版本性质：47地域换唱版本非另谱地方曲；2018-04-26 clan按机台设定地域选曲，五地域后解日本版。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6043,6 +7987,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000346`
 - 原章节编号与标题：163. やんややんやNight ～踊ろよ鹿児島～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000346" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ鹿児島～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08 鹿児島地区CD EAZZ-0246；与2018游戏追加分开。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：现3／6／9.0；clan初始整数评级待核。[4]
+- 节点数 BSC／ADV／EXT：BSC175；ADV／EXT总Notes待核，不从地形造型推算。[4]
+- 版本性质：47地域换唱版本非另谱地方曲；2018-04-26 clan按机台设定地域选曲，五地域后解日本版。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ゴールデンボンバー [2]
@@ -6079,6 +8035,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 - 统一曲库 ID：`arcade:80000347`
 - 原章节编号与标题：164. やんややんやNight ～踊ろよ沖縄～
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000347" -->
+### 基本信息
+
+- 标题：やんややんやNight ～踊ろよ沖縄～
+- 艺人：ゴールデンボンバー。[2]
+- 原声（原始作品发布时间）：2017-11-08 沖縄地区CD EAZZ-0247；与2018游戏追加分开。[2]
+- BPM：145。[4]
+- 谱面难度 BSC／ADV／EXT：现3／6／9.0；clan初始整数评级待核。[4]
+- 节点数 BSC／ADV／EXT：BSC175；ADV／EXT总Notes待核，不从地形造型推算。[4]
+- 版本性质：47地域换唱版本非另谱地方曲；2018-04-26 clan按机台设定地域选曲，五地域后解日本版。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 艺人：ゴールデンボンバー [2]
@@ -6114,6 +8082,18 @@ RemyWiki所载歌词由促销招呼、商品及价格等内容构成，因此可
 
 - 统一曲库 ID：`arcade:80001003`
 - 原章节编号与标题：165. SEED [2]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001003" -->
+### 基本信息
+
+- 标题：SEED [2]
+- 艺人：DJ YOSHITAKA作编曲；新井大樹仅新增谱面社区署名，原推未核。[2][4]
+- 原声（原始作品发布时间）：原REFLEC OST碟1第2轨；原作首次公开/完整录音发行日未载，clan[2]是新增谱面，不代表新写音乐，不能自动等同原声微调/SDVX混音。[2][3]
+- BPM：152。[3]
+- 谱面难度 BSC／ADV／EXT：clan HOLD4／8／9；后EXT9.7。[3]
+- 节点数 BSC／ADV／EXT：总273／490／683；HOLD11／10／29。[3]
+- 版本性质：普通saucer、clan新增HOLD[2]；PACKAGE02需3よいRED+15RED MIYAGE；2015普通谱面回忆不作新谱面作者证言，时长1:52/1:55异文保留。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6154,6 +8134,18 @@ clan后来出现[2]是这个脉络的后续，但不能宣称2015年已确定cla
 - 统一曲库 ID：`arcade:80001005`
 - 原章节编号与标题：166. Pink Rose [2]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001005" -->
+### 基本信息
+
+- 标题：Pink Rose [2]
+- 艺人：Kiyommy+Seiya；くまのきよみ词唱据韩文曲评译录，未直核日文原页。[1][2]
+- 原声（原始作品发布时间）：KEYBOARDMANIA3rdMIX原作；原作精确公开/完整录音首发待核，2001玩家评论是接受史不是发行日。[1][3]
+- BPM：116–146。[1]
+- 谱面难度 BSC／ADV／EXT：现HOLD3／6／9.0，clan旧等级待核。[1]
+- 节点数 BSC／ADV／EXT：214／374／614。[1]
+- 版本性质：普通saucer，clan HOLD[2] PACKAGE02；新井大樹制谱仅社区引述，暂无新录音证据。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Pink Rose [ 2 ]
@@ -6191,6 +8183,18 @@ clan后来出现[2]是这个脉络的后续，但不能宣称2015年已确定cla
 - 统一曲库 ID：`arcade:80001006`
 - 原章节编号与标题：167. Ausretious#1-まどろみ、或いは嘆色の夢- [2]
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001006" -->
+### 基本信息
+
+- 标题：Ausretious#1-まどろみ、或いは嘆色の夢- [2]
+- 艺人：EOOZ；词曲木夏木一及音乐/插画两成员仅社区转述，未核原册和真实身份。[1][2]
+- 原声（原始作品发布时间）：2015年2月官方目录列prop原曲；2017-01-11 GFCA427第3轨2:04是后续流通原声，不当游戏首发或clan新录。[2][3]
+- BPM：168。[1]
+- 谱面难度 BSC／ADV／EXT：现HOLD5／8／10.6，clan旧三档待核。[1]
+- 节点数 BSC／ADV／EXT：389／534／751。[1]
+- 版本性质：prop原BONUS TUNE曲后clan PACKAGE02 SPECIAL HOLD；[2]无新录音/混音证据，旧制谱者新井大樹待核。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Ausretious 1-まどろみ、或いは嘆色の夢- [ 2 ]
@@ -6227,6 +8231,18 @@ EOOZ的原曲在prop官方月度目录中被列为BONUS TUNE专用曲；后来�
 
 - 统一曲库 ID：`arcade:80001007`
 - 原章节编号与标题：168. HEAVENLY MOON [2]
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001007" -->
+### 基本信息
+
+- 标题：HEAVENLY MOON [2]
+- 艺人：Tatsh。[4]
+- 原声（原始作品发布时间）：copious原作；2011-09-28 GFCA297第10轨为原声出版，精确最早公开/完整录音首发待核。[1][4]
+- BPM：185。[1]
+- 谱面难度 BSC／ADV／EXT：现HOLD5／8／10.2，clan旧等级待核。[1]
+- 节点数 BSC／ADV／EXT：337／678／806。[1]
+- 版本性质：clan新增HOLD，旧2018年1月第2回街战1000pow待核；作者原声及旧普通谱评均韩译，不能充新HOLD设计意图。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6269,6 +8285,18 @@ EOOZ的原曲在prop官方月度目录中被列为BONUS TUNE专用曲；后来�
 - 统一曲库 ID：`arcade:80001008`
 - 原章节编号与标题：169. カラルの月
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001008" -->
+### 基本信息
+
+- 标题：カラルの月
+- 艺人：猫叉劇団（猫叉Master与劇団レコード合作）。[1][3]
+- 原声（原始作品发布时间）：原作popn20；2012-07-25 GFCA318原声收本曲，精确原作公开/完整录音首发待核，clan是后谱面更新。[2][3]
+- BPM：135。[2]
+- 谱面难度 BSC／ADV／EXT：现HOLD4／7／9.3；clan初期三档待核。[2]
+- 节点数 BSC／ADV／EXT：299／472／699。[2]
+- 版本性质：原题保留不加[2]，此ID对应clan HOLD，普通saucer；第2回街战300pow待核，原合作/纪念现场不能套新谱或母带。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：カラルの月 [ 2 ]
@@ -6303,6 +8331,18 @@ EOOZ的原曲在prop官方月度目录中被列为BONUS TUNE专用曲；后来�
 
 - 统一曲库 ID：`arcade:80001009`
 - 原章节编号与标题：170. 君の知らない物語
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001009" -->
+### 基本信息
+
+- 标题：君の知らない物語
+- 艺人：原曲supercell、ryo词曲编、nagi原唱；街机翻唱歌手/编曲者未知，不把nagi当游戏歌手。[1][2][3][4]
+- 原声（原始作品发布时间）：原单曲2009-08-12，TV Edit/Instrumental与街机翻唱分别记录，非游戏翻唱首发证明。[3][4]
+- BPM：165。[4]
+- 谱面难度 BSC／ADV／EXT：现HOLD3／5／9.3；clan初期等级待核。[4]
+- 节点数 BSC／ADV／EXT：192／313／528。[4]
+- 版本性质：本ID clan新增HOLD而原题无[2]；Qubell街机普通版为翻唱、与plus分列，NOBOLOT路线条件仍待原公告。[4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6342,6 +8382,18 @@ nagi在另一场双语采访中说，自己早已喜欢ryo的作品，双方曾�
 
 - 统一曲库 ID：`arcade:80001010`
 - 原章节编号与标题：171. 白い雪のプリンセスは
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001010" -->
+### 基本信息
+
+- 标题：白い雪のプリンセスは
+- 艺人：のぼる↑；不把2024改编团队或2026岡咲美保翻唱套本版。[2][3][5]
+- 原声（原始作品发布时间）：2010-03-03 Supernova2第11轨；精确2010-02-22原投稿待核，2024-06-07 Re:incarnation是后改编。[2][4]
+- BPM：200。[1]
+- 谱面难度 BSC／ADV／EXT：现HOLD4／6／9.5；clan初期等级待核。[1]
+- 节点数 BSC／ADV／EXT：251／474／743。[1]
+- 版本性质：普通prop、clan HOLD；NOBOLOT Tillhorn「雪山の上のお姫様」三曲270万分为社区记录；不当2024重新编曲或2026真人翻唱。[1][3][4][5]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6384,6 +8436,18 @@ KARENT进一步列纪念改编于2024-06-07发行、使用初音ミク，并把�
 - 统一曲库 ID：`arcade:80001011`
 - 原章节编号与标题：172. 月に叢雲華に風
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001011" -->
+### 基本信息
+
+- 标题：月に叢雲華に風
+- 艺人：幽閉サテライトfeat.senya；かませ虎词、Iceon编、senya唱；原曲ラストリモート。[2]
+- 原声（原始作品发布时间）：同名专辑第1轨改编；C81精确发行日/编号本轮未核，东方原曲及本版完整录音首发日待核。[2]
+- BPM：160。[1]
+- 谱面难度 BSC／ADV／EXT：现HOLD3／6／8。[1]
+- 节点数 BSC／ADV／EXT：189／430／638。[1]
+- 版本性质：普通Qubell、HOLD clan；NOBOLOT Harapenya-na「頂上から見えるお月様」三曲各850000；新增谱面非首次发表录音。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：月に叢雲華に風 [ 2 ]
@@ -6420,6 +8484,18 @@ KONAMI 的 Qubell 产品介绍把本曲与艺人列在新增授权曲示例中�
 - 统一曲库 ID：`arcade:80001013`
 - 原章节编号与标题：173. Scars of FAUNA
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001013" -->
+### 基本信息
+
+- 标题：Scars of FAUNA
+- 艺人：猫叉Master。[2]
+- 原声（原始作品发布时间）：天下一音游祭原作，精确首发待核；2015-03-04 follow slowly第15轨4:21属重编全曲新录专辑，不据[2]认定采用该母带。[1][2][3]
+- BPM：165。[1]
+- 谱面难度 BSC／ADV／EXT：现HOLD3／6／10.1；clan初始等级待核。[1]
+- 节点数 BSC／ADV／EXT：263／563／821。[1]
+- 版本性质：普通saucer fulfill、clan[2]HOLD；NOBOLOT Bahaneroy「芽吹いて咲いて」三曲合计2800000，原曲评论不当新制谱自述。[1]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 标题：Scars of FAUNA [ 2 ]
@@ -6454,6 +8530,18 @@ KONAMI 的 Qubell 产品介绍把本曲与艺人列在新增授权曲示例中�
 
 - 统一曲库 ID：`arcade:80001014`
 - 原章节编号与标题：174. chaplet
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001014" -->
+### 基本信息
+
+- 标题：chaplet
+- 艺人：DJ TOTTO作编曲及演奏，唱片目录信用。[2]
+- 原声（原始作品发布时间）：saucer原曲；Cathy & Marron OST第6轨1:57载体，精确原作公开/完整录音发行日未载，2021活动复刻非初出。[1][2][3]
+- BPM：200。[1]
+- 谱面难度 BSC／ADV／EXT：现HOLD4／8／10.3；历史初期等级待核。[1]
+- 节点数 BSC／ADV／EXT：221／582／752。[1]
+- 版本性质：普通saucer、clan[2]HOLD；具体开放日期未核，花の冠称号不证明命名动机，2021ノスタルジア为复刻。[1][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6498,6 +8586,18 @@ KONAMI 的 Qubell 产品介绍把本曲与艺人列在新增授权曲示例中�
 - 统一曲库 ID：`arcade:80000031`
 - 原章节编号与标题：175. シャルル
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000031" -->
+### 基本信息
+
+- 标题：シャルル
+- 艺人：バルーン词曲，游戏v flower歌声；本人self cover与钢琴改编分开。[2][3][4]
+- 原声（原始作品发布时间）：社区记原MV2016-10-12公开；TuneCore2021-09-08为后发行条目非原投稿日期。[3][4]
+- BPM：145。[3]
+- 谱面难度 BSC／ADV／EXT：clan2／5／8。[3]
+- 节点数 BSC／ADV／EXT：156／339／635。[3]
+- 版本性质：clan用v flower版，非GITADORA本人翻唱或ノスタルジア钢琴版；家中短句录唱故事只属self cover。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：バルーン
@@ -6538,6 +8638,18 @@ clan 曲目资料列 Notes 156／339／635，等级 2／5／8，BPM 145。[3] �
 - 统一曲库 ID：`arcade:80000042`
 - 原章节编号与标题：176. ナイト・オブ・ロンド
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000042" -->
+### 基本信息
+
+- 标题：ナイト・オブ・ロンド
+- 艺人：日向美ビタースイーツ♪；和泉一舞/CV津田美波唱、中山真斗词曲编；实录乐手未核。[1][2]
+- 原声（原始作品发布时间）：2017-09-28游戏追加早于2017-11-15 SWEET SMILE HEROES碟第2轨3:48；第9轨练习版1:41另列，完整原始录音最早首发待核。[2][3]
+- BPM：169。[3]
+- 谱面难度 BSC／ADV／EXT：HOLD4／6／8。[3]
+- 节点数 BSC／ADV／EXT：257／334／455。[3]
+- 版本性质：clan2017-09-28至10-29活动SHOP；圣骑士设定属虚构角色，专辑全长/练习版/游戏1:42不混。[1][2][3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：日向美ビタースイーツ♪
@@ -6575,6 +8687,18 @@ jubeat Wiki 将本曲列为 clan 的 HOLD 曲，Notes 257／334／455，等级 4
 
 - 统一曲库 ID：`arcade:80000077`
 - 原章节编号与标题：177. ハルイチバン
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80000077" -->
+### 基本信息
+
+- 标题：ハルイチバン
+- 艺人：ときめきアイドル project；押田誠词曲、佐々木聡作编，五角色歌唱非封面一人独唱。[2][3]
+- 原声（原始作品发布时间）：2017年12月官方目录已列；Song Collection碟1第5轨4:02为完整载体，精确最早公开/发行日期未载。[1][2]
+- BPM：180。[3]
+- 谱面难度 BSC／ADV／EXT：现HOLD3／6／9.0；clan初始等级待核。[3]
+- 节点数 BSC／ADV／EXT：186／428／647。[3]
+- 版本性质：手游事前注册期间已入BEMANI，clan分组保留；不能用2018-03-20手游日当首发，也不套另一曲demo/录唱细节。[1][3][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6618,6 +8742,18 @@ jubeat Wiki 将本曲列为 clan 的 HOLD 曲，Notes 257／334／455，等级 4
 - 统一曲库 ID：`arcade:80001004`
 - 原章节编号与标题：178. smooooch・∀・
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001004" -->
+### 基本信息
+
+- 标题：smooooch・∀・
+- 艺人：kors k；MAYA为影像作者。[1]
+- 原声（原始作品发布时间）：原IIDX16 EMPRESS作品，精确公开/完整录音首发待核；2014-06-04 Let’s Do It Now!!更新版不能径认clan采用同音源。[1][2][3]
+- BPM：177。[2]
+- 谱面难度 BSC／ADV／EXT：待核；本条未列clan三档等级。
+- 节点数 BSC／ADV／EXT：本clan HOLD318／534／751；普通255／637／772另列。[2]
+- 版本性质：原曲移植saucer、clan[2]HOLD PACKAGE02；原题无[2]保留，新谱面非新作曲，音源替换未证。[2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：kors k [1]
@@ -6655,6 +8791,18 @@ kors k 在 IIDX 官方曲评中把这首曲子的出发点放在穿着鲜艳、�
 - 统一曲库 ID：`arcade:80001015`
 - 原章节编号与标题：179. アガット
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:80001015" -->
+### 基本信息
+
+- 标题：アガット
+- 艺人：Bazole；官方2015-03-04依本人意愿由Jerico更名，动机/真实身份未证。[2]
+- 原声（原始作品发布时间）：prop原曲先有HOLD；原作精确公开/完整录音首发未载，2017-11-28是clan新增通常[2]非已证新录音。[3]
+- BPM：200。[3]
+- 谱面难度 BSC／ADV／EXT：待核；本条未列通常[2]三档等级。
+- 节点数 BSC／ADV／EXT：clan通常441／762／942；原HOLD438／561／821分列。[3]
+- 版本性质：clan此ID为通常[2]，不是加长押；NOBOLOT Jolokili。原题无[2]与原prop对应待整合，不擅改。[3]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Bazole [2]
@@ -6691,6 +8839,18 @@ clan 版本需要特别区分。社区记录原本先有 HOLD 谱面，2017-11-2
 
 - 统一曲库 ID：`arcade:90000002`
 - 原章节编号与标题：180. インドがパッカーン！！煩悩マハラジャドリーム
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000002" -->
+### 基本信息
+
+- 标题：インドがパッカーン！！煩悩マハラジャドリーム
+- 艺人：ARM×かたほとりft.柊木りお；直接落实かたほとり词、柊木りお唱，不把×推为共同作曲。[1][2]
+- 原声（原始作品发布时间）：官方2018年9月列festo新曲，后festo原声收录；精确公开/完整录音发行日待核。[2][3]
+- BPM：待核；可读资料未列，不采用搜索摘要。
+- 谱面难度 BSC／ADV／EXT：待核；本条未列三档难度。
+- 节点数 BSC／ADV／EXT：待核；本条未列三档Notes。
+- 版本性质：原clan分组与官方festo新曲冲突，原ID/分组保留；印度题材为词作者个人印象非客观文化介绍。[2][4]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6730,6 +8890,18 @@ clan 版本需要特别区分。社区记录原本先有 HOLD 谱面，2017-11-2
 - 统一曲库 ID：`arcade:90000003`
 - 原章节编号与标题：181. ロミとロボの宇宙飛行
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000003" -->
+### 基本信息
+
+- 标题：ロミとロボの宇宙飛行
+- 艺人：onoken；紺藤ココン插画。[1]
+- 原声（原始作品发布时间）：festo十周年曲，精确首次公开/完整录音发行日期未载；第10届KAC选用为后续事件非创作委托。[1][2][3]
+- BPM：172。[2]
+- 谱面难度 BSC／ADV／EXT：待核；已记HOLD但未列三档等级。[2]
+- 节点数 BSC／ADV／EXT：204／546／794。[2]
+- 版本性质：原clan分组保留，官方/社区festo冲突；TARGET MUSIC填10首pick up对象曲解锁。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：onoken [1]
@@ -6765,6 +8937,18 @@ onoken 想再写一首闪亮的曲子，旋律由弹琴产生；演奏中浮现�
 
 - 统一曲库 ID：`arcade:90000004`
 - 原章节编号与标题：182. Sahara
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000004" -->
+### 基本信息
+
+- 标题：Sahara
+- 艺人：Hommarju；池田宗隆为封面作者，不能把其视觉解释当作曲动机。[1][3]
+- 原声（原始作品发布时间）：festo社区初售2018-09-05 10:00 T-emo STORE；后festo原声收录日期未载，完整录音首发待核。[2][3]
+- BPM：95–155。[2]
+- 谱面难度 BSC／ADV／EXT：待核；本条未列三档等级。
+- 节点数 BSC／ADV／EXT：254／594／904。[2]
+- 版本性质：原clan与史料festo冲突保留；2018年9月T-emo STORE后续再入荷不当初出。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
@@ -6802,6 +8986,18 @@ onoken 想再写一首闪亮的曲子，旋律由弹琴产生；演奏中浮现�
 - 统一曲库 ID：`arcade:90000005`
 - 原章节编号与标题：183. Phantasmagoria
 
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000005" -->
+### 基本信息
+
+- 标题：Phantasmagoria
+- 艺人：Maozon；鹿澄ハル插画。[1][3]
+- 原声（原始作品发布时间）：festo为jubeat新写并收festo原声；精确公开及完整录音首次发行日未载。[1][3]
+- BPM：150。[2]
+- 谱面难度 BSC／ADV／EXT：待核；已记HOLD但本条无三档等级。[2]
+- 节点数 BSC／ADV／EXT：189／550／773。[2]
+- 版本性质：原clan与festo史料冲突保留；初期50 T-emo HOLD，非ノスタルジア小写同名曲。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
+
 ### 曲目档案
 
 - 署名：Maozon [3]
@@ -6837,6 +9033,18 @@ Maozon 说明，本曲为 jubeat 新写，以 trance 的结构和声音运用为
 
 - 统一曲库 ID：`arcade:90000006`
 - 原章节编号与标题：184. EMOTiON TRiPPER
+
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_START id="arcade:90000006" -->
+### 基本信息
+
+- 标题：EMOTiON TRiPPER
+- 艺人：sky_delta；あなQ插画。[1][3]
+- 原声（原始作品发布时间）：festo社区初售2018-09-05 10:00；官方原声目录收录，完整录音首次发行日未载。[2][3]
+- BPM：170。[2]
+- 谱面难度 BSC／ADV／EXT：待核；本条未列三档等级。
+- 节点数 BSC／ADV／EXT：241／394／650。[2]
+- 版本性质：原clan与festo冲突保留；初期200 T-emo、后再入荷150不互相覆盖。[1][2]
+<!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
 
