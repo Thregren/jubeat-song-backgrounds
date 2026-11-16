@@ -4506,6 +4506,8 @@ LAST OATH的可核背景首先是它在festo岛谜题中的位置。官方把它
 
 它后来离开纯音游场景：2020年KAC纪念活动中，《麻雀格闘倶楽部Sp》将它列入可赢取的对局BGM，出典明确写jubeat festo。[4]2026年的原声选集又收入本曲，时间为1:48；与游戏表1:46的秒数差不能自动认定重录或长版。[5]
 
+后续数字原声发行在 Qobuz 的逐轨信用中另列広野智章为作曲者（Composer）。这是该出版载体的署名信息，不补足原始创作与录音过程，也不据此把唱片时长覆盖游戏音源长度。[6]
+
 ### jubeat 收录与版本
 
 本地festo；2019-07-08—09/01活动期间解锁。[1][3]旧稿列2020复刻与2022印章细节，本轮未取得逐曲官方条件，不作为已复核参数。
@@ -4517,6 +4519,8 @@ LAST OATH的可核背景首先是它在festo岛谜题中的位置。官方把它
 3. [Gamer／KONAMI发布资料：スミスと石版のナゾ启动](https://www.gamer.ne.jp/news/201907080033/)（已实读；primary）
 4. [KONAMI：KAC記念フェスティバル対局ミッション](https://p.eagate.573.jp/game/mfc/mfcsp/p/news/info/2020/0114/kac/webpage.html)（已实读；primary）
 5. [OTOTOY／KONAMI发行：Ave. & beyond OST SELECTION](https://ototoy.jp/_/default/p/4272113)（已实读；primary）
+
+6. [Qobuz／KONAMI发行：Ave. & beyond OST SELECTION 逐轨信用](https://www.qobuz.com/jp-ja/album/jubeat-ave-beyond-the-ave-original-soundtrack-selection-various-artists/b0vpqbjag3s07)（2026-11-15 重新实读；与 OTOTOY 同一发行根，仅用于出版署名）
 
 ### 核验边界与待补
 
@@ -4554,6 +4558,8 @@ ATRAX以HuΣeR名义在2019年7月的T-emo STORE推出。社区把题名联系�
 
 社区还记录其在2020年联动中移入DANCERUSH STARDOM，后来原声选集保留HuΣeR署名。[2][4]从手指音游到足部舞蹈游戏的使用场景改变可确认，但没有证据说它最初便为DANCERUSH创作。
 
+后续数字原声发行在 Qobuz 的逐轨信用中另列Aritomo Hamada为作曲者（Composer）。这是该出版载体的署名信息，不补足原始创作与录音过程，也不据此把唱片时长覆盖游戏音源长度。[6]
+
 ### jubeat 收录与版本
 
 本地festo；2019/07首次T400。[1][2][3]末日Remy为8/04，jubeat@Wiki为8/05 09:59；2020复售200/300 T-emo冲突，不照抄旧档200为确定值。
@@ -4565,6 +4571,8 @@ ATRAX以HuΣeR名义在2019年7月的T-emo STORE推出。社区把题名联系�
 3. [jubeat@Wiki：ATRAX](https://w.atwiki.jp/jubeat/pages/2074.html)（已实读；secondary）
 4. [OTOTOY／KONAMI发行：Ave. & beyond OST SELECTION](https://ototoy.jp/_/default/p/4272113)（已实读；primary）
 5. [符亀／GameMarket出展者博客：オリジナル曲アリ：PVを公開しました](https://gamemarket.jp/blog/199156)（已实读；primary）
+
+6. [Qobuz／KONAMI发行：Ave. & beyond OST SELECTION 逐轨信用](https://www.qobuz.com/jp-ja/album/jubeat-ave-beyond-the-ave-original-soundtrack-selection-various-artists/b0vpqbjag3s07)（2026-11-15 重新实读；与 OTOTOY 同一发行根，仅用于出版署名）
 
 ### 核验边界与待补
 

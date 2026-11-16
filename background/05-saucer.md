@@ -527,6 +527,8 @@ Mystic Moon在DDR官方曲评中说明，本曲以自己数年前写下的一首
 可直接核对的后续传播是2014-01-26 Zepp TOKYO举行的BLUE DRAGON RELEASE PARTY：现场报道把《Arousing》列在DJ TOTTO段落的M45，位于《海神》与《Adularia》之间。[3]这证实它进入作曲者的现场演出曲目，但报道未说吉河顺央在这首现场演唱；同篇另一段她与kors k的《Rush!!》演出不能搬到本曲。
 2013-10-18工作人员原帖也已取得：ショッチョー在原声第四弹宣传中赞扬吉河順央强劲的歌声及TOTTO的作品。这是工作人员对完成曲的介绍，不等同于作者披露创作动机或歌手讲述录唱方法。[6]
 
+吉河順央本人的官方工作履历也将《Cathy & Marron》中的《Arousing》列为她的演唱工作，可直接佐证既有演唱署名；该条没有描述录唱过程，不能据此判断唱片版与游戏版是否采用不同录音。[7]
+
 ### jubeat 收录与版本
 
 同期5月31日资讯记录了6月1日至12日的限时开放及6月12日第三回RUNRUN马拉松启动计划，社区曲页另记该回将本曲移植至REFLEC BEAT。[2][4]因此应区别“jubeat限时先行”和“随后跨机种联动”，不能将限时曲措辞解释为动画或活动主题曲。
@@ -539,6 +541,8 @@ Mystic Moon在DDR官方曲评中说明，本曲以自己数年前写下的一首
 4. ミーヤの屋根裏部屋：2013-05-31资讯：https://mieya.net/backnumber/2013/topics20130516_0531.html（已读；6月1日10时至12日10时限时曲；第三回RUNRUN计划6月12日开启）
 5. 읽기전용위키：Arousing所存工作人员评论译文：https://readonly.wiki/w/Arousing（已读；译文归属07封面、MICHI谱面；先无歌声后按歌声调整为未核原文的转述）
 6. jubeatスタッフ：原声第四弹本曲介绍（ショッチョー，2013-10-18）：https://twitter.com/jubeat_staff/status/391033381216993281（已读；ショッチョー在原声第四弹宣传中赞吉河順央歌声强劲及TOTTO作品，没有描述创作或录唱过程。）
+
+7. [吉河順央 Official Web：Discography / Activity](https://sooopiyo.jp/dg.html)（本轮实读；primary；本人列明《Cathy & Marron》中《Arousing》的歌唱工作；无该条发布日期，署名佐证已独立复核）
 
 ### 核验边界与待补
 
@@ -790,6 +794,8 @@ MF文庫J「夏の学園祭2013」的演出报道记录，小倉唯在2013年7�
 
 它在jubeat中的标志性不只在速度：社区记其EXT达到1000物量、为街机首次达到四位数；后来的官方竞赛记录显示，2023-11-25决赛中SELLA*LL把它选为第四首对战曲。[1,3] 这是作品后来仍用于比赛的证据，不是原作专为2023年赛事创作的证据。
 
+在 2020 年 2 月 2 日举行的第 9 届 KAC jubeat festo 团体决赛中，《Beastie Starter》的 EXT 谱面列为第三首比赛曲目。官方结果表记录，最终冠军队「☆ゴリあーにゃ★」在这一曲取得 998,110 分。这是其后续赛事使用记录，并非原作创作缘由。[4]
+
 ### jubeat 收录与版本
 
 社区记2012-10-26至11月4日限时开放，11月5日转入bistro；IIDX是后来的Café de Tran移植，不倒写成原出平台。[1]
@@ -799,6 +805,8 @@ MF文庫J「夏の学園祭2013」的演出报道记录，小倉唯在2013年7�
 1. [RemyWiki：Beastie Starter](https://remywiki.com/Beastie_Starter)（实读）
 2. [Tower Records：Smith制作信用](https://tower.jp/item/3151780)（实读）
 3. [KONAMI：KAC2023 jubeat官方比赛结果](https://p.eagate.573.jp/game/kac/kac11/title/jubeat/index.html)（实读）
+
+4. [KONAMI：第9届 KAC jubeat 官方赛程与结果](https://p.eagate.573.jp/game/kac/kac9th/jubeat/index.html)（2026-11-16 实读；团体决赛第③曲与结果表）
 
 ### 核验边界与待补
 
@@ -2863,6 +2871,8 @@ MV拍摄则有Jean-Ken Johnny本人的原始对谈。他说明，乐队与片中
 
 本曲也持续进入现场演出：2017-03-18 STUDIO COAST举行的EDP×beatnation summit中，RealSound记述第一组登台的kors k演出了它与《smooooch・∀・》等作品。可读资料因而串起按键游戏、身体舞蹈与DJ现场三种呈现，但作者如何选择音色、写下主题仍待直接曲评。[4]
 
+后续重混也须另列。kors k 的 BOOTH 页面所列《The 4th EP3》（S2TB-0035），第3轨为《Gimme a Big Beat（青龍 Remix）》，第6轨为同一重混的“_Game Edit”，两者均署名“kors k Remixed by 青龍”；页面同时将第2、3、5、6轨标为 Konami Arcade Games 授权。这里能确认的是该发行物对重混及标作“Game Edit”版本的分别列项，不能据“Game Edit”字样认定它已收入某款游戏，也不把它们替代2013年的jubeat原曲或原始录音首发日期。[5]
+
 ### jubeat 收录与版本
 
 保留saucer分组；2013-11-06起限时追加，2015-11-04为DanceEvolution移植而非初出。[1][2]
@@ -2874,9 +2884,11 @@ MV拍摄则有Jean-Ken Johnny本人的原始对谈。他说明，乐队与片中
 3. [KONAMI / Yossy：Gimme a Big Beat振付コメント](https://p.eagate.573.jp/game/danceevolution/ac/p/howto/crg/crg_yossy_gim.html)（已实读；primary）
 4. [RealSound：EDP×beatnation summit2017现场报道](https://realsound.jp/2017/05/post-12467.html/amp)（已实读；secondary）
 
+5. [kors k：The 4th EP3（BOOTH）](https://booth.pm/ja/items/8268761)：第3、6轨的青龍重混与Game Edit列项、署名及第2/3/5/6轨授权说明。2026-11-15实读；未据版权年份推定具体首发日期。
+
 ### 核验边界与待补
 
-4文献链；有编舞者直接说明，尚无原曲作者制作访谈；animate与atwiki本轮普通403，不绕过；未把其搜索摘录计为来源。
+原有4文献链，另补1份后续重混发行物说明；有编舞者直接说明，尚无原曲作者制作访谈；animate与atwiki本轮普通403，不绕过；未把其搜索摘录计为来源。
 
 <a id="arcade-50000016-shared"></a>
 ## GO
@@ -5476,7 +5488,9 @@ PRANA是TAG的器乐作品，最初用于saucer，并进入KAC2012预选课题�
 
 后续用途有独立文献支撑：官方2014-07-24公告将PRANA列为《ミライダガッキ》每周追加系列第二弹，并说明无需解锁即可玩；2015-03-22 beatnation summit的现场曲单又列入TAG演出段。[4,5] 这些是移植和演出史，不是新的作者写作访谈。
 
-社区资料解释标题与梵语生命概念有关，并记其pop’n类型名为AKASHIC HARDCORE；但现有实读作者评论栏为空，不能据类型名写成TAG亲述的冥想体验或哲学创作动机。[1] U1将它与《REVOLUTIONARY ADDICT》混接的作品另有标题，亦不能与saucer原版混为同一制作。[1]
+社区资料解释标题与梵语生命概念有关，并记其pop’n类型名为AKASHIC HARDCORE；但现有实读作者评论栏为空，不能据类型名写成TAG亲述的冥想体验或哲学创作动机。[1]
+
+后续混接版的身份也有官方记录可核：KONAMI的2015年3月曲目介绍单列《PRANA＋REVOLUTIONARY ADDICT (U1 DJ Mix)》，署名underground & overground，并将它放在「TAG大生誕祭」中，说明由U1重混TAG作品庆祝、可在EXTRA ATTACK中挑战。[7] 这补强了后续混接与活动用途，不代表U1参与2012年saucer原版创作，也不提供原版命名或音乐构思。
 
 更早的KONAMI JAEPO2013现场报道也把PRANA列在U1与TAG的演出段中；这里只确认它当时登台，不据此认定这是首次公开演奏。[6]
 
@@ -5493,6 +5507,8 @@ PRANA是TAG的器乐作品，最初用于saucer，并进入KAC2012预选课题�
 5. [4Gamer：beatnation summit 2015现场报道](https://www.4gamer.net/games/282/G028230/20150325051/)（实读）
 
 6. [KONAMI：JAEPO2013现场报告](https://p.eagate.573.jp/game/bemani/p/channel/column/report/report_15_03.html)（本批实读）
+
+7. [KONAMI：2015 March 乐曲介绍](https://p.eagate.573.jp/game/bemani/fansite/p/music/201503/index.html)（2026-11-16实读；后续混接版）
 
 ### 核验边界与待补
 
@@ -5697,6 +5713,8 @@ jubeat谱面由RAG制作。他在与MICHI的官方对谈中说，制作《PUNISH
 
 版本须分开：《Crevice》音轨为4:23，后来IIDX21 SPADA原声目录列短版2:07，jubeat社区页则记游戏时长2:10。前两项是不同唱片出版物的记录，不应拿长版时间填游戏时长，也不能仅凭短版秒数差推断重新录唱。[1][2][3]
 
+KONAMI 的 JAEPO 2013 试听预告也将《Rainbow after snow》列入会场 BEMANI 区《Crevice》的试听曲目，署名为猫叉Master feat.林ももこ。这说明官方曾安排会场试听，不等于游戏已开放，也不能据此认定它是完整音源的首次公开。[5]
+
 ### jubeat 收录与版本
 
 Café de Tran于2013-02-27开放，本曲是jubeat和IIDX两侧共同的第一首。历史EXT9与后期EXT8分别注明，保留总库saucer归属。[3][4]
@@ -5707,6 +5725,8 @@ Café de Tran于2013-02-27开放，本曲是jubeat和IIDX两侧共同的第一�
 2. [Tower：IIDX21 SPADA原声](https://mdb.tower.jp/release/11909051/beatmania-IIDX-21-SPADA-ORIGINAL-SOUNDTRACK)（实读）
 3. [jubeat Wiki：Rainbow after snow](https://w.atwiki.jp/jubeat/pages/1104.html)（实读）
 4. [jubeat Wiki：Café de Tran](https://w.atwiki.jp/jubeat/pages/1098.html)（实读）
+
+5. [KONAMI：JAEPO 2013 CD试听预告](https://p.eagate.573.jp/game/bemani/p/special/jaepo2013/cd_player.html)（2026-11-16 实读；官方会场试听安排）
 
 ### 核验边界与待补
 
@@ -5993,7 +6013,7 @@ U-tan 在同期采访中具体说明写作顺序：先有旋律，再由它发�
 
 《Romancing Layer》属于TAG为jubeat saucer提供的原创器乐曲，社区整理将其列为2013年11月限期解锁曲及KAC 2013预选赛课题曲；这说明它的早期传播与竞赛活动相连，但不能倒推TAG一定按某种比赛难度要求作曲。[1]
 
-音乐作品随后进入《Gourzaemon》原声专辑；2014年3月又随TAG生诞祭移植DDR，和《Do The Evolution》同为默认追加曲，而当次《esrev：eR》是EXTRA专用，三者的开放方式不能混淆。[2][4] 同年12月官方乐曲介绍继续以TAG署名刊登本曲，并标明通过ぶたちょ解锁，留下它在其他BEMANI作品中延续使用的记录。[3]
+音乐作品随后进入《Gourzaemon》原声专辑。[2] DDR于2014年3月20日预告，3月25日开始的TAG生诞祭将收录《Romancing Layer》与《Do The Evolution》。[5] 两者同为默认追加曲，而当次《esrev：eR》是EXTRA专用，三者的开放方式不能混淆。[4] 同年12月官方乐曲介绍继续以TAG署名刊登本曲，并标明通过ぶたちょ解锁；ミライダガッキ12月10日的旧新闻明确预告本曲于12月11日登场，同时回顾它曾是KAC2013的jubeat课题曲。[3][6] 这些记录补强后续传播与活动背景，不提供TAG的作曲动机或录音制作故事。
 
 目前能落实的是作者、无歌词形态、竞赛背景与后续传播，未找到TAG对本曲命名、旋律构想或录音制作的可读直接解说；因此不把玩家听出的相似旋律、曲名中的浪漫联想写成作者创作意图。[1]
 
@@ -6008,9 +6028,12 @@ U-tan 在同期采访中具体说明写作顺序：先有旋律，再由它发�
 3. [KONAMI：2014 December 楽曲紹介](https://p.eagate.573.jp/game/bemani/fansite/music/201412.html)（已实读；primary）
 4. [BEATSQUARE：DDR更新记录2014-03-31](https://www2u.biglobe.ne.jp/hiro-p/list/ddr/update.htm)（已实读；secondary）
 
+5. [KONAMI：DDR官方历史公告](https://p.eagate.573.jp/game/ddr/ac/p/index.html)（2026-11-16实读；2014-03-20预告）
+6. [KONAMI：ミライダガッキ旧新闻](https://p.eagate.573.jp/game/ftt/mirai/p/oldnews.html)（2026-11-16实读；2014-12-10预告）
+
 ### 核验边界与待补
 
-4文献链；官方原声目录与后续游戏公告是不同出版事件；创作者直接动机尚缺；ミライダガッキ旧新闻本轮503，未据搜索摘要定精确追加日。
+官方原声目录与后续游戏公告是不同出版事件；创作者直接动机尚缺。ミライダガッキ旧新闻此前读取失败，现已实读官方旧新闻，补证2014年12月11日追加公告；不把活动公告当作制作访谈。
 
 <a id="arcade-50000169-shared"></a>
 ## RPG

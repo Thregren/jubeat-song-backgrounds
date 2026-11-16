@@ -2128,6 +2128,15 @@ Qubell历史表将活动列为2016-09-22至10月19日；当时EXT10与后来细�
 - 两社区资料保守同根，另官方活动和OST出版根，共三根；非三份创作采访。
 - 尚无原作者创作动机；不以曲名推测。官方月度曲目档案的公开正文已读取。
 
+### 2026-11-13 已审版本与出版补证
+
+《Invisible Border》后收录于2017年1月11日发行的《jubeat Qubell ORIGINAL SOUNDTRACK》（GFCA-428）第20轨；该日期仅表示此张原声的出版节点，不确定本曲最早公开或完整录音首发。
+
+来源（2026-11-13实读并独立复核）：
+- https://www.cdjapan.co.jp/product/GFCA-428
+
+保留游戏母带、原始发表及创作动机缺口，不计新增创作故事或独立来源根。
+
 <a id="arcade-70000105-shared"></a>
 ## The Omen
 
@@ -2159,6 +2168,10 @@ Qubell历史表将活动列为2016-09-22至10月19日；当时EXT10与后来细�
 
 社区转述原声曲评曾提醒标题的读法为“ジ・オーメン”，但本轮没有读到那份原册，故只能标作转述。[1] 本轮亦没有作者证据证明同名恐怖电影是创作来源，封面气氛或恶魔称号不足以建立此因果；原稿有关凶兆对应编曲的解释不作为作者故事保留。
 
+Notebook Records 的《CARDS: JACK》（NBCD-034）官方发行资料将《The Omen（Extended Mix）》列为第5轨bonus track，单曲制作署名为RoughSketch，并注明来自jubeat Qubell、由Konami Amusement授权；资料给出的发行日为2018-10-28。这是后续长版的发行署名及厂牌标示的授权关系，不是2016年原游戏版的首次公开日期或创作经过。[5]
+
+同一厂牌的Bandcamp数字商品当前只列三轨，其中未列The Omen；它与上述官方资料的五轨曲序应分别记录，不能据数字页缺曲反推CD未收录，也不能推定各平台所含音源一致。[5][6]
+
 ### jubeat 收录与版本
 
 Qubell为HOLD-only曲；社区记录旧ADV9后来下调8，与现页8不矛盾。[1] 官方可核2016年11月第5弹，原稿精确活动终止日与plus pack15仍待专项公告。[2]
@@ -2169,6 +2182,9 @@ Qubell为HOLD-only曲；社区记录旧ADV9后来下调8，与现页8不矛盾�
 2. BEMANI Fan Site：2016年11月新曲：https://p.eagate.573.jp/game/bemani/fansite/s/music/201611/（已读；The Omen/RoughSketch；第5弹REFLEC主题）
 3. Playasia：Qubell OST曲表：https://www.play-asia.com/en/jubeat-qubell-original-soundtrack/13/70aqop（已读；第21轨The Omen）
 4. TANO*C STORE：CARDS:JACK：https://www.tanocstore.net/shopdetail/000000001706/（已读；NBCD034；第5轨Extended Mix为bonus；M3 2018秋归类）
+
+5. [Notebook Records：CARDS: JACK官方发行资料](https://notebookrecords.net/mp3/NBCD-034.txt)（2026-11-15从厂牌唱片页实际HTML的information链接取得；普通HTTP 200，CP932原文本已保存；后续长版署名、授权及日期，不作原作首发证据）
+6. [Notebook Records Bandcamp：CARDS: JACK](https://notebookrecordsjp.bandcamp.com/album/cards-jack)（2026-11-15实读；数字商品三轨曲表；与厂牌发行资料及原TANO*C发行信息保守合根，不拆成新增独立来源）
 
 ### 核验边界与待补
 
@@ -2221,6 +2237,17 @@ Qubell为HOLD-only曲；社区记录旧ADV9后来下调8，与现页8不矛盾�
 
 - 四根为游戏、同期官方、原OST、后续专辑，不冒称四份作者评论。
 - 旧稿MEGAMIX必为多曲拼接的解释无作者依据，撤去。采样对应仅社区线索，原始制作过程待核。
+
+### 2026-11-13 已审版本与出版补证
+
+DIVERSE DIRECT所列GNKCD-005为2017-12-29发行的13轨版本，含第2轨COLLECTION’S EXTENDED MIX及第11轨kobaryo REMIX。当前作者Bandcamp与TuneCore页面分别列11轨，两份曲表均未列这两首ULTRA HAPPY MEGAMIX版本，且各标2017-12-31与2018-05-25；因此数字页面的日期不能直接替代这两个版本的发行日期。仅说明所读目录差异，不推测缺曲原因或其他平台情况。
+
+来源（2026-11-13实读并独立复核）：
+- https://www.diverse.direct/djgenki-net/gnkcd-005/
+- https://genkianamei.bandcamp.com/album/ultra-happy-collection
+- https://linkco.re/TdY2U6aU?lang=en
+
+保留游戏母带、原始发表及创作动机缺口，不计新增创作故事或独立来源根。
 
 <a id="arcade-70000107-shared"></a>
 ## 檄
@@ -2374,6 +2401,15 @@ Ryu☆ feat.青龍并不意味着两名制作人合作：EXIT TUNES的《AO∞�
 
 > **原稿历史批次说明（非当前逐曲验收结论）**：以下条目按 本地核验记录 第 49-60 行整理。每首五段齐全，资料来源不少于 4 条，第一条为 RemyWiki 定位。访问日期统一为 2026-11-01。
 
+### 2026-11-13 已审背景补证
+
+#### 后续现场演出
+KONAMI的JAEPO2017现场报道记录，S-C-U在BEMANI SPECIAL LIVE第二日用键盘演出《Giant Otter Family》，并通过呼喊带动观众；同页节目单将它列为第8曲。这是后续舞台呈现的直接记录，不说明原版音轨的配器、作曲动机，也不能认定该场是首演。
+
+#### 来源及日期边界
+[KONAMI：JAEPO2017 BEMANIステージレポート，第2页](https://p.eagate.573.jp/game/bemani/fansite/s/report/2016w/report09.html?page=2)，2026-11-13实读及独立复核。页面标题和节目单写JAEPO2017，页头却显示2016.03.01；此处保留日期冲突，不自行修正或用作演出日期。
+
+
 <a id="arcade-70000110-shared"></a>
 ## Megalara Garuda
 
@@ -2426,6 +2462,27 @@ Ryu☆ feat.青龍并不意味着两名制作人合作：EXIT TUNES的《AO∞�
 - 题名故事只有原声册的社区转述，原日文作者评论未直接核；不将2012发表年与2011发现年混淆。
 - 原声册转述与同原声目录合一出版根；官方新曲介绍、后来移植公告独立；后续影像制作仅附证不凑最低数。
 - Remy本轮web正文可读，普通请求403已停止，未绕过。
+
+### 2026-11-13 已审背景补证
+
+#### 创作与制作背景补证
+SYUNN在2017年官方新秀访谈中回忆，听说自己的出道作品会作为Boss曲推出时感到不安；此前不玩音乐游戏的他，一边摸索玩家的喜好一边制作，发表后得到接纳才松了一口气。他还提到，接受意见后曾大幅调整曲子结构。
+
+在《Megalara Garuda》配图后的首次jubeat制作回忆中，他说最初不经意写出了四分钟以上的内容，压缩后却出现段落衔接杂乱的问题，也苦恼如何在短篇幅内安排变化。这说明了游戏短曲结构的制作难点，但不能据此认定四分钟初稿就是后来正式发行的Long version。
+
+#### 资料来源
+[1] KONAMI，HuΣeR × SYUNN × MarL - New Face Interview，2017-02-08，https://p.eagate.573.jp/game/bemani/fansite/s/report/2016w/report06.html?page=1 。2026-11-13原文实读及独立复核。
+
+#### 核验边界
+同一采访计1根，不拆成多份来源。原声册的蜂名称/年份故事仍未直接核验，初稿与商业长版关系仍未知。
+
+
+### 2026-11-14 已审玩家回忆补充（非创作证言）
+
+官方ユビレター收录玩家「つ」的回忆：他在解锁前面三首后看见特殊演出、RISKY UNLOCK CHALLENGE及三档10级的显示，初次游玩时深受触动。[6] 这是官方刊载的玩家体验，不是SYUNN的创作说明；其自称最快到达及收到工作人员回复的说法未另行核实，不作为客观纪录或制作事实。
+
+6. jubeat SQUARE：ユビレター，页面标示2026-10-30更新：https://p.eagate.573.jp/game/jubeat/jubeat-square/letter/（2026-11-14实读；官方刊载玩家投稿，不等于官方确认投稿全部事实）
+
 
 <a id="arcade-70000111-shared"></a>
 ## Saturday Night Love
@@ -3976,7 +4033,7 @@ Qrispy Joybox的制作自述直接展示了音乐与游戏机制互相修改的�
 - BPM：148。[2][5]
 - 谱面难度 BSC／ADV／EXT：Qubell5／9／10，现5／8／10.3。[2][5]
 - 节点数 BSC／ADV／EXT：344／632／778。[2][5]
-- 版本性质：Qubell项目新合作最终曲，区别旧IIDXバビロニア；故事正文未读，具体音乐分工待核。[1][2][3][4]
+- 版本性质：Qubell项目新合作最终曲，区别旧IIDXバビロニア；官方剧情原文未核；已读民间转载相关章节，具体音乐分工待核。[1][2][3][4]
 <!-- RECONSTRUCTED_20261112_INFORMATION_CARD_END -->
 
 ### 曲目档案
@@ -3991,6 +4048,8 @@ Qrispy Joybox的制作自述直接展示了音乐与游戏机制互相修改的�
 
 同期玩家鎖记下2月17日完成本曲BASIC后达成整个QUBE COMPLETE，显示它实际承担旅程收束的功能。[3] 官方则把整个企划设计为歌曲、阶段推进与SHAMDEL故事同步展开。[1] 这些材料可以解释作品在叙事框架中的位置，但还不足以确认两位作者如何分配旋律、配器及录音，也不能由“祝祭”二字推断某种真实民族仪式。
 
+本轮另读到民间站点保存的日文剧情转载：第三章以月牙夜才出现的古书店为讲述场所，第三章后段则写旅人与众人共同奏乐的祝祭。该转载可作为作品叙事背景的线索，但尚未与官方剧情原页逐段核对；它不证明现实中存在同名店铺，也不能代替两位作者对音乐制作分工、创作动机的说明。[6]
+
 ### jubeat 收录与版本
 
 保留Qubell；项目起点《バビロニア》来自IIDX，本曲则是该项目的两首新合作作品之一。[1][2][4]
@@ -4003,6 +4062,8 @@ Qrispy Joybox的制作自述直接展示了音乐与游戏机制互相修改的�
 4. [KONAMI：2017年2月楽曲紹介](https://p.eagate.573.jp/game/bemani/fansite/p/music/201702)（已实读；primary）
 
 5. [jubeat@wiki：Qubell历史曲表](https://w.atwiki.jp/jubeat/pages/1607.html)（已实读；社区）
+
+6. [읽기전용위키：遠い記憶の旅人たち～バビロニア～剧情日文转载与韩译](https://readonly.wiki/w/%E9%81%A0%E3%81%84%E8%A8%98%E6%86%B6%E3%81%AE%E6%97%85%E4%BA%BA%E3%81%9F%E3%81%A1%EF%BD%9E%E3%83%90%E3%83%93%E3%83%AD%E3%83%8B%E3%82%A2%EF%BD%9E/%EC%8A%A4%ED%86%A0%EB%A6%AC)（本轮只实读相关章节；secondary，转载摘要已独立复核；原官网待对照）
 
 ### 核验边界与待补
 
@@ -5366,6 +5427,13 @@ Qubell 历史曲表记载 2017-03-30起传导解禁；社区单曲页记载最�
 
 - 两社区页合游戏链；两原声目录合出版链，加官方周年介绍共3链。
 - 作者身份、具体编曲过程未有直接证词；官方新闻11365069正文此轮仅标题可见，搜索摘要不计，改用已实际读到本曲介绍的官方月档。
+
+
+### 2026-11-14 已审玩家回忆补充（非创作证言）
+
+官方ユビレター收录一位匿名玩家的回忆：为参加与三位jubeat作曲者匹配的活动，他向正在游玩本曲的陌生玩家请求一起游玩并传导，获得了对方同意。[6] 这补充了玩家间传播的亲历视角，但不是作者访谈；来信不能证明Nazzo-Non-Heat的身份，也不能替代活动公告核验所有解禁条件。
+
+6. jubeat SQUARE：ユビレター，页面标示2026-10-30更新：https://p.eagate.573.jp/game/jubeat/jubeat-square/letter/（2026-11-14实读；官方刊载玩家投稿，不等于官方确认投稿全部事实）
 
 <a id="arcade-70000178-shared"></a>
 ## FLOOR INFECTION Medley from SOUND VOLTEX×jubeat

@@ -315,6 +315,8 @@ BPM采用当版总表及单曲页的186；词源未另查权威词典，不作�
 
 2017年prop原声集第2轨列有本曲，目录1:54；续作世界的细节不反向充作首曲录音过程。[4]
 
+后续选曲记录中，本曲被列入2016年12月的iOS版jubeat plus特别企划“SHAMDEL～winter selection～”。官方公告刊载SHAMDEL本人说明，选曲整体以适合12月冷空气的乐曲为中心，并宣布活动于12月23日0时开始。这能说明作者把本曲纳入后来的一次冬季选曲，但不是本曲原始创作动机或首发日期，也没有证明采用新录音或改编版。[6]
+
 ### jubeat 收录与版本
 
 本地归属prop。当版日文表和单曲页记Step31；韩文页写Step32，保留表间差异，以当版日文表为字段依据。[3][5]
@@ -326,6 +328,8 @@ BPM采用当版总表及单曲页的186；词源未另查权威词典，不作�
 3. [jubeat@Wiki：prop当版曲表](https://w.atwiki.jp/jubeat/pages/1463.html)：153 BPM、3/7/9、音符与Step31。
 4. [楽天ブックス：jubeat prop ORIGINAL SOUNDTRACK](https://books.rakuten.co.jp/rb/14535588/)：第2轨Braid & Blade及1:54。
 5. [韩文社区：Braid & Blade作者曲评译录](https://www.namu.moe/w/Braid%20%26%20Blade)：剪发告别旧身份的少女与白马、画面转声音、两角色名字；另记Step32。
+
+6. [KONAMI／jubeat官方：SHAMDEL～winter selection～公告](https://p.eagate.573.jp/game/bemani/fansite/p/news/detail.html?post_id=10709653)：2016-12-22所刊后续活动公告，本曲列于选曲表；SHAMDEL说明冬季选曲方针。动态正文通过该公开页自身脚本引用的公开接口实际读取；非原声册曲评。
 
 ### 核验边界与待补
 
@@ -2743,6 +2747,8 @@ Nana Takahashi 本人的工作记录明确写明，她在《惑星☆ロリポ�
 
 旧稿“同日收录”应收紧：当版 jubeat 表记 2015-08-20，RemyWiki 另记 SOUND VOLTEX 为 8 月 21 日。该活动的两机种关系不宜写成从 SDVX 旧曲移植到 jubeat。活动原声则在 10 月 21 日列本曲为第 23 轨。[3][4][5]
 
+《waterproof》还收录了单独标为《citrus (Snail's House Remix)》的重混版，DIVERSE DIRECT 将这套双碟的发行日列为 2017 年 8 月 11 日，编号为 TZTS-0002/TZTS-0003。它与专辑中的《citrus》分列，不应混作原游戏音源或长版原编曲。[6]
+
 ### jubeat 收录与版本
 
 保留 prop 总表归属，2015-08-20 为 jubeat 活动追加日。SDVX 的相邻日期据社区资料说明，未以其谱面参数替代 jubeat。[3][4]
@@ -2754,6 +2760,8 @@ Nana Takahashi 本人的工作记录明确写明，她在《惑星☆ロリポ�
 3. [jubeat@Wiki：prop历史曲表](https://w.atwiki.jp/jubeat/pages/1463.html)：citrus在8月20日追加；174、4/7/9、296/502/747及HOLD。
 4. [RemyWiki：citrus](https://remywiki.com/Citrus)：jubeat8月20日、SDVX8月21日；长版与游戏版区分。
 5. [4Gamer：活动原声发行公告](https://www.4gamer.net/games/273/G027366/20151021021/)：2015-10-21原声第23轨citrus。
+
+6. [DIVERSE DIRECT：waterproof 双碟目录](https://www.diverse.direct/tatsuta-recordings/tzts-0002/)（2026-11-16 实读；后续发行与独立重混标示）
 
 ### 核验边界与待补
 

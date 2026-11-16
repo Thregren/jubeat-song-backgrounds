@@ -707,6 +707,10 @@ jubeat方面，官方谱面访谈明确将本曲归给RAMIEL；另外两首遗�
 
 原档的ADV5和EXT9.2是后期等级；社区分版本记录显示fulfill时期为3/6/9。[1]
 
+封面设计也与 fulfill 的整体视觉相连。NATSU 在 DDR 官方曲目介绍中回顾，无印版封面把 fulfill 的金属质感与主色渐变结合，让字母「f」仿佛浮现其中；后来为 DDR EDITION 重新设计时，才改用 DDR A 的主色蓝色。[6]
+
+同页的 Sota Fujimori 评论明确说，原曲是他在 2014 年为 jubeat 新写的作品，DDR 版本则由 U1-ASAMi 按 DDR 规格编辑。它补充了后续版本的制作分工，但没有交代原版的合成器、音色设计或具体录音流程，也不能据此认定编辑所用母带就是《SYNTHESIZED5》的 Extended Mix。[6]
+
 ### jubeat 收录与版本
 
 2014-03-03起macchiato第一首解锁曲。[1][5] 它虽是主题相关作品，不等于所有玩家初始无条件开放，也不是跨机台移植初出。
@@ -718,6 +722,8 @@ jubeat方面，官方谱面访谈明确将本曲归给RAMIEL；另外两首遗�
 3. [KONAMI：ショッチョー谈主题曲形成](https://p.eagate.573.jp/game/bemani/fansite/p/report/2014w/report12.html?page=2)（实读）
 4. [CDJapan：SYNTHESIZED5](https://www.cdjapan.co.jp/product/GFCA-376)（实读）
 5. [BEATSQUARE：fulfill隐藏曲](https://www2u.biglobe.ne.jp/~hiro-p/list/jubeat_saucer_fulfill/secret_song.htm)（实读）
+
+6. [KONAMI：DANCE ALL NIGHT (DDR EDITION) 官方音乐与封面评论](https://p.eagate.573.jp/game/ddr/ddra/p/music/info_pickup_daan.html)（2026-11-16 实读；Sota Fujimori 与 NATSU 分别署名）
 
 ### 核验边界与待补
 

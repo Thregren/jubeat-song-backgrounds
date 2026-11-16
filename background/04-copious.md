@@ -373,6 +373,8 @@ YUKA在同期访谈的第四页进一步谈到本曲：他们一边创作，一�
 视觉与谱面分别由T田和MUSCLE说明：前者喜欢旧B级灾难电影包装，以巨大海洋生物相斗作为封面方向；后者听到作曲者的巨兽构想后，将碰撞、推拉的动作形象用来组织谱面。这是各岗位的制作背景，不是把章鱼烧的网络昵称反推为作者唯一创作动机。[2]
 2011-09-28原声收短版第8轨；2012-03-28 APPEND原声第13轨明确标Long Version；作者官网再列2013-03-27《BLACK ALBUM》第12轨。三次发行需分开，官网目录本身并未说明2013版是否重新混音，故不把搜索摘要中的重制说法作为已证实事实。[3][4][6]
 
+2012年《jubeat copious APPEND SOUNDTRACK》第13轨长版在第三方目录中列为4:45，曲编、吉他与鼓编程署名96ちゃん／96 chang，贝斯为池尻晴乃介（Harunosuke Ikejiri），键盘为平山喜子。这是APPEND长版目录的署名转录，未取得日文原内页，不据此确认2011年游戏短版或2013年《BLACK ALBUM》版的人员。[7][8]
+
 ### jubeat 收录与版本
 
 同期9月17日记录确认它是travel第四阶段、与THIS NIGHT并列的两首之一；每谱面39120光年，该阶段合计234720光年。不是默认开放曲，也不应把LV4误解为谱面等级。[5]
@@ -387,12 +389,18 @@ YUKA在同期访谈的第四页进一步谈到本曲：他们一边创作，一�
 5. ミーヤの屋根裏部屋：9月17日copious travel记录：https://mieya.net/backnumber/2011/topics20110916_0930.html（已读；第四阶段两首之一，每谱面39120光年，阶段合计234720）
 6. 黒沢ダイスケ官网：96 BLACK ALBUM：https://xp.kuro-music.com/?oscillator_disco=black-album（已读；BLACK ALBUM第12轨本曲，原作copious）
 
+7. KHInsider：jubeat copious APPEND SOUNDTRACK：https://downloads.khinsider.com/game-soundtracks/album/jubeat-copious-append（第三方目录与信用转录；第13轨长版；本轮首读及独立二读成功）
+8. MusicBrainz：jubeat copious APPEND SOUNDTRACK：https://musicbrainz.org/release/45667d87-43d2-4ea3-a391-ddf972141d21（第三方关系目录；本轮首读成功，独立二读429未复现，不能称双站独立核验）
+
 ### 核验边界与待补
 
 - 原声及Staff评论只读到二手韩/英译；日文原页、录音乐手完整信用待核。
 - Tower商品页及BEMANICN均403，未重试或以摘要计源；章鱼烧释义未找到可读作者原话，不作动机事实。
 - 精确2011-09-15首日及后续移动平台、GFDM移植日期尚未逐公告验证。
 - 来源根按原始出版物去重：曲评翻译归对应原声册，不能与同册目录重复计数；原版与APPEND为两份出版物，游戏参数／Staff记录及其他独立事件另计。本条最低有效来源根为5。
+
+
+- 2026-11-15增补仅为APPEND长版第三方署名转录；两站按同一出版物信息族处理，不增加独立来源根或原作第一手证据。原内页未读、各版本人员与混音差异仍未全核。
 
 <a id="arcade-40000018-shared"></a>
 ## Diver
